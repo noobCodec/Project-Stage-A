@@ -1,0 +1,50 @@
+{
+  "tag": "2023-08-10_202033",
+  "event": {
+    "event_type": "set_text",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.playsimple.bmrcalculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": true,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          412,
+          765
+        ],
+        [
+          704,
+          886
+        ]
+      ],
+      "resource_id": "com.playsimple.bmrcalculator:id/editTextWeight",
+      "checked": false,
+      "text": "kg",
+      "class": "android.widget.EditText",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": true,
+      "parent": 29,
+      "temp_id": 31,
+      "size": "292*121",
+      "signature": "[class]android.widget.EditText[resource_id]com.playsimple.bmrcalculator:id/editTextWeight[text]kg[enabled,,]",
+      "view_str": "2fa2da10356a7a10a5a9ebf430530db6",
+      "content_free_signature": "[class]android.widget.EditText[resource_id]com.playsimple.bmrcalculator:id/editTextWeight"
+    },
+    "text": 63
+  },
+  "start_state": "eb5ff56b095cbcef1658abfe730bc592",
+  "stop_state": "186679d3ff15fa6ab219b97dffc0afcd",
+  "event_str": "SetTextEvent(state=eb5ff56b095cbcef1658abfe730bc592, view=2fa2da10356a7a10a5a9ebf430530db6(MainActivity/EditText-kg), text=63)"
+}

@@ -1,0 +1,2730 @@
+{
+  "tag": "2023-08-13_121855",
+  "state_str": "e3fa56d5ca7eab775cc8b5e0f3b5f82d",
+  "state_str_content_free": "72e0e4e511b2e5331d7a6178fb3eff70",
+  "foreground_activity": "com.cit.bmi.bmr.bodyfatpercentage.calculator/.MainActivity",
+  "activity_stack": [
+    "com.cit.bmi.bmr.bodyfatpercentage.calculator/.MainActivity"
+  ],
+  "background_services": [
+    "com.google.android.gms/.icing.service.AppIndexingService",
+    "com.google.android.gms/.deviceconnection.service.DeviceConnectionWatcherService",
+    "com.google.android.gms/com.google.android.location.places.service.PlaceDetectionAsyncService",
+    "com.android.systemui/.keyguard.KeyguardService",
+    "com.google.android.gms/.measurement.service.MeasurementBrokerService",
+    "com.android.systemui/.ImageWallpaper",
+    "com.google.android.gms/com.google.android.location.geocode.GeocodeService",
+    "com.google.android.gms/.auth.setup.devicesignals.LockScreenService",
+    "com.google.android.gms/.gcm.GcmService",
+    "com.google.android.gms/.clearcut.debug.ClearcutDebugDumpService",
+    "com.google.android.gms/.chimera.PersistentApiService",
+    "com.android.phone/com.android.internal.telephony.CellularNetworkService",
+    "com.google.android.gms/.chimera.PersistentBoundBrokerService",
+    "com.google.android.gms/.chimera.GmsBoundBrokerService",
+    "com.google.android.gms/.chimera.GmsApiService",
+    "com.google.android.gms/.fido.fido2.pollux.CableAuthenticatorService",
+    "com.google.android.googlequicksearchbox/com.google.android.apps.gsa.nowoverlayservice.DrawerOverlayService",
+    "io.github.ylimit.droidbotapp/.DroidBotIME",
+    "com.google.android.gms/com.google.android.location.fused.FusedLocationService",
+    "com.google.android.gms/.gcm.nts.SchedulerService",
+    "io.github.ylimit.droidbotapp/io.github.privacystreams.accessibility.PSAccessibilityService",
+    "com.google.android.gms/com.google.android.location.geofencer.service.GeofenceProviderService",
+    "com.google.android.gms/.thunderbird.EmergencyPersistentService",
+    "com.google.android.apps.messaging/.fcm.BugleFirebaseInstanceIDService",
+    "com.android.systemui/.SystemUIService",
+    "com.google.android.gms/.nearby.exposurenotification.service.ExposureMatchingService",
+    "android/.hardware.location.GeofenceHardwareService",
+    "com.android.se/.SecureElementService",
+    "com.google.android.ims/.services.RcsService",
+    "com.google.android.gms/.chimera.GmsIntentOperationService",
+    "com.google.android.gms/.chimera.PersistentDirectBootAwareApiService",
+    "com.google.android.gms/.chimera.PersistentIntentOperationService",
+    "com.google.android.ext.services/android.ext.services.notification.Assistant",
+    "com.google.android.gms/.location.persistent.LocationPersistentService",
+    "com.google.android.gms/com.google.android.location.internal.PendingIntentCallbackService",
+    "com.google.android.gms/com.google.android.location.internal.server.GoogleLocationService",
+    "com.google.android.gms/com.google.android.contextmanager.service.ContextManagerService",
+    "com.google.android.gms/com.google.android.location.network.NetworkLocationService",
+    "com.google.android.gms/com.google.android.location.internal.GoogleLocationManagerService",
+    "com.android.phone/com.android.internal.telephony.dataconnection.CellularDataService",
+    "com.android.server.telecom/.components.TelecomService",
+    "com.google.android.googlequicksearchbox/com.google.android.voiceinteraction.GsaVoiceInteractionService",
+    "com.android.smspush/.WapPushManager",
+    "com.android.phone/.vvm.RemoteVvmTaskManager",
+    "com.google.android.gms/.lockbox.service.LockboxBrokerService",
+    "android/com.android.server.content.SyncJobService",
+    "com.google.android.gms/.common.stats.GmsCoreStatsService",
+    "com.google.android.gms/com.google.android.location.internal.server.HardwareArProviderService",
+    "org.medhelp.mydiet/org.medhelp.medtracker.network.MTNetworkObserverService",
+    "com.android.providers.media/.MediaScannerService",
+    "com.google.android.gm/com.google.firebase.iid.FirebaseInstanceIdService",
+    "com.android.phone/.TelephonyDebugService",
+    "com.google.android.videos/.service.pinning.TransferService",
+    "com.google.android.apps.messaging/.shared.datamodel.action.ActionExecutorImpl",
+    "com.google.android.gms/.icing.service.IndexService",
+    "com.google.android.apps.nexuslauncher/com.android.quickstep.TouchInteractionService",
+    "com.android.providers.media/.MediaScannerService"
+  ],
+  "width": 1440,
+  "height": 3120,
+  "views": [
+    {
+      "package": "com.cit.bmi.bmr.bodyfatpercentage.calculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 3,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        1,
+        67,
+        68
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          0
+        ],
+        [
+          1440,
+          3120
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.FrameLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": -1,
+      "temp_id": 0,
+      "size": "1440*3120",
+      "signature": "[class]android.widget.FrameLayout[resource_id]None[text]None[enabled,,]",
+      "view_str": "0095cb1f09eeba8254657af77b36423e",
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]None"
+    },
+    {
+      "package": "com.cit.bmi.bmr.bodyfatpercentage.calculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        2
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          0
+        ],
+        [
+          1440,
+          2952
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.LinearLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 0,
+      "temp_id": 1,
+      "size": "1440*2952",
+      "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+      "view_str": "d3fac945516483b84a4659775b6d2557",
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None"
+    },
+    {
+      "package": "com.cit.bmi.bmr.bodyfatpercentage.calculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        3
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          0
+        ],
+        [
+          1440,
+          2952
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.FrameLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 1,
+      "temp_id": 2,
+      "size": "1440*2952",
+      "signature": "[class]android.widget.FrameLayout[resource_id]None[text]None[enabled,,]",
+      "view_str": "283573a0c485653bc1bcc62d58866754",
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]None"
+    },
+    {
+      "package": "com.cit.bmi.bmr.bodyfatpercentage.calculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        4
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          0
+        ],
+        [
+          1440,
+          2952
+        ]
+      ],
+      "resource_id": "com.cit.bmi.bmr.bodyfatpercentage.calculator:id/action_bar_root",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.LinearLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 2,
+      "temp_id": 3,
+      "size": "1440*2952",
+      "signature": "[class]android.widget.LinearLayout[resource_id]com.cit.bmi.bmr.bodyfatpercentage.calculator:id/action_bar_root[text]None[enabled,,]",
+      "view_str": "393941e5ef101e26345f5ce095bdb795",
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]com.cit.bmi.bmr.bodyfatpercentage.calculator:id/action_bar_root"
+    },
+    {
+      "package": "com.cit.bmi.bmr.bodyfatpercentage.calculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        5
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          0
+        ],
+        [
+          1440,
+          2952
+        ]
+      ],
+      "resource_id": "android:id/content",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.FrameLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 3,
+      "temp_id": 4,
+      "size": "1440*2952",
+      "signature": "[class]android.widget.FrameLayout[resource_id]android:id/content[text]None[enabled,,]",
+      "view_str": "1ff0875163b396b45de59518893d9a02",
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]android:id/content"
+    },
+    {
+      "package": "com.cit.bmi.bmr.bodyfatpercentage.calculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        6
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          0
+        ],
+        [
+          1440,
+          2952
+        ]
+      ],
+      "resource_id": "com.cit.bmi.bmr.bodyfatpercentage.calculator:id/drawer_layout",
+      "checked": false,
+      "text": null,
+      "class": "androidx.drawerlayout.widget.DrawerLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 4,
+      "temp_id": 5,
+      "size": "1440*2952",
+      "signature": "[class]androidx.drawerlayout.widget.DrawerLayout[resource_id]com.cit.bmi.bmr.bodyfatpercentage.calculator:id/drawer_layout[text]None[enabled,,]",
+      "view_str": "9ffa9c863974b4ca44c13a5ce499e2cf",
+      "content_free_signature": "[class]androidx.drawerlayout.widget.DrawerLayout[resource_id]com.cit.bmi.bmr.bodyfatpercentage.calculator:id/drawer_layout"
+    },
+    {
+      "package": "com.cit.bmi.bmr.bodyfatpercentage.calculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 2,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        7,
+        11
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          84
+        ],
+        [
+          1440,
+          2952
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.LinearLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 5,
+      "temp_id": 6,
+      "size": "1440*2868",
+      "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+      "view_str": "e676f5c1b3ff4e26bca0a82e6af295e2",
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None"
+    },
+    {
+      "package": "com.cit.bmi.bmr.bodyfatpercentage.calculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 3,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        8,
+        9,
+        10
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          84
+        ],
+        [
+          1440,
+          280
+        ]
+      ],
+      "resource_id": "com.cit.bmi.bmr.bodyfatpercentage.calculator:id/toolbar",
+      "checked": false,
+      "text": null,
+      "class": "android.view.ViewGroup",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 6,
+      "temp_id": 7,
+      "size": "1440*196",
+      "signature": "[class]android.view.ViewGroup[resource_id]com.cit.bmi.bmr.bodyfatpercentage.calculator:id/toolbar[text]None[enabled,,]",
+      "view_str": "4d1d8b05ad9010e5bb40b69d563673af",
+      "content_free_signature": "[class]android.view.ViewGroup[resource_id]com.cit.bmi.bmr.bodyfatpercentage.calculator:id/toolbar"
+    },
+    {
+      "package": "com.cit.bmi.bmr.bodyfatpercentage.calculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": "Open navigation drawer",
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          84
+        ],
+        [
+          196,
+          280
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.ImageButton",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 7,
+      "temp_id": 8,
+      "size": "196*196",
+      "signature": "[class]android.widget.ImageButton[resource_id]None[text]None[enabled,,]",
+      "view_str": "221974c034134dbdc7c3d165027e35c2",
+      "content_free_signature": "[class]android.widget.ImageButton[resource_id]None"
+    },
+    {
+      "package": "com.cit.bmi.bmr.bodyfatpercentage.calculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          252,
+          135
+        ],
+        [
+          445,
+          228
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "Home",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 7,
+      "temp_id": 9,
+      "size": "193*93",
+      "signature": "[class]android.widget.TextView[resource_id]None[text]Home[enabled,,]",
+      "view_str": "3053fec8393efbec980344d4ccf6ea00",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]None"
+    },
+    {
+      "package": "com.cit.bmi.bmr.bodyfatpercentage.calculator",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          1440,
+          84
+        ],
+        [
+          1440,
+          280
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "androidx.appcompat.widget.LinearLayoutCompat",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 7,
+      "temp_id": 10,
+      "size": "0*196",
+      "signature": "[class]androidx.appcompat.widget.LinearLayoutCompat[resource_id]None[text]None[enabled,,]",
+      "view_str": "5ae8c448c975b795c8b70b77f4a2b1c7",
+      "content_free_signature": "[class]androidx.appcompat.widget.LinearLayoutCompat[resource_id]None"
+    },
+    {
+      "package": "com.cit.bmi.bmr.bodyfatpercentage.calculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        12
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          280
+        ],
+        [
+          1440,
+          2952
+        ]
+      ],
+      "resource_id": "com.cit.bmi.bmr.bodyfatpercentage.calculator:id/nav_host_fragment",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.FrameLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 6,
+      "temp_id": 11,
+      "size": "1440*2672",
+      "signature": "[class]android.widget.FrameLayout[resource_id]com.cit.bmi.bmr.bodyfatpercentage.calculator:id/nav_host_fragment[text]None[enabled,,]",
+      "view_str": "57a015f0645f879b88b80829bebd92f3",
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]com.cit.bmi.bmr.bodyfatpercentage.calculator:id/nav_host_fragment"
+    },
+    {
+      "package": "com.cit.bmi.bmr.bodyfatpercentage.calculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        13
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          280
+        ],
+        [
+          1440,
+          2952
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.ScrollView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 11,
+      "temp_id": 12,
+      "size": "1440*2672",
+      "signature": "[class]android.widget.ScrollView[resource_id]None[text]None[enabled,,]",
+      "view_str": "d682837c74ff3ff901821187b6fce7ab",
+      "content_free_signature": "[class]android.widget.ScrollView[resource_id]None"
+    },
+    {
+      "package": "com.cit.bmi.bmr.bodyfatpercentage.calculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 2,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        14,
+        18
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          280
+        ],
+        [
+          1440,
+          2899
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.RelativeLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 12,
+      "temp_id": 13,
+      "size": "1440*2619",
+      "signature": "[class]android.widget.RelativeLayout[resource_id]None[text]None[enabled,,]",
+      "view_str": "d00cbd268d928b5b6a8bea4f37a97b33",
+      "content_free_signature": "[class]android.widget.RelativeLayout[resource_id]None"
+    },
+    {
+      "package": "com.cit.bmi.bmr.bodyfatpercentage.calculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 3,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        15,
+        16,
+        17
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          53,
+          315
+        ],
+        [
+          1387,
+          945
+        ]
+      ],
+      "resource_id": "com.cit.bmi.bmr.bodyfatpercentage.calculator:id/banner",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.RelativeLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 13,
+      "temp_id": 14,
+      "size": "1334*630",
+      "signature": "[class]android.widget.RelativeLayout[resource_id]com.cit.bmi.bmr.bodyfatpercentage.calculator:id/banner[text]None[enabled,,]",
+      "view_str": "4c86cc800fc5c9ce6e4ae369173344d8",
+      "content_free_signature": "[class]android.widget.RelativeLayout[resource_id]com.cit.bmi.bmr.bodyfatpercentage.calculator:id/banner"
+    },
+    {
+      "package": "com.cit.bmi.bmr.bodyfatpercentage.calculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          106,
+          368
+        ],
+        [
+          365,
+          485
+        ]
+      ],
+      "resource_id": "com.cit.bmi.bmr.bodyfatpercentage.calculator:id/title1",
+      "checked": false,
+      "text": "Health",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 14,
+      "temp_id": 15,
+      "size": "259*117",
+      "signature": "[class]android.widget.TextView[resource_id]com.cit.bmi.bmr.bodyfatpercentage.calculator:id/title1[text]Health[enabled,,]",
+      "view_str": "e2053942f894247f1caced30c52eb377",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.cit.bmi.bmr.bodyfatpercentage.calculator:id/title1"
+    },
+    {
+      "package": "com.cit.bmi.bmr.bodyfatpercentage.calculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          106,
+          485
+        ],
+        [
+          510,
+          602
+        ]
+      ],
+      "resource_id": "com.cit.bmi.bmr.bodyfatpercentage.calculator:id/title2",
+      "checked": false,
+      "text": "Calculator",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 14,
+      "temp_id": 16,
+      "size": "404*117",
+      "signature": "[class]android.widget.TextView[resource_id]com.cit.bmi.bmr.bodyfatpercentage.calculator:id/title2[text]Calculator[enabled,,]",
+      "view_str": "1f519b462bdc279b9d3ceb6879609a4f",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.cit.bmi.bmr.bodyfatpercentage.calculator:id/title2"
+    },
+    {
+      "package": "com.cit.bmi.bmr.bodyfatpercentage.calculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          106,
+          637
+        ],
+        [
+          1317,
+          760
+        ]
+      ],
+      "resource_id": "com.cit.bmi.bmr.bodyfatpercentage.calculator:id/description",
+      "checked": false,
+      "text": "Stay fit & calculate with your favorite health tool accurately & easily",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 14,
+      "temp_id": 17,
+      "size": "1211*123",
+      "signature": "[class]android.widget.TextView[resource_id]com.cit.bmi.bmr.bodyfatpercentage.calculator:id/description[text]None[enabled,,]",
+      "view_str": "64e589ebd1b39336247cab1a1d0467bf",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.cit.bmi.bmr.bodyfatpercentage.calculator:id/description"
+    },
+    {
+      "package": "com.cit.bmi.bmr.bodyfatpercentage.calculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 12,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        19,
+        23,
+        27,
+        31,
+        35,
+        39,
+        43,
+        47,
+        51,
+        55,
+        59,
+        63
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          53,
+          998
+        ],
+        [
+          1387,
+          2846
+        ]
+      ],
+      "resource_id": "com.cit.bmi.bmr.bodyfatpercentage.calculator:id/recyclerview_homepage",
+      "checked": false,
+      "text": null,
+      "class": "androidx.recyclerview.widget.RecyclerView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 13,
+      "temp_id": 18,
+      "size": "1334*1848",
+      "signature": "[class]androidx.recyclerview.widget.RecyclerView[resource_id]com.cit.bmi.bmr.bodyfatpercentage.calculator:id/recyclerview_homepage[text]None[enabled,,]",
+      "view_str": "ec9dc1daf521f9204cb60d92dac3cafb",
+      "content_free_signature": "[class]androidx.recyclerview.widget.RecyclerView[resource_id]com.cit.bmi.bmr.bodyfatpercentage.calculator:id/recyclerview_homepage"
+    },
+    {
+      "package": "com.cit.bmi.bmr.bodyfatpercentage.calculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        20
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          74,
+          1019
+        ],
+        [
+          477,
+          1439
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.FrameLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 18,
+      "temp_id": 19,
+      "size": "403*420",
+      "signature": "[class]android.widget.FrameLayout[resource_id]None[text]None[enabled,,]",
+      "view_str": "4de25da2f0978f8fb72ce750d51582dc",
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]None"
+    },
+    {
+      "package": "com.cit.bmi.bmr.bodyfatpercentage.calculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 2,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        21,
+        22
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          74,
+          1019
+        ],
+        [
+          477,
+          1439
+        ]
+      ],
+      "resource_id": "com.cit.bmi.bmr.bodyfatpercentage.calculator:id/rl_home",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.RelativeLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 19,
+      "temp_id": 20,
+      "size": "403*420",
+      "signature": "[class]android.widget.RelativeLayout[resource_id]com.cit.bmi.bmr.bodyfatpercentage.calculator:id/rl_home[text]None[enabled,,]",
+      "view_str": "043dbbd294fa0b3eb3090608004a33ca",
+      "content_free_signature": "[class]android.widget.RelativeLayout[resource_id]com.cit.bmi.bmr.bodyfatpercentage.calculator:id/rl_home"
+    },
+    {
+      "package": "com.cit.bmi.bmr.bodyfatpercentage.calculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          170,
+          1089
+        ],
+        [
+          380,
+          1264
+        ]
+      ],
+      "resource_id": "com.cit.bmi.bmr.bodyfatpercentage.calculator:id/image_home",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.ImageView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 20,
+      "temp_id": 21,
+      "size": "210*175",
+      "signature": "[class]android.widget.ImageView[resource_id]com.cit.bmi.bmr.bodyfatpercentage.calculator:id/image_home[text]None[enabled,,]",
+      "view_str": "56be3e999313cf4995b7f4a3dbf2b08b",
+      "content_free_signature": "[class]android.widget.ImageView[resource_id]com.cit.bmi.bmr.bodyfatpercentage.calculator:id/image_home"
+    },
+    {
+      "package": "com.cit.bmi.bmr.bodyfatpercentage.calculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          92,
+          1299
+        ],
+        [
+          442,
+          1361
+        ]
+      ],
+      "resource_id": "com.cit.bmi.bmr.bodyfatpercentage.calculator:id/tv_title_home",
+      "checked": false,
+      "text": "BMR",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 20,
+      "temp_id": 22,
+      "size": "350*62",
+      "signature": "[class]android.widget.TextView[resource_id]com.cit.bmi.bmr.bodyfatpercentage.calculator:id/tv_title_home[text]BMR[enabled,,]",
+      "view_str": "584e96561817812081e5a1dd7d23c617",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.cit.bmi.bmr.bodyfatpercentage.calculator:id/tv_title_home"
+    },
+    {
+      "package": "com.cit.bmi.bmr.bodyfatpercentage.calculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        24
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          519,
+          1019
+        ],
+        [
+          921,
+          1439
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.FrameLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 18,
+      "temp_id": 23,
+      "size": "402*420",
+      "signature": "[class]android.widget.FrameLayout[resource_id]None[text]None[enabled,,]",
+      "view_str": "4de25da2f0978f8fb72ce750d51582dc",
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]None"
+    },
+    {
+      "package": "com.cit.bmi.bmr.bodyfatpercentage.calculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 2,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        25,
+        26
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          519,
+          1019
+        ],
+        [
+          921,
+          1439
+        ]
+      ],
+      "resource_id": "com.cit.bmi.bmr.bodyfatpercentage.calculator:id/rl_home",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.RelativeLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 23,
+      "temp_id": 24,
+      "size": "402*420",
+      "signature": "[class]android.widget.RelativeLayout[resource_id]com.cit.bmi.bmr.bodyfatpercentage.calculator:id/rl_home[text]None[enabled,,]",
+      "view_str": "13ce2b56ef526b7277d61569da3e8438",
+      "content_free_signature": "[class]android.widget.RelativeLayout[resource_id]com.cit.bmi.bmr.bodyfatpercentage.calculator:id/rl_home"
+    },
+    {
+      "package": "com.cit.bmi.bmr.bodyfatpercentage.calculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          615,
+          1089
+        ],
+        [
+          825,
+          1264
+        ]
+      ],
+      "resource_id": "com.cit.bmi.bmr.bodyfatpercentage.calculator:id/image_home",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.ImageView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 24,
+      "temp_id": 25,
+      "size": "210*175",
+      "signature": "[class]android.widget.ImageView[resource_id]com.cit.bmi.bmr.bodyfatpercentage.calculator:id/image_home[text]None[enabled,,]",
+      "view_str": "56be3e999313cf4995b7f4a3dbf2b08b",
+      "content_free_signature": "[class]android.widget.ImageView[resource_id]com.cit.bmi.bmr.bodyfatpercentage.calculator:id/image_home"
+    },
+    {
+      "package": "com.cit.bmi.bmr.bodyfatpercentage.calculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          537,
+          1299
+        ],
+        [
+          886,
+          1361
+        ]
+      ],
+      "resource_id": "com.cit.bmi.bmr.bodyfatpercentage.calculator:id/tv_title_home",
+      "checked": false,
+      "text": "BMI",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 24,
+      "temp_id": 26,
+      "size": "349*62",
+      "signature": "[class]android.widget.TextView[resource_id]com.cit.bmi.bmr.bodyfatpercentage.calculator:id/tv_title_home[text]BMI[enabled,,]",
+      "view_str": "d541e69220dea999f98ce612bddf8a20",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.cit.bmi.bmr.bodyfatpercentage.calculator:id/tv_title_home"
+    },
+    {
+      "package": "com.cit.bmi.bmr.bodyfatpercentage.calculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        28
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          963,
+          1019
+        ],
+        [
+          1366,
+          1439
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.FrameLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 18,
+      "temp_id": 27,
+      "size": "403*420",
+      "signature": "[class]android.widget.FrameLayout[resource_id]None[text]None[enabled,,]",
+      "view_str": "4de25da2f0978f8fb72ce750d51582dc",
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]None"
+    },
+    {
+      "package": "com.cit.bmi.bmr.bodyfatpercentage.calculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 2,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        29,
+        30
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          963,
+          1019
+        ],
+        [
+          1366,
+          1439
+        ]
+      ],
+      "resource_id": "com.cit.bmi.bmr.bodyfatpercentage.calculator:id/rl_home",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.RelativeLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 27,
+      "temp_id": 28,
+      "size": "403*420",
+      "signature": "[class]android.widget.RelativeLayout[resource_id]com.cit.bmi.bmr.bodyfatpercentage.calculator:id/rl_home[text]None[enabled,,]",
+      "view_str": "9fa00d6a039352d8cf6eaa0a7d972813",
+      "content_free_signature": "[class]android.widget.RelativeLayout[resource_id]com.cit.bmi.bmr.bodyfatpercentage.calculator:id/rl_home"
+    },
+    {
+      "package": "com.cit.bmi.bmr.bodyfatpercentage.calculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          1059,
+          1089
+        ],
+        [
+          1269,
+          1264
+        ]
+      ],
+      "resource_id": "com.cit.bmi.bmr.bodyfatpercentage.calculator:id/image_home",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.ImageView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 28,
+      "temp_id": 29,
+      "size": "210*175",
+      "signature": "[class]android.widget.ImageView[resource_id]com.cit.bmi.bmr.bodyfatpercentage.calculator:id/image_home[text]None[enabled,,]",
+      "view_str": "56be3e999313cf4995b7f4a3dbf2b08b",
+      "content_free_signature": "[class]android.widget.ImageView[resource_id]com.cit.bmi.bmr.bodyfatpercentage.calculator:id/image_home"
+    },
+    {
+      "package": "com.cit.bmi.bmr.bodyfatpercentage.calculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          981,
+          1299
+        ],
+        [
+          1331,
+          1361
+        ]
+      ],
+      "resource_id": "com.cit.bmi.bmr.bodyfatpercentage.calculator:id/tv_title_home",
+      "checked": false,
+      "text": "Calories Burn",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 28,
+      "temp_id": 30,
+      "size": "350*62",
+      "signature": "[class]android.widget.TextView[resource_id]com.cit.bmi.bmr.bodyfatpercentage.calculator:id/tv_title_home[text]Calories Burn[enabled,,]",
+      "view_str": "80925a5d41a49ba30b5377090f33d3c5",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.cit.bmi.bmr.bodyfatpercentage.calculator:id/tv_title_home"
+    },
+    {
+      "package": "com.cit.bmi.bmr.bodyfatpercentage.calculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        32
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          74,
+          1481
+        ],
+        [
+          477,
+          1901
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.FrameLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 18,
+      "temp_id": 31,
+      "size": "403*420",
+      "signature": "[class]android.widget.FrameLayout[resource_id]None[text]None[enabled,,]",
+      "view_str": "4de25da2f0978f8fb72ce750d51582dc",
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]None"
+    },
+    {
+      "package": "com.cit.bmi.bmr.bodyfatpercentage.calculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 2,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        33,
+        34
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          74,
+          1481
+        ],
+        [
+          477,
+          1901
+        ]
+      ],
+      "resource_id": "com.cit.bmi.bmr.bodyfatpercentage.calculator:id/rl_home",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.RelativeLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 31,
+      "temp_id": 32,
+      "size": "403*420",
+      "signature": "[class]android.widget.RelativeLayout[resource_id]com.cit.bmi.bmr.bodyfatpercentage.calculator:id/rl_home[text]None[enabled,,]",
+      "view_str": "971b0918b9f5b200c306ebe376a29488",
+      "content_free_signature": "[class]android.widget.RelativeLayout[resource_id]com.cit.bmi.bmr.bodyfatpercentage.calculator:id/rl_home"
+    },
+    {
+      "package": "com.cit.bmi.bmr.bodyfatpercentage.calculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          170,
+          1551
+        ],
+        [
+          380,
+          1726
+        ]
+      ],
+      "resource_id": "com.cit.bmi.bmr.bodyfatpercentage.calculator:id/image_home",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.ImageView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 32,
+      "temp_id": 33,
+      "size": "210*175",
+      "signature": "[class]android.widget.ImageView[resource_id]com.cit.bmi.bmr.bodyfatpercentage.calculator:id/image_home[text]None[enabled,,]",
+      "view_str": "56be3e999313cf4995b7f4a3dbf2b08b",
+      "content_free_signature": "[class]android.widget.ImageView[resource_id]com.cit.bmi.bmr.bodyfatpercentage.calculator:id/image_home"
+    },
+    {
+      "package": "com.cit.bmi.bmr.bodyfatpercentage.calculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          92,
+          1761
+        ],
+        [
+          442,
+          1823
+        ]
+      ],
+      "resource_id": "com.cit.bmi.bmr.bodyfatpercentage.calculator:id/tv_title_home",
+      "checked": false,
+      "text": "Lean Body Mass",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 32,
+      "temp_id": 34,
+      "size": "350*62",
+      "signature": "[class]android.widget.TextView[resource_id]com.cit.bmi.bmr.bodyfatpercentage.calculator:id/tv_title_home[text]Lean Body Mass[enabled,,]",
+      "view_str": "187d4fc038c0e95c2e0f5cdbbbc52ee6",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.cit.bmi.bmr.bodyfatpercentage.calculator:id/tv_title_home"
+    },
+    {
+      "package": "com.cit.bmi.bmr.bodyfatpercentage.calculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        36
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          519,
+          1481
+        ],
+        [
+          921,
+          1901
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.FrameLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 18,
+      "temp_id": 35,
+      "size": "402*420",
+      "signature": "[class]android.widget.FrameLayout[resource_id]None[text]None[enabled,,]",
+      "view_str": "4de25da2f0978f8fb72ce750d51582dc",
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]None"
+    },
+    {
+      "package": "com.cit.bmi.bmr.bodyfatpercentage.calculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 2,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        37,
+        38
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          519,
+          1481
+        ],
+        [
+          921,
+          1901
+        ]
+      ],
+      "resource_id": "com.cit.bmi.bmr.bodyfatpercentage.calculator:id/rl_home",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.RelativeLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 35,
+      "temp_id": 36,
+      "size": "402*420",
+      "signature": "[class]android.widget.RelativeLayout[resource_id]com.cit.bmi.bmr.bodyfatpercentage.calculator:id/rl_home[text]None[enabled,,]",
+      "view_str": "e05fe6ada0bf441b3aa615e45c24bb07",
+      "content_free_signature": "[class]android.widget.RelativeLayout[resource_id]com.cit.bmi.bmr.bodyfatpercentage.calculator:id/rl_home"
+    },
+    {
+      "package": "com.cit.bmi.bmr.bodyfatpercentage.calculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          615,
+          1551
+        ],
+        [
+          825,
+          1726
+        ]
+      ],
+      "resource_id": "com.cit.bmi.bmr.bodyfatpercentage.calculator:id/image_home",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.ImageView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 36,
+      "temp_id": 37,
+      "size": "210*175",
+      "signature": "[class]android.widget.ImageView[resource_id]com.cit.bmi.bmr.bodyfatpercentage.calculator:id/image_home[text]None[enabled,,]",
+      "view_str": "56be3e999313cf4995b7f4a3dbf2b08b",
+      "content_free_signature": "[class]android.widget.ImageView[resource_id]com.cit.bmi.bmr.bodyfatpercentage.calculator:id/image_home"
+    },
+    {
+      "package": "com.cit.bmi.bmr.bodyfatpercentage.calculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          537,
+          1761
+        ],
+        [
+          886,
+          1823
+        ]
+      ],
+      "resource_id": "com.cit.bmi.bmr.bodyfatpercentage.calculator:id/tv_title_home",
+      "checked": false,
+      "text": "Body Frame Size",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 36,
+      "temp_id": 38,
+      "size": "349*62",
+      "signature": "[class]android.widget.TextView[resource_id]com.cit.bmi.bmr.bodyfatpercentage.calculator:id/tv_title_home[text]Body Frame Size[enabled,,]",
+      "view_str": "21ba58aef0da33e2d2575c5516e47297",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.cit.bmi.bmr.bodyfatpercentage.calculator:id/tv_title_home"
+    },
+    {
+      "package": "com.cit.bmi.bmr.bodyfatpercentage.calculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        40
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          963,
+          1481
+        ],
+        [
+          1366,
+          1901
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.FrameLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 18,
+      "temp_id": 39,
+      "size": "403*420",
+      "signature": "[class]android.widget.FrameLayout[resource_id]None[text]None[enabled,,]",
+      "view_str": "4de25da2f0978f8fb72ce750d51582dc",
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]None"
+    },
+    {
+      "package": "com.cit.bmi.bmr.bodyfatpercentage.calculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 2,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        41,
+        42
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          963,
+          1481
+        ],
+        [
+          1366,
+          1901
+        ]
+      ],
+      "resource_id": "com.cit.bmi.bmr.bodyfatpercentage.calculator:id/rl_home",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.RelativeLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 39,
+      "temp_id": 40,
+      "size": "403*420",
+      "signature": "[class]android.widget.RelativeLayout[resource_id]com.cit.bmi.bmr.bodyfatpercentage.calculator:id/rl_home[text]None[enabled,,]",
+      "view_str": "5459f7fdb838c771ff7fd501c78874f9",
+      "content_free_signature": "[class]android.widget.RelativeLayout[resource_id]com.cit.bmi.bmr.bodyfatpercentage.calculator:id/rl_home"
+    },
+    {
+      "package": "com.cit.bmi.bmr.bodyfatpercentage.calculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          1059,
+          1524
+        ],
+        [
+          1269,
+          1699
+        ]
+      ],
+      "resource_id": "com.cit.bmi.bmr.bodyfatpercentage.calculator:id/image_home",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.ImageView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 40,
+      "temp_id": 41,
+      "size": "210*175",
+      "signature": "[class]android.widget.ImageView[resource_id]com.cit.bmi.bmr.bodyfatpercentage.calculator:id/image_home[text]None[enabled,,]",
+      "view_str": "56be3e999313cf4995b7f4a3dbf2b08b",
+      "content_free_signature": "[class]android.widget.ImageView[resource_id]com.cit.bmi.bmr.bodyfatpercentage.calculator:id/image_home"
+    },
+    {
+      "package": "com.cit.bmi.bmr.bodyfatpercentage.calculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          981,
+          1734
+        ],
+        [
+          1331,
+          1850
+        ]
+      ],
+      "resource_id": "com.cit.bmi.bmr.bodyfatpercentage.calculator:id/tv_title_home",
+      "checked": false,
+      "text": "Chest To Hip Ratio",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 40,
+      "temp_id": 42,
+      "size": "350*116",
+      "signature": "[class]android.widget.TextView[resource_id]com.cit.bmi.bmr.bodyfatpercentage.calculator:id/tv_title_home[text]Chest To Hip Ratio[enabled,,]",
+      "view_str": "e1bf5bd6c2936aba1981a82128011716",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.cit.bmi.bmr.bodyfatpercentage.calculator:id/tv_title_home"
+    },
+    {
+      "package": "com.cit.bmi.bmr.bodyfatpercentage.calculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        44
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          74,
+          1943
+        ],
+        [
+          477,
+          2363
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.FrameLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 18,
+      "temp_id": 43,
+      "size": "403*420",
+      "signature": "[class]android.widget.FrameLayout[resource_id]None[text]None[enabled,,]",
+      "view_str": "4de25da2f0978f8fb72ce750d51582dc",
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]None"
+    },
+    {
+      "package": "com.cit.bmi.bmr.bodyfatpercentage.calculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 2,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        45,
+        46
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          74,
+          1943
+        ],
+        [
+          477,
+          2363
+        ]
+      ],
+      "resource_id": "com.cit.bmi.bmr.bodyfatpercentage.calculator:id/rl_home",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.RelativeLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 43,
+      "temp_id": 44,
+      "size": "403*420",
+      "signature": "[class]android.widget.RelativeLayout[resource_id]com.cit.bmi.bmr.bodyfatpercentage.calculator:id/rl_home[text]None[enabled,,]",
+      "view_str": "f0b0e1b42adabef6c2c4f0e13bae0ce4",
+      "content_free_signature": "[class]android.widget.RelativeLayout[resource_id]com.cit.bmi.bmr.bodyfatpercentage.calculator:id/rl_home"
+    },
+    {
+      "package": "com.cit.bmi.bmr.bodyfatpercentage.calculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          170,
+          1986
+        ],
+        [
+          380,
+          2161
+        ]
+      ],
+      "resource_id": "com.cit.bmi.bmr.bodyfatpercentage.calculator:id/image_home",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.ImageView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 44,
+      "temp_id": 45,
+      "size": "210*175",
+      "signature": "[class]android.widget.ImageView[resource_id]com.cit.bmi.bmr.bodyfatpercentage.calculator:id/image_home[text]None[enabled,,]",
+      "view_str": "56be3e999313cf4995b7f4a3dbf2b08b",
+      "content_free_signature": "[class]android.widget.ImageView[resource_id]com.cit.bmi.bmr.bodyfatpercentage.calculator:id/image_home"
+    },
+    {
+      "package": "com.cit.bmi.bmr.bodyfatpercentage.calculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          92,
+          2196
+        ],
+        [
+          442,
+          2312
+        ]
+      ],
+      "resource_id": "com.cit.bmi.bmr.bodyfatpercentage.calculator:id/tv_title_home",
+      "checked": false,
+      "text": "Daily Calorie Intake",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 44,
+      "temp_id": 46,
+      "size": "350*116",
+      "signature": "[class]android.widget.TextView[resource_id]com.cit.bmi.bmr.bodyfatpercentage.calculator:id/tv_title_home[text]Daily Calorie Intake[enabled,,]",
+      "view_str": "0cfcfb64abb60c8f86dc0f5d8da99ad1",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.cit.bmi.bmr.bodyfatpercentage.calculator:id/tv_title_home"
+    },
+    {
+      "package": "com.cit.bmi.bmr.bodyfatpercentage.calculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        48
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          519,
+          1943
+        ],
+        [
+          921,
+          2363
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.FrameLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 18,
+      "temp_id": 47,
+      "size": "402*420",
+      "signature": "[class]android.widget.FrameLayout[resource_id]None[text]None[enabled,,]",
+      "view_str": "4de25da2f0978f8fb72ce750d51582dc",
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]None"
+    },
+    {
+      "package": "com.cit.bmi.bmr.bodyfatpercentage.calculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 2,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        49,
+        50
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          519,
+          1943
+        ],
+        [
+          921,
+          2363
+        ]
+      ],
+      "resource_id": "com.cit.bmi.bmr.bodyfatpercentage.calculator:id/rl_home",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.RelativeLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 47,
+      "temp_id": 48,
+      "size": "402*420",
+      "signature": "[class]android.widget.RelativeLayout[resource_id]com.cit.bmi.bmr.bodyfatpercentage.calculator:id/rl_home[text]None[enabled,,]",
+      "view_str": "4f849f4d3c401c89b35fd2e0b40b7de8",
+      "content_free_signature": "[class]android.widget.RelativeLayout[resource_id]com.cit.bmi.bmr.bodyfatpercentage.calculator:id/rl_home"
+    },
+    {
+      "package": "com.cit.bmi.bmr.bodyfatpercentage.calculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          615,
+          1986
+        ],
+        [
+          825,
+          2161
+        ]
+      ],
+      "resource_id": "com.cit.bmi.bmr.bodyfatpercentage.calculator:id/image_home",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.ImageView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 48,
+      "temp_id": 49,
+      "size": "210*175",
+      "signature": "[class]android.widget.ImageView[resource_id]com.cit.bmi.bmr.bodyfatpercentage.calculator:id/image_home[text]None[enabled,,]",
+      "view_str": "56be3e999313cf4995b7f4a3dbf2b08b",
+      "content_free_signature": "[class]android.widget.ImageView[resource_id]com.cit.bmi.bmr.bodyfatpercentage.calculator:id/image_home"
+    },
+    {
+      "package": "com.cit.bmi.bmr.bodyfatpercentage.calculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          537,
+          2196
+        ],
+        [
+          886,
+          2312
+        ]
+      ],
+      "resource_id": "com.cit.bmi.bmr.bodyfatpercentage.calculator:id/tv_title_home",
+      "checked": false,
+      "text": "Daily Water Intake",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 48,
+      "temp_id": 50,
+      "size": "349*116",
+      "signature": "[class]android.widget.TextView[resource_id]com.cit.bmi.bmr.bodyfatpercentage.calculator:id/tv_title_home[text]Daily Water Intake[enabled,,]",
+      "view_str": "cc36025bb224fc534dd0f3473883648b",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.cit.bmi.bmr.bodyfatpercentage.calculator:id/tv_title_home"
+    },
+    {
+      "package": "com.cit.bmi.bmr.bodyfatpercentage.calculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        52
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          963,
+          1943
+        ],
+        [
+          1366,
+          2363
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.FrameLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 18,
+      "temp_id": 51,
+      "size": "403*420",
+      "signature": "[class]android.widget.FrameLayout[resource_id]None[text]None[enabled,,]",
+      "view_str": "4de25da2f0978f8fb72ce750d51582dc",
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]None"
+    },
+    {
+      "package": "com.cit.bmi.bmr.bodyfatpercentage.calculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 2,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        53,
+        54
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          963,
+          1943
+        ],
+        [
+          1366,
+          2363
+        ]
+      ],
+      "resource_id": "com.cit.bmi.bmr.bodyfatpercentage.calculator:id/rl_home",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.RelativeLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 51,
+      "temp_id": 52,
+      "size": "403*420",
+      "signature": "[class]android.widget.RelativeLayout[resource_id]com.cit.bmi.bmr.bodyfatpercentage.calculator:id/rl_home[text]None[enabled,,]",
+      "view_str": "cfe16b0df1c32ff16c26da37369f699c",
+      "content_free_signature": "[class]android.widget.RelativeLayout[resource_id]com.cit.bmi.bmr.bodyfatpercentage.calculator:id/rl_home"
+    },
+    {
+      "package": "com.cit.bmi.bmr.bodyfatpercentage.calculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          1059,
+          1986
+        ],
+        [
+          1269,
+          2161
+        ]
+      ],
+      "resource_id": "com.cit.bmi.bmr.bodyfatpercentage.calculator:id/image_home",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.ImageView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 52,
+      "temp_id": 53,
+      "size": "210*175",
+      "signature": "[class]android.widget.ImageView[resource_id]com.cit.bmi.bmr.bodyfatpercentage.calculator:id/image_home[text]None[enabled,,]",
+      "view_str": "56be3e999313cf4995b7f4a3dbf2b08b",
+      "content_free_signature": "[class]android.widget.ImageView[resource_id]com.cit.bmi.bmr.bodyfatpercentage.calculator:id/image_home"
+    },
+    {
+      "package": "com.cit.bmi.bmr.bodyfatpercentage.calculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          981,
+          2196
+        ],
+        [
+          1331,
+          2312
+        ]
+      ],
+      "resource_id": "com.cit.bmi.bmr.bodyfatpercentage.calculator:id/tv_title_home",
+      "checked": false,
+      "text": "Ideal Body Weight",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 52,
+      "temp_id": 54,
+      "size": "350*116",
+      "signature": "[class]android.widget.TextView[resource_id]com.cit.bmi.bmr.bodyfatpercentage.calculator:id/tv_title_home[text]Ideal Body Weight[enabled,,]",
+      "view_str": "9e6d467ad59eedaa66b3f809a4e785f1",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.cit.bmi.bmr.bodyfatpercentage.calculator:id/tv_title_home"
+    },
+    {
+      "package": "com.cit.bmi.bmr.bodyfatpercentage.calculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        56
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          74,
+          2405
+        ],
+        [
+          477,
+          2825
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.FrameLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 18,
+      "temp_id": 55,
+      "size": "403*420",
+      "signature": "[class]android.widget.FrameLayout[resource_id]None[text]None[enabled,,]",
+      "view_str": "4de25da2f0978f8fb72ce750d51582dc",
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]None"
+    },
+    {
+      "package": "com.cit.bmi.bmr.bodyfatpercentage.calculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 2,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        57,
+        58
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          74,
+          2405
+        ],
+        [
+          477,
+          2825
+        ]
+      ],
+      "resource_id": "com.cit.bmi.bmr.bodyfatpercentage.calculator:id/rl_home",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.RelativeLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 55,
+      "temp_id": 56,
+      "size": "403*420",
+      "signature": "[class]android.widget.RelativeLayout[resource_id]com.cit.bmi.bmr.bodyfatpercentage.calculator:id/rl_home[text]None[enabled,,]",
+      "view_str": "00e6d4482d1c065112512d325e5494c7",
+      "content_free_signature": "[class]android.widget.RelativeLayout[resource_id]com.cit.bmi.bmr.bodyfatpercentage.calculator:id/rl_home"
+    },
+    {
+      "package": "com.cit.bmi.bmr.bodyfatpercentage.calculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          170,
+          2448
+        ],
+        [
+          380,
+          2623
+        ]
+      ],
+      "resource_id": "com.cit.bmi.bmr.bodyfatpercentage.calculator:id/image_home",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.ImageView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 56,
+      "temp_id": 57,
+      "size": "210*175",
+      "signature": "[class]android.widget.ImageView[resource_id]com.cit.bmi.bmr.bodyfatpercentage.calculator:id/image_home[text]None[enabled,,]",
+      "view_str": "56be3e999313cf4995b7f4a3dbf2b08b",
+      "content_free_signature": "[class]android.widget.ImageView[resource_id]com.cit.bmi.bmr.bodyfatpercentage.calculator:id/image_home"
+    },
+    {
+      "package": "com.cit.bmi.bmr.bodyfatpercentage.calculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          92,
+          2658
+        ],
+        [
+          442,
+          2774
+        ]
+      ],
+      "resource_id": "com.cit.bmi.bmr.bodyfatpercentage.calculator:id/tv_title_home",
+      "checked": false,
+      "text": "Waist To Height Ratio",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 56,
+      "temp_id": 58,
+      "size": "350*116",
+      "signature": "[class]android.widget.TextView[resource_id]com.cit.bmi.bmr.bodyfatpercentage.calculator:id/tv_title_home[text]Waist To Height Ratio[enabled,,]",
+      "view_str": "416b9fb6dc0e1bc8ffeba5e42c1a45f7",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.cit.bmi.bmr.bodyfatpercentage.calculator:id/tv_title_home"
+    },
+    {
+      "package": "com.cit.bmi.bmr.bodyfatpercentage.calculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        60
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          519,
+          2405
+        ],
+        [
+          921,
+          2825
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.FrameLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 18,
+      "temp_id": 59,
+      "size": "402*420",
+      "signature": "[class]android.widget.FrameLayout[resource_id]None[text]None[enabled,,]",
+      "view_str": "4de25da2f0978f8fb72ce750d51582dc",
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]None"
+    },
+    {
+      "package": "com.cit.bmi.bmr.bodyfatpercentage.calculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 2,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        61,
+        62
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          519,
+          2405
+        ],
+        [
+          921,
+          2825
+        ]
+      ],
+      "resource_id": "com.cit.bmi.bmr.bodyfatpercentage.calculator:id/rl_home",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.RelativeLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 59,
+      "temp_id": 60,
+      "size": "402*420",
+      "signature": "[class]android.widget.RelativeLayout[resource_id]com.cit.bmi.bmr.bodyfatpercentage.calculator:id/rl_home[text]None[enabled,,]",
+      "view_str": "ea44e1625a13ef7d5d0706296a69e0d3",
+      "content_free_signature": "[class]android.widget.RelativeLayout[resource_id]com.cit.bmi.bmr.bodyfatpercentage.calculator:id/rl_home"
+    },
+    {
+      "package": "com.cit.bmi.bmr.bodyfatpercentage.calculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          615,
+          2448
+        ],
+        [
+          825,
+          2623
+        ]
+      ],
+      "resource_id": "com.cit.bmi.bmr.bodyfatpercentage.calculator:id/image_home",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.ImageView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 60,
+      "temp_id": 61,
+      "size": "210*175",
+      "signature": "[class]android.widget.ImageView[resource_id]com.cit.bmi.bmr.bodyfatpercentage.calculator:id/image_home[text]None[enabled,,]",
+      "view_str": "56be3e999313cf4995b7f4a3dbf2b08b",
+      "content_free_signature": "[class]android.widget.ImageView[resource_id]com.cit.bmi.bmr.bodyfatpercentage.calculator:id/image_home"
+    },
+    {
+      "package": "com.cit.bmi.bmr.bodyfatpercentage.calculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          537,
+          2658
+        ],
+        [
+          886,
+          2774
+        ]
+      ],
+      "resource_id": "com.cit.bmi.bmr.bodyfatpercentage.calculator:id/tv_title_home",
+      "checked": false,
+      "text": "Waist To Hip Ratio",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 60,
+      "temp_id": 62,
+      "size": "349*116",
+      "signature": "[class]android.widget.TextView[resource_id]com.cit.bmi.bmr.bodyfatpercentage.calculator:id/tv_title_home[text]Waist To Hip Ratio[enabled,,]",
+      "view_str": "ae24880fc62c1a42571e0e2dbf1bb5b2",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.cit.bmi.bmr.bodyfatpercentage.calculator:id/tv_title_home"
+    },
+    {
+      "package": "com.cit.bmi.bmr.bodyfatpercentage.calculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        64
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          963,
+          2405
+        ],
+        [
+          1366,
+          2825
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.FrameLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 18,
+      "temp_id": 63,
+      "size": "403*420",
+      "signature": "[class]android.widget.FrameLayout[resource_id]None[text]None[enabled,,]",
+      "view_str": "4de25da2f0978f8fb72ce750d51582dc",
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]None"
+    },
+    {
+      "package": "com.cit.bmi.bmr.bodyfatpercentage.calculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 2,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        65,
+        66
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          963,
+          2405
+        ],
+        [
+          1366,
+          2825
+        ]
+      ],
+      "resource_id": "com.cit.bmi.bmr.bodyfatpercentage.calculator:id/rl_home",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.RelativeLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 63,
+      "temp_id": 64,
+      "size": "403*420",
+      "signature": "[class]android.widget.RelativeLayout[resource_id]com.cit.bmi.bmr.bodyfatpercentage.calculator:id/rl_home[text]None[enabled,,]",
+      "view_str": "7a4fa2394698709008c912d149557e8d",
+      "content_free_signature": "[class]android.widget.RelativeLayout[resource_id]com.cit.bmi.bmr.bodyfatpercentage.calculator:id/rl_home"
+    },
+    {
+      "package": "com.cit.bmi.bmr.bodyfatpercentage.calculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          1059,
+          2475
+        ],
+        [
+          1269,
+          2650
+        ]
+      ],
+      "resource_id": "com.cit.bmi.bmr.bodyfatpercentage.calculator:id/image_home",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.ImageView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 64,
+      "temp_id": 65,
+      "size": "210*175",
+      "signature": "[class]android.widget.ImageView[resource_id]com.cit.bmi.bmr.bodyfatpercentage.calculator:id/image_home[text]None[enabled,,]",
+      "view_str": "56be3e999313cf4995b7f4a3dbf2b08b",
+      "content_free_signature": "[class]android.widget.ImageView[resource_id]com.cit.bmi.bmr.bodyfatpercentage.calculator:id/image_home"
+    },
+    {
+      "package": "com.cit.bmi.bmr.bodyfatpercentage.calculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          981,
+          2685
+        ],
+        [
+          1331,
+          2747
+        ]
+      ],
+      "resource_id": "com.cit.bmi.bmr.bodyfatpercentage.calculator:id/tv_title_home",
+      "checked": false,
+      "text": "Body Adiposity",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 64,
+      "temp_id": 66,
+      "size": "350*62",
+      "signature": "[class]android.widget.TextView[resource_id]com.cit.bmi.bmr.bodyfatpercentage.calculator:id/tv_title_home[text]Body Adiposity[enabled,,]",
+      "view_str": "6ab0ad09b808fd613d7a9561c6494986",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.cit.bmi.bmr.bodyfatpercentage.calculator:id/tv_title_home"
+    },
+    {
+      "package": "com.cit.bmi.bmr.bodyfatpercentage.calculator",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          0
+        ],
+        [
+          1440,
+          84
+        ]
+      ],
+      "resource_id": "android:id/statusBarBackground",
+      "checked": false,
+      "text": null,
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 0,
+      "temp_id": 67,
+      "size": "1440*84",
+      "signature": "[class]android.view.View[resource_id]android:id/statusBarBackground[text]None[enabled,,]",
+      "view_str": "0abba6ec9bda052175e575d5adc2960c",
+      "content_free_signature": "[class]android.view.View[resource_id]android:id/statusBarBackground"
+    },
+    {
+      "package": "com.cit.bmi.bmr.bodyfatpercentage.calculator",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          2952
+        ],
+        [
+          1440,
+          3120
+        ]
+      ],
+      "resource_id": "android:id/navigationBarBackground",
+      "checked": false,
+      "text": null,
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 0,
+      "temp_id": 68,
+      "size": "1440*168",
+      "signature": "[class]android.view.View[resource_id]android:id/navigationBarBackground[text]None[enabled,,]",
+      "view_str": "35097953972484d6da8d03a55598cf00",
+      "content_free_signature": "[class]android.view.View[resource_id]android:id/navigationBarBackground"
+    }
+  ]
+}

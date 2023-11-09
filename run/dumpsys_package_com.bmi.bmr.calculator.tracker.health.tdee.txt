@@ -1,0 +1,85 @@
+Activity Resolver Table:
+  Non-Data Actions:
+      android.intent.action.MAIN:
+        c5e1d46 com.bmi.bmr.calculator.tracker.health.tdee/.SplashScreenActivity filter 7fd6fb8
+          Action: "android.intent.action.MAIN"
+          Category: "android.intent.category.LAUNCHER"
+
+Registered ContentProviders:
+  com.bmi.bmr.calculator.tracker.health.tdee/com.squareup.picasso.PicassoProvider:
+    Provider{b21fb07 com.bmi.bmr.calculator.tracker.health.tdee/com.squareup.picasso.PicassoProvider}
+  com.bmi.bmr.calculator.tracker.health.tdee/com.google.firebase.provider.FirebaseInitProvider:
+    Provider{65e3434 com.bmi.bmr.calculator.tracker.health.tdee/com.google.firebase.provider.FirebaseInitProvider}
+  com.bmi.bmr.calculator.tracker.health.tdee/androidx.startup.InitializationProvider:
+    Provider{e3c425d com.bmi.bmr.calculator.tracker.health.tdee/androidx.startup.InitializationProvider}
+
+ContentProvider Authorities:
+  [com.bmi.bmr.calculator.tracker.health.tdee.com.squareup.picasso]:
+    Provider{b21fb07 com.bmi.bmr.calculator.tracker.health.tdee/com.squareup.picasso.PicassoProvider}
+      applicationInfo=ApplicationInfo{ccec7d2 com.bmi.bmr.calculator.tracker.health.tdee}
+  [com.bmi.bmr.calculator.tracker.health.tdee.firebaseinitprovider]:
+    Provider{65e3434 com.bmi.bmr.calculator.tracker.health.tdee/com.google.firebase.provider.FirebaseInitProvider}
+      applicationInfo=ApplicationInfo{ccec7d2 com.bmi.bmr.calculator.tracker.health.tdee}
+  [com.bmi.bmr.calculator.tracker.health.tdee.androidx-startup]:
+    Provider{e3c425d com.bmi.bmr.calculator.tracker.health.tdee/androidx.startup.InitializationProvider}
+      applicationInfo=ApplicationInfo{ccec7d2 com.bmi.bmr.calculator.tracker.health.tdee}
+
+Key Set Manager:
+  [com.bmi.bmr.calculator.tracker.health.tdee]
+      Signing KeySets: 97
+
+Packages:
+  Package [com.bmi.bmr.calculator.tracker.health.tdee] (35940a3):
+    userId=10160
+    pkg=Package{fc45fa0 com.bmi.bmr.calculator.tracker.health.tdee}
+    codePath=/data/app/com.bmi.bmr.calculator.tracker.health.tdee-8hbQhjQ5Lft7zq4Qcs9QGA==
+    resourcePath=/data/app/com.bmi.bmr.calculator.tracker.health.tdee-8hbQhjQ5Lft7zq4Qcs9QGA==
+    legacyNativeLibraryDir=/data/app/com.bmi.bmr.calculator.tracker.health.tdee-8hbQhjQ5Lft7zq4Qcs9QGA==/lib
+    primaryCpuAbi=null
+    secondaryCpuAbi=null
+    versionCode=5 minSdk=22 targetSdk=32
+    versionName=2.3
+    splits=[base]
+    apkSigningVersion=3
+    applicationInfo=ApplicationInfo{ccec7d2 com.bmi.bmr.calculator.tracker.health.tdee}
+    flags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP ]
+    privateFlags=[ PRIVATE_FLAG_ACTIVITIES_RESIZE_MODE_RESIZEABLE_VIA_SDK_VERSION PARTIALLY_DIRECT_BOOT_AWARE ]
+    dataDir=/data/user/0/com.bmi.bmr.calculator.tracker.health.tdee
+    supportsScreens=[small, medium, large, xlarge, resizeable, anyDensity]
+    timeStamp=2023-07-21 13:59:37
+    firstInstallTime=2023-07-21 13:59:37
+    lastUpdateTime=2023-07-21 13:59:37
+    signatures=PackageSignatures{17fa759 version:3, signatures:[7248ac20], past signatures:[]}
+    installPermissionsFixed=true
+    pkgFlags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP ]
+    requested permissions:
+      android.permission.ACCESS_NETWORK_STATE
+      android.permission.INTERNET
+      android.permission.WAKE_LOCK
+      com.google.android.gms.permission.AD_ID
+      com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+    install permissions:
+      android.permission.INTERNET: granted=true
+      android.permission.ACCESS_NETWORK_STATE: granted=true
+      android.permission.WAKE_LOCK: granted=true
+    User 0: ceDataInode=-4294843943 installed=true hidden=false suspended=false stopped=false notLaunched=false enabled=0 instant=false virtual=false
+      gids=[3003]
+      runtime permissions:
+
+Package Changes:
+  Sequence number=17
+  User 0:
+    seq=5, package=com.google.android.gms
+    seq=14, package=abamuve.calculations.bmrbmibfp
+    seq=16, package=com.blogspot.sakibhs.bmrandbmicalculator
+
+
+Dexopt state:
+  [com.bmi.bmr.calculator.tracker.health.tdee]
+    path: /data/app/com.bmi.bmr.calculator.tracker.health.tdee-8hbQhjQ5Lft7zq4Qcs9QGA==/base.apk
+      x86: [status=speed-profile] [reason=install]
+
+
+Compiler stats:
+  [com.bmi.bmr.calculator.tracker.health.tdee]
+    (No recorded stats)

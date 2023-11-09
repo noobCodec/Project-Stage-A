@@ -1,0 +1,74 @@
+{
+  "views": {
+    "set_height": {
+      "resource_id": ".*height",
+      "class": ".*EditText"
+    },
+    "set_weight": {
+      "resource_id": ".*weight",
+      "class": ".*EditText"
+    },
+    "set_age": {
+      "resource_id": ".*age",
+      "class": ".*EditText"
+    },
+    "set_activity": {
+      "resource_id": ".*radioS",
+      "class": ".*RadioButton"
+    },
+    "calculate": {
+      "resource_id": ".*donebtn",
+      "class": ".*Button"
+    },
+    "exit": {
+      "resource_id": ".*close",
+      "class": ".*ImageView"
+    }
+  },
+  "states": {
+    "main_activity_state": {
+      "views": [
+        "set_age"
+      ]
+    }
+  },
+  "operations": {
+    "bmi_operation": [
+      {
+        "event_type": "set_text",
+        "target_view": "set_age",
+        "text": 47
+      },
+      {
+        "event_type": "set_text",
+        "target_view": "set_weight",
+        "text": 87
+      },
+      {
+        "event_type": "set_text",
+        "target_view": "set_height",
+        "text": 434
+      },
+      {
+        "event_type": "touch",
+        "target_view": "set_activity"
+      },
+      {
+        "event_type": "touch",
+        "target_view": "calculate"
+      },
+      {
+        "event_type": "touch",
+        "target_view": "exit"
+      },
+      {
+        "event_type": "exit"
+      }
+    ]
+  },
+  "main": {
+    "main_activity_state": [
+      "bmi_operation"
+    ]
+  }
+}

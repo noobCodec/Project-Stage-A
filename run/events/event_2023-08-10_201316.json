@@ -1,0 +1,49 @@
+{
+  "tag": "2023-08-10_201316",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.erikori.bmrchecker",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          281,
+          874
+        ],
+        [
+          1158,
+          1042
+        ]
+      ],
+      "resource_id": "com.erikori.bmrchecker:id/cul_button",
+      "checked": false,
+      "text": "\u57fa\u790e\u4ee3\u8b1d\u91cf\u3092\u8a08\u7b97\u3059\u308b",
+      "class": "android.widget.Button",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 6,
+      "temp_id": 24,
+      "size": "877*168",
+      "signature": "[class]android.widget.Button[resource_id]com.erikori.bmrchecker:id/cul_button[text]\u57fa\u790e\u4ee3\u8b1d\u91cf\u3092\u8a08\u7b97\u3059\u308b[enabled,,]",
+      "view_str": "d5b5bfcab5b405f085a5070c3292090f",
+      "content_free_signature": "[class]android.widget.Button[resource_id]com.erikori.bmrchecker:id/cul_button"
+    }
+  },
+  "start_state": "633aa2575019af7a7e9bc3f305527f75",
+  "stop_state": "65325d73744fd68cabc426c58b9ddfaf",
+  "event_str": "TouchEvent(state=633aa2575019af7a7e9bc3f305527f75, view=d5b5bfcab5b405f085a5070c3292090f(MainActivity/Button-\u57fa\u790e\u4ee3\u8b1d\u91cf\u3092\u8a08\u7b97\u3059\u308b))"
+}

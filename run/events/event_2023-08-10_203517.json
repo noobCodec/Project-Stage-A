@@ -1,0 +1,52 @@
+{
+  "tag": "2023-08-10_203517",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.rickardapps.bmrcal",
+      "visible": true,
+      "checkable": false,
+      "child_count": 2,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        4,
+        8
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          84
+        ],
+        [
+          1440,
+          2952
+        ]
+      ],
+      "resource_id": "com.rickardapps.bmrcal:id/decor_content_parent",
+      "checked": false,
+      "text": null,
+      "class": "android.view.ViewGroup",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 2,
+      "temp_id": 3,
+      "size": "1440*2868",
+      "signature": "[class]android.view.ViewGroup[resource_id]com.rickardapps.bmrcal:id/decor_content_parent[text]None[enabled,,]",
+      "view_str": "1acbbdd73850256e8579986b44018ab3",
+      "content_free_signature": "[class]android.view.ViewGroup[resource_id]com.rickardapps.bmrcal:id/decor_content_parent"
+    }
+  },
+  "start_state": "c0e1798fa9302f44ad264fd8e13cdb1e",
+  "stop_state": "c0e1798fa9302f44ad264fd8e13cdb1e",
+  "event_str": "TouchEvent(state=c0e1798fa9302f44ad264fd8e13cdb1e, view=1acbbdd73850256e8579986b44018ab3(MainActivity/ViewGroup-))"
+}

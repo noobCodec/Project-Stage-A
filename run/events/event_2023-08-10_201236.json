@@ -1,0 +1,49 @@
+{
+  "tag": "2023-08-10_201236",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.emoapps.bmrcalculatorweightlosstracker",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          516,
+          1712
+        ],
+        [
+          923,
+          1880
+        ]
+      ],
+      "resource_id": "com.emoapps.bmrcalculatorweightlosstracker:id/btn",
+      "checked": false,
+      "text": "Continue",
+      "class": "android.widget.Button",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 25,
+      "temp_id": 26,
+      "size": "407*168",
+      "signature": "[class]android.widget.Button[resource_id]com.emoapps.bmrcalculatorweightlosstracker:id/btn[text]Continue[enabled,,]",
+      "view_str": "0dbb15b73e28e34656105636012a97ed",
+      "content_free_signature": "[class]android.widget.Button[resource_id]com.emoapps.bmrcalculatorweightlosstracker:id/btn"
+    }
+  },
+  "start_state": "84c4af55e4d8527199ce53276b0bb592",
+  "stop_state": "e4c49ea0efb026774e590b1af3f52d25",
+  "event_str": "TouchEvent(state=84c4af55e4d8527199ce53276b0bb592, view=0dbb15b73e28e34656105636012a97ed(MainActivity/Button-Continue))"
+}

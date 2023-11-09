@@ -1,0 +1,49 @@
+{
+  "tag": "2023-08-10_200719",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.calculator.activity.metabolic.tdee.bmr.bmrtdeecalculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          1020,
+          2462
+        ],
+        [
+          1370,
+          2637
+        ]
+      ],
+      "resource_id": "com.calculator.activity.metabolic.tdee.bmr.bmrtdeecalculator:id/next",
+      "checked": false,
+      "text": "NEXT",
+      "class": "android.widget.Button",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 24,
+      "temp_id": 26,
+      "size": "350*175",
+      "signature": "[class]android.widget.Button[resource_id]com.calculator.activity.metabolic.tdee.bmr.bmrtdeecalculator:id/next[text]NEXT[enabled,,]",
+      "view_str": "0746f3aa1a2f665a9257aae48600dc27",
+      "content_free_signature": "[class]android.widget.Button[resource_id]com.calculator.activity.metabolic.tdee.bmr.bmrtdeecalculator:id/next"
+    }
+  },
+  "start_state": "e30570618dda61766c1e8d0a280d3049",
+  "stop_state": "c53020472b97849539466c344f0be118",
+  "event_str": "TouchEvent(state=e30570618dda61766c1e8d0a280d3049, view=0746f3aa1a2f665a9257aae48600dc27(HeightActivity/Button-NEXT))"
+}

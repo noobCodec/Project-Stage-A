@@ -1,0 +1,50 @@
+{
+  "tag": "2023-08-13_121930",
+  "event": {
+    "event_type": "set_text",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.cit.bmi.bmr.bodyfatpercentage.calculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": true,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          141,
+          1783
+        ],
+        [
+          814,
+          1958
+        ]
+      ],
+      "resource_id": "com.cit.bmi.bmr.bodyfatpercentage.calculator:id/et_weight",
+      "checked": false,
+      "text": "Enter Weight",
+      "class": "android.widget.EditText",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": true,
+      "parent": 20,
+      "temp_id": 21,
+      "size": "673*175",
+      "signature": "[class]android.widget.EditText[resource_id]com.cit.bmi.bmr.bodyfatpercentage.calculator:id/et_weight[text]Enter Weight[enabled,,]",
+      "view_str": "de77f4eef20013bdf83c18d7ca328931",
+      "content_free_signature": "[class]android.widget.EditText[resource_id]com.cit.bmi.bmr.bodyfatpercentage.calculator:id/et_weight"
+    },
+    "text": 63
+  },
+  "start_state": "bf82d5745139b9729978e73da0592997",
+  "stop_state": "5e3ea629976db2370fe488ac8b20e3ab",
+  "event_str": "SetTextEvent(state=bf82d5745139b9729978e73da0592997, view=de77f4eef20013bdf83c18d7ca328931(bmr_calculator/EditText-Enter Weig), text=63)"
+}

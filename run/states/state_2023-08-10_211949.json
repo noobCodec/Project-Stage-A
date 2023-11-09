@@ -1,0 +1,2073 @@
+{
+  "tag": "2023-08-10_211949",
+  "state_str": "1ea560b286c51e98fcae18fd61d5a729",
+  "state_str_content_free": "5b6e039f12b4412db5cbb95300742bba",
+  "foreground_activity": "com.microhealthllc.bmr_calculator/.newactivities.SignInActivity",
+  "activity_stack": [
+    "com.microhealthllc.bmr_calculator/.newactivities.SignInActivity"
+  ],
+  "background_services": [
+    "com.google.android.gms/.icing.service.AppIndexingService",
+    "com.google.android.gms/.deviceconnection.service.DeviceConnectionWatcherService",
+    "com.google.android.gms/com.google.android.location.places.service.PlaceDetectionAsyncService",
+    "com.android.systemui/.keyguard.KeyguardService",
+    "com.android.systemui/.ImageWallpaper",
+    "com.google.android.gms/com.google.android.location.geocode.GeocodeService",
+    "com.google.android.gms/.auth.setup.devicesignals.LockScreenService",
+    "com.google.android.gms/.gcm.GcmService",
+    "com.google.android.gms/.clearcut.debug.ClearcutDebugDumpService",
+    "com.google.android.gms/.chimera.PersistentApiService",
+    "com.android.phone/com.android.internal.telephony.CellularNetworkService",
+    "com.google.android.gms/.chimera.PersistentBoundBrokerService",
+    "com.google.android.gms/.chimera.GmsApiService",
+    "com.google.android.googlequicksearchbox/com.google.android.apps.gsa.nowoverlayservice.DrawerOverlayService",
+    "io.github.ylimit.droidbotapp/.DroidBotIME",
+    "com.google.android.gms/com.google.android.location.fused.FusedLocationService",
+    "com.google.android.gms/.gcm.nts.SchedulerService",
+    "io.github.ylimit.droidbotapp/io.github.privacystreams.accessibility.PSAccessibilityService",
+    "com.google.android.gms/com.google.android.location.geofencer.service.GeofenceProviderService",
+    "com.google.android.gms/.thunderbird.EmergencyPersistentService",
+    "com.android.systemui/.SystemUIService",
+    "com.google.android.gms/.nearby.exposurenotification.service.ExposureMatchingService",
+    "android/.hardware.location.GeofenceHardwareService",
+    "com.android.se/.SecureElementService",
+    "com.google.android.ims/.services.RcsService",
+    "com.google.android.gms/.chimera.GmsIntentOperationService",
+    "com.google.android.gms/.chimera.PersistentDirectBootAwareApiService",
+    "com.google.android.gms/.chimera.PersistentIntentOperationService",
+    "com.google.android.ext.services/android.ext.services.notification.Assistant",
+    "com.google.android.gms/.location.persistent.LocationPersistentService",
+    "com.google.android.gms/com.google.android.location.internal.PendingIntentCallbackService",
+    "com.google.android.gms/com.google.android.location.internal.server.GoogleLocationService",
+    "com.google.android.gms/com.google.android.contextmanager.service.ContextManagerService",
+    "com.google.android.gms/com.google.android.location.network.NetworkLocationService",
+    "com.google.android.gms/com.google.android.location.internal.GoogleLocationManagerService",
+    "com.google.android.apps.messaging/com.google.firebase.iid.FirebaseInstanceIdService",
+    "com.android.phone/com.android.internal.telephony.dataconnection.CellularDataService",
+    "com.android.server.telecom/.components.TelecomService",
+    "com.google.android.googlequicksearchbox/com.google.android.voiceinteraction.GsaVoiceInteractionService",
+    "com.android.smspush/.WapPushManager",
+    "com.android.phone/.vvm.RemoteVvmTaskManager",
+    "android/com.android.server.content.SyncJobService",
+    "com.google.android.gms/.common.stats.GmsCoreStatsService",
+    "com.google.android.gms/com.google.android.location.internal.server.HardwareArProviderService",
+    "com.android.providers.media/.MediaScannerService",
+    "com.google.android.gm/com.google.firebase.iid.FirebaseInstanceIdService",
+    "com.android.phone/.TelephonyDebugService",
+    "com.google.android.videos/.service.pinning.TransferService",
+    "com.google.android.apps.messaging/.shared.datamodel.action.ActionExecutorImpl",
+    "com.google.android.gms/.icing.service.IndexService",
+    "com.google.android.apps.nexuslauncher/com.android.quickstep.TouchInteractionService",
+    "com.android.providers.media/.MediaScannerService"
+  ],
+  "width": 1440,
+  "height": 3120,
+  "views": [
+    {
+      "package": "com.microhealthllc.bmr_calculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 3,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        1,
+        50,
+        51
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          0
+        ],
+        [
+          1440,
+          3120
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.FrameLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": -1,
+      "temp_id": 0,
+      "size": "1440*3120",
+      "signature": "[class]android.widget.FrameLayout[resource_id]None[text]None[enabled,,]",
+      "view_str": "bc0cd106874eefe6879b2635b74e13f2",
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]None"
+    },
+    {
+      "package": "com.microhealthllc.bmr_calculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        2
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          0
+        ],
+        [
+          1440,
+          2952
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.LinearLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 0,
+      "temp_id": 1,
+      "size": "1440*2952",
+      "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+      "view_str": "0f2b7d2c5cf16638979dcde2850ed5d9",
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None"
+    },
+    {
+      "package": "com.microhealthllc.bmr_calculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        3
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          84
+        ],
+        [
+          1440,
+          2952
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.FrameLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 1,
+      "temp_id": 2,
+      "size": "1440*2868",
+      "signature": "[class]android.widget.FrameLayout[resource_id]None[text]None[enabled,,]",
+      "view_str": "de9ff52d1a02c4f25802942a41f62c54",
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]None"
+    },
+    {
+      "package": "com.microhealthllc.bmr_calculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        4
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          84
+        ],
+        [
+          1440,
+          2952
+        ]
+      ],
+      "resource_id": "com.microhealthllc.bmr_calculator:id/action_bar_root",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.LinearLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 2,
+      "temp_id": 3,
+      "size": "1440*2868",
+      "signature": "[class]android.widget.LinearLayout[resource_id]com.microhealthllc.bmr_calculator:id/action_bar_root[text]None[enabled,,]",
+      "view_str": "c209a8e67ec3d08db80017af6b4d2673",
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]com.microhealthllc.bmr_calculator:id/action_bar_root"
+    },
+    {
+      "package": "com.microhealthllc.bmr_calculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        5
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          84
+        ],
+        [
+          1440,
+          2952
+        ]
+      ],
+      "resource_id": "android:id/content",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.FrameLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 3,
+      "temp_id": 4,
+      "size": "1440*2868",
+      "signature": "[class]android.widget.FrameLayout[resource_id]android:id/content[text]None[enabled,,]",
+      "view_str": "9249534d09787595b1a78084d0000bb2",
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]android:id/content"
+    },
+    {
+      "package": "com.microhealthllc.bmr_calculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        6
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          84
+        ],
+        [
+          1440,
+          2952
+        ]
+      ],
+      "resource_id": "com.microhealthllc.bmr_calculator:id/sign_in_container",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.FrameLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 4,
+      "temp_id": 5,
+      "size": "1440*2868",
+      "signature": "[class]android.widget.FrameLayout[resource_id]com.microhealthllc.bmr_calculator:id/sign_in_container[text]None[enabled,,]",
+      "view_str": "6066cf55fec506b4ae774c88a818c2b5",
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]com.microhealthllc.bmr_calculator:id/sign_in_container"
+    },
+    {
+      "package": "com.microhealthllc.bmr_calculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        7
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          84
+        ],
+        [
+          1440,
+          2952
+        ]
+      ],
+      "resource_id": "com.microhealthllc.bmr_calculator:id/fragment_sign_in_content",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.FrameLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 5,
+      "temp_id": 6,
+      "size": "1440*2868",
+      "signature": "[class]android.widget.FrameLayout[resource_id]com.microhealthllc.bmr_calculator:id/fragment_sign_in_content[text]None[enabled,,]",
+      "view_str": "31bdaf213b3da8a14a7e685e61824cc3",
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]com.microhealthllc.bmr_calculator:id/fragment_sign_in_content"
+    },
+    {
+      "package": "com.microhealthllc.bmr_calculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        8
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          84
+        ],
+        [
+          1440,
+          2952
+        ]
+      ],
+      "resource_id": "com.microhealthllc.bmr_calculator:id/content",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.FrameLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 6,
+      "temp_id": 7,
+      "size": "1440*2868",
+      "signature": "[class]android.widget.FrameLayout[resource_id]com.microhealthllc.bmr_calculator:id/content[text]None[enabled,,]",
+      "view_str": "ea0cd3ede7f66cc250ea91f51d2d783b",
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]com.microhealthllc.bmr_calculator:id/content"
+    },
+    {
+      "package": "com.microhealthllc.bmr_calculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 2,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        9,
+        37
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          84
+        ],
+        [
+          1440,
+          2952
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.LinearLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 7,
+      "temp_id": 8,
+      "size": "1440*2868",
+      "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+      "view_str": "9a4aee887626bad9b7fea4401f4f9690",
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None"
+    },
+    {
+      "package": "com.microhealthllc.bmr_calculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 6,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        10,
+        11,
+        14,
+        18,
+        32,
+        33
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          84
+        ],
+        [
+          1440,
+          1450
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.LinearLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 8,
+      "temp_id": 9,
+      "size": "1440*1366",
+      "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+      "view_str": "c53cfda2ad7138a42f2c01e81bd91d80",
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None"
+    },
+    {
+      "package": "com.microhealthllc.bmr_calculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          84
+        ],
+        [
+          1440,
+          280
+        ]
+      ],
+      "resource_id": "com.microhealthllc.bmr_calculator:id/toolbar_sign_in",
+      "checked": false,
+      "text": "Enter Details",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 9,
+      "temp_id": 10,
+      "size": "1440*196",
+      "signature": "[class]android.widget.TextView[resource_id]com.microhealthllc.bmr_calculator:id/toolbar_sign_in[text]Enter Details[enabled,,]",
+      "view_str": "c4a47143af62d3c1558ae9c8bf204fe1",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.microhealthllc.bmr_calculator:id/toolbar_sign_in"
+    },
+    {
+      "package": "com.microhealthllc.bmr_calculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        12
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          280
+        ],
+        [
+          1440,
+          476
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "User Name",
+      "class": "TextInputLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 9,
+      "temp_id": 11,
+      "size": "1440*196",
+      "signature": "[class]TextInputLayout[resource_id]None[text]User Name[enabled,,]",
+      "view_str": "e8e8de6eb9719d1e03d02c06e02ce232",
+      "content_free_signature": "[class]TextInputLayout[resource_id]None"
+    },
+    {
+      "package": "com.microhealthllc.bmr_calculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        13
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          56,
+          318
+        ],
+        [
+          1384,
+          462
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.FrameLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 11,
+      "temp_id": 12,
+      "size": "1328*144",
+      "signature": "[class]android.widget.FrameLayout[resource_id]None[text]None[enabled,,]",
+      "view_str": "ad4a53aaaa37821a5a0283ab825b760a",
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]None"
+    },
+    {
+      "package": "com.microhealthllc.bmr_calculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": true,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          56,
+          318
+        ],
+        [
+          1384,
+          462
+        ]
+      ],
+      "resource_id": "com.microhealthllc.bmr_calculator:id/first_name",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.EditText",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": true,
+      "parent": 12,
+      "temp_id": 13,
+      "size": "1328*144",
+      "signature": "[class]android.widget.EditText[resource_id]com.microhealthllc.bmr_calculator:id/first_name[text]None[enabled,,]",
+      "view_str": "0462ffe2b64eb80f129f8c25ceb50795",
+      "content_free_signature": "[class]android.widget.EditText[resource_id]com.microhealthllc.bmr_calculator:id/first_name"
+    },
+    {
+      "package": "com.microhealthllc.bmr_calculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        15
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          476
+        ],
+        [
+          1440,
+          672
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.LinearLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 9,
+      "temp_id": 14,
+      "size": "1440*196",
+      "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+      "view_str": "ed198f9224238e3a4db76bc752889b6f",
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None"
+    },
+    {
+      "package": "com.microhealthllc.bmr_calculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        16
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          476
+        ],
+        [
+          812,
+          672
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "Age",
+      "class": "TextInputLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 14,
+      "temp_id": 15,
+      "size": "812*196",
+      "signature": "[class]TextInputLayout[resource_id]None[text]Age[enabled,,]",
+      "view_str": "aa50dc96dd8fbd9a2a9040b7eb190144",
+      "content_free_signature": "[class]TextInputLayout[resource_id]None"
+    },
+    {
+      "package": "com.microhealthllc.bmr_calculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        17
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          56,
+          514
+        ],
+        [
+          756,
+          658
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.FrameLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 15,
+      "temp_id": 16,
+      "size": "700*144",
+      "signature": "[class]android.widget.FrameLayout[resource_id]None[text]None[enabled,,]",
+      "view_str": "bc2a7248a6a01852ce70f2220f8cc4f5",
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]None"
+    },
+    {
+      "package": "com.microhealthllc.bmr_calculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": true,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          56,
+          514
+        ],
+        [
+          756,
+          658
+        ]
+      ],
+      "resource_id": "com.microhealthllc.bmr_calculator:id/last_initial",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.EditText",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": true,
+      "parent": 16,
+      "temp_id": 17,
+      "size": "700*144",
+      "signature": "[class]android.widget.EditText[resource_id]com.microhealthllc.bmr_calculator:id/last_initial[text]None[enabled,,]",
+      "view_str": "95cd844db814c091b4031490437f6d6c",
+      "content_free_signature": "[class]android.widget.EditText[resource_id]com.microhealthllc.bmr_calculator:id/last_initial"
+    },
+    {
+      "package": "com.microhealthllc.bmr_calculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 2,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        19,
+        27
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          672
+        ],
+        [
+          1440,
+          924
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.LinearLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 9,
+      "temp_id": 18,
+      "size": "1440*252",
+      "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+      "view_str": "0a635baac9316644cae88e2f1942f0d3",
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None"
+    },
+    {
+      "package": "com.microhealthllc.bmr_calculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 3,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        20,
+        21,
+        24
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          56,
+          672
+        ],
+        [
+          892,
+          924
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.LinearLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 18,
+      "temp_id": 19,
+      "size": "836*252",
+      "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+      "view_str": "02a623f42f3b6b53584ca242d8bec7f6",
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None"
+    },
+    {
+      "package": "com.microhealthllc.bmr_calculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          56,
+          728
+        ],
+        [
+          336,
+          924
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "Height:",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 19,
+      "temp_id": 20,
+      "size": "280*196",
+      "signature": "[class]android.widget.TextView[resource_id]None[text]Height:[enabled,,]",
+      "view_str": "8270ca20f1d1b9a839fe7978322fd794",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]None"
+    },
+    {
+      "package": "com.microhealthllc.bmr_calculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        22
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          336,
+          672
+        ],
+        [
+          614,
+          854
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "ft.",
+      "class": "TextInputLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 19,
+      "temp_id": 21,
+      "size": "278*182",
+      "signature": "[class]TextInputLayout[resource_id]None[text]ft.[enabled,,]",
+      "view_str": "42d815c4aaddb3fd503bda36d48ce919",
+      "content_free_signature": "[class]TextInputLayout[resource_id]None"
+    },
+    {
+      "package": "com.microhealthllc.bmr_calculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        23
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          354,
+          710
+        ],
+        [
+          596,
+          854
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.FrameLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 21,
+      "temp_id": 22,
+      "size": "242*144",
+      "signature": "[class]android.widget.FrameLayout[resource_id]None[text]None[enabled,,]",
+      "view_str": "459e1aed988cf044c05e272fdb58396c",
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]None"
+    },
+    {
+      "package": "com.microhealthllc.bmr_calculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": true,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          354,
+          710
+        ],
+        [
+          596,
+          854
+        ]
+      ],
+      "resource_id": "com.microhealthllc.bmr_calculator:id/feets",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.EditText",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": true,
+      "parent": 22,
+      "temp_id": 23,
+      "size": "242*144",
+      "signature": "[class]android.widget.EditText[resource_id]com.microhealthllc.bmr_calculator:id/feets[text]None[enabled,,]",
+      "view_str": "6f57f5d8852f8b7250e901074085a261",
+      "content_free_signature": "[class]android.widget.EditText[resource_id]com.microhealthllc.bmr_calculator:id/feets"
+    },
+    {
+      "package": "com.microhealthllc.bmr_calculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        25
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          614,
+          672
+        ],
+        [
+          892,
+          854
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "in.",
+      "class": "TextInputLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 19,
+      "temp_id": 24,
+      "size": "278*182",
+      "signature": "[class]TextInputLayout[resource_id]None[text]in.[enabled,,]",
+      "view_str": "46dbaeefb57ee02df45269bd92442cf8",
+      "content_free_signature": "[class]TextInputLayout[resource_id]None"
+    },
+    {
+      "package": "com.microhealthllc.bmr_calculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        26
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          632,
+          710
+        ],
+        [
+          874,
+          854
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.FrameLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 24,
+      "temp_id": 25,
+      "size": "242*144",
+      "signature": "[class]android.widget.FrameLayout[resource_id]None[text]None[enabled,,]",
+      "view_str": "b1a1964e7765c927132febe3f9b8c53a",
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]None"
+    },
+    {
+      "package": "com.microhealthllc.bmr_calculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": true,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          632,
+          710
+        ],
+        [
+          874,
+          854
+        ]
+      ],
+      "resource_id": "com.microhealthllc.bmr_calculator:id/inches",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.EditText",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": true,
+      "parent": 25,
+      "temp_id": 26,
+      "size": "242*144",
+      "signature": "[class]android.widget.EditText[resource_id]com.microhealthllc.bmr_calculator:id/inches[text]None[enabled,,]",
+      "view_str": "3293add5c42fc814d825107833f1e16d",
+      "content_free_signature": "[class]android.widget.EditText[resource_id]com.microhealthllc.bmr_calculator:id/inches"
+    },
+    {
+      "package": "com.microhealthllc.bmr_calculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 2,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        28,
+        29
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          892,
+          672
+        ],
+        [
+          1384,
+          868
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.LinearLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 18,
+      "temp_id": 27,
+      "size": "492*196",
+      "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+      "view_str": "266c7ae06cbc73b08c1c186220e48c83",
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None"
+    },
+    {
+      "package": "com.microhealthllc.bmr_calculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          892,
+          728
+        ],
+        [
+          1075,
+          799
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "weight: ",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 27,
+      "temp_id": 28,
+      "size": "183*71",
+      "signature": "[class]android.widget.TextView[resource_id]None[text]weight: [enabled,,]",
+      "view_str": "7d4680fd2470cbe26be9a91dd79d95a8",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]None"
+    },
+    {
+      "package": "com.microhealthllc.bmr_calculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        30
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          1075,
+          672
+        ],
+        [
+          1384,
+          868
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "lbs",
+      "class": "TextInputLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 27,
+      "temp_id": 29,
+      "size": "309*196",
+      "signature": "[class]TextInputLayout[resource_id]None[text]lbs[enabled,,]",
+      "view_str": "7958bb03333b46706e88cf2d329b8cc4",
+      "content_free_signature": "[class]TextInputLayout[resource_id]None"
+    },
+    {
+      "package": "com.microhealthllc.bmr_calculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        31
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          1093,
+          710
+        ],
+        [
+          1366,
+          854
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.FrameLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 29,
+      "temp_id": 30,
+      "size": "273*144",
+      "signature": "[class]android.widget.FrameLayout[resource_id]None[text]None[enabled,,]",
+      "view_str": "270820a24f6f0aa2b1f66387fcc70a2b",
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]None"
+    },
+    {
+      "package": "com.microhealthllc.bmr_calculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": true,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          1093,
+          710
+        ],
+        [
+          1366,
+          854
+        ]
+      ],
+      "resource_id": "com.microhealthllc.bmr_calculator:id/weight",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.EditText",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": true,
+      "parent": 30,
+      "temp_id": 31,
+      "size": "273*144",
+      "signature": "[class]android.widget.EditText[resource_id]com.microhealthllc.bmr_calculator:id/weight[text]None[enabled,,]",
+      "view_str": "d6fc6f4036c99c15b51568d5709a2def",
+      "content_free_signature": "[class]android.widget.EditText[resource_id]com.microhealthllc.bmr_calculator:id/weight"
+    },
+    {
+      "package": "com.microhealthllc.bmr_calculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          924
+        ],
+        [
+          340,
+          1088
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "Gender",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 9,
+      "temp_id": 32,
+      "size": "340*164",
+      "signature": "[class]android.widget.TextView[resource_id]None[text]Gender[enabled,,]",
+      "view_str": "5c16894dc0b5fd99c86092e5e15b23a0",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]None"
+    },
+    {
+      "package": "com.microhealthllc.bmr_calculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        34
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          1088
+        ],
+        [
+          1440,
+          1270
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.LinearLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 9,
+      "temp_id": 33,
+      "size": "1440*182",
+      "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+      "view_str": "ee0bf8d10661f1624999f2da1ec03974",
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None"
+    },
+    {
+      "package": "com.microhealthllc.bmr_calculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 2,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        35,
+        36
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          56,
+          1088
+        ],
+        [
+          700,
+          1270
+        ]
+      ],
+      "resource_id": "com.microhealthllc.bmr_calculator:id/gender",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.RadioGroup",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 33,
+      "temp_id": 34,
+      "size": "644*182",
+      "signature": "[class]android.widget.RadioGroup[resource_id]com.microhealthllc.bmr_calculator:id/gender[text]None[enabled,,]",
+      "view_str": "e69059782cde3eac6d71bf51fd5e9366",
+      "content_free_signature": "[class]android.widget.RadioGroup[resource_id]com.microhealthllc.bmr_calculator:id/gender"
+    },
+    {
+      "package": "com.microhealthllc.bmr_calculator",
+      "visible": true,
+      "checkable": true,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          63,
+          1095
+        ],
+        [
+          371,
+          1263
+        ]
+      ],
+      "resource_id": "com.microhealthllc.bmr_calculator:id/male",
+      "checked": true,
+      "text": "Male",
+      "class": "android.widget.RadioButton",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 34,
+      "temp_id": 35,
+      "size": "308*168",
+      "signature": "[class]android.widget.RadioButton[resource_id]com.microhealthllc.bmr_calculator:id/male[text]Male[enabled,checked,]",
+      "view_str": "c3add21b5d57776225aa9ceb35ad4faf",
+      "content_free_signature": "[class]android.widget.RadioButton[resource_id]com.microhealthllc.bmr_calculator:id/male"
+    },
+    {
+      "package": "com.microhealthllc.bmr_calculator",
+      "visible": true,
+      "checkable": true,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          385,
+          1095
+        ],
+        [
+          693,
+          1263
+        ]
+      ],
+      "resource_id": "com.microhealthllc.bmr_calculator:id/female",
+      "checked": false,
+      "text": "Female",
+      "class": "android.widget.RadioButton",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 34,
+      "temp_id": 36,
+      "size": "308*168",
+      "signature": "[class]android.widget.RadioButton[resource_id]com.microhealthllc.bmr_calculator:id/female[text]Female[enabled,,]",
+      "view_str": "c341dab6e72dc9760db6ab4e94255783",
+      "content_free_signature": "[class]android.widget.RadioButton[resource_id]com.microhealthllc.bmr_calculator:id/female"
+    },
+    {
+      "package": "com.microhealthllc.bmr_calculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 3,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        38,
+        43,
+        44
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          1450
+        ],
+        [
+          1440,
+          2952
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.LinearLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 8,
+      "temp_id": 37,
+      "size": "1440*1502",
+      "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+      "view_str": "ca65e7e377c3850059746055829c565d",
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None"
+    },
+    {
+      "package": "com.microhealthllc.bmr_calculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 2,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        39,
+        40
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          1450
+        ],
+        [
+          1440,
+          1705
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.LinearLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 37,
+      "temp_id": 38,
+      "size": "1440*255",
+      "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+      "view_str": "555aef331e61b563fb742c74c3c73a6c",
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None"
+    },
+    {
+      "package": "com.microhealthllc.bmr_calculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          1450
+        ],
+        [
+          494,
+          1578
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "Active Level",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 38,
+      "temp_id": 39,
+      "size": "494*128",
+      "signature": "[class]android.widget.TextView[resource_id]None[text]Active Level[enabled,,]",
+      "view_str": "bb58fef596c790c66f1fddfca4649a45",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]None"
+    },
+    {
+      "package": "com.microhealthllc.bmr_calculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        41
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          1578
+        ],
+        [
+          1440,
+          1705
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.LinearLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 38,
+      "temp_id": 40,
+      "size": "1440*127",
+      "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+      "view_str": "22b77d2a26b8fa4390313fd86892ce3c",
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None"
+    },
+    {
+      "package": "com.microhealthllc.bmr_calculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        42
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          56,
+          1578
+        ],
+        [
+          1384,
+          1705
+        ]
+      ],
+      "resource_id": "com.microhealthllc.bmr_calculator:id/spinner",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.Spinner",
+      "scrollable": true,
+      "selected": false,
+      "long_clickable": true,
+      "parent": 40,
+      "temp_id": 41,
+      "size": "1328*127",
+      "signature": "[class]android.widget.Spinner[resource_id]com.microhealthllc.bmr_calculator:id/spinner[text]None[enabled,,]",
+      "view_str": "6ac7b6ba8969b8611e3d64b3b1b4b571",
+      "content_free_signature": "[class]android.widget.Spinner[resource_id]com.microhealthllc.bmr_calculator:id/spinner"
+    },
+    {
+      "package": "com.microhealthllc.bmr_calculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          56,
+          1578
+        ],
+        [
+          1216,
+          1705
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "Sedentary : little or no exercise",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 41,
+      "temp_id": 42,
+      "size": "1160*127",
+      "signature": "[class]android.widget.TextView[resource_id]None[text]Sedentary : little or no exercise[enabled,,]",
+      "view_str": "246e8fb9c130b7ee3999a9a2e223c6ae",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]None"
+    },
+    {
+      "package": "com.microhealthllc.bmr_calculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          1705
+        ],
+        [
+          1440,
+          1901
+        ]
+      ],
+      "resource_id": "com.microhealthllc.bmr_calculator:id/toolbar_choose_avatar",
+      "checked": false,
+      "text": "Choose an Avatar",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 37,
+      "temp_id": 43,
+      "size": "1440*196",
+      "signature": "[class]android.widget.TextView[resource_id]com.microhealthllc.bmr_calculator:id/toolbar_choose_avatar[text]Choose an Avatar[enabled,,]",
+      "view_str": "fd93ae5b6eef5db6687729b4bd02ad06",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.microhealthllc.bmr_calculator:id/toolbar_choose_avatar"
+    },
+    {
+      "package": "com.microhealthllc.bmr_calculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 5,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        45,
+        46,
+        47,
+        48,
+        49
+      ],
+      "focused": true,
+      "bounds": [
+        [
+          0,
+          1901
+        ],
+        [
+          1440,
+          2952
+        ]
+      ],
+      "resource_id": "com.microhealthllc.bmr_calculator:id/avatars",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.GridView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 37,
+      "temp_id": 44,
+      "size": "1440*1051",
+      "signature": "[class]android.widget.GridView[resource_id]com.microhealthllc.bmr_calculator:id/avatars[text]None[enabled,,]",
+      "view_str": "cd93b516bae963bd39566d3729cbd06b",
+      "content_free_signature": "[class]android.widget.GridView[resource_id]com.microhealthllc.bmr_calculator:id/avatars"
+    },
+    {
+      "package": "com.microhealthllc.bmr_calculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": "Avatar 01",
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          56,
+          1901
+        ],
+        [
+          252,
+          2097
+        ]
+      ],
+      "resource_id": "com.microhealthllc.bmr_calculator:id/avatar",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.ImageView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 44,
+      "temp_id": 45,
+      "size": "196*196",
+      "signature": "[class]android.widget.ImageView[resource_id]com.microhealthllc.bmr_calculator:id/avatar[text]None[enabled,,]",
+      "view_str": "2aa3b7bbf7ff0bb9916f5225979754cf",
+      "content_free_signature": "[class]android.widget.ImageView[resource_id]com.microhealthllc.bmr_calculator:id/avatar"
+    },
+    {
+      "package": "com.microhealthllc.bmr_calculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": "Avatar 11",
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          321,
+          1901
+        ],
+        [
+          517,
+          2097
+        ]
+      ],
+      "resource_id": "com.microhealthllc.bmr_calculator:id/avatar",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.ImageView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 44,
+      "temp_id": 46,
+      "size": "196*196",
+      "signature": "[class]android.widget.ImageView[resource_id]com.microhealthllc.bmr_calculator:id/avatar[text]None[enabled,,]",
+      "view_str": "2aa3b7bbf7ff0bb9916f5225979754cf",
+      "content_free_signature": "[class]android.widget.ImageView[resource_id]com.microhealthllc.bmr_calculator:id/avatar"
+    },
+    {
+      "package": "com.microhealthllc.bmr_calculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": "Avatar 21",
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          586,
+          1901
+        ],
+        [
+          782,
+          2097
+        ]
+      ],
+      "resource_id": "com.microhealthllc.bmr_calculator:id/avatar",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.ImageView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 44,
+      "temp_id": 47,
+      "size": "196*196",
+      "signature": "[class]android.widget.ImageView[resource_id]com.microhealthllc.bmr_calculator:id/avatar[text]None[enabled,,]",
+      "view_str": "2aa3b7bbf7ff0bb9916f5225979754cf",
+      "content_free_signature": "[class]android.widget.ImageView[resource_id]com.microhealthllc.bmr_calculator:id/avatar"
+    },
+    {
+      "package": "com.microhealthllc.bmr_calculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": "Avatar 31",
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          851,
+          1901
+        ],
+        [
+          1047,
+          2097
+        ]
+      ],
+      "resource_id": "com.microhealthllc.bmr_calculator:id/avatar",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.ImageView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 44,
+      "temp_id": 48,
+      "size": "196*196",
+      "signature": "[class]android.widget.ImageView[resource_id]com.microhealthllc.bmr_calculator:id/avatar[text]None[enabled,,]",
+      "view_str": "2aa3b7bbf7ff0bb9916f5225979754cf",
+      "content_free_signature": "[class]android.widget.ImageView[resource_id]com.microhealthllc.bmr_calculator:id/avatar"
+    },
+    {
+      "package": "com.microhealthllc.bmr_calculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": "Avatar 41",
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          1116,
+          1901
+        ],
+        [
+          1312,
+          2097
+        ]
+      ],
+      "resource_id": "com.microhealthllc.bmr_calculator:id/avatar",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.ImageView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 44,
+      "temp_id": 49,
+      "size": "196*196",
+      "signature": "[class]android.widget.ImageView[resource_id]com.microhealthllc.bmr_calculator:id/avatar[text]None[enabled,,]",
+      "view_str": "2aa3b7bbf7ff0bb9916f5225979754cf",
+      "content_free_signature": "[class]android.widget.ImageView[resource_id]com.microhealthllc.bmr_calculator:id/avatar"
+    },
+    {
+      "package": "com.microhealthllc.bmr_calculator",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          0
+        ],
+        [
+          1440,
+          84
+        ]
+      ],
+      "resource_id": "android:id/statusBarBackground",
+      "checked": false,
+      "text": null,
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 0,
+      "temp_id": 50,
+      "size": "1440*84",
+      "signature": "[class]android.view.View[resource_id]android:id/statusBarBackground[text]None[enabled,,]",
+      "view_str": "1528226cf4ba626bc6820dd726630c33",
+      "content_free_signature": "[class]android.view.View[resource_id]android:id/statusBarBackground"
+    },
+    {
+      "package": "com.microhealthllc.bmr_calculator",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          2952
+        ],
+        [
+          1440,
+          3120
+        ]
+      ],
+      "resource_id": "android:id/navigationBarBackground",
+      "checked": false,
+      "text": null,
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 0,
+      "temp_id": 51,
+      "size": "1440*168",
+      "signature": "[class]android.view.View[resource_id]android:id/navigationBarBackground[text]None[enabled,,]",
+      "view_str": "4dfb3563831eb396ace96696a573b8dd",
+      "content_free_signature": "[class]android.view.View[resource_id]android:id/navigationBarBackground"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "tag": "2023-08-10_200338",
+  "event": {
+    "event_type": "kill_app",
+    "log_lines": null,
+    "stop_intent": "am force-stop com.bmi.bmr.calculator.tracker.health.tdee"
+  },
+  "start_state": "7fe407d67bfe1f70a1d7576fff5f7ab6",
+  "stop_state": "f3b2d0d892e9cc57b2026ca5b4bcfcbe",
+  "event_str": "KillAppEvent()"
+}

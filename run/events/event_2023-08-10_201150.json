@@ -1,0 +1,49 @@
+{
+  "tag": "2023-08-10_201150",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.d.bmrhsb",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          595,
+          1896
+        ],
+        [
+          718,
+          2001
+        ]
+      ],
+      "resource_id": "com.d.bmrhsb:id/maleimg",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.ImageView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 14,
+      "temp_id": 15,
+      "size": "123*105",
+      "signature": "[class]android.widget.ImageView[resource_id]com.d.bmrhsb:id/maleimg[text]None[enabled,,]",
+      "view_str": "2a181d75b5d287309ed8b135a9d00da3",
+      "content_free_signature": "[class]android.widget.ImageView[resource_id]com.d.bmrhsb:id/maleimg"
+    }
+  },
+  "start_state": "cc56e964bc1e93996027efa0ab112337",
+  "stop_state": "cc56e964bc1e93996027efa0ab112337",
+  "event_str": "TouchEvent(state=cc56e964bc1e93996027efa0ab112337, view=2a181d75b5d287309ed8b135a9d00da3(MainActivity/ImageView-))"
+}

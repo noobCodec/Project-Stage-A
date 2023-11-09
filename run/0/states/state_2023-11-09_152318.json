@@ -1,0 +1,1492 @@
+{
+  "tag": "2023-11-09_152318",
+  "state_str": "2df444b4a7cc0d006ce99137dce141af",
+  "state_str_content_free": "b079a5492eb2fb4868321f916f4392a8",
+  "foreground_activity": "com.bmi.bmr.calculator.tracker.health.tdee/.ActivityBMR",
+  "activity_stack": [
+    "com.bmi.bmr.calculator.tracker.health.tdee/.ActivityBMR"
+  ],
+  "background_services": [
+    "com.google.android.gms/.deviceconnection.service.DeviceConnectionWatcherService",
+    "com.google.android.gms/com.google.android.location.places.service.PlaceDetectionAsyncService",
+    "com.android.systemui/.keyguard.KeyguardService",
+    "com.android.systemui/.ImageWallpaper",
+    "com.google.android.gms/com.google.android.location.geocode.GeocodeService",
+    "com.google.android.gms/.auth.setup.devicesignals.LockScreenService",
+    "com.google.android.gms/.gcm.GcmService",
+    "com.google.android.gms/.clearcut.debug.ClearcutDebugDumpService",
+    "com.google.android.gms/.chimera.PersistentApiService",
+    "com.android.phone/com.android.internal.telephony.CellularNetworkService",
+    "com.google.android.gms/org.chromium.content.app.SandboxedProcessService29",
+    "com.google.android.gms/.chimera.PersistentBoundBrokerService",
+    "com.google.android.gms/.chimera.GmsBoundBrokerService",
+    "com.google.android.gms/.fido.fido2.pollux.CableAuthenticatorService",
+    "com.google.android.googlequicksearchbox/com.google.android.apps.gsa.nowoverlayservice.DrawerOverlayService",
+    "io.github.ylimit.droidbotapp/.DroidBotIME",
+    "com.google.android.gms/com.google.android.location.fused.FusedLocationService",
+    "com.google.android.gms/.gcm.nts.SchedulerService",
+    "com.google.android.setupwizard/.logging.ScreenOnClock",
+    "io.github.ylimit.droidbotapp/io.github.privacystreams.accessibility.PSAccessibilityService",
+    "com.google.android.gms/com.google.android.location.geofencer.service.GeofenceProviderService",
+    "com.google.android.gms/.thunderbird.EmergencyPersistentService",
+    "com.google.android.apps.messaging/.fcm.BugleFirebaseInstanceIDService",
+    "com.android.systemui/.SystemUIService",
+    "com.google.android.gms/.nearby.exposurenotification.service.ExposureMatchingService",
+    "android/.hardware.location.GeofenceHardwareService",
+    "com.android.se/.SecureElementService",
+    "com.google.android.ims/.services.RcsService",
+    "com.google.android.gms/.chimera.GmsIntentOperationService",
+    "com.google.android.gms/.chimera.PersistentDirectBootAwareApiService",
+    "com.google.android.gms/.chimera.PersistentIntentOperationService",
+    "com.google.android.ext.services/android.ext.services.notification.Assistant",
+    "com.google.android.gms/.location.persistent.LocationPersistentService",
+    "com.google.android.gms/com.google.android.location.internal.PendingIntentCallbackService",
+    "com.google.android.gms/com.google.android.location.internal.server.GoogleLocationService",
+    "com.google.android.gms/com.google.android.contextmanager.service.ContextManagerService",
+    "com.google.android.gms/com.google.android.location.network.NetworkLocationService",
+    "com.google.android.gms/com.google.android.location.internal.GoogleLocationManagerService",
+    "com.android.phone/com.android.internal.telephony.dataconnection.CellularDataService",
+    "com.android.server.telecom/.components.TelecomService",
+    "com.google.android.googlequicksearchbox/com.google.android.voiceinteraction.GsaVoiceInteractionService",
+    "com.android.smspush/.WapPushManager",
+    "com.android.phone/.vvm.RemoteVvmTaskManager",
+    "com.google.android.setupwizard/.predeferred.PreDeferredUpdateService",
+    "android/com.android.server.content.SyncJobService",
+    "com.google.android.gms/.common.stats.GmsCoreStatsService",
+    "com.google.android.gms/com.google.android.location.internal.server.HardwareArProviderService",
+    "com.google.android.gm/com.google.firebase.iid.FirebaseInstanceIdService",
+    "com.android.phone/.TelephonyDebugService",
+    "com.google.android.videos/.service.pinning.TransferService",
+    "com.google.android.apps.messaging/.shared.datamodel.action.ActionExecutorImpl",
+    "com.google.android.apps.nexuslauncher/com.android.quickstep.TouchInteractionService"
+  ],
+  "width": 1440,
+  "height": 3120,
+  "views": [
+    {
+      "package": "com.bmi.bmr.calculator.tracker.health.tdee",
+      "visible": true,
+      "checkable": false,
+      "child_count": 3,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        1,
+        35,
+        36
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          0
+        ],
+        [
+          1440,
+          3120
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.FrameLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": -1,
+      "temp_id": 0,
+      "size": "1440*3120",
+      "signature": "[class]android.widget.FrameLayout[resource_id]None[text]None[enabled,,]",
+      "view_str": "d8f9c21aaa0767b19b045300610edf2b",
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]None"
+    },
+    {
+      "package": "com.bmi.bmr.calculator.tracker.health.tdee",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        2
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          0
+        ],
+        [
+          1440,
+          2952
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.LinearLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 0,
+      "temp_id": 1,
+      "size": "1440*2952",
+      "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+      "view_str": "f73db6bd24fbba3b938036ab1ef7abd5",
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None"
+    },
+    {
+      "package": "com.bmi.bmr.calculator.tracker.health.tdee",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        3
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          84
+        ],
+        [
+          1440,
+          2952
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.FrameLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 1,
+      "temp_id": 2,
+      "size": "1440*2868",
+      "signature": "[class]android.widget.FrameLayout[resource_id]None[text]None[enabled,,]",
+      "view_str": "079a92bb2fb4e2cb449c5b902ed512ff",
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]None"
+    },
+    {
+      "package": "com.bmi.bmr.calculator.tracker.health.tdee",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        4
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          84
+        ],
+        [
+          1440,
+          2952
+        ]
+      ],
+      "resource_id": "com.bmi.bmr.calculator.tracker.health.tdee:id/action_bar_root",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.LinearLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 2,
+      "temp_id": 3,
+      "size": "1440*2868",
+      "signature": "[class]android.widget.LinearLayout[resource_id]com.bmi.bmr.calculator.tracker.health.tdee:id/action_bar_root[text]None[enabled,,]",
+      "view_str": "882181a6c077c37423aca44dccdb97f6",
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]com.bmi.bmr.calculator.tracker.health.tdee:id/action_bar_root"
+    },
+    {
+      "package": "com.bmi.bmr.calculator.tracker.health.tdee",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        5
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          84
+        ],
+        [
+          1440,
+          2952
+        ]
+      ],
+      "resource_id": "android:id/content",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.FrameLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 3,
+      "temp_id": 4,
+      "size": "1440*2868",
+      "signature": "[class]android.widget.FrameLayout[resource_id]android:id/content[text]None[enabled,,]",
+      "view_str": "ea16700748609d53388d933602ddf1a6",
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]android:id/content"
+    },
+    {
+      "package": "com.bmi.bmr.calculator.tracker.health.tdee",
+      "visible": true,
+      "checkable": false,
+      "child_count": 2,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        6,
+        10
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          84
+        ],
+        [
+          1440,
+          2952
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.LinearLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 4,
+      "temp_id": 5,
+      "size": "1440*2868",
+      "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+      "view_str": "b560a27fd3dced5160fc5abce4238026",
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None"
+    },
+    {
+      "package": "com.bmi.bmr.calculator.tracker.health.tdee",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        7
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          84
+        ],
+        [
+          1440,
+          280
+        ]
+      ],
+      "resource_id": "com.bmi.bmr.calculator.tracker.health.tdee:id/toolbar",
+      "checked": false,
+      "text": null,
+      "class": "android.view.ViewGroup",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 5,
+      "temp_id": 6,
+      "size": "1440*196",
+      "signature": "[class]android.view.ViewGroup[resource_id]com.bmi.bmr.calculator.tracker.health.tdee:id/toolbar[text]None[enabled,,]",
+      "view_str": "20407f0e40ac1e46f0ce2ef1b3f958ff",
+      "content_free_signature": "[class]android.view.ViewGroup[resource_id]com.bmi.bmr.calculator.tracker.health.tdee:id/toolbar"
+    },
+    {
+      "package": "com.bmi.bmr.calculator.tracker.health.tdee",
+      "visible": true,
+      "checkable": false,
+      "child_count": 2,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        8,
+        9
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          56,
+          84
+        ],
+        [
+          1440,
+          280
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.RelativeLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 6,
+      "temp_id": 7,
+      "size": "1384*196",
+      "signature": "[class]android.widget.RelativeLayout[resource_id]None[text]None[enabled,,]",
+      "view_str": "42c957a890712502438e7a348b672d76",
+      "content_free_signature": "[class]android.widget.RelativeLayout[resource_id]None"
+    },
+    {
+      "package": "com.bmi.bmr.calculator.tracker.health.tdee",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          56,
+          129
+        ],
+        [
+          161,
+          234
+        ]
+      ],
+      "resource_id": "com.bmi.bmr.calculator.tracker.health.tdee:id/backButton",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.ImageView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 7,
+      "temp_id": 8,
+      "size": "105*105",
+      "signature": "[class]android.widget.ImageView[resource_id]com.bmi.bmr.calculator.tracker.health.tdee:id/backButton[text]None[enabled,,]",
+      "view_str": "4b4c25f6342343b36f0abbf54ceafc23",
+      "content_free_signature": "[class]android.widget.ImageView[resource_id]com.bmi.bmr.calculator.tracker.health.tdee:id/backButton"
+    },
+    {
+      "package": "com.bmi.bmr.calculator.tracker.health.tdee",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          196,
+          139
+        ],
+        [
+          796,
+          224
+        ]
+      ],
+      "resource_id": "com.bmi.bmr.calculator.tracker.health.tdee:id/titleActionBar",
+      "checked": false,
+      "text": "Basal Metabolic Rate",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 7,
+      "temp_id": 9,
+      "size": "600*85",
+      "signature": "[class]android.widget.TextView[resource_id]com.bmi.bmr.calculator.tracker.health.tdee:id/titleActionBar[text]Basal Metabolic Rate[enabled,,]",
+      "view_str": "738377a87967b9714bd57aa72ae10ee2",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.bmi.bmr.calculator.tracker.health.tdee:id/titleActionBar"
+    },
+    {
+      "package": "com.bmi.bmr.calculator.tracker.health.tdee",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        11
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          280
+        ],
+        [
+          1440,
+          2952
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.ScrollView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 5,
+      "temp_id": 10,
+      "size": "1440*2672",
+      "signature": "[class]android.widget.ScrollView[resource_id]None[text]None[enabled,,]",
+      "view_str": "9bfb2654c8d1a86bca1f1e5c801ed93e",
+      "content_free_signature": "[class]android.widget.ScrollView[resource_id]None"
+    },
+    {
+      "package": "com.bmi.bmr.calculator.tracker.health.tdee",
+      "visible": true,
+      "checkable": false,
+      "child_count": 2,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        12,
+        34
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          280
+        ],
+        [
+          1440,
+          1562
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.LinearLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 10,
+      "temp_id": 11,
+      "size": "1440*1282",
+      "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+      "view_str": "d65158eaa6edec642b5be9d74af61b84",
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None"
+    },
+    {
+      "package": "com.bmi.bmr.calculator.tracker.health.tdee",
+      "visible": true,
+      "checkable": false,
+      "child_count": 6,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        13,
+        14,
+        21,
+        22,
+        28,
+        29
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          35,
+          315
+        ],
+        [
+          1405,
+          1289
+        ]
+      ],
+      "resource_id": "com.bmi.bmr.calculator.tracker.health.tdee:id/inputArea",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.LinearLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 11,
+      "temp_id": 12,
+      "size": "1370*974",
+      "signature": "[class]android.widget.LinearLayout[resource_id]com.bmi.bmr.calculator.tracker.health.tdee:id/inputArea[text]None[enabled,,]",
+      "view_str": "642d6eb0b53c55dde616c113acf23c41",
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]com.bmi.bmr.calculator.tracker.health.tdee:id/inputArea"
+    },
+    {
+      "package": "com.bmi.bmr.calculator.tracker.health.tdee",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          105,
+          413
+        ],
+        [
+          203,
+          489
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "Age",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 12,
+      "temp_id": 13,
+      "size": "98*76",
+      "signature": "[class]android.widget.TextView[resource_id]None[text]Age[enabled,,]",
+      "view_str": "da7866d65ede8a8a3e59a053f0e5490c",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]None"
+    },
+    {
+      "package": "com.bmi.bmr.calculator.tracker.health.tdee",
+      "visible": true,
+      "checkable": false,
+      "child_count": 4,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        15,
+        16,
+        18,
+        19
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          105,
+          517
+        ],
+        [
+          1335,
+          663
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.LinearLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 12,
+      "temp_id": 14,
+      "size": "1230*146",
+      "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+      "view_str": "20b033f0b7d08417cf90e1e9567cc1f5",
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None"
+    },
+    {
+      "package": "com.bmi.bmr.calculator.tracker.health.tdee",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": true,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          105,
+          517
+        ],
+        [
+          1137,
+          663
+        ]
+      ],
+      "resource_id": "com.bmi.bmr.calculator.tracker.health.tdee:id/ageInp",
+      "checked": false,
+      "text": "18",
+      "class": "android.widget.EditText",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": true,
+      "parent": 14,
+      "temp_id": 15,
+      "size": "1032*146",
+      "signature": "[class]android.widget.EditText[resource_id]com.bmi.bmr.calculator.tracker.health.tdee:id/ageInp[text]18[enabled,,]",
+      "view_str": "5dc847e247f53dff04352e35ca100ce6",
+      "content_free_signature": "[class]android.widget.EditText[resource_id]com.bmi.bmr.calculator.tracker.health.tdee:id/ageInp"
+    },
+    {
+      "package": "com.bmi.bmr.calculator.tracker.health.tdee",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        17
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          1172,
+          560
+        ],
+        [
+          1232,
+          620
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.FrameLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 14,
+      "temp_id": 16,
+      "size": "60*60",
+      "signature": "[class]android.widget.FrameLayout[resource_id]None[text]None[enabled,,]",
+      "view_str": "908b1ae42849d0220ef6e6a3f1091e11",
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]None"
+    },
+    {
+      "package": "com.bmi.bmr.calculator.tracker.health.tdee",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          1172,
+          560
+        ],
+        [
+          1232,
+          620
+        ]
+      ],
+      "resource_id": "com.bmi.bmr.calculator.tracker.health.tdee:id/maleBtn",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.ImageView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 16,
+      "temp_id": 17,
+      "size": "60*60",
+      "signature": "[class]android.widget.ImageView[resource_id]com.bmi.bmr.calculator.tracker.health.tdee:id/maleBtn[text]None[enabled,,]",
+      "view_str": "e741bd95ecea80745857f9d4a4c4b525",
+      "content_free_signature": "[class]android.widget.ImageView[resource_id]com.bmi.bmr.calculator.tracker.health.tdee:id/maleBtn"
+    },
+    {
+      "package": "com.bmi.bmr.calculator.tracker.health.tdee",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          1250,
+          535
+        ],
+        [
+          1257,
+          645
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 14,
+      "temp_id": 18,
+      "size": "7*110",
+      "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]",
+      "view_str": "2a3783b52610bece17e4a1e95667ae9b",
+      "content_free_signature": "[class]android.view.View[resource_id]None"
+    },
+    {
+      "package": "com.bmi.bmr.calculator.tracker.health.tdee",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        20
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          1275,
+          560
+        ],
+        [
+          1335,
+          620
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.FrameLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 14,
+      "temp_id": 19,
+      "size": "60*60",
+      "signature": "[class]android.widget.FrameLayout[resource_id]None[text]None[enabled,,]",
+      "view_str": "e85cd782ffa087e1c886c042aa33adc3",
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]None"
+    },
+    {
+      "package": "com.bmi.bmr.calculator.tracker.health.tdee",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          1275,
+          560
+        ],
+        [
+          1335,
+          620
+        ]
+      ],
+      "resource_id": "com.bmi.bmr.calculator.tracker.health.tdee:id/femaleBtn",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.ImageView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 19,
+      "temp_id": 20,
+      "size": "60*60",
+      "signature": "[class]android.widget.ImageView[resource_id]com.bmi.bmr.calculator.tracker.health.tdee:id/femaleBtn[text]None[enabled,,]",
+      "view_str": "bc0d7ab7ab9c9bbbcc8335f65ea2c0f7",
+      "content_free_signature": "[class]android.widget.ImageView[resource_id]com.bmi.bmr.calculator.tracker.health.tdee:id/femaleBtn"
+    },
+    {
+      "package": "com.bmi.bmr.calculator.tracker.health.tdee",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          105,
+          691
+        ],
+        [
+          269,
+          767
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "Height",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 12,
+      "temp_id": 21,
+      "size": "164*76",
+      "signature": "[class]android.widget.TextView[resource_id]None[text]Height[enabled,,]",
+      "view_str": "92d9fb9019cb5c93c7ec871e18ba1ac3",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]None"
+    },
+    {
+      "package": "com.bmi.bmr.calculator.tracker.health.tdee",
+      "visible": true,
+      "checkable": false,
+      "child_count": 3,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        23,
+        24,
+        25
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          105,
+          795
+        ],
+        [
+          1335,
+          941
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.LinearLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 12,
+      "temp_id": 22,
+      "size": "1230*146",
+      "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+      "view_str": "251d3b77ffc342210380944a466468a4",
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None"
+    },
+    {
+      "package": "com.bmi.bmr.calculator.tracker.health.tdee",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": true,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          105,
+          795
+        ],
+        [
+          510,
+          941
+        ]
+      ],
+      "resource_id": "com.bmi.bmr.calculator.tracker.health.tdee:id/heightInp",
+      "checked": false,
+      "text": "12",
+      "class": "android.widget.EditText",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": true,
+      "parent": 22,
+      "temp_id": 23,
+      "size": "405*146",
+      "signature": "[class]android.widget.EditText[resource_id]com.bmi.bmr.calculator.tracker.health.tdee:id/heightInp[text]12[enabled,,]",
+      "view_str": "48e7784ffcbeedde9ffea401f24cbe5c",
+      "content_free_signature": "[class]android.widget.EditText[resource_id]com.bmi.bmr.calculator.tracker.health.tdee:id/heightInp"
+    },
+    {
+      "package": "com.bmi.bmr.calculator.tracker.health.tdee",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": true,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": true,
+      "bounds": [
+        [
+          545,
+          795
+        ],
+        [
+          950,
+          941
+        ]
+      ],
+      "resource_id": "com.bmi.bmr.calculator.tracker.health.tdee:id/heightInpInches",
+      "checked": false,
+      "text": "6",
+      "class": "android.widget.EditText",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": true,
+      "parent": 22,
+      "temp_id": 24,
+      "size": "405*146",
+      "signature": "[class]android.widget.EditText[resource_id]com.bmi.bmr.calculator.tracker.health.tdee:id/heightInpInches[text]6[enabled,,]",
+      "view_str": "e3b08044378e2278ecbc6fa87c35977a",
+      "content_free_signature": "[class]android.widget.EditText[resource_id]com.bmi.bmr.calculator.tracker.health.tdee:id/heightInpInches"
+    },
+    {
+      "package": "com.bmi.bmr.calculator.tracker.health.tdee",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        26
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          985,
+          795
+        ],
+        [
+          1335,
+          941
+        ]
+      ],
+      "resource_id": "com.bmi.bmr.calculator.tracker.health.tdee:id/cardView_spinner",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.FrameLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 22,
+      "temp_id": 25,
+      "size": "350*146",
+      "signature": "[class]android.widget.FrameLayout[resource_id]com.bmi.bmr.calculator.tracker.health.tdee:id/cardView_spinner[text]None[enabled,,]",
+      "view_str": "195e990f822beb239e8135a4a5b297ae",
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]com.bmi.bmr.calculator.tracker.health.tdee:id/cardView_spinner"
+    },
+    {
+      "package": "com.bmi.bmr.calculator.tracker.health.tdee",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        27
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          985,
+          795
+        ],
+        [
+          1335,
+          941
+        ]
+      ],
+      "resource_id": "com.bmi.bmr.calculator.tracker.health.tdee:id/heightSpinner",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.Spinner",
+      "scrollable": true,
+      "selected": false,
+      "long_clickable": true,
+      "parent": 25,
+      "temp_id": 26,
+      "size": "350*146",
+      "signature": "[class]android.widget.Spinner[resource_id]com.bmi.bmr.calculator.tracker.health.tdee:id/heightSpinner[text]None[enabled,,]",
+      "view_str": "8cde1bf2ce75753206799ee4d3addaae",
+      "content_free_signature": "[class]android.widget.Spinner[resource_id]com.bmi.bmr.calculator.tracker.health.tdee:id/heightSpinner"
+    },
+    {
+      "package": "com.bmi.bmr.calculator.tracker.health.tdee",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          985,
+          830
+        ],
+        [
+          1167,
+          906
+        ]
+      ],
+      "resource_id": "android:id/text1",
+      "checked": false,
+      "text": "ft-in",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 26,
+      "temp_id": 27,
+      "size": "182*76",
+      "signature": "[class]android.widget.TextView[resource_id]android:id/text1[text]ft-in[enabled,,]",
+      "view_str": "1b8741e78d1b178f34c99963635a5cea",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]android:id/text1"
+    },
+    {
+      "package": "com.bmi.bmr.calculator.tracker.health.tdee",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          105,
+          969
+        ],
+        [
+          278,
+          1045
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "Weight",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 12,
+      "temp_id": 28,
+      "size": "173*76",
+      "signature": "[class]android.widget.TextView[resource_id]None[text]Weight[enabled,,]",
+      "view_str": "25b44b207a11b7cdfe24e46ca34bbf4e",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]None"
+    },
+    {
+      "package": "com.bmi.bmr.calculator.tracker.health.tdee",
+      "visible": true,
+      "checkable": false,
+      "child_count": 2,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        30,
+        31
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          105,
+          1073
+        ],
+        [
+          1335,
+          1219
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.LinearLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 12,
+      "temp_id": 29,
+      "size": "1230*146",
+      "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+      "view_str": "6ded36f8b38174d0f804098931be2c37",
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None"
+    },
+    {
+      "package": "com.bmi.bmr.calculator.tracker.health.tdee",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": true,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          105,
+          1073
+        ],
+        [
+          950,
+          1219
+        ]
+      ],
+      "resource_id": "com.bmi.bmr.calculator.tracker.health.tdee:id/weightInp",
+      "checked": false,
+      "text": "78",
+      "class": "android.widget.EditText",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": true,
+      "parent": 29,
+      "temp_id": 30,
+      "size": "845*146",
+      "signature": "[class]android.widget.EditText[resource_id]com.bmi.bmr.calculator.tracker.health.tdee:id/weightInp[text]78[enabled,,]",
+      "view_str": "141651b8036f76b40018381014f5778d",
+      "content_free_signature": "[class]android.widget.EditText[resource_id]com.bmi.bmr.calculator.tracker.health.tdee:id/weightInp"
+    },
+    {
+      "package": "com.bmi.bmr.calculator.tracker.health.tdee",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        32
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          985,
+          1073
+        ],
+        [
+          1335,
+          1219
+        ]
+      ],
+      "resource_id": "com.bmi.bmr.calculator.tracker.health.tdee:id/weight_cardView_spinner",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.FrameLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 29,
+      "temp_id": 31,
+      "size": "350*146",
+      "signature": "[class]android.widget.FrameLayout[resource_id]com.bmi.bmr.calculator.tracker.health.tdee:id/weight_cardView_spinner[text]None[enabled,,]",
+      "view_str": "0e9d9f5edd3cc8ceebe4dac915170176",
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]com.bmi.bmr.calculator.tracker.health.tdee:id/weight_cardView_spinner"
+    },
+    {
+      "package": "com.bmi.bmr.calculator.tracker.health.tdee",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        33
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          985,
+          1073
+        ],
+        [
+          1335,
+          1219
+        ]
+      ],
+      "resource_id": "com.bmi.bmr.calculator.tracker.health.tdee:id/weightSpinner",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.Spinner",
+      "scrollable": true,
+      "selected": false,
+      "long_clickable": true,
+      "parent": 31,
+      "temp_id": 32,
+      "size": "350*146",
+      "signature": "[class]android.widget.Spinner[resource_id]com.bmi.bmr.calculator.tracker.health.tdee:id/weightSpinner[text]None[enabled,,]",
+      "view_str": "72396d4934bbb8ca086a08e2425d76c2",
+      "content_free_signature": "[class]android.widget.Spinner[resource_id]com.bmi.bmr.calculator.tracker.health.tdee:id/weightSpinner"
+    },
+    {
+      "package": "com.bmi.bmr.calculator.tracker.health.tdee",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          985,
+          1108
+        ],
+        [
+          1167,
+          1184
+        ]
+      ],
+      "resource_id": "android:id/text1",
+      "checked": false,
+      "text": "kg",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 32,
+      "temp_id": 33,
+      "size": "182*76",
+      "signature": "[class]android.widget.TextView[resource_id]android:id/text1[text]kg[enabled,,]",
+      "view_str": "c0e97dab7ab0b9eceb03c40a891d6c95",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]android:id/text1"
+    },
+    {
+      "package": "com.bmi.bmr.calculator.tracker.health.tdee",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          35,
+          1359
+        ],
+        [
+          1405,
+          1527
+        ]
+      ],
+      "resource_id": "com.bmi.bmr.calculator.tracker.health.tdee:id/calculateBtn",
+      "checked": false,
+      "text": "Calculate",
+      "class": "android.widget.Button",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 11,
+      "temp_id": 34,
+      "size": "1370*168",
+      "signature": "[class]android.widget.Button[resource_id]com.bmi.bmr.calculator.tracker.health.tdee:id/calculateBtn[text]Calculate[enabled,,]",
+      "view_str": "47236e8b795ed05e60af3f107755d9ce",
+      "content_free_signature": "[class]android.widget.Button[resource_id]com.bmi.bmr.calculator.tracker.health.tdee:id/calculateBtn"
+    },
+    {
+      "package": "com.bmi.bmr.calculator.tracker.health.tdee",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          0
+        ],
+        [
+          1440,
+          84
+        ]
+      ],
+      "resource_id": "android:id/statusBarBackground",
+      "checked": false,
+      "text": null,
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 0,
+      "temp_id": 35,
+      "size": "1440*84",
+      "signature": "[class]android.view.View[resource_id]android:id/statusBarBackground[text]None[enabled,,]",
+      "view_str": "c704af058176863c9d63722083f444b9",
+      "content_free_signature": "[class]android.view.View[resource_id]android:id/statusBarBackground"
+    },
+    {
+      "package": "com.bmi.bmr.calculator.tracker.health.tdee",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          2952
+        ],
+        [
+          1440,
+          3120
+        ]
+      ],
+      "resource_id": "android:id/navigationBarBackground",
+      "checked": false,
+      "text": null,
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 0,
+      "temp_id": 36,
+      "size": "1440*168",
+      "signature": "[class]android.view.View[resource_id]android:id/navigationBarBackground[text]None[enabled,,]",
+      "view_str": "66376ac6e287d6eb5639e8e280496fb6",
+      "content_free_signature": "[class]android.view.View[resource_id]android:id/navigationBarBackground"
+    }
+  ]
+}

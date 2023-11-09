@@ -1,0 +1,77 @@
+Activity Resolver Table:
+  Non-Data Actions:
+      android.intent.action.MAIN:
+        4fadb64 org.fredriks.bmrcalc/.MainActivity filter 1c9868d
+          Action: "android.intent.action.MAIN"
+          Category: "android.intent.category.LAUNCHER"
+
+Registered ContentProviders:
+  org.fredriks.bmrcalc/com.google.android.gms.ads.MobileAdsInitProvider:
+    Provider{10011cd org.fredriks.bmrcalc/com.google.android.gms.ads.MobileAdsInitProvider}
+
+ContentProvider Authorities:
+  [org.fredriks.bmrcalc.mobileadsinitprovider]:
+    Provider{10011cd org.fredriks.bmrcalc/com.google.android.gms.ads.MobileAdsInitProvider}
+      applicationInfo=ApplicationInfo{4023a82 org.fredriks.bmrcalc}
+
+Key Set Manager:
+  [org.fredriks.bmrcalc]
+      Signing KeySets: 353
+
+Packages:
+  Package [org.fredriks.bmrcalc] (552b593):
+    userId=10302
+    pkg=Package{a3c49d0 org.fredriks.bmrcalc}
+    codePath=/data/app/org.fredriks.bmrcalc-v8eq97KUZOtR8poTbvKwNA==
+    resourcePath=/data/app/org.fredriks.bmrcalc-v8eq97KUZOtR8poTbvKwNA==
+    legacyNativeLibraryDir=/data/app/org.fredriks.bmrcalc-v8eq97KUZOtR8poTbvKwNA==/lib
+    primaryCpuAbi=null
+    secondaryCpuAbi=null
+    versionCode=2 minSdk=16 targetSdk=29
+    versionName=2.0
+    splits=[base]
+    apkSigningVersion=2
+    applicationInfo=ApplicationInfo{4023a82 org.fredriks.bmrcalc}
+    flags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP ]
+    privateFlags=[ PRIVATE_FLAG_ACTIVITIES_RESIZE_MODE_RESIZEABLE_VIA_SDK_VERSION ]
+    dataDir=/data/user/0/org.fredriks.bmrcalc
+    supportsScreens=[small, medium, large, xlarge, resizeable, anyDensity]
+    timeStamp=2023-08-04 11:24:52
+    firstInstallTime=2023-08-04 11:24:52
+    lastUpdateTime=2023-08-04 11:24:52
+    signatures=PackageSignatures{108fdc9 version:2, signatures:[553ae531], past signatures:[]}
+    installPermissionsFixed=true
+    pkgFlags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP ]
+    requested permissions:
+      android.permission.INTERNET
+      android.permission.ACCESS_NETWORK_STATE
+      android.permission.WAKE_LOCK
+    install permissions:
+      android.permission.INTERNET: granted=true
+      android.permission.ACCESS_NETWORK_STATE: granted=true
+      android.permission.WAKE_LOCK: granted=true
+    User 0: ceDataInode=-4294827971 installed=true hidden=false suspended=false stopped=false notLaunched=false enabled=0 instant=false virtual=false
+      gids=[3003]
+      runtime permissions:
+
+Package Changes:
+  Sequence number=30
+  User 0:
+    seq=3, package=com.google.android.gms
+    seq=5, package=com.package.bmrh
+    seq=18, package=com.cc.bmi.bmr.bodyfatpercentage.calculator
+    seq=29, package=com.cit.bmi.bmr.bodyfatpercentage.calculator
+
+
+Dexopt state:
+  [org.fredriks.bmrcalc]
+    path: /data/app/org.fredriks.bmrcalc-v8eq97KUZOtR8poTbvKwNA==/base.apk
+      x86: [status=speed-profile] [reason=install]
+      known secondary dex files:
+        /data/user/0/org.fredriks.bmrcalc/cache/1582435991586.jar
+          class loader context: PCL[];PCL[/data/app/org.fredriks.bmrcalc-v8eq97KUZOtR8poTbvKwNA==/base.apk]
+
+
+Compiler stats:
+  [org.fredriks.bmrcalc]
+    (No recorded stats)

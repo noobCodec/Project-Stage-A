@@ -1,0 +1,81 @@
+{
+  "views": {
+    "set_height": {
+      "resource_id": ".*et_height",
+      "class": ".*EditText"
+    },
+    "set_weight": {
+      "resource_id": ".*et_weight",
+      "class": ".*EditText"
+    },
+    "set_age": {
+      "resource_id": ".*et_age",
+      "class": ".*EditText"
+    },
+    "calculate": {
+      "resource_id": ".*tv_search_bmr",
+      "class": ".*TextView"
+    },
+    "skip_old": {
+      "in_coordinates": [
+        [
+          77,
+          1020
+        ]
+      ],
+      "resource_id": ".*rl_home"
+    }
+  },
+  "states": {
+    "main_activity_state": {
+      "views": [
+        "set_age"
+      ]
+    },
+    "skip_old_state": {
+      "views": [
+        "skip_old"
+      ]
+    }
+  },
+  "operations": {
+    "skip_old_op": [
+      {
+        "event_type": "touch",
+        "target_view": "skip_old"
+      }
+    ],
+    "bmi_operation": [
+      {
+        "event_type": "set_text",
+        "target_view": "set_age",
+        "text": 47
+      },
+      {
+        "event_type": "set_text",
+        "target_view": "set_weight",
+        "text": 87
+      },
+      {
+        "event_type": "set_text",
+        "target_view": "set_height",
+        "text": 434
+      },
+      {
+        "event_type": "touch",
+        "target_view": "calculate"
+      },
+      {
+        "event_type": "exit"
+      }
+    ]
+  },
+  "main": {
+    "main_activity_state": [
+      "bmi_operation"
+    ],
+    "skip_old_state": [
+      "skip_old_op"
+    ]
+  }
+}

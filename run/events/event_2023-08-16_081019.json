@@ -1,0 +1,11 @@
+{
+  "tag": "2023-08-16_081019",
+  "event": {
+    "event_type": "intent",
+    "log_lines": null,
+    "intent": "am start com.lisafontsbooth.bmicalculator.bmrandweightlosscalculator/com.lisafontsbooth.bmicalculator.bmrandweightlosscalculator.LFB_MainActivity"
+  },
+  "start_state": "1d3807ec23619bbe9dbf43b938f915f1",
+  "stop_state": "1213547a7d37b997ee6542b1e25f6244",
+  "event_str": "IntentEvent(intent='am start com.lisafontsbooth.bmicalculator.bmrandweightlosscalculator/com.lisafontsbooth.bmicalculator.bmrandweightlosscalculator.LFB_MainActivity')"
+}

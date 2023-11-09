@@ -1,0 +1,50 @@
+{
+  "tag": "2023-08-10_201310",
+  "event": {
+    "event_type": "set_text",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.erikori.bmrchecker",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": true,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          657,
+          736
+        ],
+        [
+          920,
+          839
+        ]
+      ],
+      "resource_id": "com.erikori.bmrchecker:id/waight_edittext",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.EditText",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": true,
+      "parent": 20,
+      "temp_id": 22,
+      "size": "263*103",
+      "signature": "[class]android.widget.EditText[resource_id]com.erikori.bmrchecker:id/waight_edittext[text]None[enabled,,]",
+      "view_str": "fda41b88eebc3084cf0ccca9e662fe3d",
+      "content_free_signature": "[class]android.widget.EditText[resource_id]com.erikori.bmrchecker:id/waight_edittext"
+    },
+    "text": 63
+  },
+  "start_state": "463ab9cfa41fc3db87b72aa3fd19d59e",
+  "stop_state": "9ab8b635fd993eb97a47c1fcabe70e53",
+  "event_str": "SetTextEvent(state=463ab9cfa41fc3db87b72aa3fd19d59e, view=fda41b88eebc3084cf0ccca9e662fe3d(MainActivity/EditText-), text=63)"
+}

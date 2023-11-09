@@ -1,0 +1,11 @@
+{
+  "tag": "2023-08-13_115806",
+  "event": {
+    "event_type": "manual",
+    "log_lines": null,
+    "time": 1691942286.5453746
+  },
+  "start_state": "f877cd57dd26a5b0368dfeae9959211e",
+  "stop_state": "ccdba07b21e4ad4ad918e0671818bb51",
+  "event_str": "ManualEvent(time=1691942286.5453746)"
+}

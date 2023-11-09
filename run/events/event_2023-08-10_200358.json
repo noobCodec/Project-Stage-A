@@ -1,0 +1,49 @@
+{
+  "tag": "2023-08-10_200358",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.bmi.bmr.calculator.tracker.health.tdee",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          35,
+          1359
+        ],
+        [
+          1405,
+          1527
+        ]
+      ],
+      "resource_id": "com.bmi.bmr.calculator.tracker.health.tdee:id/calculateBtn",
+      "checked": false,
+      "text": "Calculate",
+      "class": "android.widget.Button",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 11,
+      "temp_id": 34,
+      "size": "1370*168",
+      "signature": "[class]android.widget.Button[resource_id]com.bmi.bmr.calculator.tracker.health.tdee:id/calculateBtn[text]Calculate[enabled,,]",
+      "view_str": "47236e8b795ed05e60af3f107755d9ce",
+      "content_free_signature": "[class]android.widget.Button[resource_id]com.bmi.bmr.calculator.tracker.health.tdee:id/calculateBtn"
+    }
+  },
+  "start_state": "52f20ceeb9e7b44e898450273475c0b1",
+  "stop_state": "fcc8f8c130e392edef85bd618b29d650",
+  "event_str": "TouchEvent(state=52f20ceeb9e7b44e898450273475c0b1, view=47236e8b795ed05e60af3f107755d9ce(ActivityBMR/Button-Calculate))"
+}

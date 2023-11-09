@@ -1,0 +1,50 @@
+{
+  "tag": "2023-08-10_212021",
+  "event": {
+    "event_type": "set_text",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.lisafontsbooth.bmicalculator.bmrandweightlosscalculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": true,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          325,
+          333
+        ],
+        [
+          1122,
+          429
+        ]
+      ],
+      "resource_id": "com.lisafontsbooth.bmicalculator.bmrandweightlosscalculator:id/edt_BMR_year",
+      "checked": false,
+      "text": "Year",
+      "class": "android.widget.EditText",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": true,
+      "parent": 12,
+      "temp_id": 14,
+      "size": "797*96",
+      "signature": "[class]android.widget.EditText[resource_id]com.lisafontsbooth.bmicalculator.bmrandweightlosscalculator:id/edt_BMR_year[text]Year[enabled,,]",
+      "view_str": "c95150cf511317485b3e1c4e05884412",
+      "content_free_signature": "[class]android.widget.EditText[resource_id]com.lisafontsbooth.bmicalculator.bmrandweightlosscalculator:id/edt_BMR_year"
+    },
+    "text": 7
+  },
+  "start_state": "088448f0a42a7c96ac3c8bdb782deb76",
+  "stop_state": "7bd800a99a56ab0c8ad6013629b7d70e",
+  "event_str": "SetTextEvent(state=088448f0a42a7c96ac3c8bdb782deb76, view=c95150cf511317485b3e1c4e05884412(LFB_MainActivity/EditText-Year), text=7)"
+}

@@ -1,0 +1,50 @@
+{
+  "tag": "2023-08-10_211949",
+  "event": {
+    "event_type": "set_text",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.microhealthllc.bmr_calculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": true,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          56,
+          318
+        ],
+        [
+          1384,
+          462
+        ]
+      ],
+      "resource_id": "com.microhealthllc.bmr_calculator:id/first_name",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.EditText",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": true,
+      "parent": 12,
+      "temp_id": 13,
+      "size": "1328*144",
+      "signature": "[class]android.widget.EditText[resource_id]com.microhealthllc.bmr_calculator:id/first_name[text]None[enabled,,]",
+      "view_str": "0462ffe2b64eb80f129f8c25ceb50795",
+      "content_free_signature": "[class]android.widget.EditText[resource_id]com.microhealthllc.bmr_calculator:id/first_name"
+    },
+    "text": 63
+  },
+  "start_state": "1ea560b286c51e98fcae18fd61d5a729",
+  "stop_state": "18ba26e743c5c9a2997508240eed64e0",
+  "event_str": "SetTextEvent(state=1ea560b286c51e98fcae18fd61d5a729, view=0462ffe2b64eb80f129f8c25ceb50795(SignInActivity/EditText-), text=63)"
+}

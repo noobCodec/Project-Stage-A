@@ -1,0 +1,109 @@
+{
+  "views": {
+    "avatar": {
+      "resource_id": ".*avatar",
+      "class": ".*ImageView"
+    },
+    "username": {
+      "resource_id": ".*first_name",
+      "class": ".*EditText"
+    },
+    "set_height_ft": {
+      "resource_id": ".*feets",
+      "class": ".*EditText"
+    },
+    "set_height_in": {
+      "resource_id": ".*inches",
+      "class": ".*EditText"
+    },
+    "set_weight": {
+      "resource_id": ".*weight",
+      "class": ".*EditText"
+    },
+    "set_gender": {
+      "resource_id": ".*male",
+      "class": ".*RadioButton"
+    },
+    "set_age": {
+      "resource_id": ".*last_initial",
+      "class": ".*EditText"
+    },
+    "calculate": {
+      "resource_id": ".*done",
+      "class": ".*ImageButton"
+    },
+    "skip_old": {
+      "resource_id": ".*ll_BMR"
+    }
+  },
+  "states": {
+    "main_activity_state": {
+      "views": [
+        "set_age"
+      ]
+    },
+    "skip_old_state": {
+      "views": [
+        "skip_old"
+      ]
+    }
+  },
+  "operations": {
+    "skip_old_op": [
+      {
+        "event_type": "touch",
+        "target_view": "skip_old"
+      }
+    ],
+    "bmi_operation": [
+      {
+        "event_type": "touch",
+        "target_view": "avatar"
+      },
+      {
+        "event_type": "touch",
+        "target_view": "set_gender"
+      },
+      {
+        "event_type": "set_text",
+        "target_view": "username",
+        "text": 63
+      },
+      {
+        "event_type": "set_text",
+        "target_view": "set_age",
+        "text": 47
+      },
+      {
+        "event_type": "set_text",
+        "target_view": "set_weight",
+        "text": 87
+      },
+      {
+        "event_type": "set_text",
+        "target_view": "set_height_ft",
+        "text": 14
+      },
+      {
+        "event_type": "set_text",
+        "target_view": "set_height_in",
+        "text": 3
+      },
+      {
+        "event_type": "touch",
+        "target_view": "calculate"
+      },
+      {
+        "event_type": "exit"
+      }
+    ]
+  },
+  "main": {
+    "main_activity_state": [
+      "bmi_operation"
+    ],
+    "skip_old_state": [
+      "skip_old_op"
+    ]
+  }
+}

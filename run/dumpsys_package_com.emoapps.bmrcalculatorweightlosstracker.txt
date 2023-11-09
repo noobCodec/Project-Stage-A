@@ -1,0 +1,73 @@
+Activity Resolver Table:
+  Non-Data Actions:
+      android.intent.action.MAIN:
+        d4e7f4d com.emoapps.bmrcalculatorweightlosstracker/.Splashscreen filter e963a46
+          Action: "android.intent.action.MAIN"
+          Category: "android.intent.category.LAUNCHER"
+
+Key Set Manager:
+  [com.emoapps.bmrcalculatorweightlosstracker]
+      Signing KeySets: 281
+
+Packages:
+  Package [com.emoapps.bmrcalculatorweightlosstracker] (7c3da02):
+    userId=10224
+    pkg=Package{a5c9f13 com.emoapps.bmrcalculatorweightlosstracker}
+    codePath=/data/app/com.emoapps.bmrcalculatorweightlosstracker-vKuMWS7rwvC9DKE_EfzCcw==
+    resourcePath=/data/app/com.emoapps.bmrcalculatorweightlosstracker-vKuMWS7rwvC9DKE_EfzCcw==
+    legacyNativeLibraryDir=/data/app/com.emoapps.bmrcalculatorweightlosstracker-vKuMWS7rwvC9DKE_EfzCcw==/lib
+    primaryCpuAbi=null
+    secondaryCpuAbi=null
+    versionCode=1 minSdk=16 targetSdk=27
+    versionName=1.0
+    splits=[base]
+    apkSigningVersion=1
+    applicationInfo=ApplicationInfo{d99b550 com.emoapps.bmrcalculatorweightlosstracker}
+    flags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP ]
+    privateFlags=[ PRIVATE_FLAG_ACTIVITIES_RESIZE_MODE_RESIZEABLE_VIA_SDK_VERSION ]
+    dataDir=/data/user/0/com.emoapps.bmrcalculatorweightlosstracker
+    supportsScreens=[small, medium, large, xlarge, resizeable, anyDensity]
+    usesLibraries:
+      org.apache.http.legacy
+    usesLibraryFiles:
+      /system/framework/org.apache.http.legacy.boot.jar
+    timeStamp=2023-08-04 11:23:29
+    firstInstallTime=2023-08-04 11:23:29
+    lastUpdateTime=2023-08-04 11:23:29
+    signatures=PackageSignatures{b90c349 version:1, signatures:[6c09e872], past signatures:[]}
+    installPermissionsFixed=true
+    pkgFlags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP ]
+    requested permissions:
+      android.permission.INTERNET
+      android.permission.ACCESS_NETWORK_STATE
+    install permissions:
+      android.permission.INTERNET: granted=true
+      android.permission.ACCESS_NETWORK_STATE: granted=true
+    User 0: ceDataInode=-4294836013 installed=true hidden=false suspended=false stopped=false notLaunched=false enabled=0 instant=false virtual=false
+      gids=[3003]
+      runtime permissions:
+
+Package Changes:
+  Sequence number=33
+  User 0:
+    seq=3, package=com.google.android.gms
+    seq=5, package=com.package.bmrh
+    seq=18, package=com.cc.bmi.bmr.bodyfatpercentage.calculator
+    seq=29, package=com.cit.bmi.bmr.bodyfatpercentage.calculator
+    seq=30, package=org.fredriks.bmrcalc
+    seq=31, package=com.lisafontsbooth.bmicalculator.bmrandweightlosscalculator
+    seq=32, package=com.hararzabad.bmrv2
+
+
+Dexopt state:
+  [com.emoapps.bmrcalculatorweightlosstracker]
+    path: /data/app/com.emoapps.bmrcalculatorweightlosstracker-vKuMWS7rwvC9DKE_EfzCcw==/base.apk
+      x86: [status=speed-profile] [reason=install]
+      known secondary dex files:
+        /data/user/0/com.emoapps.bmrcalculatorweightlosstracker/cache/1582435991586.jar
+          class loader context: PCL[];PCL[/system/framework/org.apache.http.legacy.boot.jar:/data/app/com.emoapps.bmrcalculatorweightlosstracker-vKuMWS7rwvC9DKE_EfzCcw==/base.apk]
+
+
+Compiler stats:
+  [com.emoapps.bmrcalculatorweightlosstracker]
+    (No recorded stats)

@@ -1,0 +1,49 @@
+{
+  "tag": "2023-08-10_200538",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.ca.bmr.calclator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          102,
+          1691
+        ],
+        [
+          1338,
+          1859
+        ]
+      ],
+      "resource_id": "com.ca.bmr.calclator:id/donebtn",
+      "checked": false,
+      "text": "CALCULATE",
+      "class": "android.widget.Button",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 9,
+      "temp_id": 33,
+      "size": "1236*168",
+      "signature": "[class]android.widget.Button[resource_id]com.ca.bmr.calclator:id/donebtn[text]CALCULATE[enabled,,]",
+      "view_str": "4fff00c796aa79888b998dc76af1fc09",
+      "content_free_signature": "[class]android.widget.Button[resource_id]com.ca.bmr.calclator:id/donebtn"
+    }
+  },
+  "start_state": "c3e664ddbbd9dc4e5843dc0c5e499414",
+  "stop_state": "70133d4e05c015d2c45a4fa359b31959",
+  "event_str": "TouchEvent(state=c3e664ddbbd9dc4e5843dc0c5e499414, view=4fff00c796aa79888b998dc76af1fc09(MainActivity/Button-CALCULATE))"
+}

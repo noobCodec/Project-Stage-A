@@ -1,0 +1,50 @@
+{
+  "tag": "2023-08-10_200250",
+  "event": {
+    "event_type": "set_text",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.blogspot.sakibhs.bmrandbmicalculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": true,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          558,
+          728
+        ],
+        [
+          850,
+          886
+        ]
+      ],
+      "resource_id": "com.blogspot.sakibhs.bmrandbmicalculator:id/heightinch",
+      "checked": false,
+      "text": "Inch",
+      "class": "android.widget.EditText",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": true,
+      "parent": 22,
+      "temp_id": 25,
+      "size": "292*158",
+      "signature": "[class]android.widget.EditText[resource_id]com.blogspot.sakibhs.bmrandbmicalculator:id/heightinch[text]Inch[enabled,,]",
+      "view_str": "e518f1dbe6be34dea558cee8b48b10be",
+      "content_free_signature": "[class]android.widget.EditText[resource_id]com.blogspot.sakibhs.bmrandbmicalculator:id/heightinch"
+    },
+    "text": 2
+  },
+  "start_state": "a645dd09e5ae7fddc1b2a8f0b5c207e1",
+  "stop_state": "6ee626db8a1bd2d8d7049e856b4da324",
+  "event_str": "SetTextEvent(state=a645dd09e5ae7fddc1b2a8f0b5c207e1, view=e518f1dbe6be34dea558cee8b48b10be(MainActivity/EditText-Inch), text=2)"
+}

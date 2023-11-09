@@ -1,0 +1,49 @@
+{
+  "tag": "2023-08-13_121513",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.cc.bmi.bmr.bodyfatpercentage.calculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          141,
+          2028
+        ],
+        [
+          1299,
+          2203
+        ]
+      ],
+      "resource_id": "com.cc.bmi.bmr.bodyfatpercentage.calculator:id/tv_search_bmr",
+      "checked": false,
+      "text": "Calculate Basal Metabolic Rate",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 13,
+      "temp_id": 23,
+      "size": "1158*175",
+      "signature": "[class]android.widget.TextView[resource_id]com.cc.bmi.bmr.bodyfatpercentage.calculator:id/tv_search_bmr[text]Calculate Basal Metabolic Rate[enabled,,]",
+      "view_str": "f290842f76e6b81e2ce631ef312d3727",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.cc.bmi.bmr.bodyfatpercentage.calculator:id/tv_search_bmr"
+    }
+  },
+  "start_state": "2c3ba2e90e2cdeb3d23c7b1fbeab4684",
+  "stop_state": "cd60ba9ffa8699492bb4bf028c4e4411",
+  "event_str": "TouchEvent(state=2c3ba2e90e2cdeb3d23c7b1fbeab4684, view=f290842f76e6b81e2ce631ef312d3727(bmr_calculator/TextView-Calculate ))"
+}

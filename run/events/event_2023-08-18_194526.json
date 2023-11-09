@@ -1,0 +1,11 @@
+{
+  "tag": "2023-08-18_194526",
+  "event": {
+    "event_type": "intent",
+    "log_lines": null,
+    "intent": "am start com.cc.bmi.bmr.bodyfatpercentage.calculator/com.cc.bmi.bmr.bodyfatpercentage.calculator.SplashActivity"
+  },
+  "start_state": "f0d51fd5950fac1fdc5fcb1ee2190dbc",
+  "stop_state": "d54e7a45730259155881a3986f517eed",
+  "event_str": "IntentEvent(intent='am start com.cc.bmi.bmr.bodyfatpercentage.calculator/com.cc.bmi.bmr.bodyfatpercentage.calculator.SplashActivity')"
+}

@@ -1,0 +1,50 @@
+{
+  "tag": "2023-08-08_175923",
+  "event": {
+    "event_type": "set_text",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "org.fredriks.bmrcalc",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": true,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          355,
+          1380
+        ],
+        [
+          1085,
+          1538
+        ]
+      ],
+      "resource_id": "org.fredriks.bmrcalc:id/ageField",
+      "checked": false,
+      "text": "Age",
+      "class": "android.widget.EditText",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": true,
+      "parent": 9,
+      "temp_id": 16,
+      "size": "730*158",
+      "signature": "[class]android.widget.EditText[resource_id]org.fredriks.bmrcalc:id/ageField[text]Age[enabled,,]",
+      "view_str": "6b598852d91ea1bd18a37c9d8bb2c92a",
+      "content_free_signature": "[class]android.widget.EditText[resource_id]org.fredriks.bmrcalc:id/ageField"
+    },
+    "text": 7
+  },
+  "start_state": "835df9e8cbd314ca40e8f71504f1380c",
+  "stop_state": "19622f0bdde632cbc3b797a7e4b321af",
+  "event_str": "SetTextEvent(state=835df9e8cbd314ca40e8f71504f1380c, view=6b598852d91ea1bd18a37c9d8bb2c92a(MainActivity/EditText-Age), text=7)"
+}

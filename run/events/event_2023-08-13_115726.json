@@ -1,0 +1,50 @@
+{
+  "tag": "2023-08-13_115726",
+  "event": {
+    "event_type": "set_text",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.cc.bmi.bmr.bodyfatpercentage.calculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": true,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          141,
+          1363
+        ],
+        [
+          814,
+          1538
+        ]
+      ],
+      "resource_id": "com.cc.bmi.bmr.bodyfatpercentage.calculator:id/et_age",
+      "checked": false,
+      "text": "Enter Age",
+      "class": "android.widget.EditText",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": true,
+      "parent": 14,
+      "temp_id": 15,
+      "size": "673*175",
+      "signature": "[class]android.widget.EditText[resource_id]com.cc.bmi.bmr.bodyfatpercentage.calculator:id/et_age[text]Enter Age[enabled,,]",
+      "view_str": "2f6d18a16596d615c30335a832ade0f9",
+      "content_free_signature": "[class]android.widget.EditText[resource_id]com.cc.bmi.bmr.bodyfatpercentage.calculator:id/et_age"
+    },
+    "text": 7
+  },
+  "start_state": "f877cd57dd26a5b0368dfeae9959211e",
+  "stop_state": "e1ef0f6b7e790f048594883d321137ea",
+  "event_str": "SetTextEvent(state=f877cd57dd26a5b0368dfeae9959211e, view=2f6d18a16596d615c30335a832ade0f9(bmr_calculator/EditText-Enter Age), text=7)"
+}

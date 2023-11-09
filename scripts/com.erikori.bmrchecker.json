@@ -1,0 +1,75 @@
+{
+  "views": {
+    "set_height": {
+      "resource_id": ".*height_edittext",
+      "class": ".*EditText"
+    },
+    "set_weight": {
+      "resource_id": ".*waight_edittext",
+      "class": ".*EditText"
+    },
+    "calculate": {
+      "resource_id": ".*cul_button",
+      "class": ".*Button"
+    },
+    "set_age": {
+      "resource_id": ".*age_edittext",
+      "class": ".*EditText"
+    },
+    "skip_old": {
+      "resource_id": ".*asdasdssa"
+    }
+  },
+  "states": {
+    "main_activity_state": {
+      "views": [
+        "set_age"
+      ]
+    },
+    "skip_old_state": {
+      "views": [
+        "skip_old"
+      ]
+    }
+  },
+  "operations": {
+    "skip_old_op": [
+      {
+        "event_type": "intent",
+        "intent": "am start abamuve.calculations.bmrbmibfp/.BmrCalculator"
+      }
+    ],
+    "bmi_operation": [
+      {
+        "event_type": "set_text",
+        "target_view": "set_age",
+        "text": 47
+      },
+      {
+        "event_type": "set_text",
+        "target_view": "set_weight",
+        "text": 87
+      },
+      {
+        "event_type": "set_text",
+        "target_view": "set_height",
+        "text": 434
+      },
+      {
+        "event_type": "touch",
+        "target_view": "calculate"
+      },
+      {
+        "event_type": "exit"
+      }
+    ]
+  },
+  "main": {
+    "main_activity_state": [
+      "bmi_operation"
+    ],
+    "skip_old_state": [
+      "skip_old_op"
+    ]
+  }
+}

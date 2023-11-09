@@ -1,0 +1,50 @@
+{
+  "tag": "2023-08-10_212024",
+  "event": {
+    "event_type": "set_text",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.lisafontsbooth.bmicalculator.bmrandweightlosscalculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": true,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          364,
+          683
+        ],
+        [
+          1132,
+          779
+        ]
+      ],
+      "resource_id": "com.lisafontsbooth.bmicalculator.bmrandweightlosscalculator:id/edt_BMR_kg",
+      "checked": false,
+      "text": "kg",
+      "class": "android.widget.EditText",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": true,
+      "parent": 20,
+      "temp_id": 22,
+      "size": "768*96",
+      "signature": "[class]android.widget.EditText[resource_id]com.lisafontsbooth.bmicalculator.bmrandweightlosscalculator:id/edt_BMR_kg[text]kg[enabled,,]",
+      "view_str": "74bb1a400a1f9e9f783f34529f23169a",
+      "content_free_signature": "[class]android.widget.EditText[resource_id]com.lisafontsbooth.bmicalculator.bmrandweightlosscalculator:id/edt_BMR_kg"
+    },
+    "text": 63
+  },
+  "start_state": "7bd800a99a56ab0c8ad6013629b7d70e",
+  "stop_state": "ec5514117342d8dc73593e3facee9903",
+  "event_str": "SetTextEvent(state=7bd800a99a56ab0c8ad6013629b7d70e, view=74bb1a400a1f9e9f783f34529f23169a(LFB_MainActivity/EditText-kg), text=63)"
+}

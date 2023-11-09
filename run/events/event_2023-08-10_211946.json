@@ -1,0 +1,49 @@
+{
+  "tag": "2023-08-10_211946",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.microhealthllc.bmr_calculator",
+      "visible": true,
+      "checkable": true,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          63,
+          1095
+        ],
+        [
+          371,
+          1263
+        ]
+      ],
+      "resource_id": "com.microhealthllc.bmr_calculator:id/male",
+      "checked": false,
+      "text": "Male",
+      "class": "android.widget.RadioButton",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 34,
+      "temp_id": 35,
+      "size": "308*168",
+      "signature": "[class]android.widget.RadioButton[resource_id]com.microhealthllc.bmr_calculator:id/male[text]Male[enabled,,]",
+      "view_str": "da3b42be85de13cd254a851c678142ab",
+      "content_free_signature": "[class]android.widget.RadioButton[resource_id]com.microhealthllc.bmr_calculator:id/male"
+    }
+  },
+  "start_state": "4775d52fd69c5bfd8986e47f5474f51a",
+  "stop_state": "1ea560b286c51e98fcae18fd61d5a729",
+  "event_str": "TouchEvent(state=4775d52fd69c5bfd8986e47f5474f51a, view=da3b42be85de13cd254a851c678142ab(SignInActivity/RadioButton-Male))"
+}

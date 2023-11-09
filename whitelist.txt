@@ -1,0 +1,16 @@
+abamuve.calculations.bmrbmibfp
+com.bmi.bmr.calculator.tracker.health.tdee
+com.boss.bmrcalculator
+com.ca.bmr.calclator
+com.calculator.activity.metabolic.tdee.bmr.bmrtdeecalculator
+com.cc.bmi.bmr.bodyfatpercentage.calculator
+com.cit.bmi.bmr.bodyfatpercentage.calculator
+com.d.bmrhsb
+com.emoapps.bmrcalculatorweightlosstracker
+com.erikori.bmrchecker
+com.lisafontsbooth.bmicalculator.bmrandweightlosscalculator
+com.microhealthllc.bmr_calculator
+com.playsimple.bmrcalculator
+com.rickardapps.bmrcal
+com.roliosolutions.bmr.bmi.calculator
+org.fredriks.bmrcalc

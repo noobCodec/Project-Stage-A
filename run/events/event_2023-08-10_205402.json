@@ -1,0 +1,11 @@
+{
+  "tag": "2023-08-10_205402",
+  "event": {
+    "event_type": "intent",
+    "log_lines": null,
+    "intent": "am start com.rickardapps.bmrcal/com.rickardapps.bmrcal.MainActivity"
+  },
+  "start_state": "f3b2d0d892e9cc57b2026ca5b4bcfcbe",
+  "stop_state": "19cf4019b058dbfc83d4579d8c79ab4f",
+  "event_str": "IntentEvent(intent='am start com.rickardapps.bmrcal/com.rickardapps.bmrcal.MainActivity')"
+}

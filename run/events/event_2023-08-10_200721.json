@@ -1,0 +1,50 @@
+{
+  "tag": "2023-08-10_200721",
+  "event": {
+    "event_type": "set_text",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.calculator.activity.metabolic.tdee.bmr.bmrtdeecalculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": true,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          720,
+          1561
+        ],
+        [
+          1140,
+          1876
+        ]
+      ],
+      "resource_id": "com.calculator.activity.metabolic.tdee.bmr.bmrtdeecalculator:id/weight",
+      "checked": false,
+      "text": "pounds",
+      "class": "android.widget.EditText",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": true,
+      "parent": 10,
+      "temp_id": 11,
+      "size": "420*315",
+      "signature": "[class]android.widget.EditText[resource_id]com.calculator.activity.metabolic.tdee.bmr.bmrtdeecalculator:id/weight[text]pounds[enabled,,]",
+      "view_str": "1828074ff0e4a778e2b41d734acb44b7",
+      "content_free_signature": "[class]android.widget.EditText[resource_id]com.calculator.activity.metabolic.tdee.bmr.bmrtdeecalculator:id/weight"
+    },
+    "text": 63
+  },
+  "start_state": "c53020472b97849539466c344f0be118",
+  "stop_state": "662c14688758da98759fd3769bc23d2f",
+  "event_str": "SetTextEvent(state=c53020472b97849539466c344f0be118, view=1828074ff0e4a778e2b41d734acb44b7(WeightActivity/EditText-pounds), text=63)"
+}

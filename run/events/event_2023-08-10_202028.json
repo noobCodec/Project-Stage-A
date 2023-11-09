@@ -1,0 +1,11 @@
+{
+  "tag": "2023-08-10_202028",
+  "event": {
+    "event_type": "intent",
+    "log_lines": null,
+    "intent": "am start com.playsimple.bmrcalculator/com.playsimple.bmrcalculator.MainActivity"
+  },
+  "start_state": "f3b2d0d892e9cc57b2026ca5b4bcfcbe",
+  "stop_state": "f056af640a340e352245cef12acd086c",
+  "event_str": "IntentEvent(intent='am start com.playsimple.bmrcalculator/com.playsimple.bmrcalculator.MainActivity')"
+}

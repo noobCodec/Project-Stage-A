@@ -1,0 +1,84 @@
+Activity Resolver Table:
+  Non-Data Actions:
+      android.intent.action.MAIN:
+        b9450f3 com.playsimple.bmrcalculator/.MainActivity filter 91ebeea
+          Action: "android.intent.action.MAIN"
+          Category: "android.intent.category.LAUNCHER"
+
+Key Set Manager:
+  [com.playsimple.bmrcalculator]
+      Signing KeySets: 140
+
+Packages:
+  Package [com.playsimple.bmrcalculator] (dc2b1b0):
+    userId=10203
+    pkg=Package{c297829 com.playsimple.bmrcalculator}
+    codePath=/data/app/com.playsimple.bmrcalculator-IOYXoY_R8t3Fkm3GGr_tmw==
+    resourcePath=/data/app/com.playsimple.bmrcalculator-IOYXoY_R8t3Fkm3GGr_tmw==
+    legacyNativeLibraryDir=/data/app/com.playsimple.bmrcalculator-IOYXoY_R8t3Fkm3GGr_tmw==/lib
+    primaryCpuAbi=null
+    secondaryCpuAbi=null
+    versionCode=1 minSdk=10 targetSdk=22
+    versionName=1.0
+    splits=[base]
+    apkSigningVersion=1
+    applicationInfo=ApplicationInfo{8fad7ae com.playsimple.bmrcalculator}
+    flags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP ]
+    dataDir=/data/user/0/com.playsimple.bmrcalculator
+    supportsScreens=[small, medium, large, xlarge, resizeable, anyDensity]
+    usesLibraries:
+      org.apache.http.legacy
+    usesLibraryFiles:
+      /system/framework/org.apache.http.legacy.boot.jar
+    timeStamp=2023-08-10 21:19:10
+    firstInstallTime=2023-08-10 21:19:10
+    lastUpdateTime=2023-08-10 21:19:10
+    signatures=PackageSignatures{f19094f version:1, signatures:[f6f13f58], past signatures:[]}
+    installPermissionsFixed=true
+    pkgFlags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP ]
+    requested permissions:
+      android.permission.INTERNET
+      android.permission.ACCESS_WIFI_STATE
+      android.permission.ACCESS_NETWORK_STATE
+    install permissions:
+      android.permission.INTERNET: granted=true
+      android.permission.ACCESS_NETWORK_STATE: granted=true
+      android.permission.ACCESS_WIFI_STATE: granted=true
+    User 0: ceDataInode=-4294843748 installed=true hidden=false suspended=false stopped=true notLaunched=true enabled=0 instant=false virtual=false
+      gids=[3003]
+      runtime permissions:
+
+Package Changes:
+  Sequence number=107
+  User 0:
+    seq=5, package=com.google.android.gms
+    seq=14, package=abamuve.calculations.bmrbmibfp
+    seq=16, package=com.blogspot.sakibhs.bmrandbmicalculator
+    seq=17, package=com.bmi.bmr.calculator.tracker.health.tdee
+    seq=19, package=com.boss.bmrcalculator
+    seq=21, package=com.ca.bmr.calclator
+    seq=23, package=com.calculator.activity.metabolic.tdee.bmr.bmrtdeecalculator
+    seq=24, package=com.cc.bmi.bmr.bodyfatpercentage.calculator
+    seq=29, package=com.cit.bmi.bmr.bodyfatpercentage.calculator
+    seq=32, package=com.d.bmrhsb
+    seq=34, package=com.emoapps.bmrcalculatorweightlosstracker
+    seq=36, package=com.erikori.bmrchecker
+    seq=38, package=com.fireandairmedia.bmrfree
+    seq=42, package=com.hararzabad.bmrv2
+    seq=44, package=com.lisafontsbooth.bmicalculator.bmrandweightlosscalculator
+    seq=46, package=com.microhealthllc.bmr_calculator
+    seq=55, package=com.roliosolutions.bmr.bmi.calculator
+    seq=57, package=org.fredriks.bmrcalc
+    seq=105, package=com.rickardapps.bmrcal
+    seq=106, package=com.playsimple.bmrcalculator
+
+
+Dexopt state:
+  [com.playsimple.bmrcalculator]
+    path: /data/app/com.playsimple.bmrcalculator-IOYXoY_R8t3Fkm3GGr_tmw==/base.apk
+      x86: [status=speed-profile] [reason=install]
+
+
+Compiler stats:
+  [com.playsimple.bmrcalculator]
+     base.apk - 288

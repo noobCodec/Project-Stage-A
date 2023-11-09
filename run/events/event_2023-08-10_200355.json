@@ -1,0 +1,49 @@
+{
+  "tag": "2023-08-10_200355",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.bmi.bmr.calculator.tracker.health.tdee",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          1172,
+          560
+        ],
+        [
+          1232,
+          620
+        ]
+      ],
+      "resource_id": "com.bmi.bmr.calculator.tracker.health.tdee:id/maleBtn",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.ImageView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 16,
+      "temp_id": 17,
+      "size": "60*60",
+      "signature": "[class]android.widget.ImageView[resource_id]com.bmi.bmr.calculator.tracker.health.tdee:id/maleBtn[text]None[enabled,,]",
+      "view_str": "e741bd95ecea80745857f9d4a4c4b525",
+      "content_free_signature": "[class]android.widget.ImageView[resource_id]com.bmi.bmr.calculator.tracker.health.tdee:id/maleBtn"
+    }
+  },
+  "start_state": "52f20ceeb9e7b44e898450273475c0b1",
+  "stop_state": "52f20ceeb9e7b44e898450273475c0b1",
+  "event_str": "TouchEvent(state=52f20ceeb9e7b44e898450273475c0b1, view=e741bd95ecea80745857f9d4a4c4b525(ActivityBMR/ImageView-))"
+}

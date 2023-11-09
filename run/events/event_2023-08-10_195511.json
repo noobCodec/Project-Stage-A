@@ -1,0 +1,11 @@
+{
+  "tag": "2023-08-10_195511",
+  "event": {
+    "event_type": "intent",
+    "log_lines": null,
+    "intent": "am start abamuve.calculations.bmrbmibfp/abamuve.calculations.bmrbmibfp.MainActivity"
+  },
+  "start_state": "f3b2d0d892e9cc57b2026ca5b4bcfcbe",
+  "stop_state": "d3275a354e088ad20c9625c2c318a2c8",
+  "event_str": "IntentEvent(intent='am start abamuve.calculations.bmrbmibfp/abamuve.calculations.bmrbmibfp.MainActivity')"
+}

@@ -1,0 +1,50 @@
+{
+  "tag": "2023-08-10_201346",
+  "event": {
+    "event_type": "set_text",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.fireandairmedia.bmrfree",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": true,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          724,
+          1253
+        ],
+        [
+          1302,
+          1403
+        ]
+      ],
+      "resource_id": "weight-field",
+      "checked": false,
+      "text": "",
+      "class": "android.widget.EditText",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 13,
+      "temp_id": 27,
+      "size": "578*150",
+      "signature": "[class]android.widget.EditText[resource_id]weight-field[text][enabled,,]",
+      "view_str": "d081353b69fde70d35b187fe1222f23b",
+      "content_free_signature": "[class]android.widget.EditText[resource_id]weight-field"
+    },
+    "text": 63
+  },
+  "start_state": "b68bb5d61756691c87a80f4bac6bb3a0",
+  "stop_state": "81a5a76b7e267365c140c9aee714f99c",
+  "event_str": "SetTextEvent(state=b68bb5d61756691c87a80f4bac6bb3a0, view=d081353b69fde70d35b187fe1222f23b(MainActivity/EditText-), text=63)"
+}

@@ -1,0 +1,1073 @@
+{
+  "tag": "2023-08-16_080951",
+  "state_str": "835df9e8cbd314ca40e8f71504f1380c",
+  "state_str_content_free": "a14d88a285d84ee4910af0813ce84a4a",
+  "foreground_activity": "org.fredriks.bmrcalc/.MainActivity",
+  "activity_stack": [
+    "org.fredriks.bmrcalc/.MainActivity"
+  ],
+  "background_services": [
+    "org.fredriks.bmrcalc/org.chromium.content.app.SandboxedProcessService0",
+    "com.google.android.gms/.icing.service.AppIndexingService",
+    "com.google.android.gms/.deviceconnection.service.DeviceConnectionWatcherService",
+    "com.google.android.gms/com.google.android.location.places.service.PlaceDetectionAsyncService",
+    "com.android.systemui/.keyguard.KeyguardService",
+    "com.google.android.gms/.measurement.service.MeasurementBrokerService",
+    "com.google.android.gms/.droidguard.DroidGuardService",
+    "com.android.systemui/.ImageWallpaper",
+    "com.google.android.gms/com.google.android.location.geocode.GeocodeService",
+    "com.google.android.gms/.auth.setup.devicesignals.LockScreenService",
+    "com.google.android.gms/.gcm.GcmService",
+    "com.google.android.gms/.clearcut.debug.ClearcutDebugDumpService",
+    "com.google.android.gms/.chimera.PersistentApiService",
+    "com.android.phone/com.android.internal.telephony.CellularNetworkService",
+    "com.google.android.gms/.chimera.PersistentBoundBrokerService",
+    "com.google.android.gms/.chimera.GmsBoundBrokerService",
+    "com.google.android.gms/.chimera.GmsApiService",
+    "com.google.android.gms/.fido.fido2.pollux.CableAuthenticatorService",
+    "com.google.android.googlequicksearchbox/com.google.android.apps.gsa.nowoverlayservice.DrawerOverlayService",
+    "io.github.ylimit.droidbotapp/.DroidBotIME",
+    "com.google.android.gms/com.google.android.location.fused.FusedLocationService",
+    "com.google.android.gms/.gcm.nts.SchedulerService",
+    "com.google.android.gms/.ads.AdRequestBrokerService",
+    "com.google.android.gms/.gcm.http.GoogleHttpService",
+    "io.github.ylimit.droidbotapp/io.github.privacystreams.accessibility.PSAccessibilityService",
+    "com.google.android.gms/com.google.android.location.geofencer.service.GeofenceProviderService",
+    "com.google.android.gms/.thunderbird.EmergencyPersistentService",
+    "com.google.android.apps.messaging/.fcm.BugleFirebaseInstanceIDService",
+    "com.android.systemui/.SystemUIService",
+    "com.google.android.gms/.nearby.exposurenotification.service.ExposureMatchingService",
+    "com.google.android.gms/org.chromium.content.app.SandboxedProcessService2",
+    "android/.hardware.location.GeofenceHardwareService",
+    "com.android.se/.SecureElementService",
+    "com.google.android.ims/.services.RcsService",
+    "com.google.android.gms/.chimera.GmsIntentOperationService",
+    "com.google.android.gms/.chimera.PersistentDirectBootAwareApiService",
+    "com.google.android.gms/.chimera.PersistentIntentOperationService",
+    "com.google.android.ext.services/android.ext.services.notification.Assistant",
+    "com.google.android.gms/.location.persistent.LocationPersistentService",
+    "com.google.android.gms/com.google.android.location.internal.PendingIntentCallbackService",
+    "com.google.android.gms/com.google.android.location.internal.server.GoogleLocationService",
+    "com.google.android.gms/com.google.android.contextmanager.service.ContextManagerService",
+    "com.google.android.gms/com.google.android.location.network.NetworkLocationService",
+    "com.google.android.gms/com.google.android.location.internal.GoogleLocationManagerService",
+    "com.android.phone/com.android.internal.telephony.dataconnection.CellularDataService",
+    "com.android.server.telecom/.components.TelecomService",
+    "com.google.android.googlequicksearchbox/com.google.android.voiceinteraction.GsaVoiceInteractionService",
+    "com.android.smspush/.WapPushManager",
+    "com.android.phone/.vvm.RemoteVvmTaskManager",
+    "com.google.android.gms/.lockbox.service.LockboxBrokerService",
+    "com.google.android.gms/.gass.GassService",
+    "android/com.android.server.content.SyncJobService",
+    "com.google.android.gms/.common.stats.GmsCoreStatsService",
+    "com.google.android.gms/com.google.android.location.internal.server.HardwareArProviderService",
+    "org.medhelp.mydiet/org.medhelp.medtracker.network.MTNetworkObserverService",
+    "com.google.android.gm/com.google.firebase.iid.FirebaseInstanceIdService",
+    "com.android.phone/.TelephonyDebugService",
+    "com.google.android.videos/.service.pinning.TransferService",
+    "com.google.android.apps.messaging/.shared.datamodel.action.ActionExecutorImpl",
+    "com.google.android.gms/.icing.service.IndexService",
+    "com.google.android.apps.nexuslauncher/com.android.quickstep.TouchInteractionService"
+  ],
+  "width": 1440,
+  "height": 3120,
+  "views": [
+    {
+      "package": "org.fredriks.bmrcalc",
+      "visible": true,
+      "checkable": false,
+      "child_count": 3,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        1,
+        24,
+        25
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          0
+        ],
+        [
+          1440,
+          3120
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.FrameLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": -1,
+      "temp_id": 0,
+      "size": "1440*3120",
+      "signature": "[class]android.widget.FrameLayout[resource_id]None[text]None[enabled,,]",
+      "view_str": "8393e75bf808939e4c9f5ecc4d5ba45f",
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]None"
+    },
+    {
+      "package": "org.fredriks.bmrcalc",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        2
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          0
+        ],
+        [
+          1440,
+          2952
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.LinearLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 0,
+      "temp_id": 1,
+      "size": "1440*2952",
+      "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+      "view_str": "d6ec9c03f93bb801e7f32e6ebd080824",
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None"
+    },
+    {
+      "package": "org.fredriks.bmrcalc",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        3
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          84
+        ],
+        [
+          1440,
+          2952
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.FrameLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 1,
+      "temp_id": 2,
+      "size": "1440*2868",
+      "signature": "[class]android.widget.FrameLayout[resource_id]None[text]None[enabled,,]",
+      "view_str": "2734b7fecb9bac70aa8c38c26afbae9e",
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]None"
+    },
+    {
+      "package": "org.fredriks.bmrcalc",
+      "visible": true,
+      "checkable": false,
+      "child_count": 2,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        4,
+        8
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          84
+        ],
+        [
+          1440,
+          2952
+        ]
+      ],
+      "resource_id": "org.fredriks.bmrcalc:id/decor_content_parent",
+      "checked": false,
+      "text": null,
+      "class": "android.view.ViewGroup",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 2,
+      "temp_id": 3,
+      "size": "1440*2868",
+      "signature": "[class]android.view.ViewGroup[resource_id]org.fredriks.bmrcalc:id/decor_content_parent[text]None[enabled,,]",
+      "view_str": "a311e71d4b6273fd9730014dbbab370d",
+      "content_free_signature": "[class]android.view.ViewGroup[resource_id]org.fredriks.bmrcalc:id/decor_content_parent"
+    },
+    {
+      "package": "org.fredriks.bmrcalc",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        5
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          84
+        ],
+        [
+          1440,
+          210
+        ]
+      ],
+      "resource_id": "org.fredriks.bmrcalc:id/action_bar_container",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.FrameLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 3,
+      "temp_id": 4,
+      "size": "1440*126",
+      "signature": "[class]android.widget.FrameLayout[resource_id]org.fredriks.bmrcalc:id/action_bar_container[text]None[enabled,,]",
+      "view_str": "7c790557d761d03c043588882f1845a5",
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]org.fredriks.bmrcalc:id/action_bar_container"
+    },
+    {
+      "package": "org.fredriks.bmrcalc",
+      "visible": true,
+      "checkable": false,
+      "child_count": 2,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        6,
+        7
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          84
+        ],
+        [
+          1440,
+          210
+        ]
+      ],
+      "resource_id": "org.fredriks.bmrcalc:id/action_bar",
+      "checked": false,
+      "text": null,
+      "class": "android.view.ViewGroup",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 4,
+      "temp_id": 5,
+      "size": "1440*126",
+      "signature": "[class]android.view.ViewGroup[resource_id]org.fredriks.bmrcalc:id/action_bar[text]None[enabled,,]",
+      "view_str": "1a793a91f79f9403c8b50bdaa287464b",
+      "content_free_signature": "[class]android.view.ViewGroup[resource_id]org.fredriks.bmrcalc:id/action_bar"
+    },
+    {
+      "package": "org.fredriks.bmrcalc",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          56,
+          100
+        ],
+        [
+          1040,
+          193
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "BMR (Calorie needs) Calculator",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 5,
+      "temp_id": 6,
+      "size": "984*93",
+      "signature": "[class]android.widget.TextView[resource_id]None[text]BMR (Calorie needs) Calculator[enabled,,]",
+      "view_str": "68a063df057b22af8128da0af9e25e26",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]None"
+    },
+    {
+      "package": "org.fredriks.bmrcalc",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          1440,
+          84
+        ],
+        [
+          1440,
+          210
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "androidx.appcompat.widget.LinearLayoutCompat",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 5,
+      "temp_id": 7,
+      "size": "0*126",
+      "signature": "[class]androidx.appcompat.widget.LinearLayoutCompat[resource_id]None[text]None[enabled,,]",
+      "view_str": "0a927ab875dc6bb17be38ff9c3f273f5",
+      "content_free_signature": "[class]androidx.appcompat.widget.LinearLayoutCompat[resource_id]None"
+    },
+    {
+      "package": "org.fredriks.bmrcalc",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        9
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          210
+        ],
+        [
+          1440,
+          2952
+        ]
+      ],
+      "resource_id": "android:id/content",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.FrameLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 3,
+      "temp_id": 8,
+      "size": "1440*2742",
+      "signature": "[class]android.widget.FrameLayout[resource_id]android:id/content[text]None[enabled,,]",
+      "view_str": "f91d26ea915d73cde765ed84d62bac79",
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]android:id/content"
+    },
+    {
+      "package": "org.fredriks.bmrcalc",
+      "visible": true,
+      "checkable": false,
+      "child_count": 11,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        10,
+        11,
+        14,
+        15,
+        16,
+        17,
+        18,
+        20,
+        21,
+        22,
+        23
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          210
+        ],
+        [
+          1440,
+          2952
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.view.ViewGroup",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 8,
+      "temp_id": 9,
+      "size": "1440*2742",
+      "signature": "[class]android.view.ViewGroup[resource_id]None[text]None[enabled,,]",
+      "view_str": "1daa956fe574fa0cf39d3c63d024a6b9",
+      "content_free_signature": "[class]android.view.ViewGroup[resource_id]None"
+    },
+    {
+      "package": "org.fredriks.bmrcalc",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": "BMR logo",
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          155,
+          210
+        ],
+        [
+          1286,
+          889
+        ]
+      ],
+      "resource_id": "org.fredriks.bmrcalc:id/imageView",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.ImageView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 9,
+      "temp_id": 10,
+      "size": "1131*679",
+      "signature": "[class]android.widget.ImageView[resource_id]org.fredriks.bmrcalc:id/imageView[text]None[enabled,,]",
+      "view_str": "317d4dcdd79ef6ba44a62d7b6fc98ca9",
+      "content_free_signature": "[class]android.widget.ImageView[resource_id]org.fredriks.bmrcalc:id/imageView"
+    },
+    {
+      "package": "org.fredriks.bmrcalc",
+      "visible": true,
+      "checkable": false,
+      "child_count": 2,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        12,
+        13
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          335,
+          889
+        ],
+        [
+          1105,
+          1064
+        ]
+      ],
+      "resource_id": "org.fredriks.bmrcalc:id/radio_sex",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.RadioGroup",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 9,
+      "temp_id": 11,
+      "size": "770*175",
+      "signature": "[class]android.widget.RadioGroup[resource_id]org.fredriks.bmrcalc:id/radio_sex[text]None[enabled,,]",
+      "view_str": "b28f491e87fda35f96a82e85a96f61cb",
+      "content_free_signature": "[class]android.widget.RadioGroup[resource_id]org.fredriks.bmrcalc:id/radio_sex"
+    },
+    {
+      "package": "org.fredriks.bmrcalc",
+      "visible": true,
+      "checkable": true,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          335,
+          889
+        ],
+        [
+          720,
+          1064
+        ]
+      ],
+      "resource_id": "org.fredriks.bmrcalc:id/radio_male",
+      "checked": true,
+      "text": "Male",
+      "class": "android.widget.RadioButton",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 11,
+      "temp_id": 12,
+      "size": "385*175",
+      "signature": "[class]android.widget.RadioButton[resource_id]org.fredriks.bmrcalc:id/radio_male[text]Male[enabled,checked,]",
+      "view_str": "c1ab27421c8cfe27b9f462709d5ee2b3",
+      "content_free_signature": "[class]android.widget.RadioButton[resource_id]org.fredriks.bmrcalc:id/radio_male"
+    },
+    {
+      "package": "org.fredriks.bmrcalc",
+      "visible": true,
+      "checkable": true,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          720,
+          889
+        ],
+        [
+          1105,
+          1064
+        ]
+      ],
+      "resource_id": "org.fredriks.bmrcalc:id/radio_female",
+      "checked": false,
+      "text": "Female",
+      "class": "android.widget.RadioButton",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 11,
+      "temp_id": 13,
+      "size": "385*175",
+      "signature": "[class]android.widget.RadioButton[resource_id]org.fredriks.bmrcalc:id/radio_female[text]Female[enabled,,]",
+      "view_str": "82b9759b1daeabb85a64918bfc5cb042",
+      "content_free_signature": "[class]android.widget.RadioButton[resource_id]org.fredriks.bmrcalc:id/radio_female"
+    },
+    {
+      "package": "org.fredriks.bmrcalc",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": true,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          355,
+          1064
+        ],
+        [
+          1085,
+          1222
+        ]
+      ],
+      "resource_id": "org.fredriks.bmrcalc:id/lengthField",
+      "checked": false,
+      "text": "Length in cm.",
+      "class": "android.widget.EditText",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": true,
+      "parent": 9,
+      "temp_id": 14,
+      "size": "730*158",
+      "signature": "[class]android.widget.EditText[resource_id]org.fredriks.bmrcalc:id/lengthField[text]Length in cm.[enabled,,]",
+      "view_str": "e2d7d694977dfcba77489fff3797c4bf",
+      "content_free_signature": "[class]android.widget.EditText[resource_id]org.fredriks.bmrcalc:id/lengthField"
+    },
+    {
+      "package": "org.fredriks.bmrcalc",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": true,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          355,
+          1222
+        ],
+        [
+          1085,
+          1380
+        ]
+      ],
+      "resource_id": "org.fredriks.bmrcalc:id/weightField",
+      "checked": false,
+      "text": "Weight in Kg.",
+      "class": "android.widget.EditText",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": true,
+      "parent": 9,
+      "temp_id": 15,
+      "size": "730*158",
+      "signature": "[class]android.widget.EditText[resource_id]org.fredriks.bmrcalc:id/weightField[text]Weight in Kg.[enabled,,]",
+      "view_str": "69aaa97141868d9b6112b364c92e4297",
+      "content_free_signature": "[class]android.widget.EditText[resource_id]org.fredriks.bmrcalc:id/weightField"
+    },
+    {
+      "package": "org.fredriks.bmrcalc",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": true,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          355,
+          1380
+        ],
+        [
+          1085,
+          1538
+        ]
+      ],
+      "resource_id": "org.fredriks.bmrcalc:id/ageField",
+      "checked": false,
+      "text": "Age",
+      "class": "android.widget.EditText",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": true,
+      "parent": 9,
+      "temp_id": 16,
+      "size": "730*158",
+      "signature": "[class]android.widget.EditText[resource_id]org.fredriks.bmrcalc:id/ageField[text]Age[enabled,,]",
+      "view_str": "6b598852d91ea1bd18a37c9d8bb2c92a",
+      "content_free_signature": "[class]android.widget.EditText[resource_id]org.fredriks.bmrcalc:id/ageField"
+    },
+    {
+      "package": "org.fredriks.bmrcalc",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          491,
+          1580
+        ],
+        [
+          949,
+          1646
+        ]
+      ],
+      "resource_id": "org.fredriks.bmrcalc:id/textView3",
+      "checked": false,
+      "text": "Choose activity level:",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 9,
+      "temp_id": 17,
+      "size": "458*66",
+      "signature": "[class]android.widget.TextView[resource_id]org.fredriks.bmrcalc:id/textView3[text]Choose activity level:[enabled,,]",
+      "view_str": "be5b796681da6eb706a9e66d44dcff9d",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]org.fredriks.bmrcalc:id/textView3"
+    },
+    {
+      "package": "org.fredriks.bmrcalc",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        19
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          294,
+          1650
+        ],
+        [
+          1146,
+          1734
+        ]
+      ],
+      "resource_id": "org.fredriks.bmrcalc:id/spinner1",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.Spinner",
+      "scrollable": true,
+      "selected": false,
+      "long_clickable": true,
+      "parent": 9,
+      "temp_id": 18,
+      "size": "852*84",
+      "signature": "[class]android.widget.Spinner[resource_id]org.fredriks.bmrcalc:id/spinner1[text]None[enabled,,]",
+      "view_str": "3486824ae50b78eb64877380c4f6c8d2",
+      "content_free_signature": "[class]android.widget.Spinner[resource_id]org.fredriks.bmrcalc:id/spinner1"
+    },
+    {
+      "package": "org.fredriks.bmrcalc",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          294,
+          1654
+        ],
+        [
+          978,
+          1730
+        ]
+      ],
+      "resource_id": "android:id/text1",
+      "checked": false,
+      "text": "Minor or no activity",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 18,
+      "temp_id": 19,
+      "size": "684*76",
+      "signature": "[class]android.widget.TextView[resource_id]android:id/text1[text]Minor or no activity[enabled,,]",
+      "view_str": "c74af57fa3fdee712d41f88de4aa6c0a",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]android:id/text1"
+    },
+    {
+      "package": "org.fredriks.bmrcalc",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          566,
+          1929
+        ],
+        [
+          874,
+          2097
+        ]
+      ],
+      "resource_id": "org.fredriks.bmrcalc:id/calcButton",
+      "checked": false,
+      "text": "CALCULATE",
+      "class": "android.widget.Button",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 9,
+      "temp_id": 20,
+      "size": "308*168",
+      "signature": "[class]android.widget.Button[resource_id]org.fredriks.bmrcalc:id/calcButton[text]CALCULATE[enabled,,]",
+      "view_str": "6f9b6406855114231853e9145355077d",
+      "content_free_signature": "[class]android.widget.Button[resource_id]org.fredriks.bmrcalc:id/calcButton"
+    },
+    {
+      "package": "org.fredriks.bmrcalc",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          21,
+          2135
+        ],
+        [
+          966,
+          2450
+        ]
+      ],
+      "resource_id": "org.fredriks.bmrcalc:id/resText",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 9,
+      "temp_id": 21,
+      "size": "945*315",
+      "signature": "[class]android.widget.TextView[resource_id]org.fredriks.bmrcalc:id/resText[text]None[enabled,,]",
+      "view_str": "567566b2155f84475196b30dd5c03598",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]org.fredriks.bmrcalc:id/resText"
+    },
+    {
+      "package": "org.fredriks.bmrcalc",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          985,
+          2135
+        ],
+        [
+          1388,
+          2450
+        ]
+      ],
+      "resource_id": "org.fredriks.bmrcalc:id/resText2",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 9,
+      "temp_id": 22,
+      "size": "403*315",
+      "signature": "[class]android.widget.TextView[resource_id]org.fredriks.bmrcalc:id/resText2[text]None[enabled,,]",
+      "view_str": "0937875a98082737badd90f758f96c6c",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]org.fredriks.bmrcalc:id/resText2"
+    },
+    {
+      "package": "org.fredriks.bmrcalc",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          160,
+          2538
+        ],
+        [
+          1280,
+          2713
+        ]
+      ],
+      "resource_id": "org.fredriks.bmrcalc:id/adView",
+      "checked": false,
+      "text": null,
+      "class": "android.view.ViewGroup",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 9,
+      "temp_id": 23,
+      "size": "1120*175",
+      "signature": "[class]android.view.ViewGroup[resource_id]org.fredriks.bmrcalc:id/adView[text]None[enabled,,]",
+      "view_str": "6b5b459e2ab37aed9e611874b13d1cd4",
+      "content_free_signature": "[class]android.view.ViewGroup[resource_id]org.fredriks.bmrcalc:id/adView"
+    },
+    {
+      "package": "org.fredriks.bmrcalc",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          0
+        ],
+        [
+          1440,
+          84
+        ]
+      ],
+      "resource_id": "android:id/statusBarBackground",
+      "checked": false,
+      "text": null,
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 0,
+      "temp_id": 24,
+      "size": "1440*84",
+      "signature": "[class]android.view.View[resource_id]android:id/statusBarBackground[text]None[enabled,,]",
+      "view_str": "51fbb5022bb923579cf647b8db64b610",
+      "content_free_signature": "[class]android.view.View[resource_id]android:id/statusBarBackground"
+    },
+    {
+      "package": "org.fredriks.bmrcalc",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          2952
+        ],
+        [
+          1440,
+          3120
+        ]
+      ],
+      "resource_id": "android:id/navigationBarBackground",
+      "checked": false,
+      "text": null,
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 0,
+      "temp_id": 25,
+      "size": "1440*168",
+      "signature": "[class]android.view.View[resource_id]android:id/navigationBarBackground[text]None[enabled,,]",
+      "view_str": "d071e215c32205daf092a791ac81f3eb",
+      "content_free_signature": "[class]android.view.View[resource_id]android:id/navigationBarBackground"
+    }
+  ]
+}

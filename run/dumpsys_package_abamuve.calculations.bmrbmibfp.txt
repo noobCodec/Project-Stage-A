@@ -1,0 +1,133 @@
+Activity Resolver Table:
+  Non-Data Actions:
+      android.intent.action.MAIN:
+        7958416 abamuve.calculations.bmrbmibfp/.MainActivity filter 8011359
+          Action: "android.intent.action.MAIN"
+          Category: "android.intent.category.LAUNCHER"
+
+Receiver Resolver Table:
+  Non-Data Actions:
+      android.intent.action.BATTERY_OKAY:
+        7ec2197 abamuve.calculations.bmrbmibfp/androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryNotLowProxy filter e81c707
+          Action: "android.intent.action.BATTERY_OKAY"
+          Action: "android.intent.action.BATTERY_LOW"
+      android.intent.action.ACTION_POWER_DISCONNECTED:
+        3907f84 abamuve.calculations.bmrbmibfp/androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryChargingProxy filter d6d9946
+          Action: "android.intent.action.ACTION_POWER_CONNECTED"
+          Action: "android.intent.action.ACTION_POWER_DISCONNECTED"
+      android.intent.action.DEVICE_STORAGE_LOW:
+        f78b36d abamuve.calculations.bmrbmibfp/androidx.work.impl.background.systemalarm.ConstraintProxy$StorageNotLowProxy filter e501034
+          Action: "android.intent.action.DEVICE_STORAGE_LOW"
+          Action: "android.intent.action.DEVICE_STORAGE_OK"
+      android.net.conn.CONNECTIVITY_CHANGE:
+        5dcba2 abamuve.calculations.bmrbmibfp/androidx.work.impl.background.systemalarm.ConstraintProxy$NetworkStateProxy filter 93eee5d
+          Action: "android.net.conn.CONNECTIVITY_CHANGE"
+      android.intent.action.DEVICE_STORAGE_OK:
+        f78b36d abamuve.calculations.bmrbmibfp/androidx.work.impl.background.systemalarm.ConstraintProxy$StorageNotLowProxy filter e501034
+          Action: "android.intent.action.DEVICE_STORAGE_LOW"
+          Action: "android.intent.action.DEVICE_STORAGE_OK"
+      android.intent.action.BATTERY_LOW:
+        7ec2197 abamuve.calculations.bmrbmibfp/androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryNotLowProxy filter e81c707
+          Action: "android.intent.action.BATTERY_OKAY"
+          Action: "android.intent.action.BATTERY_LOW"
+      android.intent.action.TIMEZONE_CHANGED:
+        d474033 abamuve.calculations.bmrbmibfp/androidx.work.impl.background.systemalarm.RescheduleReceiver filter 55a03d2
+          Action: "android.intent.action.BOOT_COMPLETED"
+          Action: "android.intent.action.TIME_SET"
+          Action: "android.intent.action.TIMEZONE_CHANGED"
+      android.intent.action.TIME_SET:
+        d474033 abamuve.calculations.bmrbmibfp/androidx.work.impl.background.systemalarm.RescheduleReceiver filter 55a03d2
+          Action: "android.intent.action.BOOT_COMPLETED"
+          Action: "android.intent.action.TIME_SET"
+          Action: "android.intent.action.TIMEZONE_CHANGED"
+      android.intent.action.BOOT_COMPLETED:
+        d474033 abamuve.calculations.bmrbmibfp/androidx.work.impl.background.systemalarm.RescheduleReceiver filter 55a03d2
+          Action: "android.intent.action.BOOT_COMPLETED"
+          Action: "android.intent.action.TIME_SET"
+          Action: "android.intent.action.TIMEZONE_CHANGED"
+      android.intent.action.ACTION_POWER_CONNECTED:
+        3907f84 abamuve.calculations.bmrbmibfp/androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryChargingProxy filter d6d9946
+          Action: "android.intent.action.ACTION_POWER_CONNECTED"
+          Action: "android.intent.action.ACTION_POWER_DISCONNECTED"
+      androidx.work.diagnostics.REQUEST_DIAGNOSTICS:
+        7580ff0 abamuve.calculations.bmrbmibfp/androidx.work.impl.diagnostics.DiagnosticsReceiver filter af7fba0
+          Action: "androidx.work.diagnostics.REQUEST_DIAGNOSTICS"
+      androidx.work.impl.background.systemalarm.UpdateProxies:
+        8fa1969 abamuve.calculations.bmrbmibfp/androidx.work.impl.background.systemalarm.ConstraintProxyUpdateReceiver filter ae9cca3
+          Action: "androidx.work.impl.background.systemalarm.UpdateProxies"
+
+Registered ContentProviders:
+  abamuve.calculations.bmrbmibfp/com.google.android.gms.ads.MobileAdsInitProvider:
+    Provider{670ffee abamuve.calculations.bmrbmibfp/com.google.android.gms.ads.MobileAdsInitProvider}
+  abamuve.calculations.bmrbmibfp/androidx.startup.InitializationProvider:
+    Provider{c2bac8f abamuve.calculations.bmrbmibfp/androidx.startup.InitializationProvider}
+
+ContentProvider Authorities:
+  [abamuve.calculations.bmrbmibfp.mobileadsinitprovider]:
+    Provider{670ffee abamuve.calculations.bmrbmibfp/com.google.android.gms.ads.MobileAdsInitProvider}
+      applicationInfo=ApplicationInfo{2c63b1c abamuve.calculations.bmrbmibfp}
+  [abamuve.calculations.bmrbmibfp.androidx-startup]:
+    Provider{c2bac8f abamuve.calculations.bmrbmibfp/androidx.startup.InitializationProvider}
+      applicationInfo=ApplicationInfo{2c63b1c abamuve.calculations.bmrbmibfp}
+
+Key Set Manager:
+  [abamuve.calculations.bmrbmibfp]
+      Signing KeySets: 105
+
+Packages:
+  Package [abamuve.calculations.bmrbmibfp] (811e325):
+    userId=10168
+    pkg=Package{6712cfa abamuve.calculations.bmrbmibfp}
+    codePath=/data/app/abamuve.calculations.bmrbmibfp-Lmz_ZGltKyatmRG7Djlk7g==
+    resourcePath=/data/app/abamuve.calculations.bmrbmibfp-Lmz_ZGltKyatmRG7Djlk7g==
+    legacyNativeLibraryDir=/data/app/abamuve.calculations.bmrbmibfp-Lmz_ZGltKyatmRG7Djlk7g==/lib
+    primaryCpuAbi=null
+    secondaryCpuAbi=null
+    versionCode=2 minSdk=21 targetSdk=31
+    versionName=2.0
+    splits=[base]
+    apkSigningVersion=3
+    applicationInfo=ApplicationInfo{2c63b1c abamuve.calculations.bmrbmibfp}
+    flags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP ]
+    privateFlags=[ PRIVATE_FLAG_ACTIVITIES_RESIZE_MODE_RESIZEABLE_VIA_SDK_VERSION PARTIALLY_DIRECT_BOOT_AWARE ]
+    dataDir=/data/user/0/abamuve.calculations.bmrbmibfp
+    supportsScreens=[medium, large, xlarge, resizeable, anyDensity]
+    timeStamp=2023-08-10 19:59:46
+    firstInstallTime=2023-08-10 19:59:46
+    lastUpdateTime=2023-08-10 19:59:46
+    signatures=PackageSignatures{d4082ab version:3, signatures:[2fd92879], past signatures:[]}
+    installPermissionsFixed=true
+    pkgFlags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP ]
+    requested permissions:
+      android.permission.INTERNET
+      android.permission.ACCESS_NETWORK_STATE
+      com.google.android.gms.permission.AD_ID
+      android.permission.WAKE_LOCK
+      android.permission.RECEIVE_BOOT_COMPLETED
+      android.permission.FOREGROUND_SERVICE
+    install permissions:
+      android.permission.FOREGROUND_SERVICE: granted=true
+      android.permission.RECEIVE_BOOT_COMPLETED: granted=true
+      android.permission.INTERNET: granted=true
+      android.permission.ACCESS_NETWORK_STATE: granted=true
+      android.permission.WAKE_LOCK: granted=true
+    User 0: ceDataInode=-4294843863 installed=true hidden=false suspended=false stopped=true notLaunched=true enabled=0 instant=false virtual=false
+      gids=[3003]
+      runtime permissions:
+
+Package Changes:
+  Sequence number=13
+  User 0:
+    seq=5, package=com.google.android.gms
+    seq=12, package=abamuve.calculations.bmrbmibfp
+
+
+Dexopt state:
+  [abamuve.calculations.bmrbmibfp]
+    path: /data/app/abamuve.calculations.bmrbmibfp-Lmz_ZGltKyatmRG7Djlk7g==/base.apk
+      x86: [status=speed-profile] [reason=install]
+
+
+Compiler stats:
+  [abamuve.calculations.bmrbmibfp]
+     base.apk - 934

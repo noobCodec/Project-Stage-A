@@ -1,0 +1,451 @@
+--------- beginning of main
+08-18 17:53:29.161  1954  2294 I GnssLocationProvider: WakeLock acquired by sendMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@b473188)
+08-18 17:53:29.162  1954  1976 I GnssLocationProvider: WakeLock released by handleMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@b473188)
+08-18 17:53:30.106  2801  2801 I MicroDetectionWorker: #startMicroDetector [speakerMode: 0]
+08-18 17:53:30.106  2801  2801 I AudioController: Using mInputStreamFactoryBuilder
+08-18 17:53:30.106  2801  2801 I AudioController: Created new AudioSource
+08-18 17:53:30.107  2801  2801 I MicroDetectionWorker: onReady
+08-18 17:53:30.116  2801  3038 I MicroRecognitionRunner: Starting detection.
+08-18 17:53:30.116  2801 16727 I MicrophoneInputStream: mic_starting  SR : 16000 CC : 16 SO : 6
+08-18 17:53:30.117  1640  1707 E         : Request requires android.permission.RECORD_AUDIO
+08-18 17:53:30.117  1640  1707 E AudioPolicyIntefaceImpl: getInputForAttr permission denied: recording not allowed for uid 10040 pid 2801
+08-18 17:53:30.117  1640  1707 E AudioFlinger: createRecord() checkRecordThread_l failed
+08-18 17:53:30.117  2801 16727 E IAudioFlinger: createRecord returned error -22
+08-18 17:53:30.117  2801 16727 E AudioRecord: AudioFlinger could not create record track, status: -22
+08-18 17:53:30.117  2801 16727 E AudioRecord-JNI: Error creating AudioRecord instance: initialization check failed with status -22.
+08-18 17:53:30.117  2801 16727 E android.media.AudioRecord: Error code -20 when initializing native AudioRecord object.
+08-18 17:53:30.117  2801 16727 I MicrophoneInputStream: mic_started  SR : 16000 CC : 16 SO : 6
+08-18 17:53:30.118  2801  2801 I MicroDetectionWorker: onReady
+08-18 17:53:30.124  2801 16727 I MicrophoneInputStream: mic_close  SR : 16000 CC : 16 SO : 6
+08-18 17:53:30.125  2801  3038 I MicroRecognitionRunner: Detection finished
+08-18 17:53:30.125  2801  3038 W ErrorReporter: reportError [type: 211, code: 524300]: Error reading from input stream
+08-18 17:53:30.125  2801  3259 I MicroRecognitionRunner: Stopping hotword detection.
+08-18 17:53:30.125  2801  3038 W ErrorProcessor: onFatalError, processing error from engine(4)
+08-18 17:53:30.125  2801  3038 W ErrorProcessor: com.google.android.apps.gsa.shared.speech.b.g: Error reading from input stream
+08-18 17:53:30.125  2801  3038 W ErrorProcessor: 	at com.google.android.apps.gsa.staticplugins.microdetection.d.k.a(SourceFile:91)
+08-18 17:53:30.125  2801  3038 W ErrorProcessor: 	at com.google.android.apps.gsa.staticplugins.microdetection.d.l.run(Unknown Source:14)
+08-18 17:53:30.125  2801  3038 W ErrorProcessor: 	at com.google.android.libraries.gsa.runner.a.a.b(SourceFile:32)
+08-18 17:53:30.125  2801  3038 W ErrorProcessor: 	at com.google.android.libraries.gsa.runner.a.c.call(Unknown Source:4)
+08-18 17:53:30.125  2801  3038 W ErrorProcessor: 	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+08-18 17:53:30.125  2801  3038 W ErrorProcessor: 	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:458)
+08-18 17:53:30.125  2801  3038 W ErrorProcessor: 	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+08-18 17:53:30.125  2801  3038 W ErrorProcessor: 	at com.google.android.apps.gsa.shared.util.concurrent.b.g.run(Unknown Source:4)
+08-18 17:53:30.125  2801  3038 W ErrorProcessor: 	at com.google.android.apps.gsa.shared.util.concurrent.b.aw.run(SourceFile:4)
+08-18 17:53:30.125  2801  3038 W ErrorProcessor: 	at com.google.android.apps.gsa.shared.util.concurrent.b.aw.run(SourceFile:4)
+08-18 17:53:30.125  2801  3038 W ErrorProcessor: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+08-18 17:53:30.125  2801  3038 W ErrorProcessor: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+08-18 17:53:30.125  2801  3038 W ErrorProcessor: 	at java.lang.Thread.run(Thread.java:764)
+08-18 17:53:30.125  2801  3038 W ErrorProcessor: 	at com.google.android.apps.gsa.shared.util.concurrent.b.i.run(SourceFile:6)
+08-18 17:53:30.125  2801  3038 W ErrorProcessor: Caused by: com.google.android.apps.gsa.shared.exception.GsaIOException: Error code: 393238 | Buffer overflow, no available space.
+08-18 17:53:30.125  2801  3038 W ErrorProcessor: 	at com.google.android.apps.gsa.speech.audio.Tee.j(SourceFile:103)
+08-18 17:53:30.125  2801  3038 W ErrorProcessor: 	at com.google.android.apps.gsa.speech.audio.au.read(SourceFile:2)
+08-18 17:53:30.125  2801  3038 W ErrorProcessor: 	at java.io.InputStream.read(InputStream.java:101)
+08-18 17:53:30.125  2801  3038 W ErrorProcessor: 	at com.google.android.apps.gsa.speech.audio.ao.run(SourceFile:17)
+08-18 17:53:30.125  2801  3038 W ErrorProcessor: 	at com.google.android.apps.gsa.speech.audio.an.run(SourceFile:2)
+08-18 17:53:30.125  2801  3038 W ErrorProcessor: 	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:458)
+08-18 17:53:30.125  2801  3038 W ErrorProcessor: 	... 10 more
+08-18 17:53:30.125  2801  3038 I AudioController: internalShutdown
+08-18 17:53:30.126  2801  2801 I MicroDetector: Keeping mic open: false
+08-18 17:53:30.126  2801  2801 I MicroDetectionWorker: #onError(false)
+08-18 17:53:30.126  2801 10298 I DeviceStateChecker: DeviceStateChecker cancelled
+08-18 17:53:30.162  1954  2294 I GnssLocationProvider: WakeLock acquired by sendMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@597b721)
+08-18 17:53:30.162  1954  1976 I GnssLocationProvider: WakeLock released by handleMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@597b721)
+--------- beginning of system
+08-18 17:53:30.117  2801 16727 E ActivityThread: Failed to find provider info for com.google.android.apps.gsa.testing.ui.audio.recorded
+08-18 17:53:30.293  1808  1839 E storaged: getDiskStats failed with result NOT_SUPPORTED and size 0
+08-18 17:53:31.162  1954  2294 I GnssLocationProvider: WakeLock acquired by sendMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@feb3746)
+08-18 17:53:31.162  1954  1976 I GnssLocationProvider: WakeLock released by handleMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@feb3746)
+08-18 17:53:32.098  2080  2080 I GoogleInputMethod: onReceive() : Action = android.intent.action.INPUT_METHOD_CHANGED
+08-18 17:53:32.101  2080  2080 I GoogleInputMethod: onFinishInput() : Dummy InputConnection bound
+08-18 17:53:32.102  2080  2080 I IcingNotification: IcingNotificationReceiver unregistered
+08-18 17:53:32.103  2080  2080 I EmojiSearchExtension: onDestroy()
+08-18 17:53:32.103  2080  2080 I EmojiSearchExtension: onDeactivate()
+08-18 17:53:32.105  2080  2080 I ModuleManager: com.google.android.apps.inputmethod.libs.search.INativeCardExtension changed to unavailable
+08-18 17:53:32.105  2080  2080 I ModuleManager: com.google.android.apps.inputmethod.libs.handwriting.ime.IHandwritingImeExtension changed to unavailable
+08-18 17:53:32.107  2080  2080 I ModuleManager: com.google.android.apps.inputmethod.libs.hmm.superpacks.IHmmModule changed to unavailable
+08-18 17:53:32.107  2080  2080 I ModuleManager: com.google.android.apps.inputmethod.libs.search.IFeatureCardNoticeExtension changed to unavailable
+08-18 17:53:32.107  2080  2080 I ModuleManager: com.google.android.apps.inputmethod.libs.translate.ITranslateUIExtension changed to unavailable
+08-18 17:53:32.107  2080  2080 I ModuleManager: com.google.android.apps.inputmethod.libs.search.IUniversalMediaExtension changed to unavailable
+08-18 17:53:32.107  2080  2080 I ModuleManager: com.google.android.apps.inputmethod.libs.search.IStickerExtension changed to unavailable
+08-18 17:53:32.107  2080  2080 I ModuleManager: com.google.android.apps.inputmethod.libs.search.IGifEntryPointCandidateExtension changed to unavailable
+08-18 17:53:32.107  2080  2080 I GifEntryExtension: onDestroy()
+08-18 17:53:32.107  2080  2080 I GifEntryExtension: onDeactivate()
+08-18 17:53:32.108  2080  2080 I ModuleManager: com.google.android.apps.inputmethod.libs.search.IEmojiSearchExtension changed to unavailable
+08-18 17:53:32.108  2080  2080 I ModuleManager: com.google.android.apps.inputmethod.libs.textediting.ITextEditingExtension changed to unavailable
+08-18 17:53:32.108  2080  3181 W Delight5Decoder: removePredictionEngine() : Unknown engine cvt@1aca0df
+08-18 17:53:32.108  2080  2080 I ModuleManager: com.google.android.apps.inputmethod.libs.pill.IPillExtension changed to unavailable
+08-18 17:53:32.108  2080  2080 I ModuleManager: com.google.android.apps.inputmethod.libs.search.IEmojiOrGifExtension changed to unavailable
+08-18 17:53:32.108  2080  2080 I ModuleManager: com.google.android.apps.inputmethod.libs.search.IDoodleExtension changed to unavailable
+08-18 17:53:32.108  2080  2080 I ModuleManager: com.google.android.apps.inputmethod.libs.search.IEmojiDataExtension changed to unavailable
+08-18 17:53:32.108  2080  2080 I EmojiDataExtension: onDestroy()
+08-18 17:53:32.109  2080  2080 I ModuleManager: com.google.android.apps.inputmethod.libs.search.IBitmojiExtension changed to unavailable
+08-18 17:53:32.109  2080  2080 I ModuleManager: com.google.android.apps.inputmethod.libs.search.IGifKeyboardExtension changed to unavailable
+08-18 17:53:32.109  2080  2080 I ModuleManager: com.google.android.apps.inputmethod.libs.search.IEmoticonExtension changed to unavailable
+08-18 17:53:32.109  2080  2080 I ModuleManager: com.google.android.apps.inputmethod.libs.search.IDefaultStickerExtension changed to unavailable
+08-18 17:53:32.109  2080  2080 I ModuleManager: com.google.android.apps.inputmethod.libs.search.sense.IConversationToQueryExtension changed to unavailable
+08-18 17:53:32.109  2080  2080 I Conv2QueryExtension: onDestroy()
+08-18 17:53:32.109  2080  2080 I C2QClientSingleton: deregistering client 'Conv2QueryExtension'
+08-18 17:53:32.109  2080  2080 I C2QClientSingleton: number of registered clients: 0
+08-18 17:53:32.151  1954  1977 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.DROPBOX_ENTRY_ADDED flg=0x10 (has extras) } to com.google.android.gms/.stats.service.DropBoxEntryAddedReceiver
+08-18 17:53:32.151  1954  1977 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.DROPBOX_ENTRY_ADDED flg=0x10 (has extras) } to com.google.android.gms/.chimera.GmsIntentOperationService$PersistentTrustedReceiver
+08-18 17:53:32.161  1954  2294 I GnssLocationProvider: WakeLock acquired by sendMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@447b3fc)
+08-18 17:53:32.162  1954  1976 I GnssLocationProvider: WakeLock released by handleMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@447b3fc)
+08-18 17:53:32.280 17881 17881 W app_process: Unexpected CPU variant for X86 using defaults: x86
+08-18 17:53:32.281 17881 17881 I app_process: The ClassLoaderContext is a special shared library.
+08-18 17:53:32.295 17881 17881 I Input   : injectKeyEvent: KeyEvent { action=ACTION_DOWN, keyCode=KEYCODE_MENU, scanCode=0, metaState=0, flags=0x0, repeatCount=0, eventTime=31646707, downTime=31646707, deviceId=-1, source=0x101 }
+08-18 17:53:32.296 17881 17881 I Input   : injectKeyEvent: KeyEvent { action=ACTION_UP, keyCode=KEYCODE_MENU, scanCode=0, metaState=0, flags=0x0, repeatCount=0, eventTime=31646707, downTime=31646707, deviceId=-1, source=0x101 }
+08-18 17:53:32.386 17891 17891 W app_process: Could not reserve sentinel fault page
+08-18 17:53:32.415 17891 17891 W app_process: Unexpected CPU variant for X86 using defaults: x86
+08-18 17:53:32.416 17891 17891 I app_process: The ClassLoaderContext is a special shared library.
+08-18 17:53:32.428 17891 17891 I Input   : injectKeyEvent: KeyEvent { action=ACTION_DOWN, keyCode=KEYCODE_BACK, scanCode=0, metaState=0, flags=0x0, repeatCount=0, eventTime=31646841, downTime=31646841, deviceId=-1, source=0x101 }
+08-18 17:53:32.429 17891 17891 I Input   : injectKeyEvent: KeyEvent { action=ACTION_UP, keyCode=KEYCODE_BACK, scanCode=0, metaState=0, flags=0x0, repeatCount=0, eventTime=31646841, downTime=31646841, deviceId=-1, source=0x101 }
+08-18 17:53:32.576  1795  1825 E SurfaceFlinger: ro.sf.lcd_density must be defined as a build property
+08-18 17:53:32.585 17923 17923 E eglCodecCommon: GoldfishAddressSpaceHostMemoryAllocator: ioctl_ping failed for device_type=5, ret=-1
+08-18 17:53:32.882  1954  1976 E memtrack: Couldn't load memtrack module
+08-18 17:53:32.882  1954  1976 W android.os.Debug: failed to get memory consumption info: -1
+08-18 17:53:32.962  1954  1977 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.DROPBOX_ENTRY_ADDED flg=0x10 (has extras) } to com.google.android.gms/.stats.service.DropBoxEntryAddedReceiver
+08-18 17:53:32.962  1954  1977 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.DROPBOX_ENTRY_ADDED flg=0x10 (has extras) } to com.google.android.gms/.chimera.GmsIntentOperationService$PersistentTrustedReceiver
+08-18 17:53:32.991  1954  4183 I ActivityManager: Force stopping com.fireandairmedia.bmrfree appid=10236 user=0: from pid 17945
+08-18 17:53:33.088 17947 17947 W app_process: Unexpected CPU variant for X86 using defaults: x86
+08-18 17:53:33.088 17947 17947 I app_process: The ClassLoaderContext is a special shared library.
+08-18 17:53:33.108 17947 17947 I Input   : injectKeyEvent: KeyEvent { action=ACTION_DOWN, keyCode=KEYCODE_HOME, scanCode=0, metaState=0, flags=0x0, repeatCount=0, eventTime=31647521, downTime=31647521, deviceId=-1, source=0x101 }
+08-18 17:53:33.109 17947 17947 I Input   : injectKeyEvent: KeyEvent { action=ACTION_UP, keyCode=KEYCODE_HOME, scanCode=0, metaState=0, flags=0x0, repeatCount=0, eventTime=31647521, downTime=31647521, deviceId=-1, source=0x101 }
+08-18 17:53:33.111  1954  2037 I ActivityManager: START u0 {act=android.intent.action.MAIN cat=[android.intent.category.HOME] flg=0x10200000 cmp=com.google.android.apps.nexuslauncher/.NexusLauncherActivity (has extras)} from uid 1000
+08-18 17:53:33.115  2097  2097 I vol.Events: writeEvent dismiss_dialog volume_controller
+08-18 17:53:33.162  1954  2294 I GnssLocationProvider: WakeLock acquired by sendMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@8ecd48a)
+08-18 17:53:33.162  1954  1976 I GnssLocationProvider: WakeLock released by handleMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@8ecd48a)
+08-18 17:53:34.161  1954  2294 I GnssLocationProvider: WakeLock acquired by sendMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@254bafb)
+08-18 17:53:34.162  1954  1976 I GnssLocationProvider: WakeLock released by handleMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@254bafb)
+08-18 17:53:34.218  1795  1825 E SurfaceFlinger: ro.sf.lcd_density must be defined as a build property
+08-18 17:53:34.226 17973 17973 E eglCodecCommon: GoldfishAddressSpaceHostMemoryAllocator: ioctl_ping failed for device_type=5, ret=-1
+08-18 17:53:34.516  1954  1977 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.DROPBOX_ENTRY_ADDED flg=0x10 (has extras) } to com.google.android.gms/.stats.service.DropBoxEntryAddedReceiver
+08-18 17:53:34.516  1954  1977 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.DROPBOX_ENTRY_ADDED flg=0x10 (has extras) } to com.google.android.gms/.chimera.GmsIntentOperationService$PersistentTrustedReceiver
+08-18 17:53:34.623  1795  1825 E SurfaceFlinger: ro.sf.lcd_density must be defined as a build property
+08-18 17:53:34.630 18004 18004 E eglCodecCommon: GoldfishAddressSpaceHostMemoryAllocator: ioctl_ping failed for device_type=5, ret=-1
+08-18 17:53:34.942  1954  1977 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.DROPBOX_ENTRY_ADDED flg=0x10 (has extras) } to com.google.android.gms/.stats.service.DropBoxEntryAddedReceiver
+08-18 17:53:34.942  1954  1977 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.DROPBOX_ENTRY_ADDED flg=0x10 (has extras) } to com.google.android.gms/.chimera.GmsIntentOperationService$PersistentTrustedReceiver
+08-18 17:53:35.041  1795  1825 E SurfaceFlinger: ro.sf.lcd_density must be defined as a build property
+08-18 17:53:35.053 18035 18035 E eglCodecCommon: GoldfishAddressSpaceHostMemoryAllocator: ioctl_ping failed for device_type=5, ret=-1
+08-18 17:53:35.127  2801  2801 I MicroDetectionWorker: #startMicroDetector [speakerMode: 0]
+08-18 17:53:35.128  2801  2801 I AudioController: Using mInputStreamFactoryBuilder
+08-18 17:53:35.128  2801  2801 I AudioController: Created new AudioSource
+08-18 17:53:35.130  2801  2801 I MicroDetectionWorker: onReady
+08-18 17:53:35.137  2801 10298 I MicroRecognitionRunner: Starting detection.
+08-18 17:53:35.137  2801 16727 I MicrophoneInputStream: mic_starting  SR : 16000 CC : 16 SO : 6
+08-18 17:53:35.138  1640  1707 E         : Request requires android.permission.RECORD_AUDIO
+08-18 17:53:35.138  1640  1707 E AudioPolicyIntefaceImpl: getInputForAttr permission denied: recording not allowed for uid 10040 pid 2801
+08-18 17:53:35.138  1640  1707 E AudioFlinger: createRecord() checkRecordThread_l failed
+08-18 17:53:35.138  2801 16727 E IAudioFlinger: createRecord returned error -22
+08-18 17:53:35.138  2801 16727 E AudioRecord: AudioFlinger could not create record track, status: -22
+08-18 17:53:35.138  2801 16727 E AudioRecord-JNI: Error creating AudioRecord instance: initialization check failed with status -22.
+08-18 17:53:35.138  2801 16727 E android.media.AudioRecord: Error code -20 when initializing native AudioRecord object.
+08-18 17:53:35.138  2801 16727 I MicrophoneInputStream: mic_started  SR : 16000 CC : 16 SO : 6
+08-18 17:53:35.138  2801 16727 E ActivityThread: Failed to find provider info for com.google.android.apps.gsa.testing.ui.audio.recorded
+08-18 17:53:35.138  2801  2801 I MicroDetectionWorker: onReady
+08-18 17:53:35.142  2801 16727 I MicrophoneInputStream: mic_close  SR : 16000 CC : 16 SO : 6
+08-18 17:53:35.142  2801 10298 I MicroRecognitionRunner: Detection finished
+08-18 17:53:35.142  2801 10298 W ErrorReporter: reportError [type: 211, code: 524300]: Error reading from input stream
+08-18 17:53:35.142  2801  3259 I MicroRecognitionRunner: Stopping hotword detection.
+08-18 17:53:35.142  2801 10298 W ErrorProcessor: onFatalError, processing error from engine(4)
+08-18 17:53:35.142  2801 10298 W ErrorProcessor: com.google.android.apps.gsa.shared.speech.b.g: Error reading from input stream
+08-18 17:53:35.142  2801 10298 W ErrorProcessor: 	at com.google.android.apps.gsa.staticplugins.microdetection.d.k.a(SourceFile:91)
+08-18 17:53:35.142  2801 10298 W ErrorProcessor: 	at com.google.android.apps.gsa.staticplugins.microdetection.d.l.run(Unknown Source:14)
+08-18 17:53:35.142  2801 10298 W ErrorProcessor: 	at com.google.android.libraries.gsa.runner.a.a.b(SourceFile:32)
+08-18 17:53:35.142  2801 10298 W ErrorProcessor: 	at com.google.android.libraries.gsa.runner.a.c.call(Unknown Source:4)
+08-18 17:53:35.142  2801 10298 W ErrorProcessor: 	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+08-18 17:53:35.142  2801 10298 W ErrorProcessor: 	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:458)
+08-18 17:53:35.142  2801 10298 W ErrorProcessor: 	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+08-18 17:53:35.142  2801 10298 W ErrorProcessor: 	at com.google.android.apps.gsa.shared.util.concurrent.b.g.run(Unknown Source:4)
+08-18 17:53:35.142  2801 10298 W ErrorProcessor: 	at com.google.android.apps.gsa.shared.util.concurrent.b.aw.run(SourceFile:4)
+08-18 17:53:35.142  2801 10298 W ErrorProcessor: 	at com.google.android.apps.gsa.shared.util.concurrent.b.aw.run(SourceFile:4)
+08-18 17:53:35.142  2801 10298 W ErrorProcessor: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+08-18 17:53:35.142  2801 10298 W ErrorProcessor: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+08-18 17:53:35.142  2801 10298 W ErrorProcessor: 	at java.lang.Thread.run(Thread.java:764)
+08-18 17:53:35.142  2801 10298 W ErrorProcessor: 	at com.google.android.apps.gsa.shared.util.concurrent.b.i.run(SourceFile:6)
+08-18 17:53:35.142  2801 10298 W ErrorProcessor: Caused by: com.google.android.apps.gsa.shared.exception.GsaIOException: Error code: 393238 | Buffer overflow, no available space.
+08-18 17:53:35.142  2801 10298 W ErrorProcessor: 	at com.google.android.apps.gsa.speech.audio.Tee.j(SourceFile:103)
+08-18 17:53:35.142  2801 10298 W ErrorProcessor: 	at com.google.android.apps.gsa.speech.audio.au.read(SourceFile:2)
+08-18 17:53:35.142  2801 10298 W ErrorProcessor: 	at java.io.InputStream.read(InputStream.java:101)
+08-18 17:53:35.142  2801 10298 W ErrorProcessor: 	at com.google.android.apps.gsa.speech.audio.ao.run(SourceFile:17)
+08-18 17:53:35.142  2801 10298 W ErrorProcessor: 	at com.google.android.apps.gsa.speech.audio.an.run(SourceFile:2)
+08-18 17:53:35.142  2801 10298 W ErrorProcessor: 	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:458)
+08-18 17:53:35.142  2801 10298 W ErrorProcessor: 	... 10 more
+08-18 17:53:35.142  2801 10298 I AudioController: internalShutdown
+08-18 17:53:35.143  2801  2801 I MicroDetector: Keeping mic open: false
+08-18 17:53:35.143  2801  3038 I DeviceStateChecker: DeviceStateChecker cancelled
+08-18 17:53:35.143  2801  2801 I MicroDetectionWorker: #onError(false)
+08-18 17:53:35.161  1954  2294 I GnssLocationProvider: WakeLock acquired by sendMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@1a4e05c)
+08-18 17:53:35.161  1954  1976 I GnssLocationProvider: WakeLock released by handleMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@1a4e05c)
+08-18 17:53:35.406  1954  1977 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.DROPBOX_ENTRY_ADDED flg=0x10 (has extras) } to com.google.android.gms/.stats.service.DropBoxEntryAddedReceiver
+08-18 17:53:35.406  1954  1977 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.DROPBOX_ENTRY_ADDED flg=0x10 (has extras) } to com.google.android.gms/.chimera.GmsIntentOperationService$PersistentTrustedReceiver
+08-18 17:53:35.433  1954  2716 I ActivityManager: START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.fireandairmedia.bmrfree/.MainActivity} from uid 2000
+08-18 17:53:35.457 18061 18061 W irmedia.bmrfre: Unexpected CPU variant for X86 using defaults: x86
+08-18 17:53:35.460  1954  1979 I ActivityManager: Start proc 18061:com.fireandairmedia.bmrfree/u0a236 for activity com.fireandairmedia.bmrfree/.MainActivity
+08-18 17:53:35.493 18061 18061 I CordovaLog: Changing log level to DEBUG(3)
+08-18 17:53:35.493 18061 18061 I CordovaActivity: Apache Cordova native platform version 8.1.0 is starting
+08-18 17:53:35.497 18061 18061 I WebViewFactory: Loading com.android.chrome version 69.0.3497.100 (code 349710017)
+08-18 17:53:35.501 18061 18061 I irmedia.bmrfre: The ClassLoaderContext is a special shared library.
+08-18 17:53:35.538 18061 18061 I cr_LibraryLoader: Time to load native libraries: 2 ms (timestamps 9948-9950)
+08-18 17:53:35.547 18061 18092 E cr_VariationsUtils: Failed reading seed file "/data/user/0/com.fireandairmedia.bmrfree/app_webview/variations_seed": /data/user/0/com.fireandairmedia.bmrfree/app_webview/variations_seed (No such file or directory)
+08-18 17:53:35.558 18093 18093 W webview_servic: Unexpected CPU variant for X86 using defaults: x86
+08-18 17:53:35.561  1954  1979 I ActivityManager: Start proc 18093:com.android.chrome:webview_service/u0a66 for service com.android.chrome/org.chromium.android_webview.services.VariationsSeedServer
+08-18 17:53:35.566 18061 18061 I chromium: [INFO:library_loader_hooks.cc(36)] Chromium logging enabled: level = 0, default verbosity = 0
+08-18 17:53:35.567 18061 18061 I cr_LibraryLoader: Expected native library version number "69.0.3497.100", actual native library version number "69.0.3497.100"
+08-18 17:53:35.568 18093 18093 I webview_servic: The ClassLoaderContext is a special shared library.
+08-18 17:53:35.575 18061 18115 W cr_ChildProcLH: Create a new ChildConnectionAllocator with package name = com.android.chrome, sandboxed = true
+08-18 17:53:35.579 18061 18061 I cr_BrowserStartup: Initializing chromium process, singleProcess=false
+08-18 17:53:35.585 18119 18119 W dboxed_process: Unexpected CPU variant for X86 using defaults: x86
+08-18 17:53:35.588  1954  1979 I ActivityManager: Start proc 18119:com.android.chrome:sandboxed_process0/u0i4 for webview_service com.fireandairmedia.bmrfree/org.chromium.content.app.SandboxedProcessService0
+08-18 17:53:35.606 18119 18119 I cr_ChildProcessService: Creating new ChildProcessService pid=18119
+08-18 17:53:35.648  2431 16953 W cklr    : [{0}] Failed to resolve name. status={1}
+08-18 17:53:35.722 18061 18061 W AdMob   : isGooglePlayServicesAvailable: true
+08-18 17:53:35.732 18061 18151 W cr_media: Requires BLUETOOTH permission
+08-18 17:53:35.736  1795  1821 E SurfaceFlinger: ro.sf.lcd_density must be defined as a build property
+08-18 17:53:35.740 18061 18165 I ConfigStore: android::hardware::configstore::V1_0::ISurfaceFlingerConfigs::hasWideColorDisplay retrieved: 0
+08-18 17:53:35.740 18061 18165 I ConfigStore: android::hardware::configstore::V1_0::ISurfaceFlingerConfigs::hasHDRDisplay retrieved: 0
+08-18 17:53:35.742 18061 18165 E eglCodecCommon: glUtilsParamSize: unknow param 0x000082da
+08-18 17:53:35.742 18061 18165 E eglCodecCommon: glUtilsParamSize: unknow param 0x000082da
+08-18 17:53:35.747 18093 18114 E cr_VariationsUtils: Failed reading seed file "/data/user/0/com.android.chrome/app_webview/variations_seed": /data/user/0/com.android.chrome/app_webview/variations_seed (No such file or directory)
+08-18 17:53:35.749 18119 18141 I cr_LibraryLoader: Time to load native libraries: 0 ms (timestamps 162-162)
+08-18 17:53:35.750 18119 18141 I chromium: [INFO:library_loader_hooks.cc(36)] Chromium logging enabled: level = 0, default verbosity = 0
+08-18 17:53:35.750 18119 18141 I cr_LibraryLoader: Expected native library version number "69.0.3497.100", actual native library version number "69.0.3497.100"
+08-18 17:53:35.757 18061 18167 I OpenGLRenderer: Initialized EGL, version 1.4
+08-18 17:53:35.762 18061 18167 W OpenGLRenderer: Failed to choose config with EGL_SWAP_BEHAVIOR_PRESERVED, retrying without...
+08-18 17:53:35.766 18061 18167 E eglCodecCommon: glUtilsParamSize: unknow param 0x000082da
+08-18 17:53:35.766 18061 18167 E eglCodecCommon: glUtilsParamSize: unknow param 0x000082da
+08-18 17:53:35.767  1795  2582 E SurfaceFlinger: ro.sf.lcd_density must be defined as a build property
+08-18 17:53:35.778 18061 18165 W VideoCapabilities: Unrecognized profile 4 for video/hevc
+08-18 17:53:35.784 18061 18165 I VideoCapabilities: Unsupported profile 4 for video/mp4v-es
+08-18 17:53:35.784 18061 18167 E eglCodecCommon: GoldfishAddressSpaceHostMemoryAllocator: ioctl_ping failed for device_type=5, ret=-1
+08-18 17:53:35.785 18061 18165 W cr_MediaCodecUtil: HW encoder for video/avc is not available on this device.
+08-18 17:53:35.819 18061 18178 W cr_CrashFileManager: /data/user/0/com.fireandairmedia.bmrfree/cache/WebView/Crash Reports does not exist or is not a directory
+08-18 17:53:35.824  1954  1985 I ActivityManager: Displayed com.fireandairmedia.bmrfree/.MainActivity: +361ms (total +51s85ms)
+08-18 17:53:35.861  1795  1795 W SurfaceFlinger: couldn't log to binary event log: overflow.
+08-18 17:53:35.861  1795  1795 W SurfaceFlinger: couldn't log to binary event log: overflow.
+08-18 17:53:35.910 18061 18061 I chromium: [INFO:CONSOLE(54)] "Uncaught ReferenceError: magicFocus is not defined", source: file:///android_asset/www/js/style.js (54)
+08-18 17:53:35.947 18061 18167 I chatty  : uid=10236(com.fireandairmedia.bmrfree) RenderThread identical 2 lines
+08-18 17:53:35.967  2801 16068 I PBSessionCacheImpl: Deleted sessionId[2353386164673] from persistence.
+08-18 17:53:35.972  2801  2801 W SearchService: Abort, client detached.
+08-18 17:53:35.984  1795  1825 W SurfaceFlinger: Attempting to set client state on removed layer: Splash Screen com.fireandairmedia.bmrfree#0
+08-18 17:53:35.984  1795  1825 W SurfaceFlinger: Attempting to destroy on removed layer: Splash Screen com.fireandairmedia.bmrfree#0
+08-18 17:53:35.990  2801  3038 I WorkController: WorkProxy is not enqueued because WorkController is disposed: WorkProxy{Name=context::j, WorkerId=context, id=f7615f1}
+08-18 17:53:35.990  2801  3038 I WorkController: WorkProxy is not enqueued because WorkController is disposed: WorkProxy{Name=context::m, WorkerId=context, id=95cf5d6}
+08-18 17:53:35.990  2801  3038 I WorkController: WorkProxy is not enqueued because WorkController is disposed: WorkProxy{Name=context::n, WorkerId=context, id=9001057}
+08-18 17:53:35.990  2801  3038 I WorkController: WorkProxy is not enqueued because WorkController is disposed: WorkProxy{Name=context::p, WorkerId=context, id=44ba744}
+08-18 17:53:36.015 18061 18167 I chatty  : uid=10236(com.fireandairmedia.bmrfree) RenderThread identical 1 line
+08-18 17:53:36.096 18119 18141 E chromium: [ERROR:budget_service.cc(145)] Unable to connect to the Mojo BudgetService.
+08-18 17:53:36.161  1954  2294 I GnssLocationProvider: WakeLock acquired by sendMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@e136eb2)
+08-18 17:53:36.161  1954  1976 I GnssLocationProvider: WakeLock released by handleMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@e136eb2)
+08-18 17:53:36.544  1795  2031 E SurfaceFlinger: ro.sf.lcd_density must be defined as a build property
+08-18 17:53:36.558 18211 18211 E eglCodecCommon: GoldfishAddressSpaceHostMemoryAllocator: ioctl_ping failed for device_type=5, ret=-1
+08-18 17:53:36.566 18061 18061 W irmedia.bmrfre: Unsupported class loader
+08-18 17:53:36.567 18061 18061 W irmedia.bmrfre: Skipping duplicate class check due to unsupported classloader
+08-18 17:53:36.574 18061 18061 I irmedia.bmrfre: The ClassLoaderContext is a special shared library.
+08-18 17:53:36.576 18061 18061 I chatty  : uid=10236(com.fireandairmedia.bmrfree) identical 2 lines
+08-18 17:53:36.579 18061 18061 I irmedia.bmrfre: The ClassLoaderContext is a special shared library.
+08-18 17:53:36.600 18061 18061 I DynamiteModule: Considering local module com.google.android.gms.ads.dynamite:0 and remote module com.google.android.gms.ads.dynamite:21400
+08-18 17:53:36.600 18061 18061 I DynamiteModule: Selected remote version of com.google.android.gms.ads.dynamite, version >= 21400
+08-18 17:53:36.610 18061 18061 W irmedia.bmrfre: Unsupported class loader
+08-18 17:53:36.614 18061 18061 W irmedia.bmrfre: Skipping duplicate class check due to unsupported classloader
+08-18 17:53:36.670 18061 18217 I irmedia.bmrfre: The ClassLoaderContext is a special shared library.
+08-18 17:53:36.673 18061 18061 I Ads     : Starting ad request.
+08-18 17:53:36.673 18061 18061 I Ads     : SDK version: afma-sdk-a-v201004999.11020000.1
+08-18 17:53:36.674 18061 18061 I Ads     : This request is sent from a test device.
+08-18 17:53:36.697 18061 18154 W Ads     : Invoke Firebase method getInstance error.
+08-18 17:53:36.697 18061 18154 W Ads     : The Google Mobile Ads SDK will not integrate with Firebase. Admob/Firebase integration requires the latest Firebase SDK jar, but Firebase SDK is either missing or out of date
+08-18 17:53:36.721 18061 18061 W banner  : ca-app-pub-7560991777851554/2396131618
+08-18 17:53:36.722 18061 18061 I interstitial: ca-app-pub-7560991777851554/5078135278
+08-18 17:53:36.727 18061 18061 I Ads     : Starting ad request.
+08-18 17:53:36.727 18061 18061 I Ads     : SDK version: afma-sdk-a-v201004999.11020000.1
+08-18 17:53:36.727 18061 18061 I Ads     : This request is sent from a test device.
+08-18 17:53:36.728 18061 18061 W Ads     : Not retrying to fetch app settings
+08-18 17:53:36.784  1954  1979 I ActivityManager: Start proc 18255:com.google.android.gms.unstable/u0a13 for service com.google.android.gms/.droidguard.DroidGuardService
+08-18 17:53:36.789 18255 18255 W id.gms.unstabl: Unexpected CPU variant for X86 using defaults: x86
+08-18 17:53:36.800  2590 18249 I Icing   : IndexChimeraService.getServiceInterface callingPackage=com.google.android.gms componentName=null serviceId=30
+08-18 17:53:36.801  2590  2858 I DynamiteModule: Considering local module com.google.android.gms.ads.dynamite:0 and remote module com.google.android.gms.ads.dynamite:21400
+08-18 17:53:36.801  2590  2858 I DynamiteModule: Selected remote version of com.google.android.gms.ads.dynamite, version >= 21400
+08-18 17:53:36.802  2590  2858 W gle.android.gm: Unsupported class loader
+08-18 17:53:36.815 18255 18255 I id.gms.unstabl: The ClassLoaderContext is a special shared library.
+08-18 17:53:36.816 18255 18255 I chatty  : uid=10013 com.google.android.gms.unstable identical 2 lines
+08-18 17:53:36.819 18255 18255 I id.gms.unstabl: The ClassLoaderContext is a special shared library.
+08-18 17:53:36.851  2590  2858 W gle.android.gm: Skipping duplicate class check due to unsupported classloader
+08-18 17:53:36.879  2590 18253 I Icing   : IndexChimeraService.getServiceInterface callingPackage=com.google.android.gms componentName=null serviceId=36
+08-18 17:53:36.883  2590 15695 W Icing   : No valid account for uploading user actions
+08-18 17:53:36.884 18298 18298 W dboxed_process: Unexpected CPU variant for X86 using defaults: x86
+08-18 17:53:36.885 18255 18255 W DynamiteModule: Local module descriptor class for providerinstaller not found.
+08-18 17:53:36.888  1954  1979 I ActivityManager: Start proc 18298:com.android.chrome:sandboxed_process1/u0i5 for webview_service com.google.android.gms/org.chromium.content.app.SandboxedProcessService1
+08-18 17:53:36.890 18255 18255 W ProviderHelper: Unknown dynamite feature providerinstaller
+08-18 17:53:36.893 18255 18255 I DynamiteModule: Considering local module providerinstaller:0 and remote module providerinstaller:0
+08-18 17:53:36.896 18255 18255 W ProviderInstaller: Failed to load providerinstaller module: No acceptable module found. Local version is 0 and remote version is 0.
+08-18 17:53:36.901  1954  1977 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.DROPBOX_ENTRY_ADDED flg=0x10 (has extras) } to com.google.android.gms/.stats.service.DropBoxEntryAddedReceiver
+08-18 17:53:36.901  1954  1977 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.DROPBOX_ENTRY_ADDED flg=0x10 (has extras) } to com.google.android.gms/.chimera.GmsIntentOperationService$PersistentTrustedReceiver
+08-18 17:53:36.904 18298 18298 I cr_ChildProcessService: Creating new ChildProcessService pid=18298
+08-18 17:53:36.910 18298 18322 I cr_LibraryLoader: Time to load native libraries: 0 ms (timestamps 1322-1322)
+08-18 17:53:36.910 18298 18322 I chromium: [INFO:library_loader_hooks.cc(36)] Chromium logging enabled: level = 0, default verbosity = 0
+08-18 17:53:36.911 18298 18322 I cr_LibraryLoader: Expected native library version number "69.0.3497.100", actual native library version number "69.0.3497.100"
+08-18 17:53:36.932 18255 18255 I ProviderInstaller: Installed default security provider GmsCore_OpenSSL
+08-18 17:53:36.932 18255 18255 I Safeboot: Checking safeboot...
+08-18 17:53:36.933 18255 18255 I Safeboot: Not entering safeboot; wrong process.
+08-18 17:53:36.957  2590 15695 I Icing   : Usage reports ok 1, Failed Usage reports 0, indexed 0, rejected 0
+08-18 17:53:36.959  2590 15695 W Icing   : No valid account for uploading user actions
+08-18 17:53:36.965  2590 15695 I Icing   : Usage reports ok 0, Failed Usage reports 0, indexed 0, rejected 0
+08-18 17:53:36.984 18255 18255 I Watchcat: Started
+08-18 17:53:36.985 18255 18255 I bezb    : Primes not initialized, returning default (no-op) Primes instance which will ignore all calls. Please call Primes.initialize(...) before using any Primes API.
+08-18 17:53:37.078  1795  2043 E SurfaceFlinger: ro.sf.lcd_density must be defined as a build property
+08-18 17:53:37.090 18361 18361 E eglCodecCommon: GoldfishAddressSpaceHostMemoryAllocator: ioctl_ping failed for device_type=5, ret=-1
+08-18 17:53:37.162  1954  2294 I GnssLocationProvider: WakeLock acquired by sendMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@9d85c71)
+08-18 17:53:37.162  1954  1976 I GnssLocationProvider: WakeLock released by handleMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@9d85c71)
+08-18 17:53:37.339  1954  1977 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.DROPBOX_ENTRY_ADDED flg=0x10 (has extras) } to com.google.android.gms/.stats.service.DropBoxEntryAddedReceiver
+08-18 17:53:37.339  1954  1977 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.DROPBOX_ENTRY_ADDED flg=0x10 (has extras) } to com.google.android.gms/.chimera.GmsIntentOperationService$PersistentTrustedReceiver
+08-18 17:53:37.457  1795  2043 E SurfaceFlinger: ro.sf.lcd_density must be defined as a build property
+08-18 17:53:37.467 18398 18398 E eglCodecCommon: GoldfishAddressSpaceHostMemoryAllocator: ioctl_ping failed for device_type=5, ret=-1
+08-18 17:53:37.721  1954  1977 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.DROPBOX_ENTRY_ADDED flg=0x10 (has extras) } to com.google.android.gms/.stats.service.DropBoxEntryAddedReceiver
+08-18 17:53:37.721  1954  1977 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.DROPBOX_ENTRY_ADDED flg=0x10 (has extras) } to com.google.android.gms/.chimera.GmsIntentOperationService$PersistentTrustedReceiver
+08-18 17:53:38.161  1954  2294 I GnssLocationProvider: WakeLock acquired by sendMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@4d9a506)
+08-18 17:53:38.162  1954  1976 I GnssLocationProvider: WakeLock released by handleMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@4d9a506)
+08-18 17:53:38.514 18061 18061 I AssistStructure: Flattened final assist data: 3636 bytes, containing 1 windows, 7 views
+08-18 17:53:38.522  1954  4183 I AssistStructure: Flattened final assist data: 3232 bytes, containing 1 windows, 7 views
+08-18 17:53:38.524  2431  2431 W ktk     : Pending fill request while another request in the same session was triggered. [CONTEXT service_id=177 ]
+08-18 17:53:38.833  1795  2031 E SurfaceFlinger: ro.sf.lcd_density must be defined as a build property
+08-18 17:53:38.840 18440 18440 E eglCodecCommon: GoldfishAddressSpaceHostMemoryAllocator: ioctl_ping failed for device_type=5, ret=-1
+08-18 17:53:39.162  1954  2294 I GnssLocationProvider: WakeLock acquired by sendMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@13146c1)
+08-18 17:53:39.162  1954  1976 I GnssLocationProvider: WakeLock released by handleMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@13146c1)
+08-18 17:53:39.175  1954  1977 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.DROPBOX_ENTRY_ADDED flg=0x10 (has extras) } to com.google.android.gms/.stats.service.DropBoxEntryAddedReceiver
+08-18 17:53:39.175  1954  1977 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.DROPBOX_ENTRY_ADDED flg=0x10 (has extras) } to com.google.android.gms/.chimera.GmsIntentOperationService$PersistentTrustedReceiver
+08-18 17:53:39.276  1795  2031 E SurfaceFlinger: ro.sf.lcd_density must be defined as a build property
+08-18 17:53:39.286 18484 18484 E eglCodecCommon: GoldfishAddressSpaceHostMemoryAllocator: ioctl_ping failed for device_type=5, ret=-1
+08-18 17:53:39.318 18061 18061 I AssistStructure: Flattened final assist data: 3640 bytes, containing 1 windows, 7 views
+08-18 17:53:39.321  1954  2739 I AssistStructure: Flattened final assist data: 3232 bytes, containing 1 windows, 7 views
+08-18 17:53:39.322  2431  2431 W ktk     : Pending fill request while another request in the same session was triggered. [CONTEXT service_id=177 ]
+08-18 17:53:39.529  1954  1977 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.DROPBOX_ENTRY_ADDED flg=0x10 (has extras) } to com.google.android.gms/.stats.service.DropBoxEntryAddedReceiver
+08-18 17:53:39.529  1954  1977 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.DROPBOX_ENTRY_ADDED flg=0x10 (has extras) } to com.google.android.gms/.chimera.GmsIntentOperationService$PersistentTrustedReceiver
+08-18 17:53:39.653  1795  2031 E SurfaceFlinger: ro.sf.lcd_density must be defined as a build property
+08-18 17:53:39.661 18523 18523 E eglCodecCommon: GoldfishAddressSpaceHostMemoryAllocator: ioctl_ping failed for device_type=5, ret=-1
+08-18 17:53:39.914  1954  1977 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.DROPBOX_ENTRY_ADDED flg=0x10 (has extras) } to com.google.android.gms/.stats.service.DropBoxEntryAddedReceiver
+08-18 17:53:39.914  1954  1977 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.DROPBOX_ENTRY_ADDED flg=0x10 (has extras) } to com.google.android.gms/.chimera.GmsIntentOperationService$PersistentTrustedReceiver
+08-18 17:53:40.076 18061 18061 I AssistStructure: Flattened final assist data: 3644 bytes, containing 1 windows, 7 views
+08-18 17:53:40.078  1954  2728 I AssistStructure: Flattened final assist data: 3232 bytes, containing 1 windows, 7 views
+08-18 17:53:40.079  2431  2431 W ktk     : Pending fill request while another request in the same session was triggered. [CONTEXT service_id=177 ]
+08-18 17:53:40.161  1954  2294 I GnssLocationProvider: WakeLock acquired by sendMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@6bec7c6)
+08-18 17:53:40.162  1954  1976 I GnssLocationProvider: WakeLock released by handleMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@6bec7c6)
+08-18 17:53:41.017  1795  2031 E SurfaceFlinger: ro.sf.lcd_density must be defined as a build property
+08-18 17:53:41.025 18598 18598 E eglCodecCommon: GoldfishAddressSpaceHostMemoryAllocator: ioctl_ping failed for device_type=5, ret=-1
+08-18 17:53:41.161  1954  2294 I GnssLocationProvider: WakeLock acquired by sendMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@93d9387)
+08-18 17:53:41.162  1954  1976 I GnssLocationProvider: WakeLock released by handleMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@93d9387)
+08-18 17:53:41.265  1954  1977 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.DROPBOX_ENTRY_ADDED flg=0x10 (has extras) } to com.google.android.gms/.stats.service.DropBoxEntryAddedReceiver
+08-18 17:53:41.265  1954  1977 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.DROPBOX_ENTRY_ADDED flg=0x10 (has extras) } to com.google.android.gms/.chimera.GmsIntentOperationService$PersistentTrustedReceiver
+08-18 17:53:41.359  1795  2031 E SurfaceFlinger: ro.sf.lcd_density must be defined as a build property
+08-18 17:53:41.367 18631 18631 E eglCodecCommon: GoldfishAddressSpaceHostMemoryAllocator: ioctl_ping failed for device_type=5, ret=-1
+08-18 17:53:41.593  2771  2771 E AccessibilityInteractionClient: 2 Disconnected nodes.
+08-18 17:53:41.614  1954  1977 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.DROPBOX_ENTRY_ADDED flg=0x10 (has extras) } to com.google.android.gms/.stats.service.DropBoxEntryAddedReceiver
+08-18 17:53:41.614  1954  1977 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.DROPBOX_ENTRY_ADDED flg=0x10 (has extras) } to com.google.android.gms/.chimera.GmsIntentOperationService$PersistentTrustedReceiver
+08-18 17:53:41.738  1795  1825 E SurfaceFlinger: ro.sf.lcd_density must be defined as a build property
+08-18 17:53:41.750 18678 18678 E eglCodecCommon: GoldfishAddressSpaceHostMemoryAllocator: ioctl_ping failed for device_type=5, ret=-1
+08-18 17:53:41.984  1954  1977 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.DROPBOX_ENTRY_ADDED flg=0x10 (has extras) } to com.google.android.gms/.stats.service.DropBoxEntryAddedReceiver
+08-18 17:53:41.984  1954  1977 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.DROPBOX_ENTRY_ADDED flg=0x10 (has extras) } to com.google.android.gms/.chimera.GmsIntentOperationService$PersistentTrustedReceiver
+08-18 17:53:42.161  1954  2294 I GnssLocationProvider: WakeLock acquired by sendMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@d4d287c)
+08-18 17:53:42.162  1954  1976 I GnssLocationProvider: WakeLock released by handleMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@d4d287c)
+08-18 17:53:43.089  1795  1825 E SurfaceFlinger: ro.sf.lcd_density must be defined as a build property
+08-18 17:53:43.097 18740 18740 E eglCodecCommon: GoldfishAddressSpaceHostMemoryAllocator: ioctl_ping failed for device_type=5, ret=-1
+08-18 17:53:43.161  1954  2294 I GnssLocationProvider: WakeLock acquired by sendMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@592b97b)
+08-18 17:53:43.162  1954  1976 I GnssLocationProvider: WakeLock released by handleMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@592b97b)
+08-18 17:53:43.350  1954  1977 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.DROPBOX_ENTRY_ADDED flg=0x10 (has extras) } to com.google.android.gms/.stats.service.DropBoxEntryAddedReceiver
+08-18 17:53:43.350  1954  1977 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.DROPBOX_ENTRY_ADDED flg=0x10 (has extras) } to com.google.android.gms/.chimera.GmsIntentOperationService$PersistentTrustedReceiver
+08-18 17:53:43.459  1795  1825 E SurfaceFlinger: ro.sf.lcd_density must be defined as a build property
+08-18 17:53:43.468 18774 18774 E eglCodecCommon: GoldfishAddressSpaceHostMemoryAllocator: ioctl_ping failed for device_type=5, ret=-1
+08-18 17:53:43.704  1954  1977 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.DROPBOX_ENTRY_ADDED flg=0x10 (has extras) } to com.google.android.gms/.stats.service.DropBoxEntryAddedReceiver
+08-18 17:53:43.704  1954  1977 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.DROPBOX_ENTRY_ADDED flg=0x10 (has extras) } to com.google.android.gms/.chimera.GmsIntentOperationService$PersistentTrustedReceiver
+08-18 17:53:43.802  1795  1825 E SurfaceFlinger: ro.sf.lcd_density must be defined as a build property
+08-18 17:53:43.810 18805 18805 E eglCodecCommon: GoldfishAddressSpaceHostMemoryAllocator: ioctl_ping failed for device_type=5, ret=-1
+08-18 17:53:44.054  1954  1977 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.DROPBOX_ENTRY_ADDED flg=0x10 (has extras) } to com.google.android.gms/.stats.service.DropBoxEntryAddedReceiver
+08-18 17:53:44.054  1954  1977 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.DROPBOX_ENTRY_ADDED flg=0x10 (has extras) } to com.google.android.gms/.chimera.GmsIntentOperationService$PersistentTrustedReceiver
+08-18 17:53:44.162  1954  2294 I GnssLocationProvider: WakeLock acquired by sendMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@3e4aa86)
+08-18 17:53:44.162  1954  1976 I GnssLocationProvider: WakeLock released by handleMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@3e4aa86)
+08-18 17:53:45.162  1954  2294 I GnssLocationProvider: WakeLock acquired by sendMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@df59f47)
+08-18 17:53:45.162  1954  1976 I GnssLocationProvider: WakeLock released by handleMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@df59f47)
+08-18 17:53:45.164  1795  1825 E SurfaceFlinger: ro.sf.lcd_density must be defined as a build property
+08-18 17:53:45.177 18838 18838 E eglCodecCommon: GoldfishAddressSpaceHostMemoryAllocator: ioctl_ping failed for device_type=5, ret=-1
+08-18 17:53:45.441  1954  1977 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.DROPBOX_ENTRY_ADDED flg=0x10 (has extras) } to com.google.android.gms/.stats.service.DropBoxEntryAddedReceiver
+08-18 17:53:45.441  1954  1977 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.DROPBOX_ENTRY_ADDED flg=0x10 (has extras) } to com.google.android.gms/.chimera.GmsIntentOperationService$PersistentTrustedReceiver
+08-18 17:53:45.535  1795  2043 E SurfaceFlinger: ro.sf.lcd_density must be defined as a build property
+08-18 17:53:45.543 18871 18871 E eglCodecCommon: GoldfishAddressSpaceHostMemoryAllocator: ioctl_ping failed for device_type=5, ret=-1
+08-18 17:53:45.550  1954  1976 E memtrack: Couldn't load memtrack module
+08-18 17:53:45.550  1954  1976 W android.os.Debug: failed to get memory consumption info: -1
+08-18 17:53:45.739  1954  1976 E memtrack: Couldn't load memtrack module
+08-18 17:53:45.739  1954  1976 W android.os.Debug: failed to get memory consumption info: -1
+08-18 17:53:45.776  1954  1977 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.DROPBOX_ENTRY_ADDED flg=0x10 (has extras) } to com.google.android.gms/.stats.service.DropBoxEntryAddedReceiver
+08-18 17:53:45.776  1954  1977 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.DROPBOX_ENTRY_ADDED flg=0x10 (has extras) } to com.google.android.gms/.chimera.GmsIntentOperationService$PersistentTrustedReceiver
+08-18 17:53:45.874  1795  2043 E SurfaceFlinger: ro.sf.lcd_density must be defined as a build property
+08-18 17:53:45.883 18902 18902 E eglCodecCommon: GoldfishAddressSpaceHostMemoryAllocator: ioctl_ping failed for device_type=5, ret=-1
+08-18 17:53:46.119  1954  1977 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.DROPBOX_ENTRY_ADDED flg=0x10 (has extras) } to com.google.android.gms/.stats.service.DropBoxEntryAddedReceiver
+08-18 17:53:46.119  1954  1977 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.DROPBOX_ENTRY_ADDED flg=0x10 (has extras) } to com.google.android.gms/.chimera.GmsIntentOperationService$PersistentTrustedReceiver
+08-18 17:53:46.162  1954  2294 I GnssLocationProvider: WakeLock acquired by sendMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@4ce6410)
+08-18 17:53:46.162  1954  1976 I GnssLocationProvider: WakeLock released by handleMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@4ce6410)
+08-18 17:53:46.863  2590  2858 E Ads     : Error waiting for future.
+08-18 17:53:46.863  2590  2858 E Ads     : java.util.concurrent.ExecutionException: bshe: Timed out: bsdx@95b0363[status=PENDING, info=[inputFuture=[com.google.android.gms.ads.internal.util.future.h@85acb60], function=[com.google.android.gms.ads.internal.request.service.c@4e00819]]]
+08-18 17:53:46.863  2590  2858 E Ads     : 	at bsdv.a(:com.google.android.gms@202414022@20.24.14 (040700-319035315):19)
+08-18 17:53:46.863  2590  2858 E Ads     : 	at bsdv.get(:com.google.android.gms@202414022@20.24.14 (040700-319035315):22)
+08-18 17:53:46.863  2590  2858 E Ads     : 	at com.google.android.gms.ads.internal.util.future.g.a(:com.google.android.gms@202414022@20.24.14 (040700-319035315):1)
+08-18 17:53:46.863  2590  2858 E Ads     : 	at com.google.android.gms.ads.internal.request.service.g.a(:com.google.android.gms@202414022@20.24.14 (040700-319035315):51)
+08-18 17:53:46.863  2590  2858 E Ads     : 	at com.google.android.gms.ads.internal.request.service.g.a(:com.google.android.gms@202414022@20.24.14 (040700-319035315):110)
+08-18 17:53:46.863  2590  2858 E Ads     : 	at com.google.android.gms.ads.internal.request.service.e.run(:com.google.android.gms@202414022@20.24.14 (040700-319035315):1)
+08-18 17:53:46.863  2590  2858 E Ads     : 	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:458)
+08-18 17:53:46.863  2590  2858 E Ads     : 	at bshh.b(:com.google.android.gms@202414022@20.24.14 (040700-319035315):0)
+08-18 17:53:46.863  2590  2858 E Ads     : 	at bsgh.run(:com.google.android.gms@202414022@20.24.14 (040700-319035315):3)
+08-18 17:53:46.863  2590  2858 E Ads     : 	at bshi.run(:com.google.android.gms@202414022@20.24.14 (040700-319035315):0)
+08-18 17:53:46.863  2590  2858 E Ads     : 	at soy.b(:com.google.android.gms@202414022@20.24.14 (040700-319035315):12)
+08-18 17:53:46.863  2590  2858 E Ads     : 	at soy.run(:com.google.android.gms@202414022@20.24.14 (040700-319035315):7)
+08-18 17:53:46.863  2590  2858 E Ads     : 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+08-18 17:53:46.863  2590  2858 E Ads     : 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+08-18 17:53:46.863  2590  2858 E Ads     : 	at sux.run(:com.google.android.gms@202414022@20.24.14 (040700-319035315):0)
+08-18 17:53:46.863  2590  2858 E Ads     : 	at java.lang.Thread.run(Thread.java:764)
+08-18 17:53:46.863  2590  2858 E Ads     : Caused by: bshe: Timed out: bsdx@95b0363[status=PENDING, info=[inputFuture=[com.google.android.gms.ads.internal.util.future.h@85acb60], function=[com.google.android.gms.ads.internal.request.service.c@4e00819]]]
+08-18 17:53:46.864 18061 18356 W Ads     : There was a problem getting an ad response. ErrorCode: 0
+08-18 17:53:46.865 18061 18061 W Ads     : Failed to load ad: 0
+08-18 17:53:46.868 18061 18061 I chromium: [INFO:CONSOLE(156)] "[object Event]", source: file:///android_asset/www/js/index.js (156)
+08-18 17:53:46.869  2590 18248 E Ads     : Error waiting for future.
+08-18 17:53:46.869  2590 18248 E Ads     : java.util.concurrent.ExecutionException: bshe: Timed out: bsdx@be00cd5[status=PENDING, info=[inputFuture=[com.google.android.gms.ads.internal.util.future.h@40c8cea], function=[com.google.android.gms.ads.internal.request.service.c@4e00819]]]
+08-18 17:53:46.869  2590 18248 E Ads     : 	at bsdv.a(:com.google.android.gms@202414022@20.24.14 (040700-319035315):19)
+08-18 17:53:46.869  2590 18248 E Ads     : 	at bsdv.get(:com.google.android.gms@202414022@20.24.14 (040700-319035315):22)
+08-18 17:53:46.869  2590 18248 E Ads     : 	at com.google.android.gms.ads.internal.util.future.g.a(:com.google.android.gms@202414022@20.24.14 (040700-319035315):1)
+08-18 17:53:46.869  2590 18248 E Ads     : 	at com.google.android.gms.ads.internal.request.service.g.a(:com.google.android.gms@202414022@20.24.14 (040700-319035315):51)
+08-18 17:53:46.869  2590 18248 E Ads     : 	at com.google.android.gms.ads.internal.request.service.g.a(:com.google.android.gms@202414022@20.24.14 (040700-319035315):110)
+08-18 17:53:46.869  2590 18248 E Ads     : 	at com.google.android.gms.ads.internal.request.service.e.run(:com.google.android.gms@202414022@20.24.14 (040700-319035315):1)
+08-18 17:53:46.869  2590 18248 E Ads     : 	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:458)
+08-18 17:53:46.869  2590 18248 E Ads     : 	at bshh.b(:com.google.android.gms@202414022@20.24.14 (040700-319035315):0)
+08-18 17:53:46.869  2590 18248 E Ads     : 	at bsgh.run(:com.google.android.gms@202414022@20.24.14 (040700-319035315):3)
+08-18 17:53:46.869  2590 18248 E Ads     : 	at bshi.run(:com.google.android.gms@202414022@20.24.14 (040700-319035315):0)
+08-18 17:53:46.869  2590 18248 E Ads     : 	at soy.b(:com.google.android.gms@202414022@20.24.14 (040700-319035315):12)
+08-18 17:53:46.869  2590 18248 E Ads     : 	at soy.run(:com.google.android.gms@202414022@20.24.14 (040700-319035315):7)
+08-18 17:53:46.869  2590 18248 E Ads     : 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+08-18 17:53:46.869  2590 18248 E Ads     : 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+08-18 17:53:46.869  2590 18248 E Ads     : 	at sux.run(:com.google.android.gms@202414022@20.24.14 (040700-319035315):0)
+08-18 17:53:46.869  2590 18248 E Ads     : 	at java.lang.Thread.run(Thread.java:764)
+08-18 17:53:46.869  2590 18248 E Ads     : Caused by: bshe: Timed out: bsdx@be00cd5[status=PENDING, info=[inputFuture=[com.google.android.gms.ads.internal.util.future.h@40c8cea], function=[com.google.android.gms.ads.internal.request.service.c@4e00819]]]
+08-18 17:53:46.869 18061 18356 W Ads     : There was a problem getting an ad response. ErrorCode: 0
+08-18 17:53:46.869 18061 18061 W Ads     : Failed to load ad: 0
+08-18 17:53:46.870 18061 18061 I chromium: [INFO:CONSOLE(160)] "[object Event]", source: file:///android_asset/www/js/index.js (160)
+08-18 17:53:46.896  1641  1641 E lowmemorykiller: Error writing /proc/18298/oom_score_adj; errno=22
+08-18 17:53:46.903  2116  2116 I Zygote  : Process 18298 exited cleanly (0)
+08-18 17:53:46.904  1954  2735 I ActivityManager: Process com.android.chrome:sandboxed_process1 (pid 18298) has died: cch  CEM 
+08-18 17:53:46.904  1954  2735 W ActivityManager: Scheduling restart of crashed service com.google.android.gms/org.chromium.content.app.SandboxedProcessService1 in 1000ms
+08-18 17:53:46.904  2590  3668 W cr_ChildProcessConn: onServiceDisconnected (crash or killed by oom): pid=18298
+08-18 17:53:46.905  1954  1980 W libprocessgroup: Failed to open process cgroup uid 99005 pid 18298: No such file or directory
+08-18 17:53:46.905  1954  1980 E libprocessgroup: Error encountered killing process cgroup uid 99005 pid 18298: No such file or directory
+08-18 17:53:47.161  1954  2294 I GnssLocationProvider: WakeLock acquired by sendMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@dcbe3e6)
+08-18 17:53:47.161  1954  1976 I GnssLocationProvider: WakeLock released by handleMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@dcbe3e6)
+08-18 17:53:47.233  1795  2043 E SurfaceFlinger: ro.sf.lcd_density must be defined as a build property
+08-18 17:53:47.242 18939 18939 E eglCodecCommon: GoldfishAddressSpaceHostMemoryAllocator: ioctl_ping failed for device_type=5, ret=-1
+08-18 17:53:47.398  2590 15688 W cklr    : [{0}] Failed to resolve name. status={1}
+08-18 17:53:47.485  1954  1977 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.DROPBOX_ENTRY_ADDED flg=0x10 (has extras) } to com.google.android.gms/.stats.service.DropBoxEntryAddedReceiver
+08-18 17:53:47.485  1954  1977 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.DROPBOX_ENTRY_ADDED flg=0x10 (has extras) } to com.google.android.gms/.chimera.GmsIntentOperationService$PersistentTrustedReceiver
+08-18 17:53:47.584  1795  2043 E SurfaceFlinger: ro.sf.lcd_density must be defined as a build property
+08-18 17:53:47.592 18973 18973 E eglCodecCommon: GoldfishAddressSpaceHostMemoryAllocator: ioctl_ping failed for device_type=5, ret=-1
+08-18 17:53:47.822  1954  1977 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.DROPBOX_ENTRY_ADDED flg=0x10 (has extras) } to com.google.android.gms/.stats.service.DropBoxEntryAddedReceiver
+08-18 17:53:47.822  1954  1977 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.DROPBOX_ENTRY_ADDED flg=0x10 (has extras) } to com.google.android.gms/.chimera.GmsIntentOperationService$PersistentTrustedReceiver
+08-18 17:53:47.919  1795  2043 E SurfaceFlinger: ro.sf.lcd_density must be defined as a build property
+08-18 17:53:47.926 19004 19004 E eglCodecCommon: GoldfishAddressSpaceHostMemoryAllocator: ioctl_ping failed for device_type=5, ret=-1
+08-18 17:53:48.159  1954  1977 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.DROPBOX_ENTRY_ADDED flg=0x10 (has extras) } to com.google.android.gms/.stats.service.DropBoxEntryAddedReceiver
+08-18 17:53:48.159  1954  1977 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.DROPBOX_ENTRY_ADDED flg=0x10 (has extras) } to com.google.android.gms/.chimera.GmsIntentOperationService$PersistentTrustedReceiver
+08-18 17:53:48.161  1954  2294 I GnssLocationProvider: WakeLock acquired by sendMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@2f1872b)
+08-18 17:53:48.162  1954  1976 I GnssLocationProvider: WakeLock released by handleMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@2f1872b)

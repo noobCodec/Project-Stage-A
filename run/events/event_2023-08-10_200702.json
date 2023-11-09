@@ -1,0 +1,11 @@
+{
+  "tag": "2023-08-10_200702",
+  "event": {
+    "event_type": "intent",
+    "log_lines": null,
+    "intent": "am start com.calculator.activity.metabolic.tdee.bmr.bmrtdeecalculator/com.calculator.activity.metabolic.tdee.bmr.bmrtdeecalculator.WelcomeActivity"
+  },
+  "start_state": "f3b2d0d892e9cc57b2026ca5b4bcfcbe",
+  "stop_state": "0173a8cef2644811ca8048d46cf4cdb3",
+  "event_str": "IntentEvent(intent='am start com.calculator.activity.metabolic.tdee.bmr.bmrtdeecalculator/com.calculator.activity.metabolic.tdee.bmr.bmrtdeecalculator.WelcomeActivity')"
+}

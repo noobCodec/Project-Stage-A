@@ -1,0 +1,141 @@
+Activity Resolver Table:
+  Non-Data Actions:
+      android.intent.action.MAIN:
+        cbb159c com.d.bmrhsb/.Start filter 53440ac
+          Action: "android.intent.action.MAIN"
+          Category: "android.intent.category.LAUNCHER"
+
+Receiver Resolver Table:
+  Non-Data Actions:
+      android.intent.action.BATTERY_OKAY:
+        ee5eba5 com.d.bmrhsb/androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryNotLowProxy filter 5c801b2
+          Action: "android.intent.action.BATTERY_OKAY"
+          Action: "android.intent.action.BATTERY_LOW"
+      android.intent.action.ACTION_POWER_DISCONNECTED:
+        c4fcb7a com.d.bmrhsb/androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryChargingProxy filter 390b7bd
+          Action: "android.intent.action.ACTION_POWER_CONNECTED"
+          Action: "android.intent.action.ACTION_POWER_DISCONNECTED"
+      android.intent.action.DEVICE_STORAGE_LOW:
+        854ff2b com.d.bmrhsb/androidx.work.impl.background.systemalarm.ConstraintProxy$StorageNotLowProxy filter 8592503
+          Action: "android.intent.action.DEVICE_STORAGE_LOW"
+          Action: "android.intent.action.DEVICE_STORAGE_OK"
+      android.net.conn.CONNECTIVITY_CHANGE:
+        831ef88 com.d.bmrhsb/androidx.work.impl.background.systemalarm.ConstraintProxy$NetworkStateProxy filter a8ddc80
+          Action: "android.net.conn.CONNECTIVITY_CHANGE"
+      android.intent.action.DEVICE_STORAGE_OK:
+        854ff2b com.d.bmrhsb/androidx.work.impl.background.systemalarm.ConstraintProxy$StorageNotLowProxy filter 8592503
+          Action: "android.intent.action.DEVICE_STORAGE_LOW"
+          Action: "android.intent.action.DEVICE_STORAGE_OK"
+      android.intent.action.BATTERY_LOW:
+        ee5eba5 com.d.bmrhsb/androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryNotLowProxy filter 5c801b2
+          Action: "android.intent.action.BATTERY_OKAY"
+          Action: "android.intent.action.BATTERY_LOW"
+      android.intent.action.TIMEZONE_CHANGED:
+        f6e9d21 com.d.bmrhsb/androidx.work.impl.background.systemalarm.RescheduleReceiver filter 29612b9
+          Action: "android.intent.action.BOOT_COMPLETED"
+          Action: "android.intent.action.TIME_SET"
+          Action: "android.intent.action.TIMEZONE_CHANGED"
+      android.intent.action.TIME_SET:
+        f6e9d21 com.d.bmrhsb/androidx.work.impl.background.systemalarm.RescheduleReceiver filter 29612b9
+          Action: "android.intent.action.BOOT_COMPLETED"
+          Action: "android.intent.action.TIME_SET"
+          Action: "android.intent.action.TIMEZONE_CHANGED"
+      android.intent.action.BOOT_COMPLETED:
+        f6e9d21 com.d.bmrhsb/androidx.work.impl.background.systemalarm.RescheduleReceiver filter 29612b9
+          Action: "android.intent.action.BOOT_COMPLETED"
+          Action: "android.intent.action.TIME_SET"
+          Action: "android.intent.action.TIMEZONE_CHANGED"
+      android.intent.action.ACTION_POWER_CONNECTED:
+        c4fcb7a com.d.bmrhsb/androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryChargingProxy filter 390b7bd
+          Action: "android.intent.action.ACTION_POWER_CONNECTED"
+          Action: "android.intent.action.ACTION_POWER_DISCONNECTED"
+      androidx.work.diagnostics.REQUEST_DIAGNOSTICS:
+        e7f2546 com.d.bmrhsb/androidx.work.impl.diagnostics.DiagnosticsReceiver filter 5bf0e5f
+          Action: "androidx.work.diagnostics.REQUEST_DIAGNOSTICS"
+      androidx.work.impl.background.systemalarm.UpdateProxies:
+        3a26307 com.d.bmrhsb/androidx.work.impl.background.systemalarm.ConstraintProxyUpdateReceiver filter 7b086fe
+          Action: "androidx.work.impl.background.systemalarm.UpdateProxies"
+
+Registered ContentProviders:
+  com.d.bmrhsb/androidx.startup.InitializationProvider:
+    Provider{4ba7c34 com.d.bmrhsb/androidx.startup.InitializationProvider}
+  com.d.bmrhsb/com.google.android.gms.ads.MobileAdsInitProvider:
+    Provider{976ea5d com.d.bmrhsb/com.google.android.gms.ads.MobileAdsInitProvider}
+
+ContentProvider Authorities:
+  [com.d.bmrhsb.androidx-startup]:
+    Provider{4ba7c34 com.d.bmrhsb/androidx.startup.InitializationProvider}
+      applicationInfo=ApplicationInfo{3f84fd2 com.d.bmrhsb}
+  [com.d.bmrhsb.mobileadsinitprovider]:
+    Provider{976ea5d com.d.bmrhsb/com.google.android.gms.ads.MobileAdsInitProvider}
+      applicationInfo=ApplicationInfo{3f84fd2 com.d.bmrhsb}
+
+Key Set Manager:
+  [com.d.bmrhsb]
+      Signing KeySets: 112
+
+Packages:
+  Package [com.d.bmrhsb] (77828a3):
+    userId=10175
+    pkg=Package{b9d27a0 com.d.bmrhsb}
+    codePath=/data/app/com.d.bmrhsb-MwlBopWmgAZpZoU7lH9q3A==
+    resourcePath=/data/app/com.d.bmrhsb-MwlBopWmgAZpZoU7lH9q3A==
+    legacyNativeLibraryDir=/data/app/com.d.bmrhsb-MwlBopWmgAZpZoU7lH9q3A==/lib
+    primaryCpuAbi=null
+    secondaryCpuAbi=null
+    versionCode=1 minSdk=23 targetSdk=31
+    versionName=1.0
+    splits=[base]
+    apkSigningVersion=3
+    applicationInfo=ApplicationInfo{3f84fd2 com.d.bmrhsb}
+    flags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP ]
+    privateFlags=[ PRIVATE_FLAG_ACTIVITIES_RESIZE_MODE_RESIZEABLE_VIA_SDK_VERSION PARTIALLY_DIRECT_BOOT_AWARE ]
+    dataDir=/data/user/0/com.d.bmrhsb
+    supportsScreens=[small, medium, large, xlarge, resizeable, anyDensity]
+    timeStamp=2023-08-10 20:11:33
+    firstInstallTime=2023-08-10 20:11:33
+    lastUpdateTime=2023-08-10 20:11:33
+    signatures=PackageSignatures{9bccf59 version:3, signatures:[b99b4df9], past signatures:[]}
+    installPermissionsFixed=true
+    pkgFlags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP ]
+    requested permissions:
+      android.permission.INTERNET
+      android.permission.ACCESS_NETWORK_STATE
+      com.google.android.gms.permission.AD_ID
+      android.permission.WAKE_LOCK
+      android.permission.RECEIVE_BOOT_COMPLETED
+      android.permission.FOREGROUND_SERVICE
+    install permissions:
+      android.permission.FOREGROUND_SERVICE: granted=true
+      android.permission.RECEIVE_BOOT_COMPLETED: granted=true
+      android.permission.INTERNET: granted=true
+      android.permission.ACCESS_NETWORK_STATE: granted=true
+      android.permission.WAKE_LOCK: granted=true
+    User 0: ceDataInode=-4294844119 installed=true hidden=false suspended=false stopped=true notLaunched=true enabled=0 instant=false virtual=false
+      gids=[3003]
+      runtime permissions:
+
+Package Changes:
+  Sequence number=31
+  User 0:
+    seq=5, package=com.google.android.gms
+    seq=14, package=abamuve.calculations.bmrbmibfp
+    seq=16, package=com.blogspot.sakibhs.bmrandbmicalculator
+    seq=17, package=com.bmi.bmr.calculator.tracker.health.tdee
+    seq=19, package=com.boss.bmrcalculator
+    seq=21, package=com.ca.bmr.calclator
+    seq=23, package=com.calculator.activity.metabolic.tdee.bmr.bmrtdeecalculator
+    seq=24, package=com.cc.bmi.bmr.bodyfatpercentage.calculator
+    seq=29, package=com.cit.bmi.bmr.bodyfatpercentage.calculator
+    seq=30, package=com.d.bmrhsb
+
+
+Dexopt state:
+  [com.d.bmrhsb]
+    path: /data/app/com.d.bmrhsb-MwlBopWmgAZpZoU7lH9q3A==/base.apk
+      x86: [status=speed-profile] [reason=install]
+
+
+Compiler stats:
+  [com.d.bmrhsb]
+     base.apk - 934

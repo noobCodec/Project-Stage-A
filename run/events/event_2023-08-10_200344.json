@@ -1,0 +1,50 @@
+{
+  "tag": "2023-08-10_200344",
+  "event": {
+    "event_type": "set_text",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.bmi.bmr.calculator.tracker.health.tdee",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": true,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          105,
+          517
+        ],
+        [
+          1137,
+          663
+        ]
+      ],
+      "resource_id": "com.bmi.bmr.calculator.tracker.health.tdee:id/ageInp",
+      "checked": false,
+      "text": "Years",
+      "class": "android.widget.EditText",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": true,
+      "parent": 14,
+      "temp_id": 15,
+      "size": "1032*146",
+      "signature": "[class]android.widget.EditText[resource_id]com.bmi.bmr.calculator.tracker.health.tdee:id/ageInp[text]Years[enabled,,]",
+      "view_str": "40c9c17e749f804d7347c93cdc086f94",
+      "content_free_signature": "[class]android.widget.EditText[resource_id]com.bmi.bmr.calculator.tracker.health.tdee:id/ageInp"
+    },
+    "text": 7
+  },
+  "start_state": "7900075115108dd001065b1488bb1623",
+  "stop_state": "ff18ad593ac4056c95eeb9def74a358e",
+  "event_str": "SetTextEvent(state=7900075115108dd001065b1488bb1623, view=40c9c17e749f804d7347c93cdc086f94(ActivityBMR/EditText-Years), text=7)"
+}

@@ -1,0 +1,11 @@
+{
+  "tag": "2023-08-13_121450",
+  "event": {
+    "event_type": "kill_app",
+    "log_lines": null,
+    "stop_intent": "am force-stop com.cc.bmi.bmr.bodyfatpercentage.calculator"
+  },
+  "start_state": "edbae04ed24491b14aea3c38b0d5d9e1",
+  "stop_state": "edbae04ed24491b14aea3c38b0d5d9e1",
+  "event_str": "KillAppEvent()"
+}

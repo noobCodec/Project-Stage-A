@@ -1,0 +1,98 @@
+{
+  "views": {
+    "set_height": {
+      "resource_id": ".*lengthField",
+      "class": ".*EditText"
+    },
+    "set_weight": {
+      "resource_id": ".*weightField",
+      "class": ".*EditText"
+    },
+    "set_age": {
+      "resource_id": ".*ageField",
+      "class": ".*EditText"
+    },
+    "activity_level": {
+      "resource_id": ".*spinner1",
+      "class": ".*Spinner"
+    },
+    "activity_level_text": {
+      "text": "Minor or no activity"
+    },
+    "calculate": {
+      "resource_id": ".*calcButton",
+      "class": ".*Button"
+    },
+    "skip_old": {
+      "resource_id": ".*asdasdsd"
+    }
+  },
+  "states": {
+    "main_activity_state": {
+      "views": [
+        "set_age"
+      ]
+    },
+    "skip_old_state": {
+      "views": [
+        "skip_old"
+      ]
+    }
+  },
+  "operations": {
+    "skip_old_op": [
+      {
+        "event_type": "intent",
+        "intent": "am start com.cc.bmi.bmr.bodyfatpercentage.calculator/.BMRCalculator.bmr_calculator"
+      }
+    ],
+    "bmi_operation": [
+      {
+        "event_type": "set_text",
+        "target_view": "set_age",
+        "text": 47
+      },
+      {
+        "event_type": "set_text",
+        "target_view": "set_weight",
+        "text": 87
+      },
+      {
+        "event_type": "set_text",
+        "target_view": "set_height",
+        "text": 434
+      },
+      {
+        "event_type": "touch",
+        "target_view": "activity_level"
+      },
+      {
+        "event_type": "touch",
+        "target_view": "activity_level_text"
+      },
+      {
+        "event_type": "touch",
+        "target_view": "calculate"
+      },
+      {
+        "event_type": "touch",
+        "target_view": "calculate"
+      },
+      {
+        "event_type": "touch",
+        "target_view": "calculate"
+      },
+      {
+        "event_type": "exit"
+      }
+    ]
+  },
+  "main": {
+    "main_activity_state": [
+      "bmi_operation"
+    ],
+    "skip_old_state": [
+      "skip_old_op"
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "tag": "2023-08-10_201920",
+  "event": {
+    "event_type": "set_text",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.microhealthllc.bmr_calculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": true,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          354,
+          710
+        ],
+        [
+          596,
+          854
+        ]
+      ],
+      "resource_id": "com.microhealthllc.bmr_calculator:id/feets",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.EditText",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": true,
+      "parent": 22,
+      "temp_id": 23,
+      "size": "242*144",
+      "signature": "[class]android.widget.EditText[resource_id]com.microhealthllc.bmr_calculator:id/feets[text]None[enabled,,]",
+      "view_str": "6f57f5d8852f8b7250e901074085a261",
+      "content_free_signature": "[class]android.widget.EditText[resource_id]com.microhealthllc.bmr_calculator:id/feets"
+    },
+    "text": 4
+  },
+  "start_state": "e6056d7ab0101343ce709ecad0fc4340",
+  "stop_state": "6a06480710703895d6ae20f3afb8ecb2",
+  "event_str": "SetTextEvent(state=e6056d7ab0101343ce709ecad0fc4340, view=6f57f5d8852f8b7250e901074085a261(SignInActivity/EditText-), text=4)"
+}

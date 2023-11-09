@@ -1,0 +1,50 @@
+{
+  "tag": "2023-08-10_200532",
+  "event": {
+    "event_type": "set_text",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.ca.bmr.calclator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": true,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          113,
+          629
+        ],
+        [
+          732,
+          797
+        ]
+      ],
+      "resource_id": "com.ca.bmr.calclator:id/weight",
+      "checked": false,
+      "text": "Enter Weight",
+      "class": "android.widget.EditText",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": true,
+      "parent": 15,
+      "temp_id": 16,
+      "size": "619*168",
+      "signature": "[class]android.widget.EditText[resource_id]com.ca.bmr.calclator:id/weight[text]Enter Weight[enabled,,]",
+      "view_str": "cfcf869a1295836555b00972c5e0b109",
+      "content_free_signature": "[class]android.widget.EditText[resource_id]com.ca.bmr.calclator:id/weight"
+    },
+    "text": 63
+  },
+  "start_state": "ef82d5cbca8c0295909dc65b9a6555ae",
+  "stop_state": "0c881eadd920e09694b286922470fcd7",
+  "event_str": "SetTextEvent(state=ef82d5cbca8c0295909dc65b9a6555ae, view=cfcf869a1295836555b00972c5e0b109(MainActivity/EditText-Enter Weig), text=63)"
+}

@@ -1,0 +1,66 @@
+{
+  "views": {
+    "set_height": {
+      "resource_id": ".*edtLength",
+      "class": ".*EditText"
+    },
+    "set_weight": {
+      "resource_id": ".*edtWeight",
+      "class": ".*EditText"
+    },
+    "set_age": {
+      "resource_id": ".*edtAge",
+      "class": ".*EditText"
+    },
+    "set_gender": {
+      "resource_id": ".*tglGender",
+      "class": ".*ToggleButton"
+    },
+    "calculate": {
+      "resource_id": ".*btnCal",
+      "class": ".*Button"
+    }
+  },
+  "states": {
+    "main_activity_state": {
+      "views": [
+        "set_age"
+      ]
+    }
+  },
+  "operations": {
+    "bmi_operation": [
+      {
+        "event_type": "set_text",
+        "target_view": "set_age",
+        "text": 47
+      },
+      {
+        "event_type": "set_text",
+        "target_view": "set_weight",
+        "text": 87
+      },
+      {
+        "event_type": "set_text",
+        "target_view": "set_height",
+        "text": 434
+      },
+      {
+        "event_type": "touch",
+        "target_view": "set_gender"
+      },
+      {
+        "event_type": "touch",
+        "target_view": "calculate"
+      },
+      {
+        "event_type": "exit"
+      }
+    ]
+  },
+  "main": {
+    "main_activity_state": [
+      "bmi_operation"
+    ]
+  }
+}

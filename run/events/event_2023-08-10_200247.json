@@ -1,0 +1,50 @@
+{
+  "tag": "2023-08-10_200247",
+  "event": {
+    "event_type": "set_text",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.blogspot.sakibhs.bmrandbmicalculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": true,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          303,
+          728
+        ],
+        [
+          522,
+          886
+        ]
+      ],
+      "resource_id": "com.blogspot.sakibhs.bmrandbmicalculator:id/heightft",
+      "checked": false,
+      "text": "Feet",
+      "class": "android.widget.EditText",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": true,
+      "parent": 22,
+      "temp_id": 24,
+      "size": "219*158",
+      "signature": "[class]android.widget.EditText[resource_id]com.blogspot.sakibhs.bmrandbmicalculator:id/heightft[text]Feet[enabled,,]",
+      "view_str": "261dea1fe369d7eb6f67712376b321b6",
+      "content_free_signature": "[class]android.widget.EditText[resource_id]com.blogspot.sakibhs.bmrandbmicalculator:id/heightft"
+    },
+    "text": 5
+  },
+  "start_state": "f816ce3f3dfcba9bae98f247a7f9e61e",
+  "stop_state": "a645dd09e5ae7fddc1b2a8f0b5c207e1",
+  "event_str": "SetTextEvent(state=f816ce3f3dfcba9bae98f247a7f9e61e, view=261dea1fe369d7eb6f67712376b321b6(MainActivity/EditText-Feet), text=5)"
+}

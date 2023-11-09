@@ -1,0 +1,49 @@
+{
+  "tag": "2023-08-10_204917",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.rickardapps.bmrcal",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          366,
+          1114
+        ],
+        [
+          1075,
+          1287
+        ]
+      ],
+      "resource_id": "com.rickardapps.bmrcal:id/btnCal",
+      "checked": false,
+      "text": "CALCULATE BMR",
+      "class": "android.widget.Button",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 10,
+      "temp_id": 20,
+      "size": "709*173",
+      "signature": "[class]android.widget.Button[resource_id]com.rickardapps.bmrcal:id/btnCal[text]CALCULATE BMR[enabled,,]",
+      "view_str": "6e9d56a1c3d883238cb780d28fa4ea27",
+      "content_free_signature": "[class]android.widget.Button[resource_id]com.rickardapps.bmrcal:id/btnCal"
+    }
+  },
+  "start_state": "c0e1798fa9302f44ad264fd8e13cdb1e",
+  "stop_state": "c0e1798fa9302f44ad264fd8e13cdb1e",
+  "event_str": "TouchEvent(state=c0e1798fa9302f44ad264fd8e13cdb1e, view=6e9d56a1c3d883238cb780d28fa4ea27(MainActivity/Button-CALCULATE ))"
+}

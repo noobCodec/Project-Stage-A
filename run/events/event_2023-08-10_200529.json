@@ -1,0 +1,50 @@
+{
+  "tag": "2023-08-10_200529",
+  "event": {
+    "event_type": "set_text",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.ca.bmr.calclator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": true,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": true,
+      "bounds": [
+        [
+          113,
+          421
+        ],
+        [
+          732,
+          589
+        ]
+      ],
+      "resource_id": "com.ca.bmr.calclator:id/age",
+      "checked": false,
+      "text": "Enter Age",
+      "class": "android.widget.EditText",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": true,
+      "parent": 10,
+      "temp_id": 11,
+      "size": "619*168",
+      "signature": "[class]android.widget.EditText[resource_id]com.ca.bmr.calclator:id/age[text]Enter Age[enabled,,]",
+      "view_str": "73b7f740b1af95bf8c8cc6abb0ec1b04",
+      "content_free_signature": "[class]android.widget.EditText[resource_id]com.ca.bmr.calclator:id/age"
+    },
+    "text": 7
+  },
+  "start_state": "135bc7456fb34b14e216e5b888e9614a",
+  "stop_state": "ef82d5cbca8c0295909dc65b9a6555ae",
+  "event_str": "SetTextEvent(state=135bc7456fb34b14e216e5b888e9614a, view=73b7f740b1af95bf8c8cc6abb0ec1b04(MainActivity/EditText-Enter Age), text=7)"
+}

@@ -1,0 +1,70 @@
+Activity Resolver Table:
+  Non-Data Actions:
+      android.intent.action.MAIN:
+        fc9803f com.roliosolutions.bmr.bmi.calculator/.MainActivity filter 92f5581
+          Action: "android.intent.action.MAIN"
+          Category: "android.intent.category.LAUNCHER"
+
+Key Set Manager:
+  [com.roliosolutions.bmr.bmi.calculator]
+      Signing KeySets: 61
+
+Packages:
+  Package [com.roliosolutions.bmr.bmi.calculator] (d98fd0c):
+    userId=10124
+    pkg=Package{a859655 com.roliosolutions.bmr.bmi.calculator}
+    codePath=/data/app/com.roliosolutions.bmr.bmi.calculator-Rqul9LHzsEc5cuVzdATMiA==
+    resourcePath=/data/app/com.roliosolutions.bmr.bmi.calculator-Rqul9LHzsEc5cuVzdATMiA==
+    legacyNativeLibraryDir=/data/app/com.roliosolutions.bmr.bmi.calculator-Rqul9LHzsEc5cuVzdATMiA==/lib
+    primaryCpuAbi=null
+    secondaryCpuAbi=null
+    versionCode=1 minSdk=16 targetSdk=28
+    versionName=1.0
+    splits=[base]
+    apkSigningVersion=3
+    applicationInfo=ApplicationInfo{96d186a com.roliosolutions.bmr.bmi.calculator}
+    flags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP ]
+    privateFlags=[ PRIVATE_FLAG_ACTIVITIES_RESIZE_MODE_RESIZEABLE_VIA_SDK_VERSION ]
+    dataDir=/data/user/0/com.roliosolutions.bmr.bmi.calculator
+    supportsScreens=[small, medium, large, xlarge, resizeable, anyDensity]
+    timeStamp=2023-07-19 20:17:53
+    firstInstallTime=2023-07-19 20:17:53
+    lastUpdateTime=2023-07-19 20:17:53
+    signatures=PackageSignatures{cdfe15b version:3, signatures:[f86a652], past signatures:[]}
+    installPermissionsFixed=false
+    pkgFlags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP ]
+    User 0: ceDataInode=-4294851996 installed=true hidden=false suspended=false stopped=false notLaunched=false enabled=0 instant=false virtual=false
+      runtime permissions:
+
+Package Changes:
+  Sequence number=55
+  User 0:
+    seq=5, package=com.google.android.gms
+    seq=14, package=abamuve.calculations.bmrbmibfp
+    seq=16, package=com.blogspot.sakibhs.bmrandbmicalculator
+    seq=17, package=com.bmi.bmr.calculator.tracker.health.tdee
+    seq=19, package=com.boss.bmrcalculator
+    seq=21, package=com.ca.bmr.calclator
+    seq=23, package=com.calculator.activity.metabolic.tdee.bmr.bmrtdeecalculator
+    seq=24, package=com.cc.bmi.bmr.bodyfatpercentage.calculator
+    seq=29, package=com.cit.bmi.bmr.bodyfatpercentage.calculator
+    seq=32, package=com.d.bmrhsb
+    seq=34, package=com.emoapps.bmrcalculatorweightlosstracker
+    seq=36, package=com.erikori.bmrchecker
+    seq=38, package=com.fireandairmedia.bmrfree
+    seq=42, package=com.hararzabad.bmrv2
+    seq=44, package=com.lisafontsbooth.bmicalculator.bmrandweightlosscalculator
+    seq=46, package=com.microhealthllc.bmr_calculator
+    seq=48, package=com.playsimple.bmrcalculator
+    seq=54, package=com.rickardapps.bmrcal
+
+
+Dexopt state:
+  [com.roliosolutions.bmr.bmi.calculator]
+    path: /data/app/com.roliosolutions.bmr.bmi.calculator-Rqul9LHzsEc5cuVzdATMiA==/base.apk
+      x86: [status=speed-profile] [reason=install]
+
+
+Compiler stats:
+  [com.roliosolutions.bmr.bmi.calculator]
+     base.apk - 611

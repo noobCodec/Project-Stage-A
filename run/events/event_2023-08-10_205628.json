@@ -1,0 +1,49 @@
+{
+  "tag": "2023-08-10_205628",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.rickardapps.bmrcal",
+      "visible": true,
+      "checkable": true,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          566,
+          928
+        ],
+        [
+          874,
+          1096
+        ]
+      ],
+      "resource_id": "com.rickardapps.bmrcal:id/tglGender",
+      "checked": true,
+      "text": "Male",
+      "class": "android.widget.ToggleButton",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 10,
+      "temp_id": 19,
+      "size": "308*168",
+      "signature": "[class]android.widget.ToggleButton[resource_id]com.rickardapps.bmrcal:id/tglGender[text]Male[enabled,checked,]",
+      "view_str": "5deb81fadf9c5d3291bea51656348ec1",
+      "content_free_signature": "[class]android.widget.ToggleButton[resource_id]com.rickardapps.bmrcal:id/tglGender"
+    }
+  },
+  "start_state": "c1c6aefbaa60f38188b62122b489df73",
+  "stop_state": "5a9321ec725a07951e1ff293872def07",
+  "event_str": "TouchEvent(state=c1c6aefbaa60f38188b62122b489df73, view=5deb81fadf9c5d3291bea51656348ec1(MainActivity/ToggleButton-Male))"
+}

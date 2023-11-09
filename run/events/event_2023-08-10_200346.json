@@ -1,0 +1,50 @@
+{
+  "tag": "2023-08-10_200346",
+  "event": {
+    "event_type": "set_text",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.bmi.bmr.calculator.tracker.health.tdee",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": true,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          105,
+          1073
+        ],
+        [
+          950,
+          1219
+        ]
+      ],
+      "resource_id": "com.bmi.bmr.calculator.tracker.health.tdee:id/weightInp",
+      "checked": false,
+      "text": "Kilograms",
+      "class": "android.widget.EditText",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": true,
+      "parent": 29,
+      "temp_id": 30,
+      "size": "845*146",
+      "signature": "[class]android.widget.EditText[resource_id]com.bmi.bmr.calculator.tracker.health.tdee:id/weightInp[text]Kilograms[enabled,,]",
+      "view_str": "2342b3815ce3d3f9f90cde643ac833cf",
+      "content_free_signature": "[class]android.widget.EditText[resource_id]com.bmi.bmr.calculator.tracker.health.tdee:id/weightInp"
+    },
+    "text": 63
+  },
+  "start_state": "ff18ad593ac4056c95eeb9def74a358e",
+  "stop_state": "45effca6d5dab557528b94a1fc005cdb",
+  "event_str": "SetTextEvent(state=ff18ad593ac4056c95eeb9def74a358e, view=2342b3815ce3d3f9f90cde643ac833cf(ActivityBMR/EditText-Kilograms), text=63)"
+}

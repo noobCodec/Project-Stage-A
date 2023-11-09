@@ -1,0 +1,50 @@
+{
+  "tag": "2023-08-10_200705",
+  "event": {
+    "event_type": "set_text",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.calculator.activity.metabolic.tdee.bmr.bmrtdeecalculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": true,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          772,
+          1561
+        ],
+        [
+          1369,
+          1876
+        ]
+      ],
+      "resource_id": "com.calculator.activity.metabolic.tdee.bmr.bmrtdeecalculator:id/age",
+      "checked": false,
+      "text": "age",
+      "class": "android.widget.EditText",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": true,
+      "parent": 8,
+      "temp_id": 10,
+      "size": "597*315",
+      "signature": "[class]android.widget.EditText[resource_id]com.calculator.activity.metabolic.tdee.bmr.bmrtdeecalculator:id/age[text]age[enabled,,]",
+      "view_str": "833c8a34e72393764a806c26e90aefc9",
+      "content_free_signature": "[class]android.widget.EditText[resource_id]com.calculator.activity.metabolic.tdee.bmr.bmrtdeecalculator:id/age"
+    },
+    "text": 7
+  },
+  "start_state": "0173a8cef2644811ca8048d46cf4cdb3",
+  "stop_state": "f5646a60c7ad6ededd21979dc81109d0",
+  "event_str": "SetTextEvent(state=0173a8cef2644811ca8048d46cf4cdb3, view=833c8a34e72393764a806c26e90aefc9(AgeActivity/EditText-age), text=7)"
+}

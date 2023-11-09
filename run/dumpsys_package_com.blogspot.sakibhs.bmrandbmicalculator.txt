@@ -1,0 +1,86 @@
+Activity Resolver Table:
+  Non-Data Actions:
+      android.intent.action.MAIN:
+        7daff29 com.blogspot.sakibhs.bmrandbmicalculator/.MainActivity filter 22e2bee
+          Action: "android.intent.action.MAIN"
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.LAUNCHER"
+      android.intent.action.VIEW:
+        7daff29 com.blogspot.sakibhs.bmrandbmicalculator/.MainActivity filter 22e2bee
+          Action: "android.intent.action.MAIN"
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.LAUNCHER"
+
+Registered ContentProviders:
+  com.blogspot.sakibhs.bmrandbmicalculator/com.facebook.ads.AudienceNetworkContentProvider:
+    Provider{4b352ae com.blogspot.sakibhs.bmrandbmicalculator/com.facebook.ads.AudienceNetworkContentProvider}
+
+ContentProvider Authorities:
+  [com.blogspot.sakibhs.bmrandbmicalculator.AudienceNetworkContentProvider]:
+    Provider{4b352ae com.blogspot.sakibhs.bmrandbmicalculator/com.facebook.ads.AudienceNetworkContentProvider}
+      applicationInfo=ApplicationInfo{41f684f com.blogspot.sakibhs.bmrandbmicalculator}
+
+Key Set Manager:
+  [com.blogspot.sakibhs.bmrandbmicalculator]
+      Signing KeySets: 238
+
+Packages:
+  Package [com.blogspot.sakibhs.bmrandbmicalculator] (f41abdc):
+    userId=10169
+    pkg=Package{97b64e5 com.blogspot.sakibhs.bmrandbmicalculator}
+    codePath=/data/app/com.blogspot.sakibhs.bmrandbmicalculator-8zNIeeDHUf-Tspb1MdBPjA==
+    resourcePath=/data/app/com.blogspot.sakibhs.bmrandbmicalculator-8zNIeeDHUf-Tspb1MdBPjA==
+    legacyNativeLibraryDir=/data/app/com.blogspot.sakibhs.bmrandbmicalculator-8zNIeeDHUf-Tspb1MdBPjA==/lib
+    primaryCpuAbi=null
+    secondaryCpuAbi=null
+    versionCode=36 minSdk=16 targetSdk=29
+    versionName=10.1.2
+    splits=[base]
+    apkSigningVersion=3
+    applicationInfo=ApplicationInfo{41f684f com.blogspot.sakibhs.bmrandbmicalculator}
+    flags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ]
+    privateFlags=[ PRIVATE_FLAG_ACTIVITIES_RESIZE_MODE_RESIZEABLE_VIA_SDK_VERSION ]
+    dataDir=/data/user/0/com.blogspot.sakibhs.bmrandbmicalculator
+    supportsScreens=[small, medium, large, xlarge, resizeable, anyDensity]
+    timeStamp=2023-08-04 13:08:05
+    firstInstallTime=2023-08-04 11:22:39
+    lastUpdateTime=2023-08-04 13:08:05
+    signatures=PackageSignatures{65ebba version:3, signatures:[5dbf0f2b], past signatures:[]}
+    installPermissionsFixed=true
+    pkgFlags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ]
+    requested permissions:
+      android.permission.INTERNET
+      android.permission.ACCESS_WIFI_STATE
+      android.permission.ACCESS_NETWORK_STATE
+      android.permission.BLUETOOTH
+    install permissions:
+      android.permission.BLUETOOTH: granted=true
+      android.permission.INTERNET: granted=true
+      android.permission.ACCESS_NETWORK_STATE: granted=true
+      android.permission.ACCESS_WIFI_STATE: granted=true
+    User 0: ceDataInode=-4294836216 installed=true hidden=false suspended=false stopped=false notLaunched=false enabled=0 instant=false virtual=false
+      gids=[3002, 3003]
+      runtime permissions:
+
+Package Changes:
+  Sequence number=34
+  User 0:
+    seq=3, package=com.google.android.gms
+    seq=5, package=com.package.bmrh
+    seq=18, package=com.cc.bmi.bmr.bodyfatpercentage.calculator
+    seq=29, package=com.cit.bmi.bmr.bodyfatpercentage.calculator
+    seq=30, package=org.fredriks.bmrcalc
+    seq=31, package=com.lisafontsbooth.bmicalculator.bmrandweightlosscalculator
+    seq=32, package=com.hararzabad.bmrv2
+    seq=33, package=com.emoapps.bmrcalculatorweightlosstracker
+
+
+Dexopt state:
+  [com.blogspot.sakibhs.bmrandbmicalculator]
+    path: /data/app/com.blogspot.sakibhs.bmrandbmicalculator-8zNIeeDHUf-Tspb1MdBPjA==/base.apk
+      x86: [status=speed-profile] [reason=install]
+
+
+Compiler stats:
+  [com.blogspot.sakibhs.bmrandbmicalculator]
+    (No recorded stats)

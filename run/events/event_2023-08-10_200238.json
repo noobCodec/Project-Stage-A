@@ -1,0 +1,51 @@
+{
+  "tag": "2023-08-10_200238",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.blogspot.sakibhs.bmrandbmicalculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        17
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          125,
+          315
+        ],
+        [
+          685,
+          980
+        ]
+      ],
+      "resource_id": "com.blogspot.sakibhs.bmrandbmicalculator:id/calculatorButtonId",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.FrameLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 15,
+      "temp_id": 16,
+      "size": "560*665",
+      "signature": "[class]android.widget.FrameLayout[resource_id]com.blogspot.sakibhs.bmrandbmicalculator:id/calculatorButtonId[text]None[enabled,,]",
+      "view_str": "041a14044f9497cd46e4df5e27d651a2",
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]com.blogspot.sakibhs.bmrandbmicalculator:id/calculatorButtonId"
+    }
+  },
+  "start_state": "f1c71bf025e29a93bc1ad0bf294cb743",
+  "stop_state": "b8f6b2297b266358d53e49ff5ad9ffe0",
+  "event_str": "TouchEvent(state=f1c71bf025e29a93bc1ad0bf294cb743, view=041a14044f9497cd46e4df5e27d651a2(MainActivity/FrameLayout-))"
+}

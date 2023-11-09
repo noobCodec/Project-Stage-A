@@ -1,0 +1,2269 @@
+{
+  "tag": "2023-08-16_081130",
+  "state_str": "a5183734f4c7fbd3a5dfb44c94be8f03",
+  "state_str_content_free": "0914462bf0bfe6cf1a19552525eb5718",
+  "foreground_activity": "com.emoapps.bmrcalculatorweightlosstracker/.MainActivity",
+  "activity_stack": [
+    "com.emoapps.bmrcalculatorweightlosstracker/.MainActivity"
+  ],
+  "background_services": [
+    "com.emoapps.bmrcalculatorweightlosstracker/org.chromium.content.app.SandboxedProcessService0",
+    "com.google.android.gms/.icing.service.AppIndexingService",
+    "com.google.android.gms/.deviceconnection.service.DeviceConnectionWatcherService",
+    "com.google.android.gms/com.google.android.location.places.service.PlaceDetectionAsyncService",
+    "com.android.systemui/.keyguard.KeyguardService",
+    "com.google.android.gms/.droidguard.DroidGuardService",
+    "com.android.systemui/.ImageWallpaper",
+    "com.google.android.gms/com.google.android.location.geocode.GeocodeService",
+    "com.google.android.gms/.auth.setup.devicesignals.LockScreenService",
+    "com.google.android.gms/.gcm.GcmService",
+    "com.google.android.gms/.clearcut.debug.ClearcutDebugDumpService",
+    "com.google.android.gms/.chimera.PersistentApiService",
+    "com.android.phone/com.android.internal.telephony.CellularNetworkService",
+    "com.google.android.gms/.chimera.PersistentBoundBrokerService",
+    "com.google.android.gms/.chimera.GmsBoundBrokerService",
+    "com.google.android.gms/.chimera.GmsApiService",
+    "com.google.android.gms/.fido.fido2.pollux.CableAuthenticatorService",
+    "com.google.android.googlequicksearchbox/com.google.android.apps.gsa.nowoverlayservice.DrawerOverlayService",
+    "io.github.ylimit.droidbotapp/.DroidBotIME",
+    "com.google.android.gms/com.google.android.location.fused.FusedLocationService",
+    "com.google.android.gms/.gcm.nts.SchedulerService",
+    "com.google.android.gms/.ads.AdRequestBrokerService",
+    "com.google.android.gms/.gcm.http.GoogleHttpService",
+    "io.github.ylimit.droidbotapp/io.github.privacystreams.accessibility.PSAccessibilityService",
+    "com.google.android.gms/com.google.android.location.geofencer.service.GeofenceProviderService",
+    "com.google.android.gms/.thunderbird.EmergencyPersistentService",
+    "com.google.android.apps.messaging/.fcm.BugleFirebaseInstanceIDService",
+    "com.android.systemui/.SystemUIService",
+    "com.google.android.gms/.nearby.exposurenotification.service.ExposureMatchingService",
+    "com.google.android.gms/org.chromium.content.app.SandboxedProcessService3",
+    "android/.hardware.location.GeofenceHardwareService",
+    "com.android.se/.SecureElementService",
+    "com.google.android.ims/.services.RcsService",
+    "com.google.android.gms/.chimera.GmsIntentOperationService",
+    "com.google.android.gms/.chimera.PersistentDirectBootAwareApiService",
+    "com.google.android.gms/.chimera.PersistentIntentOperationService",
+    "com.google.android.ext.services/android.ext.services.notification.Assistant",
+    "com.google.android.gms/.location.persistent.LocationPersistentService",
+    "com.google.android.gms/com.google.android.location.internal.PendingIntentCallbackService",
+    "com.google.android.gms/com.google.android.location.internal.server.GoogleLocationService",
+    "com.google.android.gms/com.google.android.contextmanager.service.ContextManagerService",
+    "com.google.android.gms/com.google.android.location.network.NetworkLocationService",
+    "com.google.android.gms/com.google.android.location.internal.GoogleLocationManagerService",
+    "com.android.phone/com.android.internal.telephony.dataconnection.CellularDataService",
+    "com.android.server.telecom/.components.TelecomService",
+    "com.google.android.googlequicksearchbox/com.google.android.voiceinteraction.GsaVoiceInteractionService",
+    "com.android.smspush/.WapPushManager",
+    "com.android.phone/.vvm.RemoteVvmTaskManager",
+    "com.google.android.gms/.lockbox.service.LockboxBrokerService",
+    "com.google.android.gms/.gass.GassService",
+    "android/com.android.server.content.SyncJobService",
+    "com.google.android.gms/.common.stats.GmsCoreStatsService",
+    "com.google.android.gms/com.google.android.location.internal.server.HardwareArProviderService",
+    "org.medhelp.mydiet/org.medhelp.medtracker.network.MTNetworkObserverService",
+    "com.android.providers.media/.MediaScannerService",
+    "com.google.android.gm/com.google.firebase.iid.FirebaseInstanceIdService",
+    "com.android.phone/.TelephonyDebugService",
+    "com.google.android.videos/.service.pinning.TransferService",
+    "com.google.android.apps.messaging/.shared.datamodel.action.ActionExecutorImpl",
+    "com.google.android.gms/.icing.service.IndexService",
+    "com.google.android.apps.nexuslauncher/com.android.quickstep.TouchInteractionService",
+    "com.android.providers.media/.MediaScannerService"
+  ],
+  "width": 1440,
+  "height": 3120,
+  "views": [
+    {
+      "package": "com.emoapps.bmrcalculatorweightlosstracker",
+      "visible": true,
+      "checkable": false,
+      "child_count": 3,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        1,
+        55,
+        56
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          0
+        ],
+        [
+          1440,
+          3120
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.FrameLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": -1,
+      "temp_id": 0,
+      "size": "1440*3120",
+      "signature": "[class]android.widget.FrameLayout[resource_id]None[text]None[enabled,,]",
+      "view_str": "0ecf40b08374684eaf1d400230b0401f",
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]None"
+    },
+    {
+      "package": "com.emoapps.bmrcalculatorweightlosstracker",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        2
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          0
+        ],
+        [
+          1440,
+          2952
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.LinearLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 0,
+      "temp_id": 1,
+      "size": "1440*2952",
+      "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+      "view_str": "ad58f78fd0d5162306661f30f9932961",
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None"
+    },
+    {
+      "package": "com.emoapps.bmrcalculatorweightlosstracker",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        3
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          84
+        ],
+        [
+          1440,
+          2952
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.FrameLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 1,
+      "temp_id": 2,
+      "size": "1440*2868",
+      "signature": "[class]android.widget.FrameLayout[resource_id]None[text]None[enabled,,]",
+      "view_str": "8de41b1f7bdfc120ecae93af61fbaad3",
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]None"
+    },
+    {
+      "package": "com.emoapps.bmrcalculatorweightlosstracker",
+      "visible": true,
+      "checkable": false,
+      "child_count": 2,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        4,
+        10
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          84
+        ],
+        [
+          1440,
+          2952
+        ]
+      ],
+      "resource_id": "com.emoapps.bmrcalculatorweightlosstracker:id/decor_content_parent",
+      "checked": false,
+      "text": null,
+      "class": "android.view.ViewGroup",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 2,
+      "temp_id": 3,
+      "size": "1440*2868",
+      "signature": "[class]android.view.ViewGroup[resource_id]com.emoapps.bmrcalculatorweightlosstracker:id/decor_content_parent[text]None[enabled,,]",
+      "view_str": "19a097891cb9f1f4c5ec03881680e18c",
+      "content_free_signature": "[class]android.view.ViewGroup[resource_id]com.emoapps.bmrcalculatorweightlosstracker:id/decor_content_parent"
+    },
+    {
+      "package": "com.emoapps.bmrcalculatorweightlosstracker",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        5
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          84
+        ],
+        [
+          1440,
+          280
+        ]
+      ],
+      "resource_id": "com.emoapps.bmrcalculatorweightlosstracker:id/action_bar_container",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.FrameLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 3,
+      "temp_id": 4,
+      "size": "1440*196",
+      "signature": "[class]android.widget.FrameLayout[resource_id]com.emoapps.bmrcalculatorweightlosstracker:id/action_bar_container[text]None[enabled,,]",
+      "view_str": "b88429610a51ca03fe4bead3a62573ad",
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]com.emoapps.bmrcalculatorweightlosstracker:id/action_bar_container"
+    },
+    {
+      "package": "com.emoapps.bmrcalculatorweightlosstracker",
+      "visible": true,
+      "checkable": false,
+      "child_count": 3,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        6,
+        7,
+        8
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          84
+        ],
+        [
+          1440,
+          280
+        ]
+      ],
+      "resource_id": "com.emoapps.bmrcalculatorweightlosstracker:id/action_bar",
+      "checked": false,
+      "text": null,
+      "class": "android.view.ViewGroup",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 4,
+      "temp_id": 5,
+      "size": "1440*196",
+      "signature": "[class]android.view.ViewGroup[resource_id]com.emoapps.bmrcalculatorweightlosstracker:id/action_bar[text]None[enabled,,]",
+      "view_str": "ee05ce50de045faa368fa43eb4608298",
+      "content_free_signature": "[class]android.view.ViewGroup[resource_id]com.emoapps.bmrcalculatorweightlosstracker:id/action_bar"
+    },
+    {
+      "package": "com.emoapps.bmrcalculatorweightlosstracker",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": "BMR Calculator & Weight Loss Tracker",
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          84
+        ],
+        [
+          196,
+          280
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.ImageButton",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 5,
+      "temp_id": 6,
+      "size": "196*196",
+      "signature": "[class]android.widget.ImageButton[resource_id]None[text]None[enabled,,]",
+      "view_str": "2a7956072b1b6cbaba34e90a4d6ae829",
+      "content_free_signature": "[class]android.widget.ImageButton[resource_id]None"
+    },
+    {
+      "package": "com.emoapps.bmrcalculatorweightlosstracker",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          252,
+          135
+        ],
+        [
+          1244,
+          228
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "BMR Calculator & Weight Loss Tracker",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 5,
+      "temp_id": 7,
+      "size": "992*93",
+      "signature": "[class]android.widget.TextView[resource_id]None[text]BMR Calculator & Weight Loss Tracker[enabled,,]",
+      "view_str": "b81a105ae1d36d03771020f2a5d5c44f",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]None"
+    },
+    {
+      "package": "com.emoapps.bmrcalculatorweightlosstracker",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        9
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          1272,
+          84
+        ],
+        [
+          1440,
+          280
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.support.v7.widget.LinearLayoutCompat",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 5,
+      "temp_id": 8,
+      "size": "168*196",
+      "signature": "[class]android.support.v7.widget.LinearLayoutCompat[resource_id]None[text]None[enabled,,]",
+      "view_str": "b33654414feec1f91dcdc8f4bb8fdf7f",
+      "content_free_signature": "[class]android.support.v7.widget.LinearLayoutCompat[resource_id]None"
+    },
+    {
+      "package": "com.emoapps.bmrcalculatorweightlosstracker",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": "Share this app",
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          1272,
+          98
+        ],
+        [
+          1440,
+          266
+        ]
+      ],
+      "resource_id": "com.emoapps.bmrcalculatorweightlosstracker:id/shareId",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 8,
+      "temp_id": 9,
+      "size": "168*168",
+      "signature": "[class]android.widget.TextView[resource_id]com.emoapps.bmrcalculatorweightlosstracker:id/shareId[text]None[enabled,,]",
+      "view_str": "aaadc87090c367adc53cb18ff93e79bf",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.emoapps.bmrcalculatorweightlosstracker:id/shareId"
+    },
+    {
+      "package": "com.emoapps.bmrcalculatorweightlosstracker",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        11
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          280
+        ],
+        [
+          1440,
+          2952
+        ]
+      ],
+      "resource_id": "android:id/content",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.FrameLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 3,
+      "temp_id": 10,
+      "size": "1440*2672",
+      "signature": "[class]android.widget.FrameLayout[resource_id]android:id/content[text]None[enabled,,]",
+      "view_str": "e738e4664fac8eb2bb583d57d790b487",
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]android:id/content"
+    },
+    {
+      "package": "com.emoapps.bmrcalculatorweightlosstracker",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        12
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          280
+        ],
+        [
+          1440,
+          2952
+        ]
+      ],
+      "resource_id": "com.emoapps.bmrcalculatorweightlosstracker:id/dl",
+      "checked": false,
+      "text": null,
+      "class": "android.support.v4.widget.DrawerLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 10,
+      "temp_id": 11,
+      "size": "1440*2672",
+      "signature": "[class]android.support.v4.widget.DrawerLayout[resource_id]com.emoapps.bmrcalculatorweightlosstracker:id/dl[text]None[enabled,,]",
+      "view_str": "7a514d948aae8c1e6915d3469898b620",
+      "content_free_signature": "[class]android.support.v4.widget.DrawerLayout[resource_id]com.emoapps.bmrcalculatorweightlosstracker:id/dl"
+    },
+    {
+      "package": "com.emoapps.bmrcalculatorweightlosstracker",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        13
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          280
+        ],
+        [
+          1440,
+          2952
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.RelativeLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 11,
+      "temp_id": 12,
+      "size": "1440*2672",
+      "signature": "[class]android.widget.RelativeLayout[resource_id]None[text]None[enabled,,]",
+      "view_str": "ed1781b10c5c139d56d03c1a8bf9ad4f",
+      "content_free_signature": "[class]android.widget.RelativeLayout[resource_id]None"
+    },
+    {
+      "package": "com.emoapps.bmrcalculatorweightlosstracker",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        14
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          280
+        ],
+        [
+          1440,
+          2952
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.LinearLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 12,
+      "temp_id": 13,
+      "size": "1440*2672",
+      "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+      "view_str": "6085df0d0fc19aace0bbfc873f04c5a5",
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None"
+    },
+    {
+      "package": "com.emoapps.bmrcalculatorweightlosstracker",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        15
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          280
+        ],
+        [
+          1440,
+          2952
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.RelativeLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 13,
+      "temp_id": 14,
+      "size": "1440*2672",
+      "signature": "[class]android.widget.RelativeLayout[resource_id]None[text]None[enabled,,]",
+      "view_str": "5a0ed836d39fa45a043fcf8819e0dbb8",
+      "content_free_signature": "[class]android.widget.RelativeLayout[resource_id]None"
+    },
+    {
+      "package": "com.emoapps.bmrcalculatorweightlosstracker",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        16
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          280
+        ],
+        [
+          1440,
+          2952
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.ScrollView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 14,
+      "temp_id": 15,
+      "size": "1440*2672",
+      "signature": "[class]android.widget.ScrollView[resource_id]None[text]None[enabled,,]",
+      "view_str": "efb30ca20ebe50b696792d4382221dcd",
+      "content_free_signature": "[class]android.widget.ScrollView[resource_id]None"
+    },
+    {
+      "package": "com.emoapps.bmrcalculatorweightlosstracker",
+      "visible": true,
+      "checkable": false,
+      "child_count": 3,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        17,
+        18,
+        52
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          888
+        ],
+        [
+          1440,
+          2134
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.LinearLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 15,
+      "temp_id": 16,
+      "size": "1440*1246",
+      "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+      "view_str": "559ebdf3ea8902dc9be14d0d4661934b",
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None"
+    },
+    {
+      "package": "com.emoapps.bmrcalculatorweightlosstracker",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          888
+        ],
+        [
+          1440,
+          1056
+        ]
+      ],
+      "resource_id": "com.emoapps.bmrcalculatorweightlosstracker:id/txt",
+      "checked": false,
+      "text": "Your Health report is",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 16,
+      "temp_id": 17,
+      "size": "1440*168",
+      "signature": "[class]android.widget.TextView[resource_id]com.emoapps.bmrcalculatorweightlosstracker:id/txt[text]Your Health report is[enabled,,]",
+      "view_str": "d01202b4ba4c958f8483c5f74883493b",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.emoapps.bmrcalculatorweightlosstracker:id/txt"
+    },
+    {
+      "package": "com.emoapps.bmrcalculatorweightlosstracker",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        19
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          1056
+        ],
+        [
+          1440,
+          1878
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.RelativeLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 16,
+      "temp_id": 18,
+      "size": "1440*822",
+      "signature": "[class]android.widget.RelativeLayout[resource_id]None[text]None[enabled,,]",
+      "view_str": "7a12515802a78c0af431a77220b38693",
+      "content_free_signature": "[class]android.widget.RelativeLayout[resource_id]None"
+    },
+    {
+      "package": "com.emoapps.bmrcalculatorweightlosstracker",
+      "visible": true,
+      "checkable": false,
+      "child_count": 2,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        20,
+        30
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          18,
+          1056
+        ],
+        [
+          1422,
+          1878
+        ]
+      ],
+      "resource_id": "com.emoapps.bmrcalculatorweightlosstracker:id/l4",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.LinearLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 18,
+      "temp_id": 19,
+      "size": "1404*822",
+      "signature": "[class]android.widget.LinearLayout[resource_id]com.emoapps.bmrcalculatorweightlosstracker:id/l4[text]None[enabled,,]",
+      "view_str": "06827511405a173f9c6620647bea96e3",
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]com.emoapps.bmrcalculatorweightlosstracker:id/l4"
+    },
+    {
+      "package": "com.emoapps.bmrcalculatorweightlosstracker",
+      "visible": true,
+      "checkable": false,
+      "child_count": 3,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        21,
+        24,
+        27
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          36,
+          1056
+        ],
+        [
+          1404,
+          1312
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.LinearLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 19,
+      "temp_id": 20,
+      "size": "1368*256",
+      "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+      "view_str": "34e1e055ae0b9afd4dcc0a285d7bd698",
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None"
+    },
+    {
+      "package": "com.emoapps.bmrcalculatorweightlosstracker",
+      "visible": true,
+      "checkable": false,
+      "child_count": 2,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        22,
+        23
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          236,
+          1091
+        ],
+        [
+          538,
+          1277
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.LinearLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 20,
+      "temp_id": 21,
+      "size": "302*186",
+      "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+      "view_str": "cd43c0ac9a6511f3b1888ef459db190a",
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None"
+    },
+    {
+      "package": "com.emoapps.bmrcalculatorweightlosstracker",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          254,
+          1091
+        ],
+        [
+          520,
+          1186
+        ]
+      ],
+      "resource_id": "com.emoapps.bmrcalculatorweightlosstracker:id/tr5",
+      "checked": false,
+      "text": "36.58Kg",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 21,
+      "temp_id": 22,
+      "size": "266*95",
+      "signature": "[class]android.widget.TextView[resource_id]com.emoapps.bmrcalculatorweightlosstracker:id/tr5[text]36.58Kg[enabled,,]",
+      "view_str": "adbc1a496e7af24a3fb4f577d1274d54",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.emoapps.bmrcalculatorweightlosstracker:id/tr5"
+    },
+    {
+      "package": "com.emoapps.bmrcalculatorweightlosstracker",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          261,
+          1186
+        ],
+        [
+          513,
+          1242
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "Ideal Weight",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 21,
+      "temp_id": 23,
+      "size": "252*56",
+      "signature": "[class]android.widget.TextView[resource_id]None[text]Ideal Weight[enabled,,]",
+      "view_str": "e67868849be2746df1a1871e0d2bd2db",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]None"
+    },
+    {
+      "package": "com.emoapps.bmrcalculatorweightlosstracker",
+      "visible": true,
+      "checkable": false,
+      "child_count": 2,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        25,
+        26
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          598,
+          1091
+        ],
+        [
+          850,
+          1277
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.LinearLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 20,
+      "temp_id": 24,
+      "size": "252*186",
+      "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+      "view_str": "74b952861f489b81b6d9dbcc5ac3b192",
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None"
+    },
+    {
+      "package": "com.emoapps.bmrcalculatorweightlosstracker",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          616,
+          1091
+        ],
+        [
+          832,
+          1186
+        ]
+      ],
+      "resource_id": "com.emoapps.bmrcalculatorweightlosstracker:id/tr3",
+      "checked": false,
+      "text": "764.43",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 24,
+      "temp_id": 25,
+      "size": "216*95",
+      "signature": "[class]android.widget.TextView[resource_id]com.emoapps.bmrcalculatorweightlosstracker:id/tr3[text]764.43[enabled,,]",
+      "view_str": "d7ac8f8434a1a4909339e1e824922273",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.emoapps.bmrcalculatorweightlosstracker:id/tr3"
+    },
+    {
+      "package": "com.emoapps.bmrcalculatorweightlosstracker",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          677,
+          1186
+        ],
+        [
+          771,
+          1242
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "BMR",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 24,
+      "temp_id": 26,
+      "size": "94*56",
+      "signature": "[class]android.widget.TextView[resource_id]None[text]BMR[enabled,,]",
+      "view_str": "0ebbf19152a1b1bf961fa35421598266",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]None"
+    },
+    {
+      "package": "com.emoapps.bmrcalculatorweightlosstracker",
+      "visible": true,
+      "checkable": false,
+      "child_count": 2,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        28,
+        29
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          910,
+          1091
+        ],
+        [
+          1204,
+          1277
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.LinearLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 20,
+      "temp_id": 27,
+      "size": "294*186",
+      "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+      "view_str": "8a40235a63c111c426967d066da4ba91",
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None"
+    },
+    {
+      "package": "com.emoapps.bmrcalculatorweightlosstracker",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          928,
+          1091
+        ],
+        [
+          1186,
+          1186
+        ]
+      ],
+      "resource_id": "com.emoapps.bmrcalculatorweightlosstracker:id/tr",
+      "checked": false,
+      "text": "6.714 %",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 27,
+      "temp_id": 28,
+      "size": "258*95",
+      "signature": "[class]android.widget.TextView[resource_id]com.emoapps.bmrcalculatorweightlosstracker:id/tr[text]6.714 %[enabled,,]",
+      "view_str": "742fa9dc11afaad05eac3c4ad0e9fa16",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.emoapps.bmrcalculatorweightlosstracker:id/tr"
+    },
+    {
+      "package": "com.emoapps.bmrcalculatorweightlosstracker",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          970,
+          1186
+        ],
+        [
+          1144,
+          1242
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "Body Fat",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 27,
+      "temp_id": 29,
+      "size": "174*56",
+      "signature": "[class]android.widget.TextView[resource_id]None[text]Body Fat[enabled,,]",
+      "view_str": "0dc842548dc7097b14a5924145380cdf",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]None"
+    },
+    {
+      "package": "com.emoapps.bmrcalculatorweightlosstracker",
+      "visible": true,
+      "checkable": false,
+      "child_count": 6,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        31,
+        32,
+        36,
+        40,
+        44,
+        48
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          18,
+          1330
+        ],
+        [
+          1422,
+          1878
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.LinearLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 19,
+      "temp_id": 30,
+      "size": "1404*548",
+      "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+      "view_str": "e192dee637abc5316fe1f1cc490a3381",
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None"
+    },
+    {
+      "package": "com.emoapps.bmrcalculatorweightlosstracker",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          36,
+          1330
+        ],
+        [
+          397,
+          1418
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "Daily Calorie Needs",
+      "class": "android.widget.Button",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 30,
+      "temp_id": 31,
+      "size": "361*88",
+      "signature": "[class]android.widget.Button[resource_id]None[text]Daily Calorie Needs[enabled,,]",
+      "view_str": "e1875a120c95e1eed43c8e0b5f75eb80",
+      "content_free_signature": "[class]android.widget.Button[resource_id]None"
+    },
+    {
+      "package": "com.emoapps.bmrcalculatorweightlosstracker",
+      "visible": true,
+      "checkable": false,
+      "child_count": 3,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        33,
+        34,
+        35
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          53,
+          1418
+        ],
+        [
+          1387,
+          1510
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.LinearLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 30,
+      "temp_id": 32,
+      "size": "1334*92",
+      "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+      "view_str": "0bf164879ef2df161c8cff58624cbd15",
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None"
+    },
+    {
+      "package": "com.emoapps.bmrcalculatorweightlosstracker",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          53,
+          1429
+        ],
+        [
+          123,
+          1499
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.Button",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 32,
+      "temp_id": 33,
+      "size": "70*70",
+      "signature": "[class]android.widget.Button[resource_id]None[text]None[enabled,,]",
+      "view_str": "47fe563029602317a9dd85bfd187a3fd",
+      "content_free_signature": "[class]android.widget.Button[resource_id]None"
+    },
+    {
+      "package": "com.emoapps.bmrcalculatorweightlosstracker",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          158,
+          1429
+        ],
+        [
+          544,
+          1499
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "Sedentary days",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 32,
+      "temp_id": 34,
+      "size": "386*70",
+      "signature": "[class]android.widget.TextView[resource_id]None[text]Sedentary days[enabled,,]",
+      "view_str": "adbca08f9daed966a2297f048864e90e",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]None"
+    },
+    {
+      "package": "com.emoapps.bmrcalculatorweightlosstracker",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          544,
+          1429
+        ],
+        [
+          1387,
+          1499
+        ]
+      ],
+      "resource_id": "com.emoapps.bmrcalculatorweightlosstracker:id/lv1",
+      "checked": false,
+      "text": "917.31Cal/day",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 32,
+      "temp_id": 35,
+      "size": "843*70",
+      "signature": "[class]android.widget.TextView[resource_id]com.emoapps.bmrcalculatorweightlosstracker:id/lv1[text]917.31Cal/day[enabled,,]",
+      "view_str": "db10e5d7d5007acf747be104ac716e99",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.emoapps.bmrcalculatorweightlosstracker:id/lv1"
+    },
+    {
+      "package": "com.emoapps.bmrcalculatorweightlosstracker",
+      "visible": true,
+      "checkable": false,
+      "child_count": 3,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        37,
+        38,
+        39
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          53,
+          1510
+        ],
+        [
+          1387,
+          1602
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.LinearLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 30,
+      "temp_id": 36,
+      "size": "1334*92",
+      "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+      "view_str": "887e88c7cf72c5924dcea2e22e74715b",
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None"
+    },
+    {
+      "package": "com.emoapps.bmrcalculatorweightlosstracker",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          53,
+          1521
+        ],
+        [
+          123,
+          1591
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.Button",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 36,
+      "temp_id": 37,
+      "size": "70*70",
+      "signature": "[class]android.widget.Button[resource_id]None[text]None[enabled,,]",
+      "view_str": "47fe563029602317a9dd85bfd187a3fd",
+      "content_free_signature": "[class]android.widget.Button[resource_id]None"
+    },
+    {
+      "package": "com.emoapps.bmrcalculatorweightlosstracker",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          158,
+          1521
+        ],
+        [
+          631,
+          1591
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "Lightly active days",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 36,
+      "temp_id": 38,
+      "size": "473*70",
+      "signature": "[class]android.widget.TextView[resource_id]None[text]Lightly active days[enabled,,]",
+      "view_str": "c02596cfadf31c92858cdf55ab2f4f87",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]None"
+    },
+    {
+      "package": "com.emoapps.bmrcalculatorweightlosstracker",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          631,
+          1521
+        ],
+        [
+          1387,
+          1591
+        ]
+      ],
+      "resource_id": "com.emoapps.bmrcalculatorweightlosstracker:id/lv2",
+      "checked": false,
+      "text": "1051.09Cal/day",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 36,
+      "temp_id": 39,
+      "size": "756*70",
+      "signature": "[class]android.widget.TextView[resource_id]com.emoapps.bmrcalculatorweightlosstracker:id/lv2[text]1051.09Cal/day[enabled,,]",
+      "view_str": "f8d7728446a6b716f502cf3cf1880a60",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.emoapps.bmrcalculatorweightlosstracker:id/lv2"
+    },
+    {
+      "package": "com.emoapps.bmrcalculatorweightlosstracker",
+      "visible": true,
+      "checkable": false,
+      "child_count": 3,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        41,
+        42,
+        43
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          53,
+          1602
+        ],
+        [
+          1387,
+          1694
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.LinearLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 30,
+      "temp_id": 40,
+      "size": "1334*92",
+      "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+      "view_str": "3dc21ece9957e25ddf768fe5f21ea94d",
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None"
+    },
+    {
+      "package": "com.emoapps.bmrcalculatorweightlosstracker",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          53,
+          1613
+        ],
+        [
+          123,
+          1683
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.Button",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 40,
+      "temp_id": 41,
+      "size": "70*70",
+      "signature": "[class]android.widget.Button[resource_id]None[text]None[enabled,,]",
+      "view_str": "47fe563029602317a9dd85bfd187a3fd",
+      "content_free_signature": "[class]android.widget.Button[resource_id]None"
+    },
+    {
+      "package": "com.emoapps.bmrcalculatorweightlosstracker",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          158,
+          1613
+        ],
+        [
+          789,
+          1683
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "Moderatetely active days",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 40,
+      "temp_id": 42,
+      "size": "631*70",
+      "signature": "[class]android.widget.TextView[resource_id]None[text]Moderatetely active days[enabled,,]",
+      "view_str": "4362a94866dc15c572c94a780421bdb4",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]None"
+    },
+    {
+      "package": "com.emoapps.bmrcalculatorweightlosstracker",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          789,
+          1613
+        ],
+        [
+          1387,
+          1683
+        ]
+      ],
+      "resource_id": "com.emoapps.bmrcalculatorweightlosstracker:id/lv3",
+      "checked": false,
+      "text": "1184.86Cal/day",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 40,
+      "temp_id": 43,
+      "size": "598*70",
+      "signature": "[class]android.widget.TextView[resource_id]com.emoapps.bmrcalculatorweightlosstracker:id/lv3[text]1184.86Cal/day[enabled,,]",
+      "view_str": "b3398287fad29fb0b1874be9d05ab835",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.emoapps.bmrcalculatorweightlosstracker:id/lv3"
+    },
+    {
+      "package": "com.emoapps.bmrcalculatorweightlosstracker",
+      "visible": true,
+      "checkable": false,
+      "child_count": 3,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        45,
+        46,
+        47
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          53,
+          1694
+        ],
+        [
+          1387,
+          1786
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.LinearLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 30,
+      "temp_id": 44,
+      "size": "1334*92",
+      "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+      "view_str": "40587b57cfeda70d093e97ddb2b44a92",
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None"
+    },
+    {
+      "package": "com.emoapps.bmrcalculatorweightlosstracker",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          53,
+          1705
+        ],
+        [
+          123,
+          1775
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.Button",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 44,
+      "temp_id": 45,
+      "size": "70*70",
+      "signature": "[class]android.widget.Button[resource_id]None[text]None[enabled,,]",
+      "view_str": "47fe563029602317a9dd85bfd187a3fd",
+      "content_free_signature": "[class]android.widget.Button[resource_id]None"
+    },
+    {
+      "package": "com.emoapps.bmrcalculatorweightlosstracker",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          158,
+          1705
+        ],
+        [
+          569,
+          1775
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "Very active days",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 44,
+      "temp_id": 46,
+      "size": "411*70",
+      "signature": "[class]android.widget.TextView[resource_id]None[text]Very active days[enabled,,]",
+      "view_str": "e203db9a1eea10422b061bc96907d330",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]None"
+    },
+    {
+      "package": "com.emoapps.bmrcalculatorweightlosstracker",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          569,
+          1705
+        ],
+        [
+          1387,
+          1775
+        ]
+      ],
+      "resource_id": "com.emoapps.bmrcalculatorweightlosstracker:id/lv4",
+      "checked": false,
+      "text": "1318.64Cal/day",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 44,
+      "temp_id": 47,
+      "size": "818*70",
+      "signature": "[class]android.widget.TextView[resource_id]com.emoapps.bmrcalculatorweightlosstracker:id/lv4[text]1318.64Cal/day[enabled,,]",
+      "view_str": "f2137446aeb153e34560ee8d9eb34c97",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.emoapps.bmrcalculatorweightlosstracker:id/lv4"
+    },
+    {
+      "package": "com.emoapps.bmrcalculatorweightlosstracker",
+      "visible": true,
+      "checkable": false,
+      "child_count": 3,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        49,
+        50,
+        51
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          53,
+          1786
+        ],
+        [
+          1387,
+          1878
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.LinearLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 30,
+      "temp_id": 48,
+      "size": "1334*92",
+      "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+      "view_str": "65a0d1856d9b1b5f0f00c1f56d67c26d",
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None"
+    },
+    {
+      "package": "com.emoapps.bmrcalculatorweightlosstracker",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          53,
+          1797
+        ],
+        [
+          123,
+          1867
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.Button",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 48,
+      "temp_id": 49,
+      "size": "70*70",
+      "signature": "[class]android.widget.Button[resource_id]None[text]None[enabled,,]",
+      "view_str": "47fe563029602317a9dd85bfd187a3fd",
+      "content_free_signature": "[class]android.widget.Button[resource_id]None"
+    },
+    {
+      "package": "com.emoapps.bmrcalculatorweightlosstracker",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          158,
+          1797
+        ],
+        [
+          590,
+          1867
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "Extra active days",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 48,
+      "temp_id": 50,
+      "size": "432*70",
+      "signature": "[class]android.widget.TextView[resource_id]None[text]Extra active days[enabled,,]",
+      "view_str": "bb7a0b9ed07ee7f56c6d2c8cfa159348",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]None"
+    },
+    {
+      "package": "com.emoapps.bmrcalculatorweightlosstracker",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          590,
+          1797
+        ],
+        [
+          1387,
+          1867
+        ]
+      ],
+      "resource_id": "com.emoapps.bmrcalculatorweightlosstracker:id/lv5",
+      "checked": false,
+      "text": "1452.41Cal/day",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 48,
+      "temp_id": 51,
+      "size": "797*70",
+      "signature": "[class]android.widget.TextView[resource_id]com.emoapps.bmrcalculatorweightlosstracker:id/lv5[text]1452.41Cal/day[enabled,,]",
+      "view_str": "541e69fb387564373a18dcdcb229b395",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.emoapps.bmrcalculatorweightlosstracker:id/lv5"
+    },
+    {
+      "package": "com.emoapps.bmrcalculatorweightlosstracker",
+      "visible": true,
+      "checkable": false,
+      "child_count": 2,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        53,
+        54
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          1966
+        ],
+        [
+          1440,
+          2134
+        ]
+      ],
+      "resource_id": "com.emoapps.bmrcalculatorweightlosstracker:id/l5",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.LinearLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 16,
+      "temp_id": 52,
+      "size": "1440*168",
+      "signature": "[class]android.widget.LinearLayout[resource_id]com.emoapps.bmrcalculatorweightlosstracker:id/l5[text]None[enabled,,]",
+      "view_str": "33244ab0e7c19839d263b67dacc7dada",
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]com.emoapps.bmrcalculatorweightlosstracker:id/l5"
+    },
+    {
+      "package": "com.emoapps.bmrcalculatorweightlosstracker",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          220,
+          1966
+        ],
+        [
+          841,
+          2134
+        ]
+      ],
+      "resource_id": "com.emoapps.bmrcalculatorweightlosstracker:id/btn22",
+      "checked": false,
+      "text": "Calculate Again",
+      "class": "android.widget.Button",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 52,
+      "temp_id": 53,
+      "size": "621*168",
+      "signature": "[class]android.widget.Button[resource_id]com.emoapps.bmrcalculatorweightlosstracker:id/btn22[text]Calculate Again[enabled,,]",
+      "view_str": "9d4f6862510369052714868c9a063dab",
+      "content_free_signature": "[class]android.widget.Button[resource_id]com.emoapps.bmrcalculatorweightlosstracker:id/btn22"
+    },
+    {
+      "package": "com.emoapps.bmrcalculatorweightlosstracker",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          911,
+          1966
+        ],
+        [
+          1219,
+          2134
+        ]
+      ],
+      "resource_id": "com.emoapps.bmrcalculatorweightlosstracker:id/bt",
+      "checked": false,
+      "text": "Scale",
+      "class": "android.widget.Button",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 52,
+      "temp_id": 54,
+      "size": "308*168",
+      "signature": "[class]android.widget.Button[resource_id]com.emoapps.bmrcalculatorweightlosstracker:id/bt[text]Scale[enabled,,]",
+      "view_str": "27d71eba993deae625e01259b7df0028",
+      "content_free_signature": "[class]android.widget.Button[resource_id]com.emoapps.bmrcalculatorweightlosstracker:id/bt"
+    },
+    {
+      "package": "com.emoapps.bmrcalculatorweightlosstracker",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          0
+        ],
+        [
+          1440,
+          84
+        ]
+      ],
+      "resource_id": "android:id/statusBarBackground",
+      "checked": false,
+      "text": null,
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 0,
+      "temp_id": 55,
+      "size": "1440*84",
+      "signature": "[class]android.view.View[resource_id]android:id/statusBarBackground[text]None[enabled,,]",
+      "view_str": "2e4bc2a2f15ab7ab6064932806951df1",
+      "content_free_signature": "[class]android.view.View[resource_id]android:id/statusBarBackground"
+    },
+    {
+      "package": "com.emoapps.bmrcalculatorweightlosstracker",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          2952
+        ],
+        [
+          1440,
+          3120
+        ]
+      ],
+      "resource_id": "android:id/navigationBarBackground",
+      "checked": false,
+      "text": null,
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 0,
+      "temp_id": 56,
+      "size": "1440*168",
+      "signature": "[class]android.view.View[resource_id]android:id/navigationBarBackground[text]None[enabled,,]",
+      "view_str": "3b8e465abf29116b3bda6593e918acca",
+      "content_free_signature": "[class]android.view.View[resource_id]android:id/navigationBarBackground"
+    }
+  ]
+}

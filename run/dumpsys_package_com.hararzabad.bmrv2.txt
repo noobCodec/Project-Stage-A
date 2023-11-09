@@ -1,0 +1,62 @@
+Activity Resolver Table:
+  Non-Data Actions:
+      android.intent.action.MAIN:
+        6d8345 com.hararzabad.bmrv2/.BmrCalculator filter c516619
+          Action: "android.intent.action.MAIN"
+          Category: "android.intent.category.LAUNCHER"
+
+Key Set Manager:
+  [com.hararzabad.bmrv2]
+      Signing KeySets: 295
+
+Packages:
+  Package [com.hararzabad.bmrv2] (8fe1a9a):
+    userId=10244
+    pkg=Package{d686fcb com.hararzabad.bmrv2}
+    codePath=/data/app/com.hararzabad.bmrv2-zhLpcwYF51Y8CnPQW5_mmQ==
+    resourcePath=/data/app/com.hararzabad.bmrv2-zhLpcwYF51Y8CnPQW5_mmQ==
+    legacyNativeLibraryDir=/data/app/com.hararzabad.bmrv2-zhLpcwYF51Y8CnPQW5_mmQ==/lib
+    primaryCpuAbi=null
+    secondaryCpuAbi=null
+    versionCode=1 minSdk=14 targetSdk=27
+    versionName=1.0
+    splits=[base]
+    apkSigningVersion=2
+    applicationInfo=ApplicationInfo{989a3a8 com.hararzabad.bmrv2}
+    flags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP ]
+    privateFlags=[ PRIVATE_FLAG_ACTIVITIES_RESIZE_MODE_RESIZEABLE_VIA_SDK_VERSION ]
+    dataDir=/data/user/0/com.hararzabad.bmrv2
+    supportsScreens=[small, medium, large, xlarge, resizeable, anyDensity]
+    usesLibraries:
+      org.apache.http.legacy
+    usesLibraryFiles:
+      /system/framework/org.apache.http.legacy.boot.jar
+    timeStamp=2023-08-04 11:23:47
+    firstInstallTime=2023-08-04 11:23:47
+    lastUpdateTime=2023-08-04 11:23:47
+    signatures=PackageSignatures{b680ec1 version:2, signatures:[fbbf263f], past signatures:[]}
+    installPermissionsFixed=false
+    pkgFlags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP ]
+    User 0: ceDataInode=-4294835906 installed=true hidden=false suspended=false stopped=false notLaunched=false enabled=0 instant=false virtual=false
+      runtime permissions:
+
+Package Changes:
+  Sequence number=32
+  User 0:
+    seq=3, package=com.google.android.gms
+    seq=5, package=com.package.bmrh
+    seq=18, package=com.cc.bmi.bmr.bodyfatpercentage.calculator
+    seq=29, package=com.cit.bmi.bmr.bodyfatpercentage.calculator
+    seq=30, package=org.fredriks.bmrcalc
+    seq=31, package=com.lisafontsbooth.bmicalculator.bmrandweightlosscalculator
+
+
+Dexopt state:
+  [com.hararzabad.bmrv2]
+    path: /data/app/com.hararzabad.bmrv2-zhLpcwYF51Y8CnPQW5_mmQ==/base.apk
+      x86: [status=speed-profile] [reason=install]
+
+
+Compiler stats:
+  [com.hararzabad.bmrv2]
+    (No recorded stats)

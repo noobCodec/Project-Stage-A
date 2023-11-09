@@ -1,0 +1,50 @@
+{
+  "tag": "2023-08-10_201148",
+  "event": {
+    "event_type": "set_text",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.d.bmrhsb",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": true,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          660,
+          1080
+        ],
+        [
+          781,
+          1293
+        ]
+      ],
+      "resource_id": "com.d.bmrhsb:id/heighttxt",
+      "checked": false,
+      "text": "...",
+      "class": "android.widget.EditText",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": true,
+      "parent": 5,
+      "temp_id": 10,
+      "size": "121*213",
+      "signature": "[class]android.widget.EditText[resource_id]com.d.bmrhsb:id/heighttxt[text]...[enabled,,]",
+      "view_str": "1789a66eb4fd5cde0bc7b595ac49d0bd",
+      "content_free_signature": "[class]android.widget.EditText[resource_id]com.d.bmrhsb:id/heighttxt"
+    },
+    "text": 193
+  },
+  "start_state": "2059808b22aa18236046f15addb125b4",
+  "stop_state": "cc56e964bc1e93996027efa0ab112337",
+  "event_str": "SetTextEvent(state=2059808b22aa18236046f15addb125b4, view=1789a66eb4fd5cde0bc7b595ac49d0bd(MainActivity/EditText-...), text=193)"
+}

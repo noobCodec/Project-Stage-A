@@ -1,0 +1,50 @@
+{
+  "tag": "2023-08-13_144733",
+  "event": {
+    "event_type": "set_text",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.cit.bmi.bmr.bodyfatpercentage.calculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": true,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          141,
+          1573
+        ],
+        [
+          814,
+          1748
+        ]
+      ],
+      "resource_id": "com.cit.bmi.bmr.bodyfatpercentage.calculator:id/et_height",
+      "checked": false,
+      "text": "Enter Height",
+      "class": "android.widget.EditText",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": true,
+      "parent": 17,
+      "temp_id": 18,
+      "size": "673*175",
+      "signature": "[class]android.widget.EditText[resource_id]com.cit.bmi.bmr.bodyfatpercentage.calculator:id/et_height[text]Enter Height[enabled,,]",
+      "view_str": "2a9ba847d1d614c9c6fabcb3e6215da9",
+      "content_free_signature": "[class]android.widget.EditText[resource_id]com.cit.bmi.bmr.bodyfatpercentage.calculator:id/et_height"
+    },
+    "text": 193
+  },
+  "start_state": "5e3ea629976db2370fe488ac8b20e3ab",
+  "stop_state": "79e8b11f0ddf7d3b01d2e67222be34a0",
+  "event_str": "SetTextEvent(state=5e3ea629976db2370fe488ac8b20e3ab, view=2a9ba847d1d614c9c6fabcb3e6215da9(bmr_calculator/EditText-Enter Heig), text=193)"
+}

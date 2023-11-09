@@ -1,0 +1,49 @@
+{
+  "tag": "2023-08-10_202540",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "org.fredriks.bmrcalc",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": true,
+      "bounds": [
+        [
+          566,
+          1929
+        ],
+        [
+          874,
+          2097
+        ]
+      ],
+      "resource_id": "org.fredriks.bmrcalc:id/calcButton",
+      "checked": false,
+      "text": "CALCULATE",
+      "class": "android.widget.Button",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 9,
+      "temp_id": 20,
+      "size": "308*168",
+      "signature": "[class]android.widget.Button[resource_id]org.fredriks.bmrcalc:id/calcButton[text]CALCULATE[enabled,,]",
+      "view_str": "6f9b6406855114231853e9145355077d",
+      "content_free_signature": "[class]android.widget.Button[resource_id]org.fredriks.bmrcalc:id/calcButton"
+    }
+  },
+  "start_state": "8213777620e392a43c75e88556a3432d",
+  "stop_state": "8102614090118f6d38d7b55df55aa03c",
+  "event_str": "TouchEvent(state=8213777620e392a43c75e88556a3432d, view=6f9b6406855114231853e9145355077d(MainActivity/Button-CALCULATE))"
+}

@@ -1,0 +1,11 @@
+{
+  "tag": "2023-08-16_081041",
+  "event": {
+    "event_type": "intent",
+    "log_lines": null,
+    "intent": "am start com.hararzabad.bmrv2/com.hararzabad.bmrv2.BmrCalculator"
+  },
+  "start_state": "1d3807ec23619bbe9dbf43b938f915f1",
+  "stop_state": "d39cfba8e89279c9cbd53115219f911b",
+  "event_str": "IntentEvent(intent='am start com.hararzabad.bmrv2/com.hararzabad.bmrv2.BmrCalculator')"
+}

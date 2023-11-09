@@ -1,0 +1,50 @@
+{
+  "tag": "2023-08-10_200428",
+  "event": {
+    "event_type": "set_text",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.boss.bmrcalculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": true,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          353,
+          973
+        ],
+        [
+          1083,
+          1131
+        ]
+      ],
+      "resource_id": "com.boss.bmrcalculator:id/height",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.EditText",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": true,
+      "parent": 9,
+      "temp_id": 16,
+      "size": "730*158",
+      "signature": "[class]android.widget.EditText[resource_id]com.boss.bmrcalculator:id/height[text]None[enabled,,]",
+      "view_str": "ed2faa3fb810c54e16781c6117e53049",
+      "content_free_signature": "[class]android.widget.EditText[resource_id]com.boss.bmrcalculator:id/height"
+    },
+    "text": 122
+  },
+  "start_state": "31466ed7c032adc25167c60efeece8a2",
+  "stop_state": "72cbc9463c6b556a48c9a00ed85b5a94",
+  "event_str": "SetTextEvent(state=31466ed7c032adc25167c60efeece8a2, view=ed2faa3fb810c54e16781c6117e53049(MainActivity/EditText-), text=122)"
+}

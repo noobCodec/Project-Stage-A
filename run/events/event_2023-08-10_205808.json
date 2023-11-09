@@ -1,0 +1,50 @@
+{
+  "tag": "2023-08-10_205808",
+  "event": {
+    "event_type": "set_text",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.rickardapps.bmrcal",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": true,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          490,
+          560
+        ],
+        [
+          840,
+          700
+        ]
+      ],
+      "resource_id": "com.rickardapps.bmrcal:id/edtLength",
+      "checked": false,
+      "text": "122",
+      "class": "android.widget.EditText",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": true,
+      "parent": 10,
+      "temp_id": 15,
+      "size": "350*140",
+      "signature": "[class]android.widget.EditText[resource_id]com.rickardapps.bmrcal:id/edtLength[text]122[enabled,,]",
+      "view_str": "a00eb97eb46e506275cb52d16e3cbaeb",
+      "content_free_signature": "[class]android.widget.EditText[resource_id]com.rickardapps.bmrcal:id/edtLength"
+    },
+    "text": 122
+  },
+  "start_state": "70c8a03beaf628f3f4c516771044d053",
+  "stop_state": "c1c6aefbaa60f38188b62122b489df73",
+  "event_str": "SetTextEvent(state=70c8a03beaf628f3f4c516771044d053, view=a00eb97eb46e506275cb52d16e3cbaeb(MainActivity/EditText-122), text=122)"
+}

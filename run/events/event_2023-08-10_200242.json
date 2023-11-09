@@ -1,0 +1,50 @@
+{
+  "tag": "2023-08-10_200242",
+  "event": {
+    "event_type": "set_text",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.blogspot.sakibhs.bmrandbmicalculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": true,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          254,
+          499
+        ],
+        [
+          546,
+          657
+        ]
+      ],
+      "resource_id": "com.blogspot.sakibhs.bmrandbmicalculator:id/editText1",
+      "checked": false,
+      "text": "Years",
+      "class": "android.widget.EditText",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": true,
+      "parent": 19,
+      "temp_id": 21,
+      "size": "292*158",
+      "signature": "[class]android.widget.EditText[resource_id]com.blogspot.sakibhs.bmrandbmicalculator:id/editText1[text]Years[enabled,,]",
+      "view_str": "7821a1b05bd6b5cddb52db3bc5b9fffd",
+      "content_free_signature": "[class]android.widget.EditText[resource_id]com.blogspot.sakibhs.bmrandbmicalculator:id/editText1"
+    },
+    "text": 7
+  },
+  "start_state": "b8f6b2297b266358d53e49ff5ad9ffe0",
+  "stop_state": "18c3f45631d2c73291b2e8e58c273569",
+  "event_str": "SetTextEvent(state=b8f6b2297b266358d53e49ff5ad9ffe0, view=7821a1b05bd6b5cddb52db3bc5b9fffd(MainActivity/EditText-Years), text=7)"
+}

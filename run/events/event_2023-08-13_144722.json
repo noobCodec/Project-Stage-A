@@ -1,0 +1,52 @@
+{
+  "tag": "2023-08-13_144722",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.cit.bmi.bmr.bodyfatpercentage.calculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 2,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        21,
+        22
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          74,
+          1019
+        ],
+        [
+          477,
+          1439
+        ]
+      ],
+      "resource_id": "com.cit.bmi.bmr.bodyfatpercentage.calculator:id/rl_home",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.RelativeLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 19,
+      "temp_id": 20,
+      "size": "403*420",
+      "signature": "[class]android.widget.RelativeLayout[resource_id]com.cit.bmi.bmr.bodyfatpercentage.calculator:id/rl_home[text]None[enabled,,]",
+      "view_str": "043dbbd294fa0b3eb3090608004a33ca",
+      "content_free_signature": "[class]android.widget.RelativeLayout[resource_id]com.cit.bmi.bmr.bodyfatpercentage.calculator:id/rl_home"
+    }
+  },
+  "start_state": "e3fa56d5ca7eab775cc8b5e0f3b5f82d",
+  "stop_state": "959ea5ae06bfc235a7203dce6e4cf243",
+  "event_str": "TouchEvent(state=e3fa56d5ca7eab775cc8b5e0f3b5f82d, view=043dbbd294fa0b3eb3090608004a33ca(MainActivity/RelativeLayout-))"
+}

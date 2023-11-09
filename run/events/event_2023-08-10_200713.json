@@ -1,0 +1,50 @@
+{
+  "tag": "2023-08-10_200713",
+  "event": {
+    "event_type": "set_text",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.calculator.activity.metabolic.tdee.bmr.bmrtdeecalculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": true,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          720,
+          1460
+        ],
+        [
+          1140,
+          1775
+        ]
+      ],
+      "resource_id": "com.calculator.activity.metabolic.tdee.bmr.bmrtdeecalculator:id/feet",
+      "checked": false,
+      "text": "feet",
+      "class": "android.widget.EditText",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": true,
+      "parent": 10,
+      "temp_id": 14,
+      "size": "420*315",
+      "signature": "[class]android.widget.EditText[resource_id]com.calculator.activity.metabolic.tdee.bmr.bmrtdeecalculator:id/feet[text]feet[enabled,,]",
+      "view_str": "05da856b63e589d66e954b7b7e8fc36f",
+      "content_free_signature": "[class]android.widget.EditText[resource_id]com.calculator.activity.metabolic.tdee.bmr.bmrtdeecalculator:id/feet"
+    },
+    "text": 3
+  },
+  "start_state": "57dfba2060c9ecc532d599bf0f42d740",
+  "stop_state": "9880c34c3fe94c2b54d27411abb7280e",
+  "event_str": "SetTextEvent(state=57dfba2060c9ecc532d599bf0f42d740, view=05da856b63e589d66e954b7b7e8fc36f(HeightActivity/EditText-feet), text=3)"
+}

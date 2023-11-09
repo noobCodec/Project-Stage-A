@@ -1,0 +1,49 @@
+{
+  "tag": "2023-08-10_201140",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.d.bmrhsb",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          543,
+          1357
+        ],
+        [
+          893,
+          1707
+        ]
+      ],
+      "resource_id": "com.d.bmrhsb:id/button01",
+      "checked": false,
+      "text": "ENTER",
+      "class": "android.widget.Button",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 5,
+      "temp_id": 7,
+      "size": "350*350",
+      "signature": "[class]android.widget.Button[resource_id]com.d.bmrhsb:id/button01[text]ENTER[enabled,,]",
+      "view_str": "0d065cfd1756eb9da97dcf3e97f290ad",
+      "content_free_signature": "[class]android.widget.Button[resource_id]com.d.bmrhsb:id/button01"
+    }
+  },
+  "start_state": "4da3ebae838782b8d59537eb7c9d69cd",
+  "stop_state": "7eac064085954c23cf05d0f557dff2f8",
+  "event_str": "TouchEvent(state=4da3ebae838782b8d59537eb7c9d69cd, view=0d065cfd1756eb9da97dcf3e97f290ad(Start/Button-ENTER))"
+}

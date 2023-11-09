@@ -1,0 +1,11 @@
+{
+  "tag": "2023-08-16_081016",
+  "event": {
+    "event_type": "kill_app",
+    "log_lines": null,
+    "stop_intent": "am force-stop com.lisafontsbooth.bmicalculator.bmrandweightlosscalculator"
+  },
+  "start_state": "7fe407d67bfe1f70a1d7576fff5f7ab6",
+  "stop_state": "1d3807ec23619bbe9dbf43b938f915f1",
+  "event_str": "KillAppEvent()"
+}

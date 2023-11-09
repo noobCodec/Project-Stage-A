@@ -1,0 +1,11 @@
+{
+  "tag": "2023-08-10_195953",
+  "event": {
+    "event_type": "intent",
+    "log_lines": null,
+    "intent": "am start abamuve.calculations.bmrbmibfp/.BmrCalculator"
+  },
+  "start_state": "f3b2d0d892e9cc57b2026ca5b4bcfcbe",
+  "stop_state": "623ded53586926272c8ae241a820fd46",
+  "event_str": "IntentEvent(intent='am start abamuve.calculations.bmrbmibfp/.BmrCalculator')"
+}

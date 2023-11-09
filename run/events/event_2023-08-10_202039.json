@@ -1,0 +1,49 @@
+{
+  "tag": "2023-08-10_202039",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.playsimple.bmrcalculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": "Male",
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          370,
+          1153
+        ],
+        [
+          510,
+          1293
+        ]
+      ],
+      "resource_id": "com.playsimple.bmrcalculator:id/imageButtonActivityLevel1",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.ImageButton",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 45,
+      "temp_id": 46,
+      "size": "140*140",
+      "signature": "[class]android.widget.ImageButton[resource_id]com.playsimple.bmrcalculator:id/imageButtonActivityLevel1[text]None[enabled,,]",
+      "view_str": "88a269ad52d06bb3220d7ce2810cb2af",
+      "content_free_signature": "[class]android.widget.ImageButton[resource_id]com.playsimple.bmrcalculator:id/imageButtonActivityLevel1"
+    }
+  },
+  "start_state": "20a7efff3c93ac06152af17b974dd45b",
+  "stop_state": "4be2081a78566b99e777aa50f68edc0c",
+  "event_str": "TouchEvent(state=20a7efff3c93ac06152af17b974dd45b, view=88a269ad52d06bb3220d7ce2810cb2af(MainActivity/ImageButton-))"
+}

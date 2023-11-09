@@ -1,0 +1,50 @@
+{
+  "tag": "2023-08-10_200001",
+  "event": {
+    "event_type": "set_text",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "abamuve.calculations.bmrbmibfp",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": true,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          322,
+          814
+        ],
+        [
+          586,
+          963
+        ]
+      ],
+      "resource_id": "abamuve.calculations.bmrbmibfp:id/edtInHeight",
+      "checked": false,
+      "text": "cm",
+      "class": "android.widget.EditText",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": true,
+      "parent": 24,
+      "temp_id": 26,
+      "size": "264*149",
+      "signature": "[class]android.widget.EditText[resource_id]abamuve.calculations.bmrbmibfp:id/edtInHeight[text]cm[enabled,,]",
+      "view_str": "b101ca2a368257da8c1620a3e273dbdd",
+      "content_free_signature": "[class]android.widget.EditText[resource_id]abamuve.calculations.bmrbmibfp:id/edtInHeight"
+    },
+    "text": 193
+  },
+  "start_state": "db7d3eaf88f7f968d542592abdc18ba2",
+  "stop_state": "11fdb461ac13f90578a7e8b4f7b3a821",
+  "event_str": "SetTextEvent(state=db7d3eaf88f7f968d542592abdc18ba2, view=b101ca2a368257da8c1620a3e273dbdd(BmrCalculator/EditText-cm), text=193)"
+}

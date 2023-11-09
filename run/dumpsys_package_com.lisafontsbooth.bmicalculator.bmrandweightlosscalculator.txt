@@ -1,0 +1,70 @@
+Activity Resolver Table:
+  Non-Data Actions:
+      android.intent.action.MAIN:
+        29a4947 com.lisafontsbooth.bmicalculator.bmrandweightlosscalculator/.LFB_MainActivity filter 677a254
+          Action: "android.intent.action.MAIN"
+          Category: "android.intent.category.LAUNCHER"
+
+Key Set Manager:
+  [com.lisafontsbooth.bmicalculator.bmrandweightlosscalculator]
+      Signing KeySets: 307
+
+Packages:
+  Package [com.lisafontsbooth.bmicalculator.bmrandweightlosscalculator] (1ef0574):
+    userId=10256
+    pkg=Package{226da9d com.lisafontsbooth.bmicalculator.bmrandweightlosscalculator}
+    codePath=/data/app/com.lisafontsbooth.bmicalculator.bmrandweightlosscalculator-9AD_dh1T6tf2BdCKmpQYrQ==
+    resourcePath=/data/app/com.lisafontsbooth.bmicalculator.bmrandweightlosscalculator-9AD_dh1T6tf2BdCKmpQYrQ==
+    legacyNativeLibraryDir=/data/app/com.lisafontsbooth.bmicalculator.bmrandweightlosscalculator-9AD_dh1T6tf2BdCKmpQYrQ==/lib
+    primaryCpuAbi=null
+    secondaryCpuAbi=null
+    versionCode=1 minSdk=11 targetSdk=21
+    versionName=1.0
+    splits=[base]
+    apkSigningVersion=2
+    applicationInfo=ApplicationInfo{3951b12 com.lisafontsbooth.bmicalculator.bmrandweightlosscalculator}
+    flags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP LARGE_HEAP ]
+    dataDir=/data/user/0/com.lisafontsbooth.bmicalculator.bmrandweightlosscalculator
+    supportsScreens=[small, medium, large, xlarge, resizeable, anyDensity]
+    usesLibraries:
+      org.apache.http.legacy
+    usesLibraryFiles:
+      /system/framework/org.apache.http.legacy.boot.jar
+    timeStamp=2023-08-04 11:23:57
+    firstInstallTime=2023-08-04 11:23:57
+    lastUpdateTime=2023-08-04 11:23:57
+    signatures=PackageSignatures{6a832e3 version:2, signatures:[58f3858c], past signatures:[]}
+    installPermissionsFixed=true
+    pkgFlags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP LARGE_HEAP ]
+    requested permissions:
+      android.permission.WRITE_EXTERNAL_STORAGE
+      android.permission.READ_EXTERNAL_STORAGE
+      android.permission.READ_PHONE_STATE
+      android.permission.RECEIVE_BOOT_COMPLETED
+    install permissions:
+      android.permission.RECEIVE_BOOT_COMPLETED: granted=true
+      android.permission.READ_EXTERNAL_STORAGE: granted=true
+      android.permission.READ_PHONE_STATE: granted=true
+      android.permission.WRITE_EXTERNAL_STORAGE: granted=true
+    User 0: ceDataInode=-4294835833 installed=true hidden=false suspended=false stopped=false notLaunched=false enabled=0 instant=false virtual=false
+      runtime permissions:
+
+Package Changes:
+  Sequence number=31
+  User 0:
+    seq=3, package=com.google.android.gms
+    seq=5, package=com.package.bmrh
+    seq=18, package=com.cc.bmi.bmr.bodyfatpercentage.calculator
+    seq=29, package=com.cit.bmi.bmr.bodyfatpercentage.calculator
+    seq=30, package=org.fredriks.bmrcalc
+
+
+Dexopt state:
+  [com.lisafontsbooth.bmicalculator.bmrandweightlosscalculator]
+    path: /data/app/com.lisafontsbooth.bmicalculator.bmrandweightlosscalculator-9AD_dh1T6tf2BdCKmpQYrQ==/base.apk
+      x86: [status=speed-profile] [reason=install]
+
+
+Compiler stats:
+  [com.lisafontsbooth.bmicalculator.bmrandweightlosscalculator]
+    (No recorded stats)

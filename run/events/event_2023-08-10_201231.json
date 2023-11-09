@@ -1,0 +1,50 @@
+{
+  "tag": "2023-08-10_201231",
+  "event": {
+    "event_type": "set_text",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.emoapps.bmrcalculatorweightlosstracker",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": true,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": true,
+      "bounds": [
+        [
+          176,
+          1385
+        ],
+        [
+          526,
+          1547
+        ]
+      ],
+      "resource_id": "com.emoapps.bmrcalculatorweightlosstracker:id/et2",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.EditText",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": true,
+      "parent": 20,
+      "temp_id": 21,
+      "size": "350*162",
+      "signature": "[class]android.widget.EditText[resource_id]com.emoapps.bmrcalculatorweightlosstracker:id/et2[text]None[enabled,,]",
+      "view_str": "b013d96adbffa4987c28e6cad27ec8a1",
+      "content_free_signature": "[class]android.widget.EditText[resource_id]com.emoapps.bmrcalculatorweightlosstracker:id/et2"
+    },
+    "text": 2
+  },
+  "start_state": "7a4f5c7aa5e34a5e307e3b2fc66a9601",
+  "stop_state": "7d7fc3478ef947fd96a023ffbe77a8c6",
+  "event_str": "SetTextEvent(state=7a4f5c7aa5e34a5e307e3b2fc66a9601, view=b013d96adbffa4987c28e6cad27ec8a1(MainActivity/EditText-), text=2)"
+}

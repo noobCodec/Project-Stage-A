@@ -1,0 +1,11 @@
+{
+  "tag": "2023-08-10_201905",
+  "event": {
+    "event_type": "intent",
+    "log_lines": null,
+    "intent": "am start com.microhealthllc.bmr_calculator/com.microhealthllc.bmr_calculator.newactivities.SignInActivity"
+  },
+  "start_state": "f3b2d0d892e9cc57b2026ca5b4bcfcbe",
+  "stop_state": "4ce1845f641ffe5ec1a433eca211f0b8",
+  "event_str": "IntentEvent(intent='am start com.microhealthllc.bmr_calculator/com.microhealthllc.bmr_calculator.newactivities.SignInActivity')"
+}

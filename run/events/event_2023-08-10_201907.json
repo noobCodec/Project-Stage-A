@@ -1,0 +1,49 @@
+{
+  "tag": "2023-08-10_201907",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.microhealthllc.bmr_calculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": "Avatar 01",
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          56,
+          1901
+        ],
+        [
+          252,
+          2097
+        ]
+      ],
+      "resource_id": "com.microhealthllc.bmr_calculator:id/avatar",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.ImageView",
+      "scrollable": false,
+      "selected": true,
+      "long_clickable": false,
+      "parent": 44,
+      "temp_id": 45,
+      "size": "196*196",
+      "signature": "[class]android.widget.ImageView[resource_id]com.microhealthllc.bmr_calculator:id/avatar[text]None[enabled,,selected]",
+      "view_str": "b1dab01216c4e6cf34cf01dea84dd824",
+      "content_free_signature": "[class]android.widget.ImageView[resource_id]com.microhealthllc.bmr_calculator:id/avatar"
+    }
+  },
+  "start_state": "4ce1845f641ffe5ec1a433eca211f0b8",
+  "stop_state": "4775d52fd69c5bfd8986e47f5474f51a",
+  "event_str": "TouchEvent(state=4ce1845f641ffe5ec1a433eca211f0b8, view=b1dab01216c4e6cf34cf01dea84dd824(SignInActivity/ImageView-))"
+}

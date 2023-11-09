@@ -1,0 +1,50 @@
+{
+  "tag": "2023-08-10_201307",
+  "event": {
+    "event_type": "set_text",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.erikori.bmrchecker",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": true,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          702,
+          322
+        ],
+        [
+          877,
+          425
+        ]
+      ],
+      "resource_id": "com.erikori.bmrchecker:id/age_edittext",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.EditText",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": true,
+      "parent": 8,
+      "temp_id": 10,
+      "size": "175*103",
+      "signature": "[class]android.widget.EditText[resource_id]com.erikori.bmrchecker:id/age_edittext[text]None[enabled,,]",
+      "view_str": "a8837ab7f25ca0bae78ebe1763a01d9e",
+      "content_free_signature": "[class]android.widget.EditText[resource_id]com.erikori.bmrchecker:id/age_edittext"
+    },
+    "text": 7
+  },
+  "start_state": "a6084821179f4c72094bb4b145ee17d2",
+  "stop_state": "463ab9cfa41fc3db87b72aa3fd19d59e",
+  "event_str": "SetTextEvent(state=a6084821179f4c72094bb4b145ee17d2, view=a8837ab7f25ca0bae78ebe1763a01d9e(MainActivity/EditText-), text=7)"
+}

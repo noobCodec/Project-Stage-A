@@ -1,0 +1,5 @@
+{
+    "weight" : "kg",
+    "height" : "cm",
+    "BMR": "txt_BMR_value"
+}

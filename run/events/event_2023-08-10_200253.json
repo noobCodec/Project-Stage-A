@@ -1,0 +1,49 @@
+{
+  "tag": "2023-08-10_200253",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.blogspot.sakibhs.bmrandbmicalculator",
+      "visible": true,
+      "checkable": true,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          368,
+          298
+        ],
+        [
+          658,
+          446
+        ]
+      ],
+      "resource_id": "com.blogspot.sakibhs.bmrandbmicalculator:id/maleButton",
+      "checked": false,
+      "text": "Male",
+      "class": "android.widget.RadioButton",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 15,
+      "temp_id": 17,
+      "size": "290*148",
+      "signature": "[class]android.widget.RadioButton[resource_id]com.blogspot.sakibhs.bmrandbmicalculator:id/maleButton[text]Male[enabled,,]",
+      "view_str": "b25a8dac2c31952447897a3de7707e7c",
+      "content_free_signature": "[class]android.widget.RadioButton[resource_id]com.blogspot.sakibhs.bmrandbmicalculator:id/maleButton"
+    }
+  },
+  "start_state": "6ee626db8a1bd2d8d7049e856b4da324",
+  "stop_state": "6138c7e8a9b09293a8aafb0ddffbb02e",
+  "event_str": "TouchEvent(state=6ee626db8a1bd2d8d7049e856b4da324, view=b25a8dac2c31952447897a3de7707e7c(MainActivity/RadioButton-Male))"
+}

@@ -1,0 +1,50 @@
+{
+  "tag": "2023-08-10_212055",
+  "event": {
+    "event_type": "set_text",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.hararzabad.bmrv2",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": true,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": true,
+      "bounds": [
+        [
+          682,
+          873
+        ],
+        [
+          798,
+          1031
+        ]
+      ],
+      "resource_id": "com.hararzabad.bmrv2:id/etcm",
+      "checked": false,
+      "text": "cm",
+      "class": "android.widget.EditText",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": true,
+      "parent": 20,
+      "temp_id": 25,
+      "size": "116*158",
+      "signature": "[class]android.widget.EditText[resource_id]com.hararzabad.bmrv2:id/etcm[text]cm[enabled,,]",
+      "view_str": "3365aef34e007f582c92bd7dd34229f6",
+      "content_free_signature": "[class]android.widget.EditText[resource_id]com.hararzabad.bmrv2:id/etcm"
+    },
+    "text": 32
+  },
+  "start_state": "ce05afc068ca809d826bfd6f679d4406",
+  "stop_state": "85fc291e2c89ec499f3a944875593279",
+  "event_str": "SetTextEvent(state=ce05afc068ca809d826bfd6f679d4406, view=3365aef34e007f582c92bd7dd34229f6(BmrCalculator/EditText-cm), text=32)"
+}

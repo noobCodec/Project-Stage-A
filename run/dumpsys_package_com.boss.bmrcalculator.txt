@@ -1,0 +1,57 @@
+Activity Resolver Table:
+  Non-Data Actions:
+      android.intent.action.MAIN:
+        8ab7a19 com.boss.bmrcalculator/.MainActivity filter f676e28
+          Action: "android.intent.action.MAIN"
+          Category: "android.intent.category.LAUNCHER"
+
+Key Set Manager:
+  [com.boss.bmrcalculator]
+      Signing KeySets: 107
+
+Packages:
+  Package [com.boss.bmrcalculator] (88ccade):
+    userId=10170
+    pkg=Package{f7634bf com.boss.bmrcalculator}
+    codePath=/data/app/com.boss.bmrcalculator-r5SSqOz2yT5cXZRV6cD-ww==
+    resourcePath=/data/app/com.boss.bmrcalculator-r5SSqOz2yT5cXZRV6cD-ww==
+    legacyNativeLibraryDir=/data/app/com.boss.bmrcalculator-r5SSqOz2yT5cXZRV6cD-ww==/lib
+    primaryCpuAbi=null
+    secondaryCpuAbi=null
+    versionCode=1 minSdk=16 targetSdk=30
+    versionName=1.0
+    splits=[base]
+    apkSigningVersion=3
+    applicationInfo=ApplicationInfo{420d78c com.boss.bmrcalculator}
+    flags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP ]
+    privateFlags=[ PRIVATE_FLAG_ACTIVITIES_RESIZE_MODE_RESIZEABLE_VIA_SDK_VERSION ]
+    dataDir=/data/user/0/com.boss.bmrcalculator
+    supportsScreens=[small, medium, large, xlarge, resizeable, anyDensity]
+    timeStamp=2023-08-10 20:04:16
+    firstInstallTime=2023-08-10 20:04:16
+    lastUpdateTime=2023-08-10 20:04:16
+    signatures=PackageSignatures{5f09ed5 version:3, signatures:[c86e9fe1], past signatures:[]}
+    installPermissionsFixed=true
+    pkgFlags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP ]
+    User 0: ceDataInode=-4294843943 installed=true hidden=false suspended=false stopped=true notLaunched=true enabled=0 instant=false virtual=false
+      runtime permissions:
+
+Package Changes:
+  Sequence number=19
+  User 0:
+    seq=5, package=com.google.android.gms
+    seq=14, package=abamuve.calculations.bmrbmibfp
+    seq=16, package=com.blogspot.sakibhs.bmrandbmicalculator
+    seq=17, package=com.bmi.bmr.calculator.tracker.health.tdee
+    seq=18, package=com.boss.bmrcalculator
+
+
+Dexopt state:
+  [com.boss.bmrcalculator]
+    path: /data/app/com.boss.bmrcalculator-r5SSqOz2yT5cXZRV6cD-ww==/base.apk
+      x86: [status=speed-profile] [reason=install]
+
+
+Compiler stats:
+  [com.boss.bmrcalculator]
+     base.apk - 419

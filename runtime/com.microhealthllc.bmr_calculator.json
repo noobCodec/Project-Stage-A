@@ -1,0 +1,5 @@
+{
+    "weight" : "lbs",
+    "height" : "ft-in",
+    "BMR": "display_bmr"
+}

@@ -1,0 +1,92 @@
+{
+  "views": {
+    "set_height_ft": {
+      "resource_id": ".*heightInp",
+      "class": ".*EditText"
+    },
+    "set_height_in": {
+      "resource_id": ".*heightInpInches",
+      "class": ".*EditText"
+    },
+    "set_weight": {
+      "resource_id": ".*weightInp",
+      "class": ".*EditText"
+    },
+    "set_age": {
+      "resource_id": ".*ageInp",
+      "class": ".*EditText"
+    },
+    "set_gender": {
+      "resource_id": ".*maleBtn",
+      "class": ".*ImageView"
+    },
+    "calculate": {
+      "resource_id": ".*calculateBtn",
+      "class": ".*Button"
+    },
+    "skip_old": {
+      "resource_id": ".*"
+    }
+  },
+  "states": {
+    "main_activity_state": {
+      "views": [
+        "set_age"
+      ]
+    },
+    "skip_old_state": {
+      "views": [
+        "skip_old"
+      ]
+    }
+  },
+  "operations": {
+    "skip_old_op": [
+      {
+        "event_type": "intent",
+        "intent": "am start com.bmi.bmr.calculator.tracker.health.tdee/.ActivityBMR"
+      }
+    ],
+    "bmi_operation": [
+      {
+        "event_type": "set_text",
+        "target_view": "set_age",
+        "text": 18
+      },
+      {
+        "event_type": "set_text",
+        "target_view": "set_weight",
+        "text": 78
+      },
+      {
+        "event_type": "set_text",
+        "target_view": "set_height_ft",
+        "text": 12
+      },
+      {
+        "event_type": "set_text",
+        "target_view": "set_height_in",
+        "text": 6
+      },
+      {
+        "event_type": "touch",
+        "target_view": "set_gender"
+      },
+      {
+        "event_type": "touch",
+        "target_view": "calculate"
+      },
+      {
+        "event_type": "exit"
+      }
+    ]
+  },
+  "main": {
+    "main_activity_state": [
+      "bmi_operation"
+    ],
+    "skip_old_state": [
+      "skip_old_op"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "tag": "2023-08-10_200421",
+  "event": {
+    "event_type": "intent",
+    "log_lines": null,
+    "intent": "am start com.boss.bmrcalculator/com.boss.bmrcalculator.MainActivity"
+  },
+  "start_state": "f3b2d0d892e9cc57b2026ca5b4bcfcbe",
+  "stop_state": "41e6a799847a147700ac4fbd3f46786e",
+  "event_str": "IntentEvent(intent='am start com.boss.bmrcalculator/com.boss.bmrcalculator.MainActivity')"
+}

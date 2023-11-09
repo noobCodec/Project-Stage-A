@@ -1,0 +1,49 @@
+{
+  "tag": "2023-08-10_202433",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.roliosolutions.bmr.bmi.calculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          70,
+          1309
+        ],
+        [
+          1370,
+          1484
+        ]
+      ],
+      "resource_id": "com.roliosolutions.bmr.bmi.calculator:id/b_add_update",
+      "checked": false,
+      "text": "Calculate",
+      "class": "android.widget.Button",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 7,
+      "temp_id": 31,
+      "size": "1300*175",
+      "signature": "[class]android.widget.Button[resource_id]com.roliosolutions.bmr.bmi.calculator:id/b_add_update[text]Calculate[enabled,,]",
+      "view_str": "fe2f53e2bc80f3e927760285cf6d4562",
+      "content_free_signature": "[class]android.widget.Button[resource_id]com.roliosolutions.bmr.bmi.calculator:id/b_add_update"
+    }
+  },
+  "start_state": "cd541240f79398dfba94ab3491b2be7e",
+  "stop_state": "ca43472dd110cb7b1f9975c507c4b54b",
+  "event_str": "TouchEvent(state=cd541240f79398dfba94ab3491b2be7e, view=fe2f53e2bc80f3e927760285cf6d4562(MainActivity/Button-Calculate))"
+}

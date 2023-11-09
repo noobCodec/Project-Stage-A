@@ -1,0 +1,49 @@
+{
+  "tag": "2023-08-10_201153",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.d.bmrhsb",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          368,
+          2147
+        ],
+        [
+          1068,
+          2322
+        ]
+      ],
+      "resource_id": "com.d.bmrhsb:id/btncal",
+      "checked": false,
+      "text": "CALCULATION",
+      "class": "android.widget.Button",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 5,
+      "temp_id": 17,
+      "size": "700*175",
+      "signature": "[class]android.widget.Button[resource_id]com.d.bmrhsb:id/btncal[text]CALCULATION[enabled,,]",
+      "view_str": "605550669022c1e58034c8510c08a4a5",
+      "content_free_signature": "[class]android.widget.Button[resource_id]com.d.bmrhsb:id/btncal"
+    }
+  },
+  "start_state": "cc56e964bc1e93996027efa0ab112337",
+  "stop_state": "6287e086b2e9b8263d6054d5164c8ce3",
+  "event_str": "TouchEvent(state=cc56e964bc1e93996027efa0ab112337, view=605550669022c1e58034c8510c08a4a5(MainActivity/Button-CALCULATIO))"
+}

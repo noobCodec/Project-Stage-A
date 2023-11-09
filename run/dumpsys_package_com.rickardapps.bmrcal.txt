@@ -1,0 +1,151 @@
+Activity Resolver Table:
+  Non-Data Actions:
+      android.intent.action.MAIN:
+        60a86ad com.rickardapps.bmrcal/.MainActivity filter 44c220c
+          Action: "android.intent.action.MAIN"
+          Category: "android.intent.category.LAUNCHER"
+
+Receiver Resolver Table:
+  Non-Data Actions:
+      android.intent.action.BATTERY_OKAY:
+        e523de2 com.rickardapps.bmrcal/androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryNotLowProxy filter 5570612
+          Action: "android.intent.action.BATTERY_OKAY"
+          Action: "android.intent.action.BATTERY_LOW"
+      android.intent.action.ACTION_POWER_DISCONNECTED:
+        6ab6573 com.rickardapps.bmrcal/androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryChargingProxy filter 961919d
+          Action: "android.intent.action.ACTION_POWER_CONNECTED"
+          Action: "android.intent.action.ACTION_POWER_DISCONNECTED"
+      android.intent.action.DEVICE_STORAGE_LOW:
+        9d56c30 com.rickardapps.bmrcal/androidx.work.impl.background.systemalarm.ConstraintProxy$StorageNotLowProxy filter dd341e3
+          Action: "android.intent.action.DEVICE_STORAGE_LOW"
+          Action: "android.intent.action.DEVICE_STORAGE_OK"
+      android.net.conn.CONNECTIVITY_CHANGE:
+        3f5e0a9 com.rickardapps.bmrcal/androidx.work.impl.background.systemalarm.ConstraintProxy$NetworkStateProxy filter 99867e0
+          Action: "android.net.conn.CONNECTIVITY_CHANGE"
+      android.intent.action.DEVICE_STORAGE_OK:
+        9d56c30 com.rickardapps.bmrcal/androidx.work.impl.background.systemalarm.ConstraintProxy$StorageNotLowProxy filter dd341e3
+          Action: "android.intent.action.DEVICE_STORAGE_LOW"
+          Action: "android.intent.action.DEVICE_STORAGE_OK"
+      android.intent.action.BATTERY_LOW:
+        e523de2 com.rickardapps.bmrcal/androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryNotLowProxy filter 5570612
+          Action: "android.intent.action.BATTERY_OKAY"
+          Action: "android.intent.action.BATTERY_LOW"
+      android.intent.action.TIMEZONE_CHANGED:
+        5da562e com.rickardapps.bmrcal/androidx.work.impl.background.systemalarm.RescheduleReceiver filter ccaaa99
+          Action: "android.intent.action.BOOT_COMPLETED"
+          Action: "android.intent.action.TIME_SET"
+          Action: "android.intent.action.TIMEZONE_CHANGED"
+      android.intent.action.TIME_SET:
+        5da562e com.rickardapps.bmrcal/androidx.work.impl.background.systemalarm.RescheduleReceiver filter ccaaa99
+          Action: "android.intent.action.BOOT_COMPLETED"
+          Action: "android.intent.action.TIME_SET"
+          Action: "android.intent.action.TIMEZONE_CHANGED"
+      android.intent.action.BOOT_COMPLETED:
+        5da562e com.rickardapps.bmrcal/androidx.work.impl.background.systemalarm.RescheduleReceiver filter ccaaa99
+          Action: "android.intent.action.BOOT_COMPLETED"
+          Action: "android.intent.action.TIME_SET"
+          Action: "android.intent.action.TIMEZONE_CHANGED"
+      android.intent.action.ACTION_POWER_CONNECTED:
+        6ab6573 com.rickardapps.bmrcal/androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryChargingProxy filter 961919d
+          Action: "android.intent.action.ACTION_POWER_CONNECTED"
+          Action: "android.intent.action.ACTION_POWER_DISCONNECTED"
+      androidx.work.diagnostics.REQUEST_DIAGNOSTICS:
+        9cce5cf com.rickardapps.bmrcal/androidx.work.impl.diagnostics.DiagnosticsReceiver filter 46e193f
+          Action: "androidx.work.diagnostics.REQUEST_DIAGNOSTICS"
+      androidx.work.impl.background.systemalarm.UpdateProxies:
+        75d1b5c com.rickardapps.bmrcal/androidx.work.impl.background.systemalarm.ConstraintProxyUpdateReceiver filter d9b715e
+          Action: "androidx.work.impl.background.systemalarm.UpdateProxies"
+
+Registered ContentProviders:
+  com.rickardapps.bmrcal/androidx.startup.InitializationProvider:
+    Provider{622de65 com.rickardapps.bmrcal/androidx.startup.InitializationProvider}
+  com.rickardapps.bmrcal/com.google.android.gms.ads.MobileAdsInitProvider:
+    Provider{3b9a73a com.rickardapps.bmrcal/com.google.android.gms.ads.MobileAdsInitProvider}
+
+ContentProvider Authorities:
+  [com.rickardapps.bmrcal.mobileadsinitprovider]:
+    Provider{3b9a73a com.rickardapps.bmrcal/com.google.android.gms.ads.MobileAdsInitProvider}
+      applicationInfo=ApplicationInfo{7dc0feb com.rickardapps.bmrcal}
+  [com.rickardapps.bmrcal.androidx-startup]:
+    Provider{622de65 com.rickardapps.bmrcal/androidx.startup.InitializationProvider}
+      applicationInfo=ApplicationInfo{7dc0feb com.rickardapps.bmrcal}
+
+Key Set Manager:
+  [com.rickardapps.bmrcal]
+      Signing KeySets: 139
+
+Packages:
+  Package [com.rickardapps.bmrcal] (4e9148):
+    userId=10202
+    pkg=Package{767fbe1 com.rickardapps.bmrcal}
+    codePath=/data/app/com.rickardapps.bmrcal-KpkwgyWyjXKncBfTGWTMiQ==
+    resourcePath=/data/app/com.rickardapps.bmrcal-KpkwgyWyjXKncBfTGWTMiQ==
+    legacyNativeLibraryDir=/data/app/com.rickardapps.bmrcal-KpkwgyWyjXKncBfTGWTMiQ==/lib
+    primaryCpuAbi=null
+    secondaryCpuAbi=null
+    versionCode=3 minSdk=21 targetSdk=31
+    versionName=3
+    splits=[base]
+    apkSigningVersion=3
+    applicationInfo=ApplicationInfo{7dc0feb com.rickardapps.bmrcal}
+    flags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP ]
+    privateFlags=[ PRIVATE_FLAG_ACTIVITIES_RESIZE_MODE_RESIZEABLE_VIA_SDK_VERSION PARTIALLY_DIRECT_BOOT_AWARE ]
+    dataDir=/data/user/0/com.rickardapps.bmrcal
+    supportsScreens=[small, medium, large, xlarge, resizeable, anyDensity]
+    timeStamp=2023-08-10 21:16:18
+    firstInstallTime=2023-08-10 21:16:18
+    lastUpdateTime=2023-08-10 21:16:18
+    signatures=PackageSignatures{70afd06 version:3, signatures:[c79622c0], past signatures:[]}
+    installPermissionsFixed=true
+    pkgFlags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP ]
+    requested permissions:
+      android.permission.INTERNET
+      android.permission.ACCESS_NETWORK_STATE
+      com.google.android.gms.permission.AD_ID
+      android.permission.WAKE_LOCK
+      android.permission.RECEIVE_BOOT_COMPLETED
+      android.permission.FOREGROUND_SERVICE
+    install permissions:
+      android.permission.FOREGROUND_SERVICE: granted=true
+      android.permission.RECEIVE_BOOT_COMPLETED: granted=true
+      android.permission.INTERNET: granted=true
+      android.permission.ACCESS_NETWORK_STATE: granted=true
+      android.permission.WAKE_LOCK: granted=true
+    User 0: ceDataInode=-4294844100 installed=true hidden=false suspended=false stopped=true notLaunched=true enabled=0 instant=false virtual=false
+      gids=[3003]
+      runtime permissions:
+
+Package Changes:
+  Sequence number=104
+  User 0:
+    seq=5, package=com.google.android.gms
+    seq=14, package=abamuve.calculations.bmrbmibfp
+    seq=16, package=com.blogspot.sakibhs.bmrandbmicalculator
+    seq=17, package=com.bmi.bmr.calculator.tracker.health.tdee
+    seq=19, package=com.boss.bmrcalculator
+    seq=21, package=com.ca.bmr.calclator
+    seq=23, package=com.calculator.activity.metabolic.tdee.bmr.bmrtdeecalculator
+    seq=24, package=com.cc.bmi.bmr.bodyfatpercentage.calculator
+    seq=29, package=com.cit.bmi.bmr.bodyfatpercentage.calculator
+    seq=32, package=com.d.bmrhsb
+    seq=34, package=com.emoapps.bmrcalculatorweightlosstracker
+    seq=36, package=com.erikori.bmrchecker
+    seq=38, package=com.fireandairmedia.bmrfree
+    seq=42, package=com.hararzabad.bmrv2
+    seq=44, package=com.lisafontsbooth.bmicalculator.bmrandweightlosscalculator
+    seq=46, package=com.microhealthllc.bmr_calculator
+    seq=48, package=com.playsimple.bmrcalculator
+    seq=55, package=com.roliosolutions.bmr.bmi.calculator
+    seq=57, package=org.fredriks.bmrcalc
+    seq=103, package=com.rickardapps.bmrcal
+
+
+Dexopt state:
+  [com.rickardapps.bmrcal]
+    path: /data/app/com.rickardapps.bmrcal-KpkwgyWyjXKncBfTGWTMiQ==/base.apk
+      x86: [status=speed-profile] [reason=install]
+
+
+Compiler stats:
+  [com.rickardapps.bmrcal]
+     base.apk - 1049

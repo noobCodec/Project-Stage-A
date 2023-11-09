@@ -1,0 +1,50 @@
+{
+  "tag": "2023-08-10_201142",
+  "event": {
+    "event_type": "set_text",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.d.bmrhsb",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": true,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          657,
+          715
+        ],
+        [
+          778,
+          928
+        ]
+      ],
+      "resource_id": "com.d.bmrhsb:id/agetxt",
+      "checked": false,
+      "text": "...",
+      "class": "android.widget.EditText",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": true,
+      "parent": 5,
+      "temp_id": 8,
+      "size": "121*213",
+      "signature": "[class]android.widget.EditText[resource_id]com.d.bmrhsb:id/agetxt[text]...[enabled,,]",
+      "view_str": "6d5e016db48865d0dd13b55d22f9b832",
+      "content_free_signature": "[class]android.widget.EditText[resource_id]com.d.bmrhsb:id/agetxt"
+    },
+    "text": 7
+  },
+  "start_state": "7eac064085954c23cf05d0f557dff2f8",
+  "stop_state": "03effeeeaa10f2e6f350e84c3227b472",
+  "event_str": "SetTextEvent(state=7eac064085954c23cf05d0f557dff2f8, view=6d5e016db48865d0dd13b55d22f9b832(MainActivity/EditText-...), text=7)"
+}

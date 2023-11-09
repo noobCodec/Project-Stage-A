@@ -1,0 +1,647 @@
+--------- beginning of main
+11-09 15:22:55.654  1893  2213 I GnssLocationProvider: WakeLock acquired by sendMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@3f3d18c)
+11-09 15:22:55.654  1893  1909 I GnssLocationProvider: WakeLock released by handleMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@3f3d18c)
+11-09 15:22:56.495  1893  1907 E memtrack: Couldn't load memtrack module
+11-09 15:22:56.495  1893  1907 W android.os.Debug: failed to get memory consumption info: -1
+11-09 15:22:56.654  1893  2213 I GnssLocationProvider: WakeLock acquired by sendMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@6f110d5)
+11-09 15:22:56.655  1893  1909 I GnssLocationProvider: WakeLock released by handleMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@6f110d5)
+11-09 15:22:57.654  1893  2213 I GnssLocationProvider: WakeLock acquired by sendMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@18340ea)
+11-09 15:22:57.654  1893  1909 I GnssLocationProvider: WakeLock released by handleMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@18340ea)
+--------- beginning of system
+11-09 15:22:58.104  1893  1907 I ActivityManager: Force stopping com.bmi.bmr.calculator.tracker.health.tdee appid=10107 user=0: clear data
+11-09 15:22:58.105  1893  1910 I ActivityManager: Force stopping com.bmi.bmr.calculator.tracker.health.tdee appid=10107 user=-1: clearApplicationUserData
+11-09 15:22:58.105  1893  1907 I ConditionProviders: Disallowing condition provider com.bmi.bmr.calculator.tracker.health.tdee
+11-09 15:22:58.106  1753  1753 I keystore: clear_uid 10107
+11-09 15:22:58.114  2334  2334 I GeofencerStateMachine: removeGeofences: removeRequest=RemoveGeofencingRequest[REMOVE_ALL packageName=com.bmi.bmr.calculator.tracker.health.tdee]
+11-09 15:22:58.116  3333  3333 I CarrierServices: [2] RcsAutoStartReceiver.b: carrierServicesJibeServiceEnabled changed from true to true
+11-09 15:22:58.116  3333  3333 I CarrierServices: [2] RcsAutoStartReceiver.b: enableRcs changed from true to true
+11-09 15:22:58.125  2467 18442 I Icing   : doRemovePackageData com.bmi.bmr.calculator.tracker.health.tdee
+11-09 15:22:58.126  2334 15664 I Fitness : FitCleanupIntentOperation received Intent android.intent.action.PACKAGE_DATA_CLEARED [CONTEXT service_id=17 ]
+11-09 15:22:58.128  8484 15660 I ProvidersCache: Provider returned no roots. Possibly naughty: com.google.android.apps.docs.storage
+11-09 15:22:58.504 11238 11238 I GoogleInputMethod: onReceive() : Action = android.intent.action.INPUT_METHOD_CHANGED
+11-09 15:22:58.507 11238 11238 I GoogleInputMethod: onFinishInput() : Dummy InputConnection bound
+11-09 15:22:58.508 11238 11238 I IcingNotification: IcingNotificationReceiver unregistered
+11-09 15:22:58.509 11238 11238 I EmojiSearchExtension: onDestroy()
+11-09 15:22:58.509 11238 11238 I EmojiSearchExtension: onDeactivate()
+11-09 15:22:58.511 11238 11238 I ModuleManager: com.google.android.apps.inputmethod.libs.search.IDefaultStickerExtension changed to unavailable
+11-09 15:22:58.511 11238 11238 I ModuleManager: com.google.android.apps.inputmethod.libs.search.INativeCardExtension changed to unavailable
+11-09 15:22:58.511 11238 11238 I ModuleManager: com.google.android.apps.inputmethod.libs.search.IEmoticonExtension changed to unavailable
+11-09 15:22:58.511 11238 11238 I ModuleManager: com.google.android.apps.inputmethod.libs.search.sense.IConversationToQueryExtension changed to unavailable
+11-09 15:22:58.511 11238 11238 I Conv2QueryExtension: onDestroy()
+11-09 15:22:58.511 11238 11238 I C2QClientSingleton: deregistering client 'Conv2QueryExtension'
+11-09 15:22:58.511 11238 11238 I C2QClientSingleton: number of registered clients: 0
+11-09 15:22:58.511 11238 11238 I ModuleManager: com.google.android.apps.inputmethod.libs.search.IEmojiDataExtension changed to unavailable
+11-09 15:22:58.511 11238 11238 I EmojiDataExtension: onDestroy()
+11-09 15:22:58.511 11238 11238 I ModuleManager: com.google.android.apps.inputmethod.libs.search.IGifKeyboardExtension changed to unavailable
+11-09 15:22:58.511 11238 11238 I ModuleManager: com.google.android.apps.inputmethod.libs.search.IEmojiSearchExtension changed to unavailable
+11-09 15:22:58.511 11238 11238 I ModuleManager: com.google.android.apps.inputmethod.libs.search.IFeatureCardNoticeExtension changed to unavailable
+11-09 15:22:58.512 11238 11238 I ModuleManager: com.google.android.apps.inputmethod.libs.textediting.ITextEditingExtension changed to unavailable
+11-09 15:22:58.512 11238 11238 I ModuleManager: com.google.android.apps.inputmethod.libs.search.IEmojiOrGifExtension changed to unavailable
+11-09 15:22:58.512 11238 11238 I ModuleManager: com.google.android.apps.inputmethod.libs.search.IGifEntryPointCandidateExtension changed to unavailable
+11-09 15:22:58.512 11238 11238 I GifEntryExtension: onDestroy()
+11-09 15:22:58.512 11238 11238 I GifEntryExtension: onDeactivate()
+11-09 15:22:58.512 11238 11238 I ModuleManager: com.google.android.apps.inputmethod.libs.translate.ITranslateUIExtension changed to unavailable
+11-09 15:22:58.512 11238 11238 I ModuleManager: com.google.android.apps.inputmethod.libs.search.IBitmojiExtension changed to unavailable
+11-09 15:22:58.512 11238 11238 I ModuleManager: com.google.android.apps.inputmethod.libs.search.IStickerExtension changed to unavailable
+11-09 15:22:58.512 11238 11352 W Delight5Decoder: removePredictionEngine() : Unknown engine cvt@c40bace
+11-09 15:22:58.513 11238 11238 I ModuleManager: com.google.android.apps.inputmethod.libs.pill.IPillExtension changed to unavailable
+11-09 15:22:58.513 11238 11238 I ModuleManager: com.google.android.apps.inputmethod.libs.handwriting.ime.IHandwritingImeExtension changed to unavailable
+11-09 15:22:58.513 11238 11238 I ModuleManager: com.google.android.apps.inputmethod.libs.hmm.superpacks.IHmmModule changed to unavailable
+11-09 15:22:58.513 11238 11238 I ModuleManager: com.google.android.apps.inputmethod.libs.search.IUniversalMediaExtension changed to unavailable
+11-09 15:22:58.513 11238 11238 I ModuleManager: com.google.android.apps.inputmethod.libs.search.IDoodleExtension changed to unavailable
+11-09 15:22:58.547  1893  1910 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.DROPBOX_ENTRY_ADDED flg=0x10 (has extras) } to com.google.android.gms/.stats.service.DropBoxEntryAddedReceiver
+11-09 15:22:58.547  1893  1910 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.DROPBOX_ENTRY_ADDED flg=0x10 (has extras) } to com.google.android.gms/.chimera.GmsIntentOperationService$PersistentTrustedReceiver
+11-09 15:22:58.647 15726 15726 W app_process: Could not reserve sentinel fault page
+11-09 15:22:58.654  1893  2213 I GnssLocationProvider: WakeLock acquired by sendMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@514b9d9)
+11-09 15:22:58.654  1893  1909 I GnssLocationProvider: WakeLock released by handleMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@514b9d9)
+11-09 15:22:58.684 15726 15726 W app_process: Unexpected CPU variant for X86 using defaults: x86
+11-09 15:22:58.686 15726 15726 I app_process: The ClassLoaderContext is a special shared library.
+11-09 15:22:58.710 15726 15726 I Input   : injectKeyEvent: KeyEvent { action=ACTION_DOWN, keyCode=KEYCODE_MENU, scanCode=0, metaState=0, flags=0x0, repeatCount=0, eventTime=35032277, downTime=35032277, deviceId=-1, source=0x101 }
+11-09 15:22:58.713 15726 15726 I Input   : injectKeyEvent: KeyEvent { action=ACTION_UP, keyCode=KEYCODE_MENU, scanCode=0, metaState=0, flags=0x0, repeatCount=0, eventTime=35032277, downTime=35032277, deviceId=-1, source=0x101 }
+11-09 15:22:58.831 15737 15737 W app_process: Unexpected CPU variant for X86 using defaults: x86
+11-09 15:22:58.832 15737 15737 I app_process: The ClassLoaderContext is a special shared library.
+11-09 15:22:58.833  2661  2661 I MicroDetectionWorker: #startMicroDetector [speakerMode: 0]
+11-09 15:22:58.833  2661  2661 I AudioController: Using mInputStreamFactoryBuilder
+11-09 15:22:58.833  2661  2661 I AudioController: Created new AudioSource
+11-09 15:22:58.834  2661  2661 I MicroDetectionWorker: onReady
+11-09 15:22:58.839  2661 11313 I MicroRecognitionRunner: Starting detection.
+11-09 15:22:58.840  2661  8522 I MicrophoneInputStream: mic_starting  SR : 16000 CC : 16 SO : 6
+11-09 15:22:58.841  1649  1649 E         : Request requires android.permission.RECORD_AUDIO
+11-09 15:22:58.841  1649  1649 E AudioPolicyIntefaceImpl: getInputForAttr permission denied: recording not allowed for uid 10040 pid 2661
+11-09 15:22:58.841  1649  1649 E AudioFlinger: createRecord() checkRecordThread_l failed
+11-09 15:22:58.841  2661  8522 E IAudioFlinger: createRecord returned error -22
+11-09 15:22:58.841  2661  8522 E AudioRecord: AudioFlinger could not create record track, status: -22
+11-09 15:22:58.841  2661  8522 E AudioRecord-JNI: Error creating AudioRecord instance: initialization check failed with status -22.
+11-09 15:22:58.841  2661  8522 E android.media.AudioRecord: Error code -20 when initializing native AudioRecord object.
+11-09 15:22:58.841  2661  8522 I MicrophoneInputStream: mic_started  SR : 16000 CC : 16 SO : 6
+11-09 15:22:58.842  2661  8522 E ActivityThread: Failed to find provider info for com.google.android.apps.gsa.testing.ui.audio.recorded
+11-09 15:22:58.842  2661  2661 I MicroDetectionWorker: onReady
+11-09 15:22:58.843 15737 15737 I Input   : injectKeyEvent: KeyEvent { action=ACTION_DOWN, keyCode=KEYCODE_BACK, scanCode=0, metaState=0, flags=0x0, repeatCount=0, eventTime=35032410, downTime=35032410, deviceId=-1, source=0x101 }
+11-09 15:22:58.843  2661  8522 I MicrophoneInputStream: mic_close  SR : 16000 CC : 16 SO : 6
+11-09 15:22:58.843  2661 11313 I MicroRecognitionRunner: Detection finished
+11-09 15:22:58.844  2661 11313 W ErrorReporter: reportError [type: 211, code: 524300]: Error reading from input stream
+11-09 15:22:58.844  2661  3043 I MicroRecognitionRunner: Stopping hotword detection.
+11-09 15:22:58.844  2661 11313 W ErrorProcessor: onFatalError, processing error from engine(4)
+11-09 15:22:58.844  2661 11313 W ErrorProcessor: com.google.android.apps.gsa.shared.speech.b.g: Error reading from input stream
+11-09 15:22:58.844  2661 11313 W ErrorProcessor: 	at com.google.android.apps.gsa.staticplugins.microdetection.d.k.a(SourceFile:91)
+11-09 15:22:58.844  2661 11313 W ErrorProcessor: 	at com.google.android.apps.gsa.staticplugins.microdetection.d.l.run(Unknown Source:14)
+11-09 15:22:58.844  2661 11313 W ErrorProcessor: 	at com.google.android.libraries.gsa.runner.a.a.b(SourceFile:32)
+11-09 15:22:58.844  2661 11313 W ErrorProcessor: 	at com.google.android.libraries.gsa.runner.a.c.call(Unknown Source:4)
+11-09 15:22:58.844  2661 11313 W ErrorProcessor: 	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+11-09 15:22:58.844  2661 11313 W ErrorProcessor: 	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:458)
+11-09 15:22:58.844  2661 11313 W ErrorProcessor: 	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+11-09 15:22:58.844  2661 11313 W ErrorProcessor: 	at com.google.android.apps.gsa.shared.util.concurrent.b.g.run(Unknown Source:4)
+11-09 15:22:58.844  2661 11313 W ErrorProcessor: 	at com.google.android.apps.gsa.shared.util.concurrent.b.aw.run(SourceFile:4)
+11-09 15:22:58.844  2661 11313 W ErrorProcessor: 	at com.google.android.apps.gsa.shared.util.concurrent.b.aw.run(SourceFile:4)
+11-09 15:22:58.844  2661 11313 W ErrorProcessor: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+11-09 15:22:58.844  2661 11313 W ErrorProcessor: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+11-09 15:22:58.844  2661 11313 W ErrorProcessor: 	at java.lang.Thread.run(Thread.java:764)
+11-09 15:22:58.844  2661 11313 W ErrorProcessor: 	at com.google.android.apps.gsa.shared.util.concurrent.b.i.run(SourceFile:6)
+11-09 15:22:58.844  2661 11313 W ErrorProcessor: Caused by: com.google.android.apps.gsa.shared.exception.GsaIOException: Error code: 393238 | Buffer overflow, no available space.
+11-09 15:22:58.844  2661 11313 W ErrorProcessor: 	at com.google.android.apps.gsa.speech.audio.Tee.j(SourceFile:103)
+11-09 15:22:58.844  2661 11313 W ErrorProcessor: 	at com.google.android.apps.gsa.speech.audio.au.read(SourceFile:2)
+11-09 15:22:58.844  2661 11313 W ErrorProcessor: 	at java.io.InputStream.read(InputStream.java:101)
+11-09 15:22:58.844  2661 11313 W ErrorProcessor: 	at com.google.android.apps.gsa.speech.audio.ao.run(SourceFile:17)
+11-09 15:22:58.844  2661 11313 W ErrorProcessor: 	at com.google.android.apps.gsa.speech.audio.an.run(SourceFile:2)
+11-09 15:22:58.844  2661 11313 W ErrorProcessor: 	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:458)
+11-09 15:22:58.844  2661 11313 W ErrorProcessor: 	... 10 more
+11-09 15:22:58.844  2661 11313 I AudioController: internalShutdown
+11-09 15:22:58.845  2661  2661 I MicroDetector: Keeping mic open: false
+11-09 15:22:58.845  2661  2661 I MicroDetectionWorker: #onError(false)
+11-09 15:22:58.845  2661 18181 I DeviceStateChecker: DeviceStateChecker cancelled
+11-09 15:22:58.851 15737 15737 I Input   : injectKeyEvent: KeyEvent { action=ACTION_UP, keyCode=KEYCODE_BACK, scanCode=0, metaState=0, flags=0x0, repeatCount=0, eventTime=35032410, downTime=35032410, deviceId=-1, source=0x101 }
+11-09 15:22:59.003  1747  2073 E SurfaceFlinger: ro.sf.lcd_density must be defined as a build property
+11-09 15:22:59.015 15769 15769 E eglCodecCommon: GoldfishAddressSpaceHostMemoryAllocator: ioctl_ping failed for device_type=5, ret=-1
+11-09 15:22:59.357  1893  1910 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.DROPBOX_ENTRY_ADDED flg=0x10 (has extras) } to com.google.android.gms/.stats.service.DropBoxEntryAddedReceiver
+11-09 15:22:59.357  1893  1910 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.DROPBOX_ENTRY_ADDED flg=0x10 (has extras) } to com.google.android.gms/.chimera.GmsIntentOperationService$PersistentTrustedReceiver
+11-09 15:22:59.391  1893  9522 I ActivityManager: Force stopping com.bmi.bmr.calculator.tracker.health.tdee appid=10107 user=0: from pid 15793
+11-09 15:22:59.524 15795 15795 W app_process: Unexpected CPU variant for X86 using defaults: x86
+11-09 15:22:59.526 15795 15795 I app_process: The ClassLoaderContext is a special shared library.
+11-09 15:22:59.544 15795 15795 I Input   : injectKeyEvent: KeyEvent { action=ACTION_DOWN, keyCode=KEYCODE_HOME, scanCode=0, metaState=0, flags=0x0, repeatCount=0, eventTime=35033112, downTime=35033112, deviceId=-1, source=0x101 }
+11-09 15:22:59.546 15795 15795 I Input   : injectKeyEvent: KeyEvent { action=ACTION_UP, keyCode=KEYCODE_HOME, scanCode=0, metaState=0, flags=0x0, repeatCount=0, eventTime=35033112, downTime=35033112, deviceId=-1, source=0x101 }
+11-09 15:22:59.547  1893  1987 I ActivityManager: START u0 {act=android.intent.action.MAIN cat=[android.intent.category.HOME] flg=0x10200000 cmp=com.google.android.apps.nexuslauncher/.NexusLauncherActivity (has extras)} from uid 1000
+11-09 15:22:59.548  2037  2037 I vol.Events: writeEvent dismiss_dialog volume_controller
+11-09 15:22:59.655  1893  2213 I GnssLocationProvider: WakeLock acquired by sendMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@a22c202)
+11-09 15:22:59.655  1893  1909 I GnssLocationProvider: WakeLock released by handleMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@a22c202)
+11-09 15:23:00.654  1893  2213 I GnssLocationProvider: WakeLock acquired by sendMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@30acb49)
+11-09 15:23:00.654  1893  1909 I GnssLocationProvider: WakeLock released by handleMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@30acb49)
+11-09 15:23:00.681  1747  2025 E SurfaceFlinger: ro.sf.lcd_density must be defined as a build property
+11-09 15:23:00.694 15824 15824 E eglCodecCommon: GoldfishAddressSpaceHostMemoryAllocator: ioctl_ping failed for device_type=5, ret=-1
+11-09 15:23:01.063  1893  1910 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.DROPBOX_ENTRY_ADDED flg=0x10 (has extras) } to com.google.android.gms/.stats.service.DropBoxEntryAddedReceiver
+11-09 15:23:01.064  1893  1910 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.DROPBOX_ENTRY_ADDED flg=0x10 (has extras) } to com.google.android.gms/.chimera.GmsIntentOperationService$PersistentTrustedReceiver
+11-09 15:23:01.168  1747  2025 E SurfaceFlinger: ro.sf.lcd_density must be defined as a build property
+11-09 15:23:01.175 15855 15855 E eglCodecCommon: GoldfishAddressSpaceHostMemoryAllocator: ioctl_ping failed for device_type=5, ret=-1
+11-09 15:23:01.473  1893  1910 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.DROPBOX_ENTRY_ADDED flg=0x10 (has extras) } to com.google.android.gms/.stats.service.DropBoxEntryAddedReceiver
+11-09 15:23:01.473  1893  1910 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.DROPBOX_ENTRY_ADDED flg=0x10 (has extras) } to com.google.android.gms/.chimera.GmsIntentOperationService$PersistentTrustedReceiver
+11-09 15:23:01.588  1747  2025 E SurfaceFlinger: ro.sf.lcd_density must be defined as a build property
+11-09 15:23:01.598 15887 15887 E eglCodecCommon: GoldfishAddressSpaceHostMemoryAllocator: ioctl_ping failed for device_type=5, ret=-1
+11-09 15:23:01.654  1893  2213 I GnssLocationProvider: WakeLock acquired by sendMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@9d63b03)
+11-09 15:23:01.654  1893  1909 I GnssLocationProvider: WakeLock released by handleMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@9d63b03)
+11-09 15:23:01.949  1893  1910 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.DROPBOX_ENTRY_ADDED flg=0x10 (has extras) } to com.google.android.gms/.stats.service.DropBoxEntryAddedReceiver
+11-09 15:23:01.949  1893  1910 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.DROPBOX_ENTRY_ADDED flg=0x10 (has extras) } to com.google.android.gms/.chimera.GmsIntentOperationService$PersistentTrustedReceiver
+11-09 15:23:01.991  1893 10601 I ActivityManager: START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.bmi.bmr.calculator.tracker.health.tdee/.ActivityBMR} from uid 0
+11-09 15:23:02.013 15913 15913 W ker.health.tde: Unexpected CPU variant for X86 using defaults: x86
+11-09 15:23:02.013  1893  1912 I ActivityManager: Start proc 15913:com.bmi.bmr.calculator.tracker.health.tdee/u0a107 for activity com.bmi.bmr.calculator.tracker.health.tdee/.ActivityBMR
+11-09 15:23:02.042 15913 15913 I FirebaseApp: Device unlocked: initializing all Firebase APIs for app [DEFAULT]
+11-09 15:23:02.043 15913 15913 I FirebaseCrashlytics: Initializing Firebase Crashlytics 18.3.2 for com.bmi.bmr.calculator.tracker.health.tdee
+11-09 15:23:02.072 15913 15933 W ker.health.tde: Unsupported class loader
+11-09 15:23:02.098 15913 15935 E FirebaseCrashlytics: Settings request failed.
+11-09 15:23:02.102 15913 15933 W ker.health.tde: Skipping duplicate class check due to unsupported classloader
+11-09 15:23:02.102 15913 15913 I FirebaseInitProvider: FirebaseApp initialization successful
+11-09 15:23:02.112 15913 15933 I DynamiteModule: Considering local module com.google.android.gms.measurement.dynamite:86 and remote module com.google.android.gms.measurement.dynamite:15
+11-09 15:23:02.112 15913 15933 I DynamiteModule: Selected local version of com.google.android.gms.measurement.dynamite
+11-09 15:23:02.114 15913 15913 W ker.health.tde: Accessing hidden method Landroid/content/res/Resources$Theme;->rebase()V (dark greylist, linking)
+11-09 15:23:02.114 15913 15913 W ker.health.tde: Accessing hidden method Landroid/view/View;->setTransitionVisibility(I)V (dark greylist, linking)
+11-09 15:23:02.144 15913 15947 I FA      : App measurement initialized, version: 74029
+11-09 15:23:02.144 15913 15947 I FA      : To enable debug logging run: adb shell setprop log.tag.FA VERBOSE
+11-09 15:23:02.144 15913 15947 I FA      : To enable faster debug mode event logging run:
+11-09 15:23:02.144 15913 15947 I FA      :   adb shell setprop debug.firebase.analytics.app com.bmi.bmr.calculator.tracker.health.tdee
+11-09 15:23:02.171  1747  2073 E SurfaceFlinger: ro.sf.lcd_density must be defined as a build property
+11-09 15:23:02.186 15913 15947 I FA      : Tag Manager is not found and thus will not be used
+11-09 15:23:02.219 15913 15951 I ConfigStore: android::hardware::configstore::V1_0::ISurfaceFlingerConfigs::hasWideColorDisplay retrieved: 0
+11-09 15:23:02.219 15913 15951 I ConfigStore: android::hardware::configstore::V1_0::ISurfaceFlingerConfigs::hasHDRDisplay retrieved: 0
+11-09 15:23:02.219 15913 15951 I OpenGLRenderer: Initialized EGL, version 1.4
+11-09 15:23:02.219 15913 15951 W OpenGLRenderer: Failed to choose config with EGL_SWAP_BEHAVIOR_PRESERVED, retrying without...
+11-09 15:23:02.224 15913 15951 E eglCodecCommon: glUtilsParamSize: unknow param 0x000082da
+11-09 15:23:02.224 15913 15951 E eglCodecCommon: glUtilsParamSize: unknow param 0x000082da
+11-09 15:23:02.224  1747  1780 E SurfaceFlinger: ro.sf.lcd_density must be defined as a build property
+11-09 15:23:02.244 15913 15951 E eglCodecCommon: GoldfishAddressSpaceHostMemoryAllocator: ioctl_ping failed for device_type=5, ret=-1
+11-09 15:23:02.266  2643  2738 I mit.droidbotap: Background concurrent copying GC freed 55172(2MB) AllocSpace objects, 107(3MB) LOS objects, 6% free, 92MB/98MB, paused 321us total 242.418ms
+11-09 15:23:02.267  1893  1918 I ActivityManager: Displayed com.bmi.bmr.calculator.tracker.health.tdee/.ActivityBMR: +261ms (total +19m15s45ms)
+11-09 15:23:02.399  1747  1747 W SurfaceFlinger: couldn't log to binary event log: overflow.
+11-09 15:23:02.399  1747  1747 W SurfaceFlinger: couldn't log to binary event log: overflow.
+11-09 15:23:02.421  1747  1796 W SurfaceFlinger: Attempting to set client state on removed layer: Splash Screen com.bmi.bmr.calculator.tracker.health.tdee#0
+11-09 15:23:02.421  1747  1796 W SurfaceFlinger: Attempting to destroy on removed layer: Splash Screen com.bmi.bmr.calculator.tracker.health.tdee#0
+11-09 15:23:02.546  2661  8522 I PBSessionCacheImpl: Deleted sessionId[566751404619] from persistence.
+11-09 15:23:02.553  2661  2661 W SearchService: Abort, client detached.
+11-09 15:23:02.588  2661 18181 I WorkController: WorkProxy is not enqueued because WorkController is disposed: WorkProxy{Name=context::j, WorkerId=context, id=f4a5a62}
+11-09 15:23:02.588  2661 18181 I WorkController: WorkProxy is not enqueued because WorkController is disposed: WorkProxy{Name=context::m, WorkerId=context, id=3fe87f3}
+11-09 15:23:02.588  2661 18181 I WorkController: WorkProxy is not enqueued because WorkController is disposed: WorkProxy{Name=context::n, WorkerId=context, id=9be1cb0}
+11-09 15:23:02.588  2661 18181 I WorkController: WorkProxy is not enqueued because WorkController is disposed: WorkProxy{Name=context::p, WorkerId=context, id=2d00729}
+11-09 15:23:02.654  1893  2213 I GnssLocationProvider: WakeLock acquired by sendMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@fe53135)
+11-09 15:23:02.654  1893  1909 I GnssLocationProvider: WakeLock released by handleMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@fe53135)
+11-09 15:23:03.111  1747  2073 E SurfaceFlinger: ro.sf.lcd_density must be defined as a build property
+11-09 15:23:03.122 15984 15984 E eglCodecCommon: GoldfishAddressSpaceHostMemoryAllocator: ioctl_ping failed for device_type=5, ret=-1
+11-09 15:23:03.385  1893  1910 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.DROPBOX_ENTRY_ADDED flg=0x10 (has extras) } to com.google.android.gms/.stats.service.DropBoxEntryAddedReceiver
+11-09 15:23:03.385  1893  1910 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.DROPBOX_ENTRY_ADDED flg=0x10 (has extras) } to com.google.android.gms/.chimera.GmsIntentOperationService$PersistentTrustedReceiver
+11-09 15:23:03.488  1747  2073 E SurfaceFlinger: ro.sf.lcd_density must be defined as a build property
+11-09 15:23:03.496 16015 16015 E eglCodecCommon: GoldfishAddressSpaceHostMemoryAllocator: ioctl_ping failed for device_type=5, ret=-1
+11-09 15:23:03.654  1893  2213 I GnssLocationProvider: WakeLock acquired by sendMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@3e78d88)
+11-09 15:23:03.654  1893  1909 I GnssLocationProvider: WakeLock released by handleMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@3e78d88)
+11-09 15:23:03.749  1893  1910 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.DROPBOX_ENTRY_ADDED flg=0x10 (has extras) } to com.google.android.gms/.stats.service.DropBoxEntryAddedReceiver
+11-09 15:23:03.749  1893  1910 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.DROPBOX_ENTRY_ADDED flg=0x10 (has extras) } to com.google.android.gms/.chimera.GmsIntentOperationService$PersistentTrustedReceiver
+11-09 15:23:03.867  1747  1796 E SurfaceFlinger: ro.sf.lcd_density must be defined as a build property
+11-09 15:23:03.874 16050 16050 E eglCodecCommon: GoldfishAddressSpaceHostMemoryAllocator: ioctl_ping failed for device_type=5, ret=-1
+11-09 15:23:04.111  1893  1910 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.DROPBOX_ENTRY_ADDED flg=0x10 (has extras) } to com.google.android.gms/.stats.service.DropBoxEntryAddedReceiver
+11-09 15:23:04.111  1893  1910 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.DROPBOX_ENTRY_ADDED flg=0x10 (has extras) } to com.google.android.gms/.chimera.GmsIntentOperationService$PersistentTrustedReceiver
+11-09 15:23:04.138  1893  1910 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.DROPBOX_ENTRY_ADDED flg=0x10 (has extras) } to com.google.android.gms/.stats.service.DropBoxEntryAddedReceiver
+11-09 15:23:04.138  1893  1910 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.DROPBOX_ENTRY_ADDED flg=0x10 (has extras) } to com.google.android.gms/.chimera.GmsIntentOperationService$PersistentTrustedReceiver
+11-09 15:23:04.177  1893  1910 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.DROPBOX_ENTRY_ADDED flg=0x10 (has extras) } to com.google.android.gms/.stats.service.DropBoxEntryAddedReceiver
+11-09 15:23:04.177  1893  1910 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.DROPBOX_ENTRY_ADDED flg=0x10 (has extras) } to com.google.android.gms/.chimera.GmsIntentOperationService$PersistentTrustedReceiver
+11-09 15:23:04.204  1893  1910 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.DROPBOX_ENTRY_ADDED flg=0x10 (has extras) } to com.google.android.gms/.stats.service.DropBoxEntryAddedReceiver
+11-09 15:23:04.204  1893  1910 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.DROPBOX_ENTRY_ADDED flg=0x10 (has extras) } to com.google.android.gms/.chimera.GmsIntentOperationService$PersistentTrustedReceiver
+11-09 15:23:04.319 16095 16095 W app_process: Unexpected CPU variant for X86 using defaults: x86
+11-09 15:23:04.320 16095 16095 I app_process: The ClassLoaderContext is a special shared library.
+11-09 15:23:04.341 16095 16095 I Input   : injectMotionEvent: MotionEvent { action=ACTION_DOWN, actionButton=0, id[0]=0, x[0]=621.0, y[0]=590.0, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=35037907, downTime=35037907, deviceId=0, source=0x1002 }
+11-09 15:23:04.342 16095 16095 I Input   : injectMotionEvent: MotionEvent { action=ACTION_MOVE, actionButton=0, id[0]=0, x[0]=621.0, y[0]=590.0, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=35037907, downTime=35037907, deviceId=0, source=0x1002 }
+11-09 15:23:04.350 16095 16095 I Input   : injectMotionEvent: MotionEvent { action=ACTION_MOVE, actionButton=0, id[0]=0, x[0]=621.0, y[0]=590.0, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=35037918, downTime=35037918, deviceId=0, source=0x1002 }
+11-09 15:23:04.367 16095 16095 I Input   : injectMotionEvent: MotionEvent { action=ACTION_MOVE, actionButton=0, id[0]=0, x[0]=621.0, y[0]=590.0, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=35037935, downTime=35037935, deviceId=0, source=0x1002 }
+11-09 15:23:04.384 16095 16095 I Input   : injectMotionEvent: MotionEvent { action=ACTION_MOVE, actionButton=0, id[0]=0, x[0]=621.0, y[0]=590.0, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=35037952, downTime=35037952, deviceId=0, source=0x1002 }
+11-09 15:23:04.401 16095 16095 I Input   : injectMotionEvent: MotionEvent { action=ACTION_MOVE, actionButton=0, id[0]=0, x[0]=621.0, y[0]=590.0, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=35037968, downTime=35037968, deviceId=0, source=0x1002 }
+11-09 15:23:04.418 16095 16095 I Input   : injectMotionEvent: MotionEvent { action=ACTION_MOVE, actionButton=0, id[0]=0, x[0]=621.0, y[0]=590.0, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=35037985, downTime=35037985, deviceId=0, source=0x1002 }
+11-09 15:23:04.435 16095 16095 I Input   : injectMotionEvent: MotionEvent { action=ACTION_MOVE, actionButton=0, id[0]=0, x[0]=621.0, y[0]=590.0, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=35038002, downTime=35038002, deviceId=0, source=0x1002 }
+11-09 15:23:04.452 16095 16095 I Input   : injectMotionEvent: MotionEvent { action=ACTION_MOVE, actionButton=0, id[0]=0, x[0]=621.0, y[0]=590.0, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=35038019, downTime=35038019, deviceId=0, source=0x1002 }
+11-09 15:23:04.469 16095 16095 I Input   : injectMotionEvent: MotionEvent { action=ACTION_MOVE, actionButton=0, id[0]=0, x[0]=621.0, y[0]=590.0, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=35038036, downTime=35038036, deviceId=0, source=0x1002 }
+11-09 15:23:04.485 16095 16095 I Input   : injectMotionEvent: MotionEvent { action=ACTION_MOVE, actionButton=0, id[0]=0, x[0]=621.0, y[0]=590.0, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=35038053, downTime=35038053, deviceId=0, source=0x1002 }
+11-09 15:23:04.504 16095 16095 I Input   : injectMotionEvent: MotionEvent { action=ACTION_MOVE, actionButton=0, id[0]=0, x[0]=621.0, y[0]=590.0, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=35038071, downTime=35038071, deviceId=0, source=0x1002 }
+11-09 15:23:04.519 16095 16095 I Input   : injectMotionEvent: MotionEvent { action=ACTION_MOVE, actionButton=0, id[0]=0, x[0]=621.0, y[0]=590.0, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=35038087, downTime=35038087, deviceId=0, source=0x1002 }
+11-09 15:23:04.536 16095 16095 I Input   : injectMotionEvent: MotionEvent { action=ACTION_MOVE, actionButton=0, id[0]=0, x[0]=621.0, y[0]=590.0, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=35038103, downTime=35038103, deviceId=0, source=0x1002 }
+11-09 15:23:04.553 16095 16095 I Input   : injectMotionEvent: MotionEvent { action=ACTION_UP, actionButton=0, id[0]=0, x[0]=621.0, y[0]=590.0, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=35038120, downTime=35038120, deviceId=0, source=0x1002 }
+11-09 15:23:04.574 15913 15913 I AssistStructure: Flattened final assist data: 5908 bytes, containing 1 windows, 20 views
+11-09 15:23:04.590  1893  2406 I AssistStructure: Flattened final assist data: 5268 bytes, containing 1 windows, 20 views
+11-09 15:23:04.594  2334  2334 W ktk     : Pending fill request while another request in the same session was triggered. [CONTEXT service_id=177 ]
+11-09 15:23:04.607  1641  1641 I chatty  : uid=1000(system) allocator@2.0-s identical 1 line
+11-09 15:23:04.654  1893  2213 I GnssLocationProvider: WakeLock acquired by sendMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@5de6b56)
+11-09 15:23:04.655  1893  1909 I GnssLocationProvider: WakeLock released by handleMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@5de6b56)
+11-09 15:23:04.689  2643  2738 I mit.droidbotap: Background concurrent copying GC freed 64828(2MB) AllocSpace objects, 120(3MB) LOS objects, 6% free, 92MB/98MB, paused 311us total 107.204ms
+11-09 15:23:04.690 16106 16106 W app_process: Unexpected CPU variant for X86 using defaults: x86
+11-09 15:23:04.691 16106 16106 I app_process: The ClassLoaderContext is a special shared library.
+11-09 15:23:04.702 16106 16106 I Input   : injectKeyEvent: KeyEvent { action=ACTION_DOWN, keyCode=KEYCODE_1, scanCode=0, metaState=0, flags=0x0, repeatCount=0, eventTime=35038269, downTime=35038269, deviceId=-1, source=0x101 }
+11-09 15:23:04.706 16106 16106 I Input   : injectKeyEvent: KeyEvent { action=ACTION_UP, keyCode=KEYCODE_1, scanCode=0, metaState=0, flags=0x0, repeatCount=0, eventTime=35038269, downTime=35038269, deviceId=-1, source=0x101 }
+11-09 15:23:04.724 16106 16106 I Input   : injectKeyEvent: KeyEvent { action=ACTION_DOWN, keyCode=KEYCODE_8, scanCode=0, metaState=0, flags=0x0, repeatCount=0, eventTime=35038269, downTime=35038269, deviceId=-1, source=0x101 }
+11-09 15:23:04.727 16106 16106 I Input   : injectKeyEvent: KeyEvent { action=ACTION_UP, keyCode=KEYCODE_8, scanCode=0, metaState=0, flags=0x0, repeatCount=0, eventTime=35038269, downTime=35038269, deviceId=-1, source=0x101 }
+11-09 15:23:05.656  1893  2213 I GnssLocationProvider: WakeLock acquired by sendMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@113d8c4)
+11-09 15:23:05.656  1893  1909 I GnssLocationProvider: WakeLock released by handleMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@113d8c4)
+11-09 15:23:05.669  1893  1909 E memtrack: Couldn't load memtrack module
+11-09 15:23:05.669  1893  1909 W android.os.Debug: failed to get memory consumption info: -1
+11-09 15:23:05.699  1893  1909 E memtrack: Couldn't load memtrack module
+11-09 15:23:05.699  1893  1909 W android.os.Debug: failed to get memory consumption info: -1
+11-09 15:23:05.858  1747  2025 E SurfaceFlinger: ro.sf.lcd_density must be defined as a build property
+11-09 15:23:05.873 16139 16139 E eglCodecCommon: GoldfishAddressSpaceHostMemoryAllocator: ioctl_ping failed for device_type=5, ret=-1
+11-09 15:23:06.150  1893  1910 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.DROPBOX_ENTRY_ADDED flg=0x10 (has extras) } to com.google.android.gms/.stats.service.DropBoxEntryAddedReceiver
+11-09 15:23:06.150  1893  1910 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.DROPBOX_ENTRY_ADDED flg=0x10 (has extras) } to com.google.android.gms/.chimera.GmsIntentOperationService$PersistentTrustedReceiver
+11-09 15:23:06.360  1747  2025 E SurfaceFlinger: ro.sf.lcd_density must be defined as a build property
+11-09 15:23:06.368 16170 16170 E eglCodecCommon: GoldfishAddressSpaceHostMemoryAllocator: ioctl_ping failed for device_type=5, ret=-1
+11-09 15:23:06.609  1893  1910 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.DROPBOX_ENTRY_ADDED flg=0x10 (has extras) } to com.google.android.gms/.stats.service.DropBoxEntryAddedReceiver
+11-09 15:23:06.609  1893  1910 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.DROPBOX_ENTRY_ADDED flg=0x10 (has extras) } to com.google.android.gms/.chimera.GmsIntentOperationService$PersistentTrustedReceiver
+11-09 15:23:06.654  1893  2213 I GnssLocationProvider: WakeLock acquired by sendMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@2065606)
+11-09 15:23:06.655  1893  1909 I GnssLocationProvider: WakeLock released by handleMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@2065606)
+11-09 15:23:06.768  1747  2025 E SurfaceFlinger: ro.sf.lcd_density must be defined as a build property
+11-09 15:23:06.778 16201 16201 E eglCodecCommon: GoldfishAddressSpaceHostMemoryAllocator: ioctl_ping failed for device_type=5, ret=-1
+11-09 15:23:07.006  1893  1910 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.DROPBOX_ENTRY_ADDED flg=0x10 (has extras) } to com.google.android.gms/.stats.service.DropBoxEntryAddedReceiver
+11-09 15:23:07.006  1893  1910 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.DROPBOX_ENTRY_ADDED flg=0x10 (has extras) } to com.google.android.gms/.chimera.GmsIntentOperationService$PersistentTrustedReceiver
+11-09 15:23:07.033  1893  1910 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.DROPBOX_ENTRY_ADDED flg=0x10 (has extras) } to com.google.android.gms/.stats.service.DropBoxEntryAddedReceiver
+11-09 15:23:07.033  1893  1910 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.DROPBOX_ENTRY_ADDED flg=0x10 (has extras) } to com.google.android.gms/.chimera.GmsIntentOperationService$PersistentTrustedReceiver
+11-09 15:23:07.060  1893  1910 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.DROPBOX_ENTRY_ADDED flg=0x10 (has extras) } to com.google.android.gms/.stats.service.DropBoxEntryAddedReceiver
+11-09 15:23:07.060  1893  1910 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.DROPBOX_ENTRY_ADDED flg=0x10 (has extras) } to com.google.android.gms/.chimera.GmsIntentOperationService$PersistentTrustedReceiver
+11-09 15:23:07.086  1893  1910 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.DROPBOX_ENTRY_ADDED flg=0x10 (has extras) } to com.google.android.gms/.stats.service.DropBoxEntryAddedReceiver
+11-09 15:23:07.087  1893  1910 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.DROPBOX_ENTRY_ADDED flg=0x10 (has extras) } to com.google.android.gms/.chimera.GmsIntentOperationService$PersistentTrustedReceiver
+11-09 15:23:07.178 16248 16248 W app_process: Could not reserve sentinel fault page
+11-09 15:23:07.205 16248 16248 W app_process: Unexpected CPU variant for X86 using defaults: x86
+11-09 15:23:07.206 16248 16248 I app_process: The ClassLoaderContext is a special shared library.
+11-09 15:23:07.218 16248 16248 I Input   : injectMotionEvent: MotionEvent { action=ACTION_DOWN, actionButton=0, id[0]=0, x[0]=527.0, y[0]=1146.0, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=35040784, downTime=35040784, deviceId=0, source=0x1002 }
+11-09 15:23:07.220 16248 16248 I Input   : injectMotionEvent: MotionEvent { action=ACTION_MOVE, actionButton=0, id[0]=0, x[0]=527.0, y[0]=1146.0, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=35040784, downTime=35040784, deviceId=0, source=0x1002 }
+11-09 15:23:07.227 16248 16248 I Input   : injectMotionEvent: MotionEvent { action=ACTION_MOVE, actionButton=0, id[0]=0, x[0]=527.0, y[0]=1146.0, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=35040794, downTime=35040794, deviceId=0, source=0x1002 }
+11-09 15:23:07.244 16248 16248 I Input   : injectMotionEvent: MotionEvent { action=ACTION_MOVE, actionButton=0, id[0]=0, x[0]=527.0, y[0]=1146.0, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=35040811, downTime=35040811, deviceId=0, source=0x1002 }
+11-09 15:23:07.260 16248 16248 I Input   : injectMotionEvent: MotionEvent { action=ACTION_MOVE, actionButton=0, id[0]=0, x[0]=527.0, y[0]=1146.0, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=35040828, downTime=35040828, deviceId=0, source=0x1002 }
+11-09 15:23:07.277 16248 16248 I Input   : injectMotionEvent: MotionEvent { action=ACTION_MOVE, actionButton=0, id[0]=0, x[0]=527.0, y[0]=1146.0, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=35040845, downTime=35040845, deviceId=0, source=0x1002 }
+11-09 15:23:07.294 16248 16248 I Input   : injectMotionEvent: MotionEvent { action=ACTION_MOVE, actionButton=0, id[0]=0, x[0]=527.0, y[0]=1146.0, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=35040862, downTime=35040862, deviceId=0, source=0x1002 }
+11-09 15:23:07.311 16248 16248 I Input   : injectMotionEvent: MotionEvent { action=ACTION_MOVE, actionButton=0, id[0]=0, x[0]=527.0, y[0]=1146.0, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=35040878, downTime=35040878, deviceId=0, source=0x1002 }
+11-09 15:23:07.328 16248 16248 I Input   : injectMotionEvent: MotionEvent { action=ACTION_MOVE, actionButton=0, id[0]=0, x[0]=527.0, y[0]=1146.0, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=35040895, downTime=35040895, deviceId=0, source=0x1002 }
+11-09 15:23:07.345 16248 16248 I Input   : injectMotionEvent: MotionEvent { action=ACTION_MOVE, actionButton=0, id[0]=0, x[0]=527.0, y[0]=1146.0, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=35040913, downTime=35040913, deviceId=0, source=0x1002 }
+11-09 15:23:07.362 16248 16248 I Input   : injectMotionEvent: MotionEvent { action=ACTION_MOVE, actionButton=0, id[0]=0, x[0]=527.0, y[0]=1146.0, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=35040929, downTime=35040929, deviceId=0, source=0x1002 }
+11-09 15:23:07.378 16248 16248 I Input   : injectMotionEvent: MotionEvent { action=ACTION_MOVE, actionButton=0, id[0]=0, x[0]=527.0, y[0]=1146.0, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=35040946, downTime=35040946, deviceId=0, source=0x1002 }
+11-09 15:23:07.395 16248 16248 I Input   : injectMotionEvent: MotionEvent { action=ACTION_MOVE, actionButton=0, id[0]=0, x[0]=527.0, y[0]=1146.0, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=35040963, downTime=35040963, deviceId=0, source=0x1002 }
+11-09 15:23:07.412 16248 16248 I Input   : injectMotionEvent: MotionEvent { action=ACTION_MOVE, actionButton=0, id[0]=0, x[0]=527.0, y[0]=1146.0, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=35040979, downTime=35040979, deviceId=0, source=0x1002 }
+11-09 15:23:07.429 16248 16248 I Input   : injectMotionEvent: MotionEvent { action=ACTION_UP, actionButton=0, id[0]=0, x[0]=527.0, y[0]=1146.0, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=35040996, downTime=35040996, deviceId=0, source=0x1002 }
+11-09 15:23:07.448 15913 15913 I AssistStructure: Flattened final assist data: 5916 bytes, containing 1 windows, 20 views
+11-09 15:23:07.455  1893  2554 I AssistStructure: Flattened final assist data: 5268 bytes, containing 1 windows, 20 views
+11-09 15:23:07.457  2334  2334 W ktk     : Pending fill request while another request in the same session was triggered. [CONTEXT service_id=177 ]
+11-09 15:23:07.580 16258 16258 W app_process: Unexpected CPU variant for X86 using defaults: x86
+11-09 15:23:07.581 16258 16258 I app_process: The ClassLoaderContext is a special shared library.
+11-09 15:23:07.600 16258 16258 I Input   : injectKeyEvent: KeyEvent { action=ACTION_DOWN, keyCode=KEYCODE_7, scanCode=0, metaState=0, flags=0x0, repeatCount=0, eventTime=35041167, downTime=35041167, deviceId=-1, source=0x101 }
+11-09 15:23:07.602 16258 16258 I Input   : injectKeyEvent: KeyEvent { action=ACTION_UP, keyCode=KEYCODE_7, scanCode=0, metaState=0, flags=0x0, repeatCount=0, eventTime=35041167, downTime=35041167, deviceId=-1, source=0x101 }
+11-09 15:23:07.617 16258 16258 I Input   : injectKeyEvent: KeyEvent { action=ACTION_DOWN, keyCode=KEYCODE_8, scanCode=0, metaState=0, flags=0x0, repeatCount=0, eventTime=35041167, downTime=35041167, deviceId=-1, source=0x101 }
+11-09 15:23:07.622 16258 16258 I Input   : injectKeyEvent: KeyEvent { action=ACTION_UP, keyCode=KEYCODE_8, scanCode=0, metaState=0, flags=0x0, repeatCount=0, eventTime=35041167, downTime=35041167, deviceId=-1, source=0x101 }
+11-09 15:23:07.654  1893  2213 I GnssLocationProvider: WakeLock acquired by sendMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@9434045)
+11-09 15:23:07.654  1893  1909 I GnssLocationProvider: WakeLock released by handleMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@9434045)
+11-09 15:23:08.135  1893  1910 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.DROPBOX_ENTRY_ADDED flg=0x10 (has extras) } to com.google.android.gms/.stats.service.DropBoxEntryAddedReceiver
+11-09 15:23:08.135  1893  1910 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.DROPBOX_ENTRY_ADDED flg=0x10 (has extras) } to com.google.android.gms/.chimera.GmsIntentOperationService$PersistentTrustedReceiver
+11-09 15:23:08.137  1893  1910 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.DROPBOX_ENTRY_ADDED flg=0x10 (has extras) } to com.google.android.gms/.stats.service.DropBoxEntryAddedReceiver
+11-09 15:23:08.139  1893  1910 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.DROPBOX_ENTRY_ADDED flg=0x10 (has extras) } to com.google.android.gms/.chimera.GmsIntentOperationService$PersistentTrustedReceiver
+11-09 15:23:08.142  1893  1910 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.DROPBOX_ENTRY_ADDED flg=0x10 (has extras) } to com.google.android.gms/.stats.service.DropBoxEntryAddedReceiver
+11-09 15:23:08.142  1893  1910 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.DROPBOX_ENTRY_ADDED flg=0x10 (has extras) } to com.google.android.gms/.chimera.GmsIntentOperationService$PersistentTrustedReceiver
+11-09 15:23:08.143  1893  1910 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.DROPBOX_ENTRY_ADDED flg=0x10 (has extras) } to com.google.android.gms/.stats.service.DropBoxEntryAddedReceiver
+11-09 15:23:08.143  1893  1910 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.DROPBOX_ENTRY_ADDED flg=0x10 (has extras) } to com.google.android.gms/.chimera.GmsIntentOperationService$PersistentTrustedReceiver
+11-09 15:23:08.146  1893  1910 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.DROPBOX_ENTRY_ADDED flg=0x10 (has extras) } to com.google.android.gms/.stats.service.DropBoxEntryAddedReceiver
+11-09 15:23:08.146  1893  1910 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.DROPBOX_ENTRY_ADDED flg=0x10 (has extras) } to com.google.android.gms/.chimera.GmsIntentOperationService$PersistentTrustedReceiver
+11-09 15:23:08.150  1893  1910 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.DROPBOX_ENTRY_ADDED flg=0x10 (has extras) } to com.google.android.gms/.stats.service.DropBoxEntryAddedReceiver
+11-09 15:23:08.150  1893  1910 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.DROPBOX_ENTRY_ADDED flg=0x10 (has extras) } to com.google.android.gms/.chimera.GmsIntentOperationService$PersistentTrustedReceiver
+11-09 15:23:08.654  1893  2213 I GnssLocationProvider: WakeLock acquired by sendMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@87ed56d)
+11-09 15:23:08.654  1893  1909 I GnssLocationProvider: WakeLock released by handleMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@87ed56d)
+11-09 15:23:08.736  1747  2025 E SurfaceFlinger: ro.sf.lcd_density must be defined as a build property
+11-09 15:23:08.743 16296 16296 E eglCodecCommon: GoldfishAddressSpaceHostMemoryAllocator: ioctl_ping failed for device_type=5, ret=-1
+11-09 15:23:08.986  1893  1910 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.DROPBOX_ENTRY_ADDED flg=0x10 (has extras) } to com.google.android.gms/.stats.service.DropBoxEntryAddedReceiver
+11-09 15:23:08.986  1893  1910 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.DROPBOX_ENTRY_ADDED flg=0x10 (has extras) } to com.google.android.gms/.chimera.GmsIntentOperationService$PersistentTrustedReceiver
+11-09 15:23:09.164  1747  2025 E SurfaceFlinger: ro.sf.lcd_density must be defined as a build property
+11-09 15:23:09.172 16329 16329 E eglCodecCommon: GoldfishAddressSpaceHostMemoryAllocator: ioctl_ping failed for device_type=5, ret=-1
+11-09 15:23:09.411  1893  1910 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.DROPBOX_ENTRY_ADDED flg=0x10 (has extras) } to com.google.android.gms/.stats.service.DropBoxEntryAddedReceiver
+11-09 15:23:09.411  1893  1910 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.DROPBOX_ENTRY_ADDED flg=0x10 (has extras) } to com.google.android.gms/.chimera.GmsIntentOperationService$PersistentTrustedReceiver
+11-09 15:23:09.546  1747  2460 E SurfaceFlinger: ro.sf.lcd_density must be defined as a build property
+11-09 15:23:09.561 16360 16360 E eglCodecCommon: GoldfishAddressSpaceHostMemoryAllocator: ioctl_ping failed for device_type=5, ret=-1
+11-09 15:23:09.654  1893  2213 I GnssLocationProvider: WakeLock acquired by sendMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@88478c6)
+11-09 15:23:09.654  1893  1909 I GnssLocationProvider: WakeLock released by handleMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@88478c6)
+11-09 15:23:09.818  1893  1910 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.DROPBOX_ENTRY_ADDED flg=0x10 (has extras) } to com.google.android.gms/.stats.service.DropBoxEntryAddedReceiver
+11-09 15:23:09.818  1893  1910 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.DROPBOX_ENTRY_ADDED flg=0x10 (has extras) } to com.google.android.gms/.chimera.GmsIntentOperationService$PersistentTrustedReceiver
+11-09 15:23:09.857  1893  1910 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.DROPBOX_ENTRY_ADDED flg=0x10 (has extras) } to com.google.android.gms/.stats.service.DropBoxEntryAddedReceiver
+11-09 15:23:09.857  1893  1910 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.DROPBOX_ENTRY_ADDED flg=0x10 (has extras) } to com.google.android.gms/.chimera.GmsIntentOperationService$PersistentTrustedReceiver
+11-09 15:23:09.886  1893  1910 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.DROPBOX_ENTRY_ADDED flg=0x10 (has extras) } to com.google.android.gms/.stats.service.DropBoxEntryAddedReceiver
+11-09 15:23:09.886  1893  1910 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.DROPBOX_ENTRY_ADDED flg=0x10 (has extras) } to com.google.android.gms/.chimera.GmsIntentOperationService$PersistentTrustedReceiver
+11-09 15:23:09.912  1893  1910 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.DROPBOX_ENTRY_ADDED flg=0x10 (has extras) } to com.google.android.gms/.stats.service.DropBoxEntryAddedReceiver
+11-09 15:23:09.912  1893  1910 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.DROPBOX_ENTRY_ADDED flg=0x10 (has extras) } to com.google.android.gms/.chimera.GmsIntentOperationService$PersistentTrustedReceiver
+11-09 15:23:10.004 16407 16407 W app_process: Could not reserve sentinel fault page
+11-09 15:23:10.028 16407 16407 W app_process: Unexpected CPU variant for X86 using defaults: x86
+11-09 15:23:10.028 16407 16407 I app_process: The ClassLoaderContext is a special shared library.
+11-09 15:23:10.047 16407 16407 I Input   : injectMotionEvent: MotionEvent { action=ACTION_DOWN, actionButton=0, id[0]=0, x[0]=307.0, y[0]=868.0, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=35043614, downTime=35043614, deviceId=0, source=0x1002 }
+11-09 15:23:10.048 16407 16407 I Input   : injectMotionEvent: MotionEvent { action=ACTION_MOVE, actionButton=0, id[0]=0, x[0]=307.0, y[0]=868.0, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=35043614, downTime=35043614, deviceId=0, source=0x1002 }
+11-09 15:23:10.053 16407 16407 I Input   : injectMotionEvent: MotionEvent { action=ACTION_MOVE, actionButton=0, id[0]=0, x[0]=307.0, y[0]=868.0, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=35043620, downTime=35043620, deviceId=0, source=0x1002 }
+11-09 15:23:10.070 16407 16407 I Input   : injectMotionEvent: MotionEvent { action=ACTION_MOVE, actionButton=0, id[0]=0, x[0]=307.0, y[0]=868.0, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=35043637, downTime=35043637, deviceId=0, source=0x1002 }
+11-09 15:23:10.087 16407 16407 I Input   : injectMotionEvent: MotionEvent { action=ACTION_MOVE, actionButton=0, id[0]=0, x[0]=307.0, y[0]=868.0, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=35043654, downTime=35043654, deviceId=0, source=0x1002 }
+11-09 15:23:10.103 16407 16407 I Input   : injectMotionEvent: MotionEvent { action=ACTION_MOVE, actionButton=0, id[0]=0, x[0]=307.0, y[0]=868.0, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=35043671, downTime=35043671, deviceId=0, source=0x1002 }
+11-09 15:23:10.120 16407 16407 I Input   : injectMotionEvent: MotionEvent { action=ACTION_MOVE, actionButton=0, id[0]=0, x[0]=307.0, y[0]=868.0, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=35043688, downTime=35043688, deviceId=0, source=0x1002 }
+11-09 15:23:10.137 16407 16407 I Input   : injectMotionEvent: MotionEvent { action=ACTION_MOVE, actionButton=0, id[0]=0, x[0]=307.0, y[0]=868.0, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=35043705, downTime=35043705, deviceId=0, source=0x1002 }
+11-09 15:23:10.154 16407 16407 I Input   : injectMotionEvent: MotionEvent { action=ACTION_MOVE, actionButton=0, id[0]=0, x[0]=307.0, y[0]=868.0, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=35043722, downTime=35043722, deviceId=0, source=0x1002 }
+11-09 15:23:10.171 16407 16407 I Input   : injectMotionEvent: MotionEvent { action=ACTION_MOVE, actionButton=0, id[0]=0, x[0]=307.0, y[0]=868.0, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=35043738, downTime=35043738, deviceId=0, source=0x1002 }
+11-09 15:23:10.188 16407 16407 I Input   : injectMotionEvent: MotionEvent { action=ACTION_MOVE, actionButton=0, id[0]=0, x[0]=307.0, y[0]=868.0, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=35043755, downTime=35043755, deviceId=0, source=0x1002 }
+11-09 15:23:10.204 16407 16407 I Input   : injectMotionEvent: MotionEvent { action=ACTION_MOVE, actionButton=0, id[0]=0, x[0]=307.0, y[0]=868.0, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=35043772, downTime=35043772, deviceId=0, source=0x1002 }
+11-09 15:23:10.221 16407 16407 I Input   : injectMotionEvent: MotionEvent { action=ACTION_MOVE, actionButton=0, id[0]=0, x[0]=307.0, y[0]=868.0, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=35043789, downTime=35043789, deviceId=0, source=0x1002 }
+11-09 15:23:10.238 16407 16407 I Input   : injectMotionEvent: MotionEvent { action=ACTION_MOVE, actionButton=0, id[0]=0, x[0]=307.0, y[0]=868.0, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=35043806, downTime=35043806, deviceId=0, source=0x1002 }
+11-09 15:23:10.255 16407 16407 I Input   : injectMotionEvent: MotionEvent { action=ACTION_UP, actionButton=0, id[0]=0, x[0]=307.0, y[0]=868.0, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=35043822, downTime=35043822, deviceId=0, source=0x1002 }
+11-09 15:23:10.274 15913 15913 I AssistStructure: Flattened final assist data: 5924 bytes, containing 1 windows, 20 views
+11-09 15:23:10.278  1893  2554 I AssistStructure: Flattened final assist data: 5268 bytes, containing 1 windows, 20 views
+11-09 15:23:10.279  2334  2334 W ktk     : Pending fill request while another request in the same session was triggered. [CONTEXT service_id=177 ]
+11-09 15:23:10.368 16417 16417 W app_process: Unexpected CPU variant for X86 using defaults: x86
+11-09 15:23:10.369 16417 16417 I app_process: The ClassLoaderContext is a special shared library.
+11-09 15:23:10.388 16417 16417 I Input   : injectKeyEvent: KeyEvent { action=ACTION_DOWN, keyCode=KEYCODE_1, scanCode=0, metaState=0, flags=0x0, repeatCount=0, eventTime=35043955, downTime=35043955, deviceId=-1, source=0x101 }
+11-09 15:23:10.390 16417 16417 I Input   : injectKeyEvent: KeyEvent { action=ACTION_UP, keyCode=KEYCODE_1, scanCode=0, metaState=0, flags=0x0, repeatCount=0, eventTime=35043955, downTime=35043955, deviceId=-1, source=0x101 }
+11-09 15:23:10.411 16417 16417 I Input   : injectKeyEvent: KeyEvent { action=ACTION_DOWN, keyCode=KEYCODE_2, scanCode=0, metaState=0, flags=0x0, repeatCount=0, eventTime=35043955, downTime=35043955, deviceId=-1, source=0x101 }
+11-09 15:23:10.416 16417 16417 I Input   : injectKeyEvent: KeyEvent { action=ACTION_UP, keyCode=KEYCODE_2, scanCode=0, metaState=0, flags=0x0, repeatCount=0, eventTime=35043955, downTime=35043955, deviceId=-1, source=0x101 }
+11-09 15:23:10.619  2643  2738 I mit.droidbotap: Background concurrent copying GC freed 68663(2MB) AllocSpace objects, 135(3MB) LOS objects, 6% free, 92MB/98MB, paused 248us total 204.741ms
+11-09 15:23:10.654  1893  2213 I GnssLocationProvider: WakeLock acquired by sendMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@5d53a05)
+11-09 15:23:10.654  1893  1909 I GnssLocationProvider: WakeLock released by handleMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@5d53a05)
+11-09 15:23:11.563  1747  2460 E SurfaceFlinger: ro.sf.lcd_density must be defined as a build property
+11-09 15:23:11.572 16447 16447 E eglCodecCommon: GoldfishAddressSpaceHostMemoryAllocator: ioctl_ping failed for device_type=5, ret=-1
+11-09 15:23:11.654  1893  2213 I GnssLocationProvider: WakeLock acquired by sendMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@8556a5a)
+11-09 15:23:11.654  1893  1909 I GnssLocationProvider: WakeLock released by handleMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@8556a5a)
+11-09 15:23:11.808  1893  1910 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.DROPBOX_ENTRY_ADDED flg=0x10 (has extras) } to com.google.android.gms/.stats.service.DropBoxEntryAddedReceiver
+11-09 15:23:11.808  1893  1910 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.DROPBOX_ENTRY_ADDED flg=0x10 (has extras) } to com.google.android.gms/.chimera.GmsIntentOperationService$PersistentTrustedReceiver
+11-09 15:23:11.962  1747  2460 E SurfaceFlinger: ro.sf.lcd_density must be defined as a build property
+11-09 15:23:11.969 16480 16480 E eglCodecCommon: GoldfishAddressSpaceHostMemoryAllocator: ioctl_ping failed for device_type=5, ret=-1
+11-09 15:23:12.161  1893  1909 E memtrack: Couldn't load memtrack module
+11-09 15:23:12.161  1893  1909 W android.os.Debug: failed to get memory consumption info: -1
+11-09 15:23:12.198  1893  1910 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.DROPBOX_ENTRY_ADDED flg=0x10 (has extras) } to com.google.android.gms/.stats.service.DropBoxEntryAddedReceiver
+11-09 15:23:12.198  1893  1910 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.DROPBOX_ENTRY_ADDED flg=0x10 (has extras) } to com.google.android.gms/.chimera.GmsIntentOperationService$PersistentTrustedReceiver
+11-09 15:23:12.305  1747  2460 E SurfaceFlinger: ro.sf.lcd_density must be defined as a build property
+11-09 15:23:12.313 16511 16511 E eglCodecCommon: GoldfishAddressSpaceHostMemoryAllocator: ioctl_ping failed for device_type=5, ret=-1
+11-09 15:23:12.576  1893  1910 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.DROPBOX_ENTRY_ADDED flg=0x10 (has extras) } to com.google.android.gms/.stats.service.DropBoxEntryAddedReceiver
+11-09 15:23:12.576  1893  1910 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.DROPBOX_ENTRY_ADDED flg=0x10 (has extras) } to com.google.android.gms/.chimera.GmsIntentOperationService$PersistentTrustedReceiver
+11-09 15:23:12.610  1893  1910 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.DROPBOX_ENTRY_ADDED flg=0x10 (has extras) } to com.google.android.gms/.stats.service.DropBoxEntryAddedReceiver
+11-09 15:23:12.610  1893  1910 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.DROPBOX_ENTRY_ADDED flg=0x10 (has extras) } to com.google.android.gms/.chimera.GmsIntentOperationService$PersistentTrustedReceiver
+11-09 15:23:12.640  1893  1910 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.DROPBOX_ENTRY_ADDED flg=0x10 (has extras) } to com.google.android.gms/.stats.service.DropBoxEntryAddedReceiver
+11-09 15:23:12.640  1893  1910 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.DROPBOX_ENTRY_ADDED flg=0x10 (has extras) } to com.google.android.gms/.chimera.GmsIntentOperationService$PersistentTrustedReceiver
+11-09 15:23:12.654  1893  2213 I GnssLocationProvider: WakeLock acquired by sendMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@20f124f)
+11-09 15:23:12.654  1893  1909 I GnssLocationProvider: WakeLock released by handleMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@20f124f)
+11-09 15:23:12.672  1893  1910 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.DROPBOX_ENTRY_ADDED flg=0x10 (has extras) } to com.google.android.gms/.stats.service.DropBoxEntryAddedReceiver
+11-09 15:23:12.672  1893  1910 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.DROPBOX_ENTRY_ADDED flg=0x10 (has extras) } to com.google.android.gms/.chimera.GmsIntentOperationService$PersistentTrustedReceiver
+11-09 15:23:12.771 16557 16557 W app_process: Could not reserve sentinel fault page
+11-09 15:23:12.797 16557 16557 W app_process: Unexpected CPU variant for X86 using defaults: x86
+11-09 15:23:12.798 16557 16557 I app_process: The ClassLoaderContext is a special shared library.
+11-09 15:23:12.810 16557 16557 I Input   : injectMotionEvent: MotionEvent { action=ACTION_DOWN, actionButton=0, id[0]=0, x[0]=747.0, y[0]=868.0, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=35046376, downTime=35046376, deviceId=0, source=0x1002 }
+11-09 15:23:12.811 16557 16557 I Input   : injectMotionEvent: MotionEvent { action=ACTION_MOVE, actionButton=0, id[0]=0, x[0]=747.0, y[0]=868.0, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=35046376, downTime=35046376, deviceId=0, source=0x1002 }
+11-09 15:23:12.828 16557 16557 I Input   : injectMotionEvent: MotionEvent { action=ACTION_MOVE, actionButton=0, id[0]=0, x[0]=747.0, y[0]=868.0, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=35046396, downTime=35046396, deviceId=0, source=0x1002 }
+11-09 15:23:12.845 16557 16557 I Input   : injectMotionEvent: MotionEvent { action=ACTION_MOVE, actionButton=0, id[0]=0, x[0]=747.0, y[0]=868.0, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=35046413, downTime=35046413, deviceId=0, source=0x1002 }
+11-09 15:23:12.862 16557 16557 I Input   : injectMotionEvent: MotionEvent { action=ACTION_MOVE, actionButton=0, id[0]=0, x[0]=747.0, y[0]=868.0, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=35046430, downTime=35046430, deviceId=0, source=0x1002 }
+11-09 15:23:12.879 16557 16557 I Input   : injectMotionEvent: MotionEvent { action=ACTION_MOVE, actionButton=0, id[0]=0, x[0]=747.0, y[0]=868.0, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=35046447, downTime=35046447, deviceId=0, source=0x1002 }
+11-09 15:23:12.896 16557 16557 I Input   : injectMotionEvent: MotionEvent { action=ACTION_MOVE, actionButton=0, id[0]=0, x[0]=747.0, y[0]=868.0, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=35046463, downTime=35046463, deviceId=0, source=0x1002 }
+11-09 15:23:12.913 16557 16557 I Input   : injectMotionEvent: MotionEvent { action=ACTION_MOVE, actionButton=0, id[0]=0, x[0]=747.0, y[0]=868.0, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=35046480, downTime=35046480, deviceId=0, source=0x1002 }
+11-09 15:23:12.930 16557 16557 I Input   : injectMotionEvent: MotionEvent { action=ACTION_MOVE, actionButton=0, id[0]=0, x[0]=747.0, y[0]=868.0, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=35046497, downTime=35046497, deviceId=0, source=0x1002 }
+11-09 15:23:12.947 16557 16557 I Input   : injectMotionEvent: MotionEvent { action=ACTION_MOVE, actionButton=0, id[0]=0, x[0]=747.0, y[0]=868.0, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=35046515, downTime=35046515, deviceId=0, source=0x1002 }
+11-09 15:23:12.963 16557 16557 I Input   : injectMotionEvent: MotionEvent { action=ACTION_MOVE, actionButton=0, id[0]=0, x[0]=747.0, y[0]=868.0, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=35046530, downTime=35046530, deviceId=0, source=0x1002 }
+11-09 15:23:12.980 16557 16557 I Input   : injectMotionEvent: MotionEvent { action=ACTION_MOVE, actionButton=0, id[0]=0, x[0]=747.0, y[0]=868.0, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=35046547, downTime=35046547, deviceId=0, source=0x1002 }
+11-09 15:23:12.997 16557 16557 I Input   : injectMotionEvent: MotionEvent { action=ACTION_MOVE, actionButton=0, id[0]=0, x[0]=747.0, y[0]=868.0, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=35046564, downTime=35046564, deviceId=0, source=0x1002 }
+11-09 15:23:13.013 16557 16557 I Input   : injectMotionEvent: MotionEvent { action=ACTION_UP, actionButton=0, id[0]=0, x[0]=747.0, y[0]=868.0, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=35046581, downTime=35046581, deviceId=0, source=0x1002 }
+11-09 15:23:13.032 15913 15913 I AssistStructure: Flattened final assist data: 5932 bytes, containing 1 windows, 20 views
+11-09 15:23:13.036  1893  2559 I AssistStructure: Flattened final assist data: 5268 bytes, containing 1 windows, 20 views
+11-09 15:23:13.036  2334  2334 W ktk     : Pending fill request while another request in the same session was triggered. [CONTEXT service_id=177 ]
+11-09 15:23:13.100 16570 16570 W app_process: Could not reserve sentinel fault page
+11-09 15:23:13.123 16570 16570 W app_process: Unexpected CPU variant for X86 using defaults: x86
+11-09 15:23:13.124 16570 16570 I app_process: The ClassLoaderContext is a special shared library.
+11-09 15:23:13.135 16570 16570 I Input   : injectKeyEvent: KeyEvent { action=ACTION_DOWN, keyCode=KEYCODE_6, scanCode=0, metaState=0, flags=0x0, repeatCount=0, eventTime=35046703, downTime=35046703, deviceId=-1, source=0x101 }
+11-09 15:23:13.138 16570 16570 I Input   : injectKeyEvent: KeyEvent { action=ACTION_UP, keyCode=KEYCODE_6, scanCode=0, metaState=0, flags=0x0, repeatCount=0, eventTime=35046703, downTime=35046703, deviceId=-1, source=0x101 }
+11-09 15:23:13.654  1893  2213 I GnssLocationProvider: WakeLock acquired by sendMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@3e5abe0)
+11-09 15:23:13.654  1893  1909 I GnssLocationProvider: WakeLock released by handleMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@3e5abe0)
+11-09 15:23:14.268  1747  2460 E SurfaceFlinger: ro.sf.lcd_density must be defined as a build property
+11-09 15:23:14.276 16598 16598 E eglCodecCommon: GoldfishAddressSpaceHostMemoryAllocator: ioctl_ping failed for device_type=5, ret=-1
+11-09 15:23:14.520  1893  1910 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.DROPBOX_ENTRY_ADDED flg=0x10 (has extras) } to com.google.android.gms/.stats.service.DropBoxEntryAddedReceiver
+11-09 15:23:14.520  1893  1910 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.DROPBOX_ENTRY_ADDED flg=0x10 (has extras) } to com.google.android.gms/.chimera.GmsIntentOperationService$PersistentTrustedReceiver
+11-09 15:23:14.654  1893  2213 I GnssLocationProvider: WakeLock acquired by sendMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@ed116f8)
+11-09 15:23:14.654  1893  1909 I GnssLocationProvider: WakeLock released by handleMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@ed116f8)
+11-09 15:23:14.673  1747  2460 E SurfaceFlinger: ro.sf.lcd_density must be defined as a build property
+11-09 15:23:14.681 16629 16629 E eglCodecCommon: GoldfishAddressSpaceHostMemoryAllocator: ioctl_ping failed for device_type=5, ret=-1
+11-09 15:23:14.906  1893  1910 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.DROPBOX_ENTRY_ADDED flg=0x10 (has extras) } to com.google.android.gms/.stats.service.DropBoxEntryAddedReceiver
+11-09 15:23:14.906  1893  1910 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.DROPBOX_ENTRY_ADDED flg=0x10 (has extras) } to com.google.android.gms/.chimera.GmsIntentOperationService$PersistentTrustedReceiver
+11-09 15:23:15.020  1747  2460 E SurfaceFlinger: ro.sf.lcd_density must be defined as a build property
+11-09 15:23:15.028 16662 16662 E eglCodecCommon: GoldfishAddressSpaceHostMemoryAllocator: ioctl_ping failed for device_type=5, ret=-1
+11-09 15:23:15.268  1893  1910 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.DROPBOX_ENTRY_ADDED flg=0x10 (has extras) } to com.google.android.gms/.stats.service.DropBoxEntryAddedReceiver
+11-09 15:23:15.268  1893  1910 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.DROPBOX_ENTRY_ADDED flg=0x10 (has extras) } to com.google.android.gms/.chimera.GmsIntentOperationService$PersistentTrustedReceiver
+11-09 15:23:15.296  1893  1910 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.DROPBOX_ENTRY_ADDED flg=0x10 (has extras) } to com.google.android.gms/.stats.service.DropBoxEntryAddedReceiver
+11-09 15:23:15.296  1893  1910 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.DROPBOX_ENTRY_ADDED flg=0x10 (has extras) } to com.google.android.gms/.chimera.GmsIntentOperationService$PersistentTrustedReceiver
+11-09 15:23:15.322  1893  1910 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.DROPBOX_ENTRY_ADDED flg=0x10 (has extras) } to com.google.android.gms/.stats.service.DropBoxEntryAddedReceiver
+11-09 15:23:15.322  1893  1910 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.DROPBOX_ENTRY_ADDED flg=0x10 (has extras) } to com.google.android.gms/.chimera.GmsIntentOperationService$PersistentTrustedReceiver
+11-09 15:23:15.350  1893  1910 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.DROPBOX_ENTRY_ADDED flg=0x10 (has extras) } to com.google.android.gms/.stats.service.DropBoxEntryAddedReceiver
+11-09 15:23:15.350  1893  1910 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.DROPBOX_ENTRY_ADDED flg=0x10 (has extras) } to com.google.android.gms/.chimera.GmsIntentOperationService$PersistentTrustedReceiver
+11-09 15:23:15.469 16707 16707 W app_process: Unexpected CPU variant for X86 using defaults: x86
+11-09 15:23:15.469 16707 16707 I app_process: The ClassLoaderContext is a special shared library.
+11-09 15:23:15.480 16707 16707 I Input   : injectMotionEvent: MotionEvent { action=ACTION_DOWN, actionButton=0, id[0]=0, x[0]=1202.0, y[0]=590.0, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=35049046, downTime=35049046, deviceId=0, source=0x1002 }
+11-09 15:23:15.481 16707 16707 I Input   : injectMotionEvent: MotionEvent { action=ACTION_MOVE, actionButton=0, id[0]=0, x[0]=1202.0, y[0]=590.0, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=35049046, downTime=35049046, deviceId=0, source=0x1002 }
+11-09 15:23:15.486 16707 16707 I Input   : injectMotionEvent: MotionEvent { action=ACTION_MOVE, actionButton=0, id[0]=0, x[0]=1202.0, y[0]=590.0, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=35049054, downTime=35049054, deviceId=0, source=0x1002 }
+11-09 15:23:15.503 16707 16707 I Input   : injectMotionEvent: MotionEvent { action=ACTION_MOVE, actionButton=0, id[0]=0, x[0]=1202.0, y[0]=590.0, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=35049070, downTime=35049070, deviceId=0, source=0x1002 }
+11-09 15:23:15.520 16707 16707 I Input   : injectMotionEvent: MotionEvent { action=ACTION_MOVE, actionButton=0, id[0]=0, x[0]=1202.0, y[0]=590.0, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=35049087, downTime=35049087, deviceId=0, source=0x1002 }
+11-09 15:23:15.537 16707 16707 I Input   : injectMotionEvent: MotionEvent { action=ACTION_MOVE, actionButton=0, id[0]=0, x[0]=1202.0, y[0]=590.0, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=35049104, downTime=35049104, deviceId=0, source=0x1002 }
+11-09 15:23:15.554 16707 16707 I Input   : injectMotionEvent: MotionEvent { action=ACTION_MOVE, actionButton=0, id[0]=0, x[0]=1202.0, y[0]=590.0, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=35049121, downTime=35049121, deviceId=0, source=0x1002 }
+11-09 15:23:15.571 16707 16707 I Input   : injectMotionEvent: MotionEvent { action=ACTION_MOVE, actionButton=0, id[0]=0, x[0]=1202.0, y[0]=590.0, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=35049138, downTime=35049138, deviceId=0, source=0x1002 }
+11-09 15:23:15.587 16707 16707 I Input   : injectMotionEvent: MotionEvent { action=ACTION_MOVE, actionButton=0, id[0]=0, x[0]=1202.0, y[0]=590.0, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=35049155, downTime=35049155, deviceId=0, source=0x1002 }
+11-09 15:23:15.604 16707 16707 I Input   : injectMotionEvent: MotionEvent { action=ACTION_MOVE, actionButton=0, id[0]=0, x[0]=1202.0, y[0]=590.0, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=35049172, downTime=35049172, deviceId=0, source=0x1002 }
+11-09 15:23:15.621 16707 16707 I Input   : injectMotionEvent: MotionEvent { action=ACTION_MOVE, actionButton=0, id[0]=0, x[0]=1202.0, y[0]=590.0, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=35049188, downTime=35049188, deviceId=0, source=0x1002 }
+11-09 15:23:15.638 16707 16707 I Input   : injectMotionEvent: MotionEvent { action=ACTION_MOVE, actionButton=0, id[0]=0, x[0]=1202.0, y[0]=590.0, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=35049205, downTime=35049205, deviceId=0, source=0x1002 }
+11-09 15:23:15.654  1893  2213 I GnssLocationProvider: WakeLock acquired by sendMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@9c55d79)
+11-09 15:23:15.655  1893  1909 I GnssLocationProvider: WakeLock released by handleMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@9c55d79)
+11-09 15:23:15.655 16707 16707 I Input   : injectMotionEvent: MotionEvent { action=ACTION_MOVE, actionButton=0, id[0]=0, x[0]=1202.0, y[0]=590.0, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=35049222, downTime=35049222, deviceId=0, source=0x1002 }
+11-09 15:23:15.672 16707 16707 I Input   : injectMotionEvent: MotionEvent { action=ACTION_MOVE, actionButton=0, id[0]=0, x[0]=1202.0, y[0]=590.0, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=35049239, downTime=35049239, deviceId=0, source=0x1002 }
+11-09 15:23:15.688 16707 16707 I Input   : injectMotionEvent: MotionEvent { action=ACTION_UP, actionButton=0, id[0]=0, x[0]=1202.0, y[0]=590.0, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=35049256, downTime=35049256, deviceId=0, source=0x1002 }
+11-09 15:23:15.698  1631  4911 W audio_hw_generic: Not supplying enough data to HAL, expected position 55481255 , only wrote 55481040
+11-09 15:23:16.654  1893  2213 I GnssLocationProvider: WakeLock acquired by sendMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@19dabe)
+11-09 15:23:16.655  1893  1909 I GnssLocationProvider: WakeLock released by handleMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@19dabe)
+11-09 15:23:16.666  1760  1827 E storaged: getDiskStats failed with result NOT_SUPPORTED and size 0
+11-09 15:23:16.816  1747  2460 E SurfaceFlinger: ro.sf.lcd_density must be defined as a build property
+11-09 15:23:16.824 16732 16732 E eglCodecCommon: GoldfishAddressSpaceHostMemoryAllocator: ioctl_ping failed for device_type=5, ret=-1
+11-09 15:23:17.061  1893  1910 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.DROPBOX_ENTRY_ADDED flg=0x10 (has extras) } to com.google.android.gms/.stats.service.DropBoxEntryAddedReceiver
+11-09 15:23:17.061  1893  1910 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.DROPBOX_ENTRY_ADDED flg=0x10 (has extras) } to com.google.android.gms/.chimera.GmsIntentOperationService$PersistentTrustedReceiver
+11-09 15:23:17.227  1747  2460 E SurfaceFlinger: ro.sf.lcd_density must be defined as a build property
+11-09 15:23:17.239 16765 16765 E eglCodecCommon: GoldfishAddressSpaceHostMemoryAllocator: ioctl_ping failed for device_type=5, ret=-1
+11-09 15:23:17.497  1893  1910 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.DROPBOX_ENTRY_ADDED flg=0x10 (has extras) } to com.google.android.gms/.stats.service.DropBoxEntryAddedReceiver
+11-09 15:23:17.497  1893  1910 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.DROPBOX_ENTRY_ADDED flg=0x10 (has extras) } to com.google.android.gms/.chimera.GmsIntentOperationService$PersistentTrustedReceiver
+11-09 15:23:17.601  1747  2460 E SurfaceFlinger: ro.sf.lcd_density must be defined as a build property
+11-09 15:23:17.610 16796 16796 E eglCodecCommon: GoldfishAddressSpaceHostMemoryAllocator: ioctl_ping failed for device_type=5, ret=-1
+11-09 15:23:17.654  1893  2213 I GnssLocationProvider: WakeLock acquired by sendMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@d1621b3)
+11-09 15:23:17.654  1893  1909 I GnssLocationProvider: WakeLock released by handleMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@d1621b3)
+11-09 15:23:17.844  1893  1910 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.DROPBOX_ENTRY_ADDED flg=0x10 (has extras) } to com.google.android.gms/.stats.service.DropBoxEntryAddedReceiver
+11-09 15:23:17.844  1893  1910 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.DROPBOX_ENTRY_ADDED flg=0x10 (has extras) } to com.google.android.gms/.chimera.GmsIntentOperationService$PersistentTrustedReceiver
+11-09 15:23:17.874  1893  1910 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.DROPBOX_ENTRY_ADDED flg=0x10 (has extras) } to com.google.android.gms/.stats.service.DropBoxEntryAddedReceiver
+11-09 15:23:17.874  1893  1910 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.DROPBOX_ENTRY_ADDED flg=0x10 (has extras) } to com.google.android.gms/.chimera.GmsIntentOperationService$PersistentTrustedReceiver
+11-09 15:23:17.903  1893  1910 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.DROPBOX_ENTRY_ADDED flg=0x10 (has extras) } to com.google.android.gms/.stats.service.DropBoxEntryAddedReceiver
+11-09 15:23:17.903  1893  1910 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.DROPBOX_ENTRY_ADDED flg=0x10 (has extras) } to com.google.android.gms/.chimera.GmsIntentOperationService$PersistentTrustedReceiver
+11-09 15:23:17.932  1893  1910 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.DROPBOX_ENTRY_ADDED flg=0x10 (has extras) } to com.google.android.gms/.stats.service.DropBoxEntryAddedReceiver
+11-09 15:23:17.932  1893  1910 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.DROPBOX_ENTRY_ADDED flg=0x10 (has extras) } to com.google.android.gms/.chimera.GmsIntentOperationService$PersistentTrustedReceiver
+11-09 15:23:18.048 16841 16841 W app_process: Unexpected CPU variant for X86 using defaults: x86
+11-09 15:23:18.049 16841 16841 I app_process: The ClassLoaderContext is a special shared library.
+11-09 15:23:18.061 16841 16841 I Input   : injectMotionEvent: MotionEvent { action=ACTION_DOWN, actionButton=0, id[0]=0, x[0]=720.0, y[0]=1443.0, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=35051628, downTime=35051628, deviceId=0, source=0x1002 }
+11-09 15:23:18.062 16841 16841 I Input   : injectMotionEvent: MotionEvent { action=ACTION_MOVE, actionButton=0, id[0]=0, x[0]=720.0, y[0]=1443.0, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=35051628, downTime=35051628, deviceId=0, source=0x1002 }
+11-09 15:23:18.077 16841 16841 I Input   : injectMotionEvent: MotionEvent { action=ACTION_MOVE, actionButton=0, id[0]=0, x[0]=720.0, y[0]=1443.0, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=35051644, downTime=35051644, deviceId=0, source=0x1002 }
+11-09 15:23:18.094 16841 16841 I Input   : injectMotionEvent: MotionEvent { action=ACTION_MOVE, actionButton=0, id[0]=0, x[0]=720.0, y[0]=1443.0, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=35051661, downTime=35051661, deviceId=0, source=0x1002 }
+11-09 15:23:18.111 16841 16841 I Input   : injectMotionEvent: MotionEvent { action=ACTION_MOVE, actionButton=0, id[0]=0, x[0]=720.0, y[0]=1443.0, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=35051678, downTime=35051678, deviceId=0, source=0x1002 }
+11-09 15:23:18.127 16841 16841 I Input   : injectMotionEvent: MotionEvent { action=ACTION_MOVE, actionButton=0, id[0]=0, x[0]=720.0, y[0]=1443.0, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=35051695, downTime=35051695, deviceId=0, source=0x1002 }
+11-09 15:23:18.144 16841 16841 I Input   : injectMotionEvent: MotionEvent { action=ACTION_MOVE, actionButton=0, id[0]=0, x[0]=720.0, y[0]=1443.0, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=35051712, downTime=35051712, deviceId=0, source=0x1002 }
+11-09 15:23:18.163 16841 16841 I Input   : injectMotionEvent: MotionEvent { action=ACTION_MOVE, actionButton=0, id[0]=0, x[0]=720.0, y[0]=1443.0, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=35051730, downTime=35051730, deviceId=0, source=0x1002 }
+11-09 15:23:18.178 16841 16841 I Input   : injectMotionEvent: MotionEvent { action=ACTION_MOVE, actionButton=0, id[0]=0, x[0]=720.0, y[0]=1443.0, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=35051745, downTime=35051745, deviceId=0, source=0x1002 }
+11-09 15:23:18.195 16841 16841 I Input   : injectMotionEvent: MotionEvent { action=ACTION_MOVE, actionButton=0, id[0]=0, x[0]=720.0, y[0]=1443.0, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=35051762, downTime=35051762, deviceId=0, source=0x1002 }
+11-09 15:23:18.211 16841 16841 I Input   : injectMotionEvent: MotionEvent { action=ACTION_MOVE, actionButton=0, id[0]=0, x[0]=720.0, y[0]=1443.0, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=35051779, downTime=35051779, deviceId=0, source=0x1002 }
+11-09 15:23:18.228 16841 16841 I Input   : injectMotionEvent: MotionEvent { action=ACTION_MOVE, actionButton=0, id[0]=0, x[0]=720.0, y[0]=1443.0, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=35051796, downTime=35051796, deviceId=0, source=0x1002 }
+11-09 15:23:18.245 16841 16841 I Input   : injectMotionEvent: MotionEvent { action=ACTION_MOVE, actionButton=0, id[0]=0, x[0]=720.0, y[0]=1443.0, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=35051813, downTime=35051813, deviceId=0, source=0x1002 }
+11-09 15:23:18.262 16841 16841 I Input   : injectMotionEvent: MotionEvent { action=ACTION_UP, actionButton=0, id[0]=0, x[0]=720.0, y[0]=1443.0, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=35051830, downTime=35051830, deviceId=0, source=0x1002 }
+11-09 15:23:18.265  1893  2542 I ActivityManager: START u0 {cmp=com.bmi.bmr.calculator.tracker.health.tdee/.CalculatorsResultActivity (has extras)} from uid 10107
+11-09 15:23:18.275 15913 15913 W ActivityThread: handleWindowVisibility: no activity for token android.os.BinderProxy@39e3fd0
+11-09 15:23:18.348  1893  1918 I ActivityManager: Displayed com.bmi.bmr.calculator.tracker.health.tdee/.CalculatorsResultActivity: +75ms
+11-09 15:23:18.365 15913 15951 I chatty  : uid=10107(com.bmi.bmr.calculator.tracker.health.tdee) RenderThread identical 2 lines
+11-09 15:23:18.654  1893  2213 I GnssLocationProvider: WakeLock acquired by sendMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@b0e8700)
+11-09 15:23:18.655  1893  1909 I GnssLocationProvider: WakeLock released by handleMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@b0e8700)
+11-09 15:23:18.834  1747  1747 W SurfaceFlinger: couldn't log to binary event log: overflow.
+11-09 15:23:19.391  1747  2025 E SurfaceFlinger: ro.sf.lcd_density must be defined as a build property
+11-09 15:23:19.406 16876 16876 E eglCodecCommon: GoldfishAddressSpaceHostMemoryAllocator: ioctl_ping failed for device_type=5, ret=-1
+11-09 15:23:19.468  8516  9826 W native  : vr_photo_detector.cc:47  Could not read file: /storage/emulated/0/screen_2023-11-09_152309.png
+11-09 15:23:19.540  8516  9826 W native  : vr_photo_detector.cc:47  Could not read file: /storage/emulated/0/screen_2023-10-27_153758.png
+11-09 15:23:19.541  8516  9827 W native  : vr_photo_detector.cc:47  Could not read file: /storage/emulated/0/screen_2023-10-27_153336.png
+11-09 15:23:19.545  8516  9826 W native  : vr_photo_detector.cc:47  Could not read file: /storage/emulated/0/screen_2023-10-27_154120.png
+11-09 15:23:19.547  8516  9827 W native  : vr_photo_detector.cc:47  Could not read file: /storage/emulated/0/screen_2023-10-27_154204.png
+11-09 15:23:19.550  8516  9826 W native  : vr_photo_detector.cc:47  Could not read file: /storage/emulated/0/screen_2023-10-27_154215.png
+11-09 15:23:19.553  8516  9827 W native  : vr_photo_detector.cc:47  Could not read file: /storage/emulated/0/screen_2023-10-27_154307.png
+11-09 15:23:19.557  8516  9826 W native  : vr_photo_detector.cc:47  Could not read file: /storage/emulated/0/screen_2023-10-27_154531.png
+11-09 15:23:19.559  8516  9827 W native  : vr_photo_detector.cc:47  Could not read file: /storage/emulated/0/screen_2023-10-27_154612.png
+11-09 15:23:19.563  8516  9826 W native  : vr_photo_detector.cc:47  Could not read file: /storage/emulated/0/screen_2023-10-27_154734.png
+11-09 15:23:19.564  8516  9827 W native  : vr_photo_detector.cc:47  Could not read file: /storage/emulated/0/screen_2023-10-27_154913.png
+11-09 15:23:19.568  8516  9826 W native  : vr_photo_detector.cc:47  Could not read file: /storage/emulated/0/screen_2023-10-27_154922.png
+11-09 15:23:19.569  8516  9827 W native  : vr_photo_detector.cc:47  Could not read file: /storage/emulated/0/screen_2023-10-27_155047.png
+11-09 15:23:19.573  8516  9826 W native  : vr_photo_detector.cc:47  Could not read file: /storage/emulated/0/screen_2023-10-27_155825.png
+11-09 15:23:19.575  8516  9827 W native  : vr_photo_detector.cc:47  Could not read file: /storage/emulated/0/screen_2023-10-27_160325.png
+11-09 15:23:19.577  8516  9826 W native  : vr_photo_detector.cc:47  Could not read file: /storage/emulated/0/screen_2023-10-27_160351.png
+11-09 15:23:19.580  8516  9827 W native  : vr_photo_detector.cc:47  Could not read file: /storage/emulated/0/screen_2023-10-27_160443.png
+11-09 15:23:19.582  8516  9826 W native  : vr_photo_detector.cc:47  Could not read file: /storage/emulated/0/screen_2023-10-27_160637.png
+11-09 15:23:19.584  8516  9827 W native  : vr_photo_detector.cc:47  Could not read file: /storage/emulated/0/screen_2023-10-27_160722.png
+11-09 15:23:19.587  8516  9826 W native  : vr_photo_detector.cc:47  Could not read file: /storage/emulated/0/screen_2023-10-27_161346.png
+11-09 15:23:19.603  8516  9826 W native  : vr_photo_detector.cc:47  Could not read file: /storage/emulated/0/screen_2023-10-27_161923.png
+11-09 15:23:19.607  8516  9826 W native  : vr_photo_detector.cc:47  Could not read file: /storage/emulated/0/screen_2023-10-27_162420.png
+11-09 15:23:19.608  8516  9827 W native  : vr_photo_detector.cc:47  Could not read file: /storage/emulated/0/screen_2023-10-27_161536.png
+11-09 15:23:19.613  8516  9826 W native  : vr_photo_detector.cc:47  Could not read file: /storage/emulated/0/screen_2023-10-27_162455.png
+11-09 15:23:19.617  8516  9827 W native  : vr_photo_detector.cc:47  Could not read file: /storage/emulated/0/screen_2023-10-27_162725.png
+11-09 15:23:19.618  8516  9826 W native  : vr_photo_detector.cc:47  Could not read file: /storage/emulated/0/screen_2023-10-27_162734.png
+11-09 15:23:19.621  8516  9827 W native  : vr_photo_detector.cc:47  Could not read file: /storage/emulated/0/screen_2023-10-27_163214.png
+11-09 15:23:19.623  8516  9826 W native  : vr_photo_detector.cc:47  Could not read file: /storage/emulated/0/screen_2023-10-27_163442.png
+11-09 15:23:19.626  8516  9827 W native  : vr_photo_detector.cc:47  Could not read file: /storage/emulated/0/screen_2023-10-27_163520.png
+11-09 15:23:19.628  8516  9826 W native  : vr_photo_detector.cc:47  Could not read file: /storage/emulated/0/screen_2023-10-27_163529.png
+11-09 15:23:19.632  8516  9826 W native  : vr_photo_detector.cc:47  Could not read file: /storage/emulated/0/screen_2023-10-27_163909.png
+11-09 15:23:19.633  8516  9827 W native  : vr_photo_detector.cc:47  Could not read file: /storage/emulated/0/screen_2023-10-27_163827.png
+11-09 15:23:19.641  8516  9826 W native  : vr_photo_detector.cc:47  Could not read file: /storage/emulated/0/screen_2023-10-27_164804.png
+11-09 15:23:19.642  8516  9827 W native  : vr_photo_detector.cc:47  Could not read file: /storage/emulated/0/screen_2023-10-27_164844.png
+11-09 15:23:19.646  8516  9826 W native  : vr_photo_detector.cc:47  Could not read file: /storage/emulated/0/screen_2023-10-27_165011.png
+11-09 15:23:19.647  8516  9827 W native  : vr_photo_detector.cc:47  Could not read file: /storage/emulated/0/screen_2023-10-27_165158.png
+11-09 15:23:19.651  8516  9826 W native  : vr_photo_detector.cc:47  Could not read file: /storage/emulated/0/screen_2023-10-27_165335.png
+11-09 15:23:19.652  8516  9827 W native  : vr_photo_detector.cc:47  Could not read file: /storage/emulated/0/screen_2023-10-27_165411.png
+11-09 15:23:19.654  1893  2213 I GnssLocationProvider: WakeLock acquired by sendMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@b96d4a9)
+11-09 15:23:19.654  1893  1909 I GnssLocationProvider: WakeLock released by handleMessage(REPORT_SV_STATUS, 0, com.android.server.location.GnssLocationProvider$SvStatusInfo@b96d4a9)
+11-09 15:23:19.657  8516  9826 W native  : vr_photo_detector.cc:47  Could not read file: /storage/emulated/0/screen_2023-10-27_165625.png
+11-09 15:23:19.661  8516  9827 W native  : vr_photo_detector.cc:47  Could not read file: /storage/emulated/0/screen_2023-10-27_165825.png
+11-09 15:23:19.663  8516  9826 W native  : vr_photo_detector.cc:47  Could not read file: /storage/emulated/0/screen_2023-10-27_170106.png
+11-09 15:23:19.666  8516  9827 W native  : vr_photo_detector.cc:47  Could not read file: /storage/emulated/0/screen_2023-10-27_170237.png
+11-09 15:23:19.667  8516  9826 W native  : vr_photo_detector.cc:47  Could not read file: /storage/emulated/0/screen_2023-10-27_170526.png
+11-09 15:23:19.669  1893  1910 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.DROPBOX_ENTRY_ADDED flg=0x10 (has extras) } to com.google.android.gms/.stats.service.DropBoxEntryAddedReceiver
+11-09 15:23:19.669  1893  1910 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.DROPBOX_ENTRY_ADDED flg=0x10 (has extras) } to com.google.android.gms/.chimera.GmsIntentOperationService$PersistentTrustedReceiver
+11-09 15:23:19.674  8516  9827 W native  : vr_photo_detector.cc:47  Could not read file: /storage/emulated/0/screen_2023-10-27_170829.png
+11-09 15:23:19.678  8516  9826 W native  : vr_photo_detector.cc:47  Could not read file: /storage/emulated/0/screen_2023-10-27_170843.png
+11-09 15:23:19.679  8516  9827 W native  : vr_photo_detector.cc:47  Could not read file: /storage/emulated/0/screen_2023-10-27_171107.png
+11-09 15:23:19.683  8516  9826 W native  : vr_photo_detector.cc:47  Could not read file: /storage/emulated/0/screen_2023-10-27_171454.png
+11-09 15:23:19.684  8516  9827 W native  : vr_photo_detector.cc:47  Could not read file: /storage/emulated/0/screen_2023-10-27_171838.png
+11-09 15:23:19.688  8516  9826 W native  : vr_photo_detector.cc:47  Could not read file: /storage/emulated/0/screen_2023-10-27_171931.png
+11-09 15:23:19.689  8516  9827 W native  : vr_photo_detector.cc:47  Could not read file: /storage/emulated/0/screen_2023-10-27_172019.png
+11-09 15:23:19.693  8516  9826 W native  : vr_photo_detector.cc:47  Could not read file: /storage/emulated/0/screen_2023-10-27_172257.png
+11-09 15:23:19.694  8516  9827 W native  : vr_photo_detector.cc:47  Could not read file: /storage/emulated/0/screen_2023-10-27_172431.png
+11-09 15:23:19.697  8516  9826 W native  : vr_photo_detector.cc:47  Could not read file: /storage/emulated/0/screen_2023-10-27_173039.png
+11-09 15:23:19.699  8516  9827 W native  : vr_photo_detector.cc:47  Could not read file: /storage/emulated/0/screen_2023-10-27_173156.png
+11-09 15:23:19.702  8516  9826 W native  : vr_photo_detector.cc:47  Could not read file: /storage/emulated/0/screen_2023-10-27_173628.png
+11-09 15:23:19.704  8516  9827 W native  : vr_photo_detector.cc:47  Could not read file: /storage/emulated/0/screen_2023-10-27_173652.png
+11-09 15:23:19.708  8516  9826 W native  : vr_photo_detector.cc:47  Could not read file: /storage/emulated/0/screen_2023-10-27_184903.png
+11-09 15:23:19.709  8516  9827 W native  : vr_photo_detector.cc:47  Could not read file: /storage/emulated/0/screen_2023-10-27_190251.png
+11-09 15:23:19.713  8516  9826 W native  : vr_photo_detector.cc:47  Could not read file: /storage/emulated/0/screen_2023-10-27_190507.png
+11-09 15:23:19.715  8516  9827 W native  : vr_photo_detector.cc:47  Could not read file: /storage/emulated/0/screen_2023-10-27_190914.png
+11-09 15:23:19.719  8516  9826 W native  : vr_photo_detector.cc:47  Could not read file: /storage/emulated/0/screen_2023-10-27_191211.png
+11-09 15:23:19.720  8516  9827 W native  : vr_photo_detector.cc:47  Could not read file: /storage/emulated/0/screen_2023-10-27_191404.png
+11-09 15:23:19.724  8516  9826 W native  : vr_photo_detector.cc:47  Could not read file: /storage/emulated/0/screen_2023-10-27_191413.png
+11-09 15:23:19.726  8516  9827 W native  : vr_photo_detector.cc:47  Could not read file: /storage/emulated/0/screen_2023-10-27_191714.png
+11-09 15:23:19.730  8516  9826 W native  : vr_photo_detector.cc:47  Could not read file: /storage/emulated/0/screen_2023-10-27_192530.png
+11-09 15:23:19.731  8516  9827 W native  : vr_photo_detector.cc:47  Could not read file: /storage/emulated/0/screen_2023-10-27_192652.png
+11-09 15:23:19.736  8516  9826 W native  : vr_photo_detector.cc:47  Could not read file: /storage/emulated/0/screen_2023-10-27_192939.png
+11-09 15:23:19.736  8516  9827 W native  : vr_photo_detector.cc:47  Could not read file: /storage/emulated/0/screen_2023-10-27_193345.png
+11-09 15:23:19.740  8516  9826 W native  : vr_photo_detector.cc:47  Could not read file: /storage/emulated/0/screen_2023-10-27_193454.png
+11-09 15:23:19.742  8516  9827 W native  : vr_photo_detector.cc:47  Could not read file: /storage/emulated/0/screen_2023-10-27_193514.png
+11-09 15:23:19.749  8516  9827 W native  : vr_photo_detector.cc:47  Could not read file: /storage/emulated/0/screen_2023-10-27_193728.png
+11-09 15:23:19.751  8516  9826 W native  : vr_photo_detector.cc:47  Could not read file: /storage/emulated/0/screen_2023-10-27_193717.png
+11-09 15:23:19.755  8516  9827 W native  : vr_photo_detector.cc:47  Could not read file: /storage/emulated/0/screen_2023-10-27_193745.png
+11-09 15:23:19.757  8516  9826 W native  : vr_photo_detector.cc:47  Could not read file: /storage/emulated/0/screen_2023-10-27_193957.png
+11-09 15:23:19.763  8516  9827 W native  : vr_photo_detector.cc:47  Could not read file: /storage/emulated/0/screen_2023-10-27_194002.png
+11-09 15:23:19.765  8516  9826 W native  : vr_photo_detector.cc:47  Could not read file: /storage/emulated/0/screen_2023-10-27_194230.png
+11-09 15:23:19.769  8516  9827 W native  : vr_photo_detector.cc:47  Could not read file: /storage/emulated/0/screen_2023-10-27_195619.png
+11-09 15:23:19.771  8516  9826 W native  : vr_photo_detector.cc:47  Could not read file: /storage/emulated/0/screen_2023-10-27_195630.png
+11-09 15:23:19.776  8516  9827 W native  : vr_photo_detector.cc:47  Could not read file: /storage/emulated/0/screen_2023-10-27_195810.png
+11-09 15:23:19.777  8516  9826 W native  : vr_photo_detector.cc:47  Could not read file: /storage/emulated/0/screen_2023-10-27_195921.png
+11-09 15:23:19.782  8516  9827 W native  : vr_photo_detector.cc:47  Could not read file: /storage/emulated/0/screen_2023-10-27_200023.png
+11-09 15:23:19.784  8516  9826 W native  : vr_photo_detector.cc:47  Could not read file: /storage/emulated/0/screen_2023-10-27_200822.png
+11-09 15:23:19.787  8516  9827 W native  : vr_photo_detector.cc:47  Could not read file: /storage/emulated/0/screen_2023-10-27_201430.png
+11-09 15:23:19.788  8516  9826 W native  : vr_photo_detector.cc:47  Could not read file: /storage/emulated/0/screen_2023-10-27_201610.png
+11-09 15:23:19.793  8516  9826 W native  : vr_photo_detector.cc:47  Could not read file: /storage/emulated/0/screen_2023-10-27_202814.png
+11-09 15:23:19.795  8516  9827 W native  : vr_photo_detector.cc:47  Could not read file: /storage/emulated/0/screen_2023-10-27_201905.png
+11-09 15:23:19.800  8516  9826 W native  : vr_photo_detector.cc:47  Could not read file: /storage/emulated/0/screen_2023-10-27_203313.png
+11-09 15:23:19.802  8516  9827 W native  : vr_photo_detector.cc:47  Could not read file: /storage/emulated/0/screen_2023-10-27_203350.png
+11-09 15:23:19.805  8516  9826 W native  : vr_photo_detector.cc:47  Could not read file: /storage/emulated/0/screen_2023-10-27_203439.png
+11-09 15:23:19.807  8516  9827 W native  : vr_photo_detector.cc:47  Could not read file: /storage/emulated/0/screen_2023-10-27_203459.png
+11-09 15:23:19.811  8516  9826 W native  : vr_photo_detector.cc:47  Could not read file: /storage/emulated/0/screen_2023-10-27_204548.png
+11-09 15:23:19.812  8516  9827 W native  : vr_photo_detector.cc:47  Could not read file: /storage/emulated/0/screen_2023-10-27_204608.png
+11-09 15:23:19.816  8516  9826 W native  : vr_photo_detector.cc:47  Could not read file: /storage/emulated/0/screen_2023-10-27_204617.png
+11-09 15:23:19.817  8516  9827 W native  : vr_photo_detector.cc:47  Could not read file: /storage/emulated/0/screen_2023-10-27_204642.png
+11-09 15:23:19.820  8516  9826 W native  : vr_photo_detector.cc:47  Could not read file: /storage/emulated/0/screen_2023-11-06_195309.png
+11-09 15:23:19.822  8516  9827 W native  : vr_photo_detector.cc:47  Could not read file: /storage/emulated/0/screen_2023-11-06_195329.png
+11-09 15:23:19.827  8516  9826 W native  : vr_photo_detector.cc:47  Could not read file: /storage/emulated/0/screen_2023-11-06_195347.png
+11-09 15:23:19.831  8516  9827 W native  : vr_photo_detector.cc:47  Could not read file: /storage/emulated/0/screen_2023-11-06_195415.png
+11-09 15:23:19.833  8516  9826 W native  : vr_photo_detector.cc:47  Could not read file: /storage/emulated/0/screen_2023-11-06_195434.png
+11-09 15:23:19.836  8516  9827 W native  : vr_photo_detector.cc:47  Could not read file: /storage/emulated/0/screen_2023-11-06_195452.png
+11-09 15:23:19.837  8516  9826 W native  : vr_photo_detector.cc:47  Could not read file: /storage/emulated/0/screen_2023-11-06_195513.png
+11-09 15:23:19.840  8516  9827 W native  : vr_photo_detector.cc:47  Could not read file: /storage/emulated/0/screen_2023-11-06_195610.png
+11-09 15:23:19.841  1747  1780 E SurfaceFlinger: ro.sf.lcd_density must be defined as a build property
+11-09 15:23:19.843  8516  9826 W native  : vr_photo_detector.cc:47  Could not read file: /storage/emulated/0/screen_2023-11-06_195636.png
+11-09 15:23:19.849 16908 16908 E eglCodecCommon: GoldfishAddressSpaceHostMemoryAllocator: ioctl_ping failed for device_type=5, ret=-1
+11-09 15:23:19.849  8516  9827 W native  : vr_photo_detector.cc:47  Could not read file: /storage/emulated/0/screen_2023-11-06_195705.png
+11-09 15:23:19.850  8516  9826 W native  : vr_photo_detector.cc:47  Could not read file: /storage/emulated/0/screen_2023-11-06_195714.png
+11-09 15:23:19.855  8516  9827 W native  : vr_photo_detector.cc:47  Could not read file: /storage/emulated/0/screen_2023-11-06_195736.png
+11-09 15:23:19.858  8516  9826 W native  : vr_photo_detector.cc:47  Could not read file: /storage/emulated/0/screen_2023-11-06_195914.png
+11-09 15:23:19.861  8516  9827 W native  : vr_photo_detector.cc:47  Could not read file: /storage/emulated/0/screen_2023-11-06_200002.png
+11-09 15:23:19.864  8516  9826 W native  : vr_photo_detector.cc:47  Could not read file: /storage/emulated/0/screen_2023-11-06_200048.png
+11-09 15:23:19.866  8516  9827 W native  : vr_photo_detector.cc:47  Could not read file: /storage/emulated/0/screen_2023-11-06_200100.png
+11-09 15:23:19.869  8516  9826 W native  : vr_photo_detector.cc:47  Could not read file: /storage/emulated/0/screen_2023-11-06_200234.png
+11-09 15:23:19.872  8516  9827 W native  : vr_photo_detector.cc:47  Could not read file: /storage/emulated/0/screen_2023-11-06_200415.png
+11-09 15:23:19.874  8516  9826 W native  : vr_photo_detector.cc:47  Could not read file: /storage/emulated/0/screen_2023-11-06_200418.png
+11-09 15:23:19.880  8516  9826 W native  : vr_photo_detector.cc:47  Could not read file: /storage/emulated/0/screen_2023-11-06_200633.png
+11-09 15:23:19.881  8516  9827 W native  : vr_photo_detector.cc:47  Could not read file: /storage/emulated/0/screen_2023-11-06_200549.png
+11-09 15:23:19.886  8516  9827 W native  : vr_photo_detector.cc:47  Could not read file: /storage/emulated/0/screen_2023-11-06_200800.png
+11-09 15:23:19.891  8516  9826 W native  : vr_photo_detector.cc:47  Could not read file: /storage/emulated/0/screen_2023-11-06_200748.png
+11-09 15:23:19.892  8516  9827 W native  : vr_photo_detector.cc:47  Could not read file: /storage/emulated/0/screen_2023-11-06_200835.png
+11-09 15:23:19.896  8516  9826 W native  : vr_photo_detector.cc:47  Could not read file: /storage/emulated/0/screen_2023-11-06_200850.png
+11-09 15:23:19.942  8516  9826 W native  : vr_photo_detector.cc:47  Could not read file: /storage/emulated/0/screen_2023-11-06_201021.png
+11-09 15:23:19.948  8516  9827 W native  : vr_photo_detector.cc:47  Could not read file: /storage/emulated/0/screen_2023-11-06_200914.png
+11-09 15:23:19.949  8516  9826 W native  : vr_photo_detector.cc:47  Could not read file: /storage/emulated/0/screen_2023-11-06_201048.png
+11-09 15:23:19.953  8516  9827 W native  : vr_photo_detector.cc:47  Could not read file: /storage/emulated/0/screen_2023-11-06_201126.png
+11-09 15:23:19.954  8516  9826 W native  : vr_photo_detector.cc:47  Could not read file: /storage/emulated/0/screen_2023-11-06_201306.png
+11-09 15:23:19.958  8516  9827 W native  : vr_photo_detector.cc:47  Could not read file: /storage/emulated/0/screen_2023-11-06_201405.png
+11-09 15:23:19.961  8516  9826 W native  : vr_photo_detector.cc:47  Could not read file: /storage/emulated/0/screen_2023-11-06_201420.png
+11-09 15:23:19.964  8516  9827 W native  : vr_photo_detector.cc:47  Could not read file: /storage/emulated/0/screen_2023-11-06_201618.png
+11-09 15:23:19.968  8516  9826 W native  : vr_photo_detector.cc:47  Could not read file: /storage/emulated/0/screen_2023-11-06_201648.png
+11-09 15:23:19.972  8516  9827 W native  : vr_photo_detector.cc:47  Could not read file: /storage/emulated/0/screen_2023-11-06_201710.png
+11-09 15:23:19.973  8516  9826 W native  : vr_photo_detector.cc:47  Could not read file: /storage/emulated/0/screen_2023-11-06_201719.png
+11-09 15:23:19.978  8516  9827 W native  : vr_photo_detector.cc:47  Could not read file: /storage/emulated/0/screen_2023-11-06_201931.png
+11-09 15:23:19.980  8516  9826 W native  : vr_photo_detector.cc:47  Could not read file: /storage/emulated/0/screen_2023-11-06_202343.png
+11-09 15:23:19.983  8516  9827 W native  : vr_photo_detector.cc:47  Could not read file: /storage/emulated/0/screen_2023-11-06_202357.png
+11-09 15:23:19.985  8516  9826 W native  : vr_photo_detector.cc:47  Could not read file: /storage/emulated/0/screen_2023-11-06_202736.png
+11-09 15:23:19.989  8516  9827 W native  : vr_photo_detector.cc:47  Could not read file: /storage/emulated/0/screen_2023-11-06_202809.png
+11-09 15:23:19.990  8516  9826 W native  : vr_photo_detector.cc:47  Could not read file: /storage/emulated/0/screen_2023-11-06_203355.png
+11-09 15:23:19.995  8516  9827 W native  : vr_photo_detector.cc:47  Could not read file: /storage/emulated/0/screen_2023-11-06_203554.png
+11-09 15:23:19.996  8516  9826 W native  : vr_photo_detector.cc:47  Could not read file: /storage/emulated/0/screen_2023-11-06_203755.png
+11-09 15:23:20.000  8516  9827 W native  : vr_photo_detector.cc:47  Could not read file: /storage/emulated/0/screen_2023-11-06_204517.png
+11-09 15:23:20.002  8516  9826 W native  : vr_photo_detector.cc:47  Could not read file: /storage/emulated/0/screen_2023-11-06_204851.png
+11-09 15:23:20.006  8516  9827 W native  : vr_photo_detector.cc:47  Could not read file: /storage/emulated/0/screen_2023-11-06_204920.png
+11-09 15:23:20.007  8516  9826 W native  : vr_photo_detector.cc:47  Could not read file: /storage/emulated/0/screen_2023-11-06_205017.png
+11-09 15:23:20.014  8516  9827 W native  : vr_photo_detector.cc:47  Could not read file: /storage/emulated/0/screen_2023-11-06_205025.png
+11-09 15:23:20.015  8516  9826 W native  : vr_photo_detector.cc:47  Could not read file: /storage/emulated/0/screen_2023-11-06_205029.png
+11-09 15:23:20.019  8516  9827 W native  : vr_photo_detector.cc:47  Could not read file: /storage/emulated/0/screen_2023-11-06_205030.png
+11-09 15:23:20.020  8516  9826 W native  : vr_photo_detector.cc:47  Could not read file: /storage/emulated/0/screen_2023-11-09_144312.png
+11-09 15:23:20.024  8516  9827 W native  : vr_photo_detector.cc:47  Could not read file: /storage/emulated/0/screen_2023-11-09_152309.png
+11-09 15:23:20.088  1893  1910 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.DROPBOX_ENTRY_ADDED flg=0x10 (has extras) } to com.google.android.gms/.stats.service.DropBoxEntryAddedReceiver
+11-09 15:23:20.088  1893  1910 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.DROPBOX_ENTRY_ADDED flg=0x10 (has extras) } to com.google.android.gms/.chimera.GmsIntentOperationService$PersistentTrustedReceiver
+11-09 15:23:20.200  1747  2025 E SurfaceFlinger: ro.sf.lcd_density must be defined as a build property
+11-09 15:23:20.208 16941 16941 E eglCodecCommon: GoldfishAddressSpaceHostMemoryAllocator: ioctl_ping failed for device_type=5, ret=-1

@@ -1,0 +1,79 @@
+Activity Resolver Table:
+  Non-Data Actions:
+      android.intent.action.MAIN:
+        f603584 com.ca.bmr.calclator/org.mbk82.bmiprc.Splash filter dff27cc
+          Action: "android.intent.action.MAIN"
+          Category: "android.intent.category.LAUNCHER"
+
+Registered ContentProviders:
+  com.ca.bmr.calclator/com.crashlytics.android.CrashlyticsInitProvider:
+    Provider{45d316d com.ca.bmr.calclator/com.crashlytics.android.CrashlyticsInitProvider}
+
+ContentProvider Authorities:
+  [com.ca.bmr.calclator.crashlyticsinitprovider]:
+    Provider{45d316d com.ca.bmr.calclator/com.crashlytics.android.CrashlyticsInitProvider}
+      applicationInfo=ApplicationInfo{80b71a2 com.ca.bmr.calclator}
+
+Key Set Manager:
+  [com.ca.bmr.calclator]
+      Signing KeySets: 108
+
+Packages:
+  Package [com.ca.bmr.calclator] (ecaee33):
+    userId=10171
+    pkg=Package{f6d25f0 com.ca.bmr.calclator}
+    codePath=/data/app/com.ca.bmr.calclator-0BDrzJdLD8--ZpcL3keOsQ==
+    resourcePath=/data/app/com.ca.bmr.calclator-0BDrzJdLD8--ZpcL3keOsQ==
+    legacyNativeLibraryDir=/data/app/com.ca.bmr.calclator-0BDrzJdLD8--ZpcL3keOsQ==/lib
+    primaryCpuAbi=null
+    secondaryCpuAbi=null
+    versionCode=11 minSdk=19 targetSdk=26
+    versionName=2.1
+    splits=[base]
+    apkSigningVersion=2
+    applicationInfo=ApplicationInfo{80b71a2 com.ca.bmr.calclator}
+    flags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP ]
+    privateFlags=[ PRIVATE_FLAG_ACTIVITIES_RESIZE_MODE_RESIZEABLE_VIA_SDK_VERSION ]
+    dataDir=/data/user/0/com.ca.bmr.calclator
+    supportsScreens=[small, medium, large, xlarge, resizeable, anyDensity]
+    usesLibraries:
+      org.apache.http.legacy
+    usesLibraryFiles:
+      /system/framework/org.apache.http.legacy.boot.jar
+    timeStamp=2023-08-10 20:05:20
+    firstInstallTime=2023-08-10 20:05:20
+    lastUpdateTime=2023-08-10 20:05:20
+    signatures=PackageSignatures{aa87769 version:2, signatures:[f0656134], past signatures:[]}
+    installPermissionsFixed=true
+    pkgFlags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP ]
+    requested permissions:
+      android.permission.ACCESS_NETWORK_STATE
+      android.permission.INTERNET
+      com.android.vending.BILLING
+    install permissions:
+      android.permission.INTERNET: granted=true
+      android.permission.ACCESS_NETWORK_STATE: granted=true
+    User 0: ceDataInode=-4294843720 installed=true hidden=false suspended=false stopped=true notLaunched=true enabled=0 instant=false virtual=false
+      gids=[3003]
+      runtime permissions:
+
+Package Changes:
+  Sequence number=21
+  User 0:
+    seq=5, package=com.google.android.gms
+    seq=14, package=abamuve.calculations.bmrbmibfp
+    seq=16, package=com.blogspot.sakibhs.bmrandbmicalculator
+    seq=17, package=com.bmi.bmr.calculator.tracker.health.tdee
+    seq=19, package=com.boss.bmrcalculator
+    seq=20, package=com.ca.bmr.calclator
+
+
+Dexopt state:
+  [com.ca.bmr.calclator]
+    path: /data/app/com.ca.bmr.calclator-0BDrzJdLD8--ZpcL3keOsQ==/base.apk
+      x86: [status=speed-profile] [reason=install]
+
+
+Compiler stats:
+  [com.ca.bmr.calclator]
+     base.apk - 509

@@ -1,0 +1,50 @@
+{
+  "tag": "2023-08-10_202419",
+  "event": {
+    "event_type": "set_text",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.roliosolutions.bmr.bmi.calculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": true,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          70,
+          329
+        ],
+        [
+          685,
+          504
+        ]
+      ],
+      "resource_id": "com.roliosolutions.bmr.bmi.calculator:id/et_age",
+      "checked": false,
+      "text": "Age",
+      "class": "android.widget.EditText",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": true,
+      "parent": 8,
+      "temp_id": 9,
+      "size": "615*175",
+      "signature": "[class]android.widget.EditText[resource_id]com.roliosolutions.bmr.bmi.calculator:id/et_age[text]Age[enabled,,]",
+      "view_str": "f356c7380b640c54461e906ad14a27eb",
+      "content_free_signature": "[class]android.widget.EditText[resource_id]com.roliosolutions.bmr.bmi.calculator:id/et_age"
+    },
+    "text": 7
+  },
+  "start_state": "e05eb2d545ffca7925a5a0984bb671de",
+  "stop_state": "a0c32759bc0f9275c2184217eb14db78",
+  "event_str": "SetTextEvent(state=e05eb2d545ffca7925a5a0984bb671de, view=f356c7380b640c54461e906ad14a27eb(MainActivity/EditText-Age), text=7)"
+}

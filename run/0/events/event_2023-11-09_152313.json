@@ -1,0 +1,50 @@
+{
+  "tag": "2023-11-09_152313",
+  "event": {
+    "event_type": "set_text",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.bmi.bmr.calculator.tracker.health.tdee",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": true,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          545,
+          795
+        ],
+        [
+          950,
+          941
+        ]
+      ],
+      "resource_id": "com.bmi.bmr.calculator.tracker.health.tdee:id/heightInpInches",
+      "checked": false,
+      "text": "inch",
+      "class": "android.widget.EditText",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": true,
+      "parent": 22,
+      "temp_id": 24,
+      "size": "405*146",
+      "signature": "[class]android.widget.EditText[resource_id]com.bmi.bmr.calculator.tracker.health.tdee:id/heightInpInches[text]inch[enabled,,]",
+      "view_str": "82fb2d36dfd64e3c96329832b43ee552",
+      "content_free_signature": "[class]android.widget.EditText[resource_id]com.bmi.bmr.calculator.tracker.health.tdee:id/heightInpInches"
+    },
+    "text": 6
+  },
+  "start_state": "05164d616965e35486ba24686f77d48c",
+  "stop_state": "2df444b4a7cc0d006ce99137dce141af",
+  "event_str": "SetTextEvent(state=05164d616965e35486ba24686f77d48c, view=82fb2d36dfd64e3c96329832b43ee552(ActivityBMR/EditText-inch), text=6)"
+}

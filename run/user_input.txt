@@ -1,0 +1,48 @@
+add device 1: /dev/input/event0
+  name:     "Power Button"
+add device 2: /dev/input/event1
+  name:     "qwerty2"
+[   31652.820326] /dev/input/event1: EV_ABS       ABS_MT_TRACKING_ID   00000000            
+[   31652.820326] /dev/input/event1: EV_ABS       ABS_MT_POSITION_X    00005b04            
+[   31652.820326] /dev/input/event1: EV_ABS       ABS_MT_POSITION_Y    00002a60            
+[   31652.820326] /dev/input/event1: EV_ABS       ABS_MT_PRESSURE      00000400            
+[   31652.820326] /dev/input/event1: EV_SYN       SYN_REPORT           00000000            
+[   31652.906190] /dev/input/event1: EV_ABS       ABS_MT_PRESSURE      00000000            
+[   31652.906190] /dev/input/event1: EV_ABS       ABS_MT_TRACKING_ID   ffffffff            
+[   31652.906190] /dev/input/event1: EV_SYN       SYN_REPORT           00000000            
+[   31653.295647] /dev/input/event1: EV_KEY       KEY_1                DOWN                
+[   31653.295647] /dev/input/event1: EV_SYN       SYN_REPORT           00000000            
+[   31653.295683] /dev/input/event1: EV_KEY       KEY_1                UP                  
+[   31653.295683] /dev/input/event1: EV_SYN       SYN_REPORT           00000000            
+[   31653.391303] /dev/input/event1: EV_KEY       KEY_2                DOWN                
+[   31653.391303] /dev/input/event1: EV_SYN       SYN_REPORT           00000000            
+[   31653.391356] /dev/input/event1: EV_KEY       KEY_2                UP                  
+[   31653.391356] /dev/input/event1: EV_SYN       SYN_REPORT           00000000            
+[   31653.634719] /dev/input/event1: EV_ABS       ABS_MT_TRACKING_ID   00000000            
+[   31653.634719] /dev/input/event1: EV_ABS       ABS_MT_POSITION_X    000023bb            
+[   31653.634719] /dev/input/event1: EV_ABS       ABS_MT_POSITION_Y    00003703            
+[   31653.634719] /dev/input/event1: EV_ABS       ABS_MT_PRESSURE      00000400            
+[   31653.634719] /dev/input/event1: EV_SYN       SYN_REPORT           00000000            
+[   31653.722566] /dev/input/event1: EV_ABS       ABS_MT_PRESSURE      00000000            
+[   31653.722566] /dev/input/event1: EV_ABS       ABS_MT_TRACKING_ID   ffffffff            
+[   31653.722566] /dev/input/event1: EV_SYN       SYN_REPORT           00000000            
+[   31654.134421] /dev/input/event1: EV_KEY       KEY_1                DOWN                
+[   31654.134421] /dev/input/event1: EV_SYN       SYN_REPORT           00000000            
+[   31654.134457] /dev/input/event1: EV_KEY       KEY_1                UP                  
+[   31654.134457] /dev/input/event1: EV_SYN       SYN_REPORT           00000000            
+[   31654.196425] /dev/input/event1: EV_KEY       KEY_2                DOWN                
+[   31654.196425] /dev/input/event1: EV_SYN       SYN_REPORT           00000000            
+[   31654.196452] /dev/input/event1: EV_KEY       KEY_2                UP                  
+[   31654.196452] /dev/input/event1: EV_SYN       SYN_REPORT           00000000            
+[   31654.273794] /dev/input/event1: EV_KEY       KEY_3                DOWN                
+[   31654.273794] /dev/input/event1: EV_SYN       SYN_REPORT           00000000            
+[   31654.273836] /dev/input/event1: EV_KEY       KEY_3                UP                  
+[   31654.273836] /dev/input/event1: EV_SYN       SYN_REPORT           00000000            
+[   31654.386892] /dev/input/event1: EV_ABS       ABS_MT_TRACKING_ID   00000000            
+[   31654.386892] /dev/input/event1: EV_ABS       ABS_MT_POSITION_X    00005293            
+[   31654.386892] /dev/input/event1: EV_ABS       ABS_MT_POSITION_Y    00003781            
+[   31654.386892] /dev/input/event1: EV_ABS       ABS_MT_PRESSURE      00000400            
+[   31654.386892] /dev/input/event1: EV_SYN       SYN_REPORT           00000000            
+[   31654.483876] /dev/input/event1: EV_ABS       ABS_MT_PRESSURE      00000000            
+[   31654.483876] /dev/input/event1: EV_ABS       ABS_MT_TRACKING_ID   ffffffff            
+[   31654.483876] /dev/inpu

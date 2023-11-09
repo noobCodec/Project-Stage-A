@@ -1,0 +1,50 @@
+{
+  "tag": "2023-08-10_200245",
+  "event": {
+    "event_type": "set_text",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.blogspot.sakibhs.bmrandbmicalculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": true,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          317,
+          957
+        ],
+        [
+          682,
+          1218
+        ]
+      ],
+      "resource_id": "com.blogspot.sakibhs.bmrandbmicalculator:id/editText4",
+      "checked": false,
+      "text": "kg or lbs",
+      "class": "android.widget.EditText",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": true,
+      "parent": 26,
+      "temp_id": 28,
+      "size": "365*261",
+      "signature": "[class]android.widget.EditText[resource_id]com.blogspot.sakibhs.bmrandbmicalculator:id/editText4[text]kg or lbs[enabled,,]",
+      "view_str": "49cb7822af530fe0f43a547f54d79e32",
+      "content_free_signature": "[class]android.widget.EditText[resource_id]com.blogspot.sakibhs.bmrandbmicalculator:id/editText4"
+    },
+    "text": 63
+  },
+  "start_state": "18c3f45631d2c73291b2e8e58c273569",
+  "stop_state": "f816ce3f3dfcba9bae98f247a7f9e61e",
+  "event_str": "SetTextEvent(state=18c3f45631d2c73291b2e8e58c273569, view=49cb7822af530fe0f43a547f54d79e32(MainActivity/EditText-kg or lbs), text=63)"
+}

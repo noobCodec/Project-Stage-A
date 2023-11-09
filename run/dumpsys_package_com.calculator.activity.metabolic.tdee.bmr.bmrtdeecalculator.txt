@@ -1,0 +1,101 @@
+Activity Resolver Table:
+  Non-Data Actions:
+      android.intent.action.MAIN:
+        85503c8 com.calculator.activity.metabolic.tdee.bmr.bmrtdeecalculator/.WelcomeActivity filter 5079642
+          Action: "android.intent.action.MAIN"
+          Category: "android.intent.category.LAUNCHER"
+
+Receiver Resolver Table:
+  Non-Data Actions:
+      com.android.vending.INSTALL_REFERRER:
+        809bc61 com.calculator.activity.metabolic.tdee.bmr.bmrtdeecalculator/com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver filter 5ec6124
+          Action: "com.android.vending.INSTALL_REFERRER"
+      com.google.android.c2dm.intent.RECEIVE:
+        790f386 com.calculator.activity.metabolic.tdee.bmr.bmrtdeecalculator/com.google.firebase.iid.FirebaseInstanceIdReceiver filter 116848d
+          Action: "com.google.android.c2dm.intent.RECEIVE"
+
+Service Resolver Table:
+  Non-Data Actions:
+      com.google.firebase.INSTANCE_ID_EVENT:
+        28eb447 com.calculator.activity.metabolic.tdee.bmr.bmrtdeecalculator/com.google.firebase.iid.FirebaseInstanceIdService filter aea05b7
+          Action: "com.google.firebase.INSTANCE_ID_EVENT"
+          mPriority=-500, mOrder=0, mHasPartialTypes=false
+
+Registered ContentProviders:
+  com.calculator.activity.metabolic.tdee.bmr.bmrtdeecalculator/com.google.android.gms.ads.MobileAdsInitProvider:
+    Provider{79a9474 com.calculator.activity.metabolic.tdee.bmr.bmrtdeecalculator/com.google.android.gms.ads.MobileAdsInitProvider}
+  com.calculator.activity.metabolic.tdee.bmr.bmrtdeecalculator/com.google.firebase.provider.FirebaseInitProvider:
+    Provider{bc4bd9d com.calculator.activity.metabolic.tdee.bmr.bmrtdeecalculator/com.google.firebase.provider.FirebaseInitProvider}
+
+ContentProvider Authorities:
+  [com.calculator.activity.metabolic.tdee.bmr.bmrtdeecalculator.firebaseinitprovider]:
+    Provider{bc4bd9d com.calculator.activity.metabolic.tdee.bmr.bmrtdeecalculator/com.google.firebase.provider.FirebaseInitProvider}
+      applicationInfo=ApplicationInfo{8f8c212 com.calculator.activity.metabolic.tdee.bmr.bmrtdeecalculator}
+  [com.calculator.activity.metabolic.tdee.bmr.bmrtdeecalculator.mobileadsinitprovider]:
+    Provider{79a9474 com.calculator.activity.metabolic.tdee.bmr.bmrtdeecalculator/com.google.android.gms.ads.MobileAdsInitProvider}
+      applicationInfo=ApplicationInfo{8f8c212 com.calculator.activity.metabolic.tdee.bmr.bmrtdeecalculator}
+
+Key Set Manager:
+  [com.calculator.activity.metabolic.tdee.bmr.bmrtdeecalculator]
+      Signing KeySets: 109
+
+Packages:
+  Package [com.calculator.activity.metabolic.tdee.bmr.bmrtdeecalculator] (8f84de3):
+    userId=10172
+    pkg=Package{a0683e0 com.calculator.activity.metabolic.tdee.bmr.bmrtdeecalculator}
+    codePath=/data/app/com.calculator.activity.metabolic.tdee.bmr.bmrtdeecalculator-VncLHoLDhB-oIEu0JByaLw==
+    resourcePath=/data/app/com.calculator.activity.metabolic.tdee.bmr.bmrtdeecalculator-VncLHoLDhB-oIEu0JByaLw==
+    legacyNativeLibraryDir=/data/app/com.calculator.activity.metabolic.tdee.bmr.bmrtdeecalculator-VncLHoLDhB-oIEu0JByaLw==/lib
+    primaryCpuAbi=null
+    secondaryCpuAbi=null
+    versionCode=115 minSdk=15 targetSdk=28
+    versionName=1.15
+    splits=[base]
+    apkSigningVersion=3
+    applicationInfo=ApplicationInfo{8f8c212 com.calculator.activity.metabolic.tdee.bmr.bmrtdeecalculator}
+    flags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP ]
+    privateFlags=[ PRIVATE_FLAG_ACTIVITIES_RESIZE_MODE_RESIZEABLE_VIA_SDK_VERSION ]
+    dataDir=/data/user/0/com.calculator.activity.metabolic.tdee.bmr.bmrtdeecalculator
+    supportsScreens=[small, medium, large, xlarge, resizeable, anyDensity]
+    timeStamp=2023-08-10 20:06:58
+    firstInstallTime=2023-08-10 20:06:58
+    lastUpdateTime=2023-08-10 20:06:58
+    signatures=PackageSignatures{349699 version:3, signatures:[72a0bb50], past signatures:[]}
+    installPermissionsFixed=true
+    pkgFlags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP ]
+    requested permissions:
+      android.permission.INTERNET
+      android.permission.ACCESS_NETWORK_STATE
+      android.permission.WAKE_LOCK
+      com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+      com.google.android.c2dm.permission.RECEIVE
+    install permissions:
+      com.google.android.c2dm.permission.RECEIVE: granted=true
+      android.permission.INTERNET: granted=true
+      android.permission.ACCESS_NETWORK_STATE: granted=true
+      android.permission.WAKE_LOCK: granted=true
+    User 0: ceDataInode=-4294843748 installed=true hidden=false suspended=false stopped=true notLaunched=true enabled=0 instant=false virtual=false
+      gids=[3003]
+      runtime permissions:
+
+Package Changes:
+  Sequence number=23
+  User 0:
+    seq=5, package=com.google.android.gms
+    seq=14, package=abamuve.calculations.bmrbmibfp
+    seq=16, package=com.blogspot.sakibhs.bmrandbmicalculator
+    seq=17, package=com.bmi.bmr.calculator.tracker.health.tdee
+    seq=19, package=com.boss.bmrcalculator
+    seq=21, package=com.ca.bmr.calclator
+    seq=22, package=com.calculator.activity.metabolic.tdee.bmr.bmrtdeecalculator
+
+
+Dexopt state:
+  [com.calculator.activity.metabolic.tdee.bmr.bmrtdeecalculator]
+    path: /data/app/com.calculator.activity.metabolic.tdee.bmr.bmrtdeecalculator-VncLHoLDhB-oIEu0JByaLw==/base.apk
+      x86: [status=speed-profile] [reason=install]
+
+
+Compiler stats:
+  [com.calculator.activity.metabolic.tdee.bmr.bmrtdeecalculator]
+     base.apk - 662

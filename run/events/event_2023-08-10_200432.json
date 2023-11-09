@@ -1,0 +1,49 @@
+{
+  "tag": "2023-08-10_200432",
+  "event": {
+    "event_type": "touch",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.boss.bmrcalculator",
+      "visible": true,
+      "checkable": true,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          214,
+          331
+        ],
+        [
+          519,
+          520
+        ]
+      ],
+      "resource_id": "com.boss.bmrcalculator:id/male",
+      "checked": false,
+      "text": "Male",
+      "class": "android.widget.RadioButton",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 10,
+      "temp_id": 11,
+      "size": "305*189",
+      "signature": "[class]android.widget.RadioButton[resource_id]com.boss.bmrcalculator:id/male[text]Male[enabled,,]",
+      "view_str": "3c2ce4deda65a05ce1b1d9881bce6671",
+      "content_free_signature": "[class]android.widget.RadioButton[resource_id]com.boss.bmrcalculator:id/male"
+    }
+  },
+  "start_state": "72cbc9463c6b556a48c9a00ed85b5a94",
+  "stop_state": "72a2ea444ffdb96c1859a3267584d1ad",
+  "event_str": "TouchEvent(state=72cbc9463c6b556a48c9a00ed85b5a94, view=3c2ce4deda65a05ce1b1d9881bce6671(MainActivity/RadioButton-Male))"
+}

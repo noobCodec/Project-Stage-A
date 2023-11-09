@@ -1,0 +1,1336 @@
+{
+  "tag": "2023-08-16_081029",
+  "state_str": "088448f0a42a7c96ac3c8bdb782deb76",
+  "state_str_content_free": "db7d84300bf8ff8b023304f552b3c7f8",
+  "foreground_activity": "com.lisafontsbooth.bmicalculator.bmrandweightlosscalculator/.LFB_MainActivity",
+  "activity_stack": [
+    "com.lisafontsbooth.bmicalculator.bmrandweightlosscalculator/.LFB_MainActivity"
+  ],
+  "background_services": [
+    "com.google.android.gms/.deviceconnection.service.DeviceConnectionWatcherService",
+    "com.google.android.gms/com.google.android.location.places.service.PlaceDetectionAsyncService",
+    "com.android.systemui/.keyguard.KeyguardService",
+    "com.android.systemui/.ImageWallpaper",
+    "com.google.android.gms/com.google.android.location.geocode.GeocodeService",
+    "com.google.android.gms/.auth.setup.devicesignals.LockScreenService",
+    "com.google.android.gms/.gcm.GcmService",
+    "com.google.android.gms/.clearcut.debug.ClearcutDebugDumpService",
+    "com.google.android.gms/.chimera.PersistentApiService",
+    "com.android.phone/com.android.internal.telephony.CellularNetworkService",
+    "com.google.android.gms/.chimera.PersistentBoundBrokerService",
+    "com.google.android.gms/.chimera.GmsApiService",
+    "com.google.android.gms/.fido.fido2.pollux.CableAuthenticatorService",
+    "com.google.android.googlequicksearchbox/com.google.android.apps.gsa.nowoverlayservice.DrawerOverlayService",
+    "io.github.ylimit.droidbotapp/.DroidBotIME",
+    "com.google.android.gms/com.google.android.location.fused.FusedLocationService",
+    "com.google.android.gms/.gcm.nts.SchedulerService",
+    "io.github.ylimit.droidbotapp/io.github.privacystreams.accessibility.PSAccessibilityService",
+    "com.google.android.gms/com.google.android.location.geofencer.service.GeofenceProviderService",
+    "com.google.android.gms/.thunderbird.EmergencyPersistentService",
+    "com.google.android.apps.messaging/.fcm.BugleFirebaseInstanceIDService",
+    "com.android.systemui/.SystemUIService",
+    "com.google.android.gms/.nearby.exposurenotification.service.ExposureMatchingService",
+    "android/.hardware.location.GeofenceHardwareService",
+    "com.android.se/.SecureElementService",
+    "com.google.android.ims/.services.RcsService",
+    "com.google.android.gms/.chimera.GmsIntentOperationService",
+    "com.google.android.gms/.chimera.PersistentDirectBootAwareApiService",
+    "com.google.android.gms/.chimera.PersistentIntentOperationService",
+    "com.google.android.ext.services/android.ext.services.notification.Assistant",
+    "com.google.android.gms/.location.persistent.LocationPersistentService",
+    "com.google.android.gms/com.google.android.location.internal.PendingIntentCallbackService",
+    "com.google.android.gms/com.google.android.location.internal.server.GoogleLocationService",
+    "com.google.android.gms/com.google.android.contextmanager.service.ContextManagerService",
+    "com.google.android.gms/com.google.android.location.network.NetworkLocationService",
+    "com.google.android.gms/com.google.android.location.internal.GoogleLocationManagerService",
+    "com.android.phone/com.android.internal.telephony.dataconnection.CellularDataService",
+    "com.android.server.telecom/.components.TelecomService",
+    "com.google.android.googlequicksearchbox/com.google.android.voiceinteraction.GsaVoiceInteractionService",
+    "com.android.smspush/.WapPushManager",
+    "com.android.phone/.vvm.RemoteVvmTaskManager",
+    "android/com.android.server.content.SyncJobService",
+    "com.google.android.gms/.common.stats.GmsCoreStatsService",
+    "com.google.android.gms/com.google.android.location.internal.server.HardwareArProviderService",
+    "org.medhelp.mydiet/org.medhelp.medtracker.network.MTNetworkObserverService",
+    "com.android.providers.media/.MediaScannerService",
+    "com.google.android.gm/com.google.firebase.iid.FirebaseInstanceIdService",
+    "com.android.phone/.TelephonyDebugService",
+    "com.google.android.videos/.service.pinning.TransferService",
+    "com.google.android.apps.messaging/.shared.datamodel.action.ActionExecutorImpl",
+    "com.google.android.gms/.icing.service.IndexService",
+    "com.google.android.apps.nexuslauncher/com.android.quickstep.TouchInteractionService",
+    "com.android.providers.media/.MediaScannerService"
+  ],
+  "width": 1440,
+  "height": 3120,
+  "views": [
+    {
+      "package": "com.lisafontsbooth.bmicalculator.bmrandweightlosscalculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 2,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        1,
+        32
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          0
+        ],
+        [
+          1440,
+          2678
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.FrameLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": -1,
+      "temp_id": 0,
+      "size": "1440*2678",
+      "signature": "[class]android.widget.FrameLayout[resource_id]None[text]None[enabled,,]",
+      "view_str": "f633b38ce0d111502d41d20ca0196ec2",
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]None"
+    },
+    {
+      "package": "com.lisafontsbooth.bmicalculator.bmrandweightlosscalculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        2
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          0
+        ],
+        [
+          1440,
+          2678
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.LinearLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 0,
+      "temp_id": 1,
+      "size": "1440*2678",
+      "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+      "view_str": "2cdcbf893bb6f1851bb67410da772a9b",
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None"
+    },
+    {
+      "package": "com.lisafontsbooth.bmicalculator.bmrandweightlosscalculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        3
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          84
+        ],
+        [
+          1440,
+          2678
+        ]
+      ],
+      "resource_id": "android:id/content",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.FrameLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 1,
+      "temp_id": 2,
+      "size": "1440*2594",
+      "signature": "[class]android.widget.FrameLayout[resource_id]android:id/content[text]None[enabled,,]",
+      "view_str": "8c6d84c7adc29fb10b0ec008e589a5d6",
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]android:id/content"
+    },
+    {
+      "package": "com.lisafontsbooth.bmicalculator.bmrandweightlosscalculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 2,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        4,
+        8
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          84
+        ],
+        [
+          1440,
+          2678
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.LinearLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 2,
+      "temp_id": 3,
+      "size": "1440*2594",
+      "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+      "view_str": "918467830eb6fc9302b6592f41ba1da3",
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None"
+    },
+    {
+      "package": "com.lisafontsbooth.bmicalculator.bmrandweightlosscalculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 3,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        5,
+        6,
+        7
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          84
+        ],
+        [
+          1440,
+          294
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.RelativeLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 3,
+      "temp_id": 4,
+      "size": "1440*210",
+      "signature": "[class]android.widget.RelativeLayout[resource_id]None[text]None[enabled,,]",
+      "view_str": "f20f3b5e1573fec4b0c15aaf2a16153b",
+      "content_free_signature": "[class]android.widget.RelativeLayout[resource_id]None"
+    },
+    {
+      "package": "com.lisafontsbooth.bmicalculator.bmrandweightlosscalculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          49,
+          128
+        ],
+        [
+          170,
+          249
+        ]
+      ],
+      "resource_id": "com.lisafontsbooth.bmicalculator.bmrandweightlosscalculator:id/img_left",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.ImageView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 4,
+      "temp_id": 5,
+      "size": "121*121",
+      "signature": "[class]android.widget.ImageView[resource_id]com.lisafontsbooth.bmicalculator.bmrandweightlosscalculator:id/img_left[text]None[enabled,,]",
+      "view_str": "668046ef28cc394fcb8bd903f42787c8",
+      "content_free_signature": "[class]android.widget.ImageView[resource_id]com.lisafontsbooth.bmicalculator.bmrandweightlosscalculator:id/img_left"
+    },
+    {
+      "package": "com.lisafontsbooth.bmicalculator.bmrandweightlosscalculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          650,
+          152
+        ],
+        [
+          789,
+          226
+        ]
+      ],
+      "resource_id": "com.lisafontsbooth.bmicalculator.bmrandweightlosscalculator:id/txt_main",
+      "checked": false,
+      "text": "BMR",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 4,
+      "temp_id": 6,
+      "size": "139*74",
+      "signature": "[class]android.widget.TextView[resource_id]com.lisafontsbooth.bmicalculator.bmrandweightlosscalculator:id/txt_main[text]BMR[enabled,,]",
+      "view_str": "f4b791f0e27b5c5f045f424d8f673c0e",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.lisafontsbooth.bmicalculator.bmrandweightlosscalculator:id/txt_main"
+    },
+    {
+      "package": "com.lisafontsbooth.bmicalculator.bmrandweightlosscalculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          1270,
+          128
+        ],
+        [
+          1391,
+          249
+        ]
+      ],
+      "resource_id": "com.lisafontsbooth.bmicalculator.bmrandweightlosscalculator:id/img_right",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.ImageView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 4,
+      "temp_id": 7,
+      "size": "121*121",
+      "signature": "[class]android.widget.ImageView[resource_id]com.lisafontsbooth.bmicalculator.bmrandweightlosscalculator:id/img_right[text]None[enabled,,]",
+      "view_str": "2567d58ce87897dcc759310bd5ae519e",
+      "content_free_signature": "[class]android.widget.ImageView[resource_id]com.lisafontsbooth.bmicalculator.bmrandweightlosscalculator:id/img_right"
+    },
+    {
+      "package": "com.lisafontsbooth.bmicalculator.bmrandweightlosscalculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        9
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          294
+        ],
+        [
+          1440,
+          2678
+        ]
+      ],
+      "resource_id": "com.lisafontsbooth.bmicalculator.bmrandweightlosscalculator:id/fl_container",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.FrameLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 3,
+      "temp_id": 8,
+      "size": "1440*2384",
+      "signature": "[class]android.widget.FrameLayout[resource_id]com.lisafontsbooth.bmicalculator.bmrandweightlosscalculator:id/fl_container[text]None[enabled,,]",
+      "view_str": "efa902d1c0c94b89063b80f68fe45060",
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]com.lisafontsbooth.bmicalculator.bmrandweightlosscalculator:id/fl_container"
+    },
+    {
+      "package": "com.lisafontsbooth.bmicalculator.bmrandweightlosscalculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        10
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          294
+        ],
+        [
+          1440,
+          2678
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.LinearLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 8,
+      "temp_id": 9,
+      "size": "1440*2384",
+      "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+      "view_str": "903c3afc6d88533577d322b4b02838b5",
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None"
+    },
+    {
+      "package": "com.lisafontsbooth.bmicalculator.bmrandweightlosscalculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        11
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          294
+        ],
+        [
+          1440,
+          2678
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.ScrollView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 9,
+      "temp_id": 10,
+      "size": "1440*2384",
+      "signature": "[class]android.widget.ScrollView[resource_id]None[text]None[enabled,,]",
+      "view_str": "2e1ae4186a03a45efe0c4ed2b83bf54e",
+      "content_free_signature": "[class]android.widget.ScrollView[resource_id]None"
+    },
+    {
+      "package": "com.lisafontsbooth.bmicalculator.bmrandweightlosscalculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 5,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        12,
+        16,
+        20,
+        24,
+        28
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          294
+        ],
+        [
+          1440,
+          1443
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.LinearLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 10,
+      "temp_id": 11,
+      "size": "1440*1149",
+      "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+      "view_str": "f2ed55a2f0ef747ec5afdc86837a6f66",
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None"
+    },
+    {
+      "package": "com.lisafontsbooth.bmicalculator.bmrandweightlosscalculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 3,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        13,
+        14,
+        15
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          294
+        ],
+        [
+          1440,
+          469
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.LinearLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 11,
+      "temp_id": 12,
+      "size": "1440*175",
+      "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+      "view_str": "063ce0a30752c9d84dab89945a0d918c",
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None"
+    },
+    {
+      "package": "com.lisafontsbooth.bmicalculator.bmrandweightlosscalculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          35,
+          346
+        ],
+        [
+          202,
+          416
+        ]
+      ],
+      "resource_id": "com.lisafontsbooth.bmicalculator.bmrandweightlosscalculator:id/t1",
+      "checked": false,
+      "text": "Age",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 12,
+      "temp_id": 13,
+      "size": "167*70",
+      "signature": "[class]android.widget.TextView[resource_id]com.lisafontsbooth.bmicalculator.bmrandweightlosscalculator:id/t1[text]Age[enabled,,]",
+      "view_str": "2bc8eeb84e2bfeebdc85c3d8596fd95e",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.lisafontsbooth.bmicalculator.bmrandweightlosscalculator:id/t1"
+    },
+    {
+      "package": "com.lisafontsbooth.bmicalculator.bmrandweightlosscalculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": true,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          325,
+          333
+        ],
+        [
+          1122,
+          429
+        ]
+      ],
+      "resource_id": "com.lisafontsbooth.bmicalculator.bmrandweightlosscalculator:id/edt_BMR_year",
+      "checked": false,
+      "text": "Year",
+      "class": "android.widget.EditText",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": true,
+      "parent": 12,
+      "temp_id": 14,
+      "size": "797*96",
+      "signature": "[class]android.widget.EditText[resource_id]com.lisafontsbooth.bmicalculator.bmrandweightlosscalculator:id/edt_BMR_year[text]Year[enabled,,]",
+      "view_str": "c95150cf511317485b3e1c4e05884412",
+      "content_free_signature": "[class]android.widget.EditText[resource_id]com.lisafontsbooth.bmicalculator.bmrandweightlosscalculator:id/edt_BMR_year"
+    },
+    {
+      "package": "com.lisafontsbooth.bmicalculator.bmrandweightlosscalculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          1140,
+          329
+        ],
+        [
+          1405,
+          434
+        ]
+      ],
+      "resource_id": "com.lisafontsbooth.bmicalculator.bmrandweightlosscalculator:id/img_BMR_male_female",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.ImageView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 12,
+      "temp_id": 15,
+      "size": "265*105",
+      "signature": "[class]android.widget.ImageView[resource_id]com.lisafontsbooth.bmicalculator.bmrandweightlosscalculator:id/img_BMR_male_female[text]None[enabled,,]",
+      "view_str": "999c4ecc22e39c8c5061e6e1dcf71744",
+      "content_free_signature": "[class]android.widget.ImageView[resource_id]com.lisafontsbooth.bmicalculator.bmrandweightlosscalculator:id/img_BMR_male_female"
+    },
+    {
+      "package": "com.lisafontsbooth.bmicalculator.bmrandweightlosscalculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 3,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        17,
+        18,
+        19
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          469
+        ],
+        [
+          1440,
+          644
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.LinearLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 11,
+      "temp_id": 16,
+      "size": "1440*175",
+      "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+      "view_str": "c46cdbcdde6e97ee1f936a7069999986",
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None"
+    },
+    {
+      "package": "com.lisafontsbooth.bmicalculator.bmrandweightlosscalculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          35,
+          521
+        ],
+        [
+          219,
+          591
+        ]
+      ],
+      "resource_id": "com.lisafontsbooth.bmicalculator.bmrandweightlosscalculator:id/t2",
+      "checked": false,
+      "text": "Height",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 16,
+      "temp_id": 17,
+      "size": "184*70",
+      "signature": "[class]android.widget.TextView[resource_id]com.lisafontsbooth.bmicalculator.bmrandweightlosscalculator:id/t2[text]Height[enabled,,]",
+      "view_str": "19b70e197f85a68ce2050d5f9db0e571",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.lisafontsbooth.bmicalculator.bmrandweightlosscalculator:id/t2"
+    },
+    {
+      "package": "com.lisafontsbooth.bmicalculator.bmrandweightlosscalculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": true,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          324,
+          508
+        ],
+        [
+          1136,
+          604
+        ]
+      ],
+      "resource_id": "com.lisafontsbooth.bmicalculator.bmrandweightlosscalculator:id/edt_BMR_cm",
+      "checked": false,
+      "text": "cm",
+      "class": "android.widget.EditText",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": true,
+      "parent": 16,
+      "temp_id": 18,
+      "size": "812*96",
+      "signature": "[class]android.widget.EditText[resource_id]com.lisafontsbooth.bmicalculator.bmrandweightlosscalculator:id/edt_BMR_cm[text]cm[enabled,,]",
+      "view_str": "b443f9759c027972fb24f118bf3182a6",
+      "content_free_signature": "[class]android.widget.EditText[resource_id]com.lisafontsbooth.bmicalculator.bmrandweightlosscalculator:id/edt_BMR_cm"
+    },
+    {
+      "package": "com.lisafontsbooth.bmicalculator.bmrandweightlosscalculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          1189,
+          504
+        ],
+        [
+          1380,
+          609
+        ]
+      ],
+      "resource_id": "com.lisafontsbooth.bmicalculator.bmrandweightlosscalculator:id/img_BMR_cm_ft",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.ImageView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 16,
+      "temp_id": 19,
+      "size": "191*105",
+      "signature": "[class]android.widget.ImageView[resource_id]com.lisafontsbooth.bmicalculator.bmrandweightlosscalculator:id/img_BMR_cm_ft[text]None[enabled,,]",
+      "view_str": "41273b4ed9401e3a4aa2edb92b8fc1d6",
+      "content_free_signature": "[class]android.widget.ImageView[resource_id]com.lisafontsbooth.bmicalculator.bmrandweightlosscalculator:id/img_BMR_cm_ft"
+    },
+    {
+      "package": "com.lisafontsbooth.bmicalculator.bmrandweightlosscalculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 3,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        21,
+        22,
+        23
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          644
+        ],
+        [
+          1440,
+          819
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.LinearLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 11,
+      "temp_id": 20,
+      "size": "1440*175",
+      "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+      "view_str": "2c6f29b9fae0d9fdca527b0e8bd4cb35",
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None"
+    },
+    {
+      "package": "com.lisafontsbooth.bmicalculator.bmrandweightlosscalculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          35,
+          694
+        ],
+        [
+          294,
+          768
+        ]
+      ],
+      "resource_id": "com.lisafontsbooth.bmicalculator.bmrandweightlosscalculator:id/t3",
+      "checked": false,
+      "text": "Weight",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 20,
+      "temp_id": 21,
+      "size": "259*74",
+      "signature": "[class]android.widget.TextView[resource_id]com.lisafontsbooth.bmicalculator.bmrandweightlosscalculator:id/t3[text]Weight[enabled,,]",
+      "view_str": "f96d6406a3519e5a999748af731a922e",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.lisafontsbooth.bmicalculator.bmrandweightlosscalculator:id/t3"
+    },
+    {
+      "package": "com.lisafontsbooth.bmicalculator.bmrandweightlosscalculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": true,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          364,
+          683
+        ],
+        [
+          1132,
+          779
+        ]
+      ],
+      "resource_id": "com.lisafontsbooth.bmicalculator.bmrandweightlosscalculator:id/edt_BMR_kg",
+      "checked": false,
+      "text": "kg",
+      "class": "android.widget.EditText",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": true,
+      "parent": 20,
+      "temp_id": 22,
+      "size": "768*96",
+      "signature": "[class]android.widget.EditText[resource_id]com.lisafontsbooth.bmicalculator.bmrandweightlosscalculator:id/edt_BMR_kg[text]kg[enabled,,]",
+      "view_str": "74bb1a400a1f9e9f783f34529f23169a",
+      "content_free_signature": "[class]android.widget.EditText[resource_id]com.lisafontsbooth.bmicalculator.bmrandweightlosscalculator:id/edt_BMR_kg"
+    },
+    {
+      "package": "com.lisafontsbooth.bmicalculator.bmrandweightlosscalculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          1150,
+          679
+        ],
+        [
+          1405,
+          784
+        ]
+      ],
+      "resource_id": "com.lisafontsbooth.bmicalculator.bmrandweightlosscalculator:id/img_BMR_kg_lb",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.ImageView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 20,
+      "temp_id": 23,
+      "size": "255*105",
+      "signature": "[class]android.widget.ImageView[resource_id]com.lisafontsbooth.bmicalculator.bmrandweightlosscalculator:id/img_BMR_kg_lb[text]None[enabled,,]",
+      "view_str": "3bb931ae6405d0be4b296005fe3377f7",
+      "content_free_signature": "[class]android.widget.ImageView[resource_id]com.lisafontsbooth.bmicalculator.bmrandweightlosscalculator:id/img_BMR_kg_lb"
+    },
+    {
+      "package": "com.lisafontsbooth.bmicalculator.bmrandweightlosscalculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 2,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        25,
+        26
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          35,
+          854
+        ],
+        [
+          1405,
+          1029
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.LinearLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 11,
+      "temp_id": 24,
+      "size": "1370*175",
+      "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+      "view_str": "7822eb29dbf58f589d7b43e92b479303",
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None"
+    },
+    {
+      "package": "com.lisafontsbooth.bmicalculator.bmrandweightlosscalculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          46,
+          908
+        ],
+        [
+          384,
+          974
+        ]
+      ],
+      "resource_id": "com.lisafontsbooth.bmicalculator.bmrandweightlosscalculator:id/t4",
+      "checked": false,
+      "text": "BMR Method",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 24,
+      "temp_id": 25,
+      "size": "338*66",
+      "signature": "[class]android.widget.TextView[resource_id]com.lisafontsbooth.bmicalculator.bmrandweightlosscalculator:id/t4[text]BMR Method[enabled,,]",
+      "view_str": "6fba0288b60cbffa91c4fdeb675fca2e",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.lisafontsbooth.bmicalculator.bmrandweightlosscalculator:id/t4"
+    },
+    {
+      "package": "com.lisafontsbooth.bmicalculator.bmrandweightlosscalculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        27
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          419,
+          892
+        ],
+        [
+          1370,
+          990
+        ]
+      ],
+      "resource_id": "com.lisafontsbooth.bmicalculator.bmrandweightlosscalculator:id/spn_BMR_method",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.Spinner",
+      "scrollable": true,
+      "selected": false,
+      "long_clickable": true,
+      "parent": 24,
+      "temp_id": 26,
+      "size": "951*98",
+      "signature": "[class]android.widget.Spinner[resource_id]com.lisafontsbooth.bmicalculator.bmrandweightlosscalculator:id/spn_BMR_method[text]None[enabled,,]",
+      "view_str": "c857b2c3e9a391312399c186a417b37d",
+      "content_free_signature": "[class]android.widget.Spinner[resource_id]com.lisafontsbooth.bmicalculator.bmrandweightlosscalculator:id/spn_BMR_method"
+    },
+    {
+      "package": "com.lisafontsbooth.bmicalculator.bmrandweightlosscalculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          419,
+          903
+        ],
+        [
+          1370,
+          979
+        ]
+      ],
+      "resource_id": "android:id/text1",
+      "checked": false,
+      "text": "Mifflin and St Jeor",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 26,
+      "temp_id": 27,
+      "size": "951*76",
+      "signature": "[class]android.widget.TextView[resource_id]android:id/text1[text]Mifflin and St Jeor[enabled,,]",
+      "view_str": "7c101e849b348307c38cddc58bbf3799",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]android:id/text1"
+    },
+    {
+      "package": "com.lisafontsbooth.bmicalculator.bmrandweightlosscalculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 3,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        29,
+        30,
+        31
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          28,
+          1092
+        ],
+        [
+          1412,
+          1236
+        ]
+      ],
+      "resource_id": "com.lisafontsbooth.bmicalculator.bmrandweightlosscalculator:id/ll_BMR_calculate",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.LinearLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 11,
+      "temp_id": 28,
+      "size": "1384*144",
+      "signature": "[class]android.widget.LinearLayout[resource_id]com.lisafontsbooth.bmicalculator.bmrandweightlosscalculator:id/ll_BMR_calculate[text]None[enabled,,]",
+      "view_str": "1ec06f7231ed4f57acb9fc176393af07",
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]com.lisafontsbooth.bmicalculator.bmrandweightlosscalculator:id/ll_BMR_calculate"
+    },
+    {
+      "package": "com.lisafontsbooth.bmicalculator.bmrandweightlosscalculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          28,
+          1131
+        ],
+        [
+          371,
+          1197
+        ]
+      ],
+      "resource_id": "com.lisafontsbooth.bmicalculator.bmrandweightlosscalculator:id/t5",
+      "checked": false,
+      "text": "BMR",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 28,
+      "temp_id": 29,
+      "size": "343*66",
+      "signature": "[class]android.widget.TextView[resource_id]com.lisafontsbooth.bmicalculator.bmrandweightlosscalculator:id/t5[text]BMR[enabled,,]",
+      "view_str": "e96c2136fb20052100c4af1a00640897",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.lisafontsbooth.bmicalculator.bmrandweightlosscalculator:id/t5"
+    },
+    {
+      "package": "com.lisafontsbooth.bmicalculator.bmrandweightlosscalculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          371,
+          1131
+        ],
+        [
+          1112,
+          1197
+        ]
+      ],
+      "resource_id": "com.lisafontsbooth.bmicalculator.bmrandweightlosscalculator:id/txt_BMR_value",
+      "checked": false,
+      "text": "0.0",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 28,
+      "temp_id": 30,
+      "size": "741*66",
+      "signature": "[class]android.widget.TextView[resource_id]com.lisafontsbooth.bmicalculator.bmrandweightlosscalculator:id/txt_BMR_value[text]0.0[enabled,,]",
+      "view_str": "bac3f6b1427c5bb7a272a114f130f008",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.lisafontsbooth.bmicalculator.bmrandweightlosscalculator:id/txt_BMR_value"
+    },
+    {
+      "package": "com.lisafontsbooth.bmicalculator.bmrandweightlosscalculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          1112,
+          1117
+        ],
+        [
+          1412,
+          1210
+        ]
+      ],
+      "resource_id": "com.lisafontsbooth.bmicalculator.bmrandweightlosscalculator:id/img_BMR_male_female_value",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.ImageView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 28,
+      "temp_id": 31,
+      "size": "300*93",
+      "signature": "[class]android.widget.ImageView[resource_id]com.lisafontsbooth.bmicalculator.bmrandweightlosscalculator:id/img_BMR_male_female_value[text]None[enabled,,]",
+      "view_str": "52123d3455785ae3074f47ddd0c2fad4",
+      "content_free_signature": "[class]android.widget.ImageView[resource_id]com.lisafontsbooth.bmicalculator.bmrandweightlosscalculator:id/img_BMR_male_female_value"
+    },
+    {
+      "package": "com.lisafontsbooth.bmicalculator.bmrandweightlosscalculator",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          0
+        ],
+        [
+          1440,
+          84
+        ]
+      ],
+      "resource_id": "android:id/statusBarBackground",
+      "checked": false,
+      "text": null,
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 0,
+      "temp_id": 32,
+      "size": "1440*84",
+      "signature": "[class]android.view.View[resource_id]android:id/statusBarBackground[text]None[enabled,,]",
+      "view_str": "ca5c883e4224b1c98545e86b6a460483",
+      "content_free_signature": "[class]android.view.View[resource_id]android:id/statusBarBackground"
+    }
+  ]
+}

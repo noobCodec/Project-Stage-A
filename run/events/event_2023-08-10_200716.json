@@ -1,0 +1,50 @@
+{
+  "tag": "2023-08-10_200716",
+  "event": {
+    "event_type": "set_text",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.calculator.activity.metabolic.tdee.bmr.bmrtdeecalculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": true,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          720,
+          1775
+        ],
+        [
+          1140,
+          2090
+        ]
+      ],
+      "resource_id": "com.calculator.activity.metabolic.tdee.bmr.bmrtdeecalculator:id/inches",
+      "checked": false,
+      "text": "inches",
+      "class": "android.widget.EditText",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": true,
+      "parent": 10,
+      "temp_id": 15,
+      "size": "420*315",
+      "signature": "[class]android.widget.EditText[resource_id]com.calculator.activity.metabolic.tdee.bmr.bmrtdeecalculator:id/inches[text]inches[enabled,,]",
+      "view_str": "560e197abb14531d7f6e6ba2bc5e5745",
+      "content_free_signature": "[class]android.widget.EditText[resource_id]com.calculator.activity.metabolic.tdee.bmr.bmrtdeecalculator:id/inches"
+    },
+    "text": 3
+  },
+  "start_state": "9880c34c3fe94c2b54d27411abb7280e",
+  "stop_state": "e30570618dda61766c1e8d0a280d3049",
+  "event_str": "SetTextEvent(state=9880c34c3fe94c2b54d27411abb7280e, view=560e197abb14531d7f6e6ba2bc5e5745(HeightActivity/EditText-inches), text=3)"
+}

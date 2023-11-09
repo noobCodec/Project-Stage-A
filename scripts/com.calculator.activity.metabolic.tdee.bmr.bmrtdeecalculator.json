@@ -1,0 +1,83 @@
+{
+  "views": {
+    "set_height_ft": {
+      "resource_id": ".*feet",
+      "class": ".*EditText"
+    },
+    "set_height_in": {
+      "resource_id": ".*inches",
+      "class": ".*EditText"
+    },
+    "set_weight": {
+      "resource_id": ".*weight",
+      "class": ".*EditText"
+    },
+    "set_age": {
+      "resource_id": ".*age",
+      "class": ".*EditText"
+    },
+    "calculate": {
+      "resource_id": ".*next",
+      "class": ".*Button"
+    },
+    "exit": {
+      "resource_id": ".*close",
+      "class": ".*ImageView"
+    }
+  },
+  "states": {
+    "main_activity_state": {
+      "views": [
+        "set_age"
+      ]
+    }
+  },
+  "operations": {
+    "bmi_operation": [
+      {
+        "event_type": "set_text",
+        "target_view": "set_age",
+        "text": 47
+      },
+      {
+        "event_type": "touch",
+        "target_view": "calculate"
+      },
+      {
+        "event_type": "touch",
+        "target_view": "calculate"
+      },
+      {
+        "event_type": "set_text",
+        "target_view": "set_height_ft",
+        "text": 14
+      },
+      {
+        "event_type": "set_text",
+        "target_view": "set_height_in",
+        "text": 3
+      },
+      {
+        "event_type": "touch",
+        "target_view": "calculate"
+      },
+      {
+        "event_type": "set_text",
+        "target_view": "set_weight",
+        "text": 87
+      },
+      {
+        "event_type": "touch",
+        "target_view": "calculate"
+      },
+      {
+        "event_type": "exit"
+      }
+    ]
+  },
+  "main": {
+    "main_activity_state": [
+      "bmi_operation"
+    ]
+  }
+}

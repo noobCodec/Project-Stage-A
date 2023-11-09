@@ -1,0 +1,11 @@
+{
+  "tag": "2023-08-10_202415",
+  "event": {
+    "event_type": "intent",
+    "log_lines": null,
+    "intent": "am start com.roliosolutions.bmr.bmi.calculator/com.roliosolutions.bmr.bmi.calculator.MainActivity"
+  },
+  "start_state": "f3b2d0d892e9cc57b2026ca5b4bcfcbe",
+  "stop_state": "e05eb2d545ffca7925a5a0984bb671de",
+  "event_str": "IntentEvent(intent='am start com.roliosolutions.bmr.bmi.calculator/com.roliosolutions.bmr.bmi.calculator.MainActivity')"
+}

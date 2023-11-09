@@ -1,0 +1,50 @@
+{
+  "tag": "2023-08-10_201917",
+  "event": {
+    "event_type": "set_text",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "com.microhealthllc.bmr_calculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": true,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          1093,
+          710
+        ],
+        [
+          1366,
+          854
+        ]
+      ],
+      "resource_id": "com.microhealthllc.bmr_calculator:id/weight",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.EditText",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": true,
+      "parent": 30,
+      "temp_id": 31,
+      "size": "273*144",
+      "signature": "[class]android.widget.EditText[resource_id]com.microhealthllc.bmr_calculator:id/weight[text]None[enabled,,]",
+      "view_str": "d6fc6f4036c99c15b51568d5709a2def",
+      "content_free_signature": "[class]android.widget.EditText[resource_id]com.microhealthllc.bmr_calculator:id/weight"
+    },
+    "text": 63
+  },
+  "start_state": "445966ade136999393a19e359b87dc6d",
+  "stop_state": "e6056d7ab0101343ce709ecad0fc4340",
+  "event_str": "SetTextEvent(state=445966ade136999393a19e359b87dc6d, view=d6fc6f4036c99c15b51568d5709a2def(SignInActivity/EditText-), text=63)"
+}

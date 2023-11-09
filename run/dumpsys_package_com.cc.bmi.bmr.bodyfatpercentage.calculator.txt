@@ -1,0 +1,96 @@
+Activity Resolver Table:
+  Non-Data Actions:
+      android.intent.action.MAIN:
+        9d35544 com.cc.bmi.bmr.bodyfatpercentage.calculator/.SplashActivity filter 341e3b5
+          Action: "android.intent.action.MAIN"
+          Category: "android.intent.category.LAUNCHER"
+
+Receiver Resolver Table:
+  Non-Data Actions:
+      com.google.android.c2dm.intent.RECEIVE:
+        98e362d com.cc.bmi.bmr.bodyfatpercentage.calculator/com.google.firebase.iid.FirebaseInstanceIdReceiver filter 54aa3ec
+          Action: "com.google.android.c2dm.intent.RECEIVE"
+
+Service Resolver Table:
+  Non-Data Actions:
+      com.google.firebase.MESSAGING_EVENT:
+        9dcf762 com.cc.bmi.bmr.bodyfatpercentage.calculator/.pushNotificationService filter 16ee83e
+          Action: "com.google.firebase.MESSAGING_EVENT"
+        e4160f3 com.cc.bmi.bmr.bodyfatpercentage.calculator/com.google.firebase.messaging.FirebaseMessagingService filter 4eff69f
+          Action: "com.google.firebase.MESSAGING_EVENT"
+          mPriority=-500, mOrder=0, mHasPartialTypes=false
+
+Registered ContentProviders:
+  com.cc.bmi.bmr.bodyfatpercentage.calculator/com.squareup.picasso.PicassoProvider:
+    Provider{c5281b0 com.cc.bmi.bmr.bodyfatpercentage.calculator/com.squareup.picasso.PicassoProvider}
+  com.cc.bmi.bmr.bodyfatpercentage.calculator/com.google.firebase.provider.FirebaseInitProvider:
+    Provider{c50829 com.cc.bmi.bmr.bodyfatpercentage.calculator/com.google.firebase.provider.FirebaseInitProvider}
+
+ContentProvider Authorities:
+  [com.cc.bmi.bmr.bodyfatpercentage.calculator.firebaseinitprovider]:
+    Provider{c50829 com.cc.bmi.bmr.bodyfatpercentage.calculator/com.google.firebase.provider.FirebaseInitProvider}
+      applicationInfo=ApplicationInfo{51727ae com.cc.bmi.bmr.bodyfatpercentage.calculator}
+  [com.cc.bmi.bmr.bodyfatpercentage.calculator.com.squareup.picasso]:
+    Provider{c5281b0 com.cc.bmi.bmr.bodyfatpercentage.calculator/com.squareup.picasso.PicassoProvider}
+      applicationInfo=ApplicationInfo{51727ae com.cc.bmi.bmr.bodyfatpercentage.calculator}
+
+Key Set Manager:
+  [com.cc.bmi.bmr.bodyfatpercentage.calculator]
+      Signing KeySets: 380
+
+Packages:
+  Package [com.cc.bmi.bmr.bodyfatpercentage.calculator] (787194f):
+    userId=10328
+    pkg=Package{5608dc com.cc.bmi.bmr.bodyfatpercentage.calculator}
+    codePath=/data/app/com.cc.bmi.bmr.bodyfatpercentage.calculator-Xfla0wiKg4N-VtA8ZzLGMQ==
+    resourcePath=/data/app/com.cc.bmi.bmr.bodyfatpercentage.calculator-Xfla0wiKg4N-VtA8ZzLGMQ==
+    legacyNativeLibraryDir=/data/app/com.cc.bmi.bmr.bodyfatpercentage.calculator-Xfla0wiKg4N-VtA8ZzLGMQ==/lib
+    primaryCpuAbi=null
+    secondaryCpuAbi=null
+    versionCode=2 minSdk=21 targetSdk=30
+    versionName=1.0
+    splits=[base]
+    apkSigningVersion=3
+    applicationInfo=ApplicationInfo{51727ae com.cc.bmi.bmr.bodyfatpercentage.calculator}
+    flags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP LARGE_HEAP ]
+    privateFlags=[ PRIVATE_FLAG_ACTIVITIES_RESIZE_MODE_RESIZEABLE_VIA_SDK_VERSION PARTIALLY_DIRECT_BOOT_AWARE ]
+    dataDir=/data/user/0/com.cc.bmi.bmr.bodyfatpercentage.calculator
+    supportsScreens=[small, medium, large, xlarge, resizeable, anyDensity]
+    timeStamp=2023-08-18 17:52:29
+    firstInstallTime=2023-08-18 17:52:29
+    lastUpdateTime=2023-08-18 17:52:29
+    signatures=PackageSignatures{17cfde5 version:3, signatures:[d070bf15], past signatures:[]}
+    installPermissionsFixed=true
+    pkgFlags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP LARGE_HEAP ]
+    requested permissions:
+      android.permission.INTERNET
+      android.permission.ACCESS_NETWORK_STATE
+      android.permission.WAKE_LOCK
+      com.google.android.c2dm.permission.RECEIVE
+      com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+    install permissions:
+      com.google.android.c2dm.permission.RECEIVE: granted=true
+      android.permission.INTERNET: granted=true
+      android.permission.ACCESS_NETWORK_STATE: granted=true
+      android.permission.WAKE_LOCK: granted=true
+    User 0: ceDataInode=-4294843565 installed=true hidden=false suspended=false stopped=true notLaunched=true enabled=0 instant=false virtual=false
+      gids=[3003]
+      runtime permissions:
+
+Package Changes:
+  Sequence number=9
+  User 0:
+    seq=3, package=com.google.android.gms
+    seq=5, package=com.package.bmrh
+    seq=8, package=com.cc.bmi.bmr.bodyfatpercentage.calculator
+
+
+Dexopt state:
+  [com.cc.bmi.bmr.bodyfatpercentage.calculator]
+    path: /data/app/com.cc.bmi.bmr.bodyfatpercentage.calculator-Xfla0wiKg4N-VtA8ZzLGMQ==/base.apk
+      x86: [status=speed-profile] [reason=install]
+
+
+Compiler stats:
+  [com.cc.bmi.bmr.bodyfatpercentage.calculator]
+     base.apk - 1524

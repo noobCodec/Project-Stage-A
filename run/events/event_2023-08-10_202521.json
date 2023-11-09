@@ -1,0 +1,50 @@
+{
+  "tag": "2023-08-10_202521",
+  "event": {
+    "event_type": "set_text",
+    "log_lines": null,
+    "x": null,
+    "y": null,
+    "view": {
+      "package": "org.fredriks.bmrcalc",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": true,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          355,
+          1064
+        ],
+        [
+          1085,
+          1222
+        ]
+      ],
+      "resource_id": "org.fredriks.bmrcalc:id/lengthField",
+      "checked": false,
+      "text": "Length in cm.",
+      "class": "android.widget.EditText",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": true,
+      "parent": 9,
+      "temp_id": 14,
+      "size": "730*158",
+      "signature": "[class]android.widget.EditText[resource_id]org.fredriks.bmrcalc:id/lengthField[text]Length in cm.[enabled,,]",
+      "view_str": "e2d7d694977dfcba77489fff3797c4bf",
+      "content_free_signature": "[class]android.widget.EditText[resource_id]org.fredriks.bmrcalc:id/lengthField"
+    },
+    "text": 193
+  },
+  "start_state": "1797f78737d8f0c3f37af0aa1f138977",
+  "stop_state": "8213777620e392a43c75e88556a3432d",
+  "event_str": "SetTextEvent(state=1797f78737d8f0c3f37af0aa1f138977, view=e2d7d694977dfcba77489fff3797c4bf(MainActivity/EditText-Length in ), text=193)"
+}

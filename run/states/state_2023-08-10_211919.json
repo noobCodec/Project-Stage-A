@@ -1,0 +1,4414 @@
+{
+  "tag": "2023-08-10_211919",
+  "state_str": "eb5ff56b095cbcef1658abfe730bc592",
+  "state_str_content_free": "790d089c3e684e418e3040e1411f8fc7",
+  "foreground_activity": "com.playsimple.bmrcalculator/.MainActivity",
+  "activity_stack": [
+    "com.playsimple.bmrcalculator/.MainActivity"
+  ],
+  "background_services": [
+    "com.google.android.gms/.icing.service.AppIndexingService",
+    "com.google.android.gms/.deviceconnection.service.DeviceConnectionWatcherService",
+    "com.google.android.gms/com.google.android.location.places.service.PlaceDetectionAsyncService",
+    "com.android.systemui/.keyguard.KeyguardService",
+    "com.android.systemui/.ImageWallpaper",
+    "com.google.android.gms/com.google.android.location.geocode.GeocodeService",
+    "com.google.android.gms/.auth.setup.devicesignals.LockScreenService",
+    "com.google.android.gms/.gcm.GcmService",
+    "com.google.android.gms/.clearcut.debug.ClearcutDebugDumpService",
+    "com.google.android.gms/.chimera.PersistentApiService",
+    "com.android.phone/com.android.internal.telephony.CellularNetworkService",
+    "com.google.android.gms/.chimera.PersistentBoundBrokerService",
+    "com.google.android.gms/.chimera.GmsBoundBrokerService",
+    "com.google.android.gms/.chimera.GmsApiService",
+    "com.google.android.googlequicksearchbox/com.google.android.apps.gsa.nowoverlayservice.DrawerOverlayService",
+    "io.github.ylimit.droidbotapp/.DroidBotIME",
+    "com.google.android.gms/.beacon.BleService",
+    "com.google.android.gms/com.google.android.location.fused.FusedLocationService",
+    "com.google.android.gms/.gcm.nts.SchedulerService",
+    "io.github.ylimit.droidbotapp/io.github.privacystreams.accessibility.PSAccessibilityService",
+    "com.google.android.gms/com.google.android.location.geofencer.service.GeofenceProviderService",
+    "com.google.android.gms/.thunderbird.EmergencyPersistentService",
+    "com.android.systemui/.SystemUIService",
+    "com.google.android.gms/.nearby.exposurenotification.service.ExposureMatchingService",
+    "android/.hardware.location.GeofenceHardwareService",
+    "com.android.se/.SecureElementService",
+    "com.google.android.ims/.services.RcsService",
+    "com.google.android.gms/.chimera.GmsIntentOperationService",
+    "com.google.android.gms/.chimera.PersistentDirectBootAwareApiService",
+    "com.google.android.gms/.chimera.PersistentIntentOperationService",
+    "com.google.android.ext.services/android.ext.services.notification.Assistant",
+    "com.google.android.gms/.location.persistent.LocationPersistentService",
+    "com.google.android.gms/com.google.android.location.internal.PendingIntentCallbackService",
+    "com.google.android.gms/com.google.android.location.internal.server.GoogleLocationService",
+    "com.google.android.gms/com.google.android.contextmanager.service.ContextManagerService",
+    "com.playsimple.bmrcalculator/org.chromium.content.app.SandboxedProcessService0",
+    "com.google.android.gms/com.google.android.location.network.NetworkLocationService",
+    "com.google.android.gms/com.google.android.location.internal.GoogleLocationManagerService",
+    "com.google.android.apps.messaging/com.google.firebase.iid.FirebaseInstanceIdService",
+    "com.android.phone/com.android.internal.telephony.dataconnection.CellularDataService",
+    "com.android.server.telecom/.components.TelecomService",
+    "com.google.android.googlequicksearchbox/com.google.android.voiceinteraction.GsaVoiceInteractionService",
+    "com.android.smspush/.WapPushManager",
+    "com.android.phone/.vvm.RemoteVvmTaskManager",
+    "com.google.android.gms/.lockbox.service.LockboxBrokerService",
+    "android/com.android.server.content.SyncJobService",
+    "com.google.android.gms/.common.stats.GmsCoreStatsService",
+    "com.google.android.gms/com.google.android.location.internal.server.HardwareArProviderService",
+    "com.google.android.gm/com.google.firebase.iid.FirebaseInstanceIdService",
+    "com.android.defcontainer/.DefaultContainerService",
+    "com.android.phone/.TelephonyDebugService",
+    "com.google.android.videos/.service.pinning.TransferService",
+    "com.google.android.apps.messaging/.shared.datamodel.action.ActionExecutorImpl",
+    "com.google.android.gms/.icing.service.IndexService",
+    "com.google.android.apps.nexuslauncher/com.android.quickstep.TouchInteractionService"
+  ],
+  "width": 1440,
+  "height": 3120,
+  "views": [
+    {
+      "package": "com.playsimple.bmrcalculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        1
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          0
+        ],
+        [
+          1440,
+          2678
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.FrameLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": -1,
+      "temp_id": 0,
+      "size": "1440*2678",
+      "signature": "[class]android.widget.FrameLayout[resource_id]None[text]None[enabled,,]",
+      "view_str": "f3f32f039917ec4f2faa34ac2257107d",
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]None"
+    },
+    {
+      "package": "com.playsimple.bmrcalculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 2,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        2,
+        11
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          0
+        ],
+        [
+          1440,
+          2678
+        ]
+      ],
+      "resource_id": "android:id/decor_content_parent",
+      "checked": false,
+      "text": null,
+      "class": "android.view.ViewGroup",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 0,
+      "temp_id": 1,
+      "size": "1440*2678",
+      "signature": "[class]android.view.ViewGroup[resource_id]android:id/decor_content_parent[text]None[enabled,,]",
+      "view_str": "f6f906d6be21ba52412e0b9e949f324e",
+      "content_free_signature": "[class]android.view.ViewGroup[resource_id]android:id/decor_content_parent"
+    },
+    {
+      "package": "com.playsimple.bmrcalculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        3
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          84
+        ],
+        [
+          1440,
+          252
+        ]
+      ],
+      "resource_id": "android:id/action_bar_container",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.FrameLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 1,
+      "temp_id": 2,
+      "size": "1440*168",
+      "signature": "[class]android.widget.FrameLayout[resource_id]android:id/action_bar_container[text]None[enabled,,]",
+      "view_str": "a320061afd537b47ff65dbc8655f2b21",
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]android:id/action_bar_container"
+    },
+    {
+      "package": "com.playsimple.bmrcalculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 2,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        4,
+        9
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          84
+        ],
+        [
+          1440,
+          252
+        ]
+      ],
+      "resource_id": "android:id/action_bar",
+      "checked": false,
+      "text": null,
+      "class": "android.view.ViewGroup",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 2,
+      "temp_id": 3,
+      "size": "1440*168",
+      "signature": "[class]android.view.ViewGroup[resource_id]android:id/action_bar[text]None[enabled,,]",
+      "view_str": "1c5f0859575bc5af087cb4e2e59e82f5",
+      "content_free_signature": "[class]android.view.ViewGroup[resource_id]android:id/action_bar"
+    },
+    {
+      "package": "com.playsimple.bmrcalculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 2,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": false,
+      "enabled": false,
+      "content_description": null,
+      "children": [
+        5,
+        7
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          28,
+          84
+        ],
+        [
+          619,
+          252
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.LinearLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 3,
+      "temp_id": 4,
+      "size": "591*168",
+      "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[,,]",
+      "view_str": "a3b639b11e6b69110c544ef7f8606dd0",
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None"
+    },
+    {
+      "package": "com.playsimple.bmrcalculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        6
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          28,
+          84
+        ],
+        [
+          57,
+          252
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.FrameLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 4,
+      "temp_id": 5,
+      "size": "29*168",
+      "signature": "[class]android.widget.FrameLayout[resource_id]None[text]None[enabled,,]",
+      "view_str": "6b84ed213e262b21d61497bdfe3f37fe",
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]None"
+    },
+    {
+      "package": "com.playsimple.bmrcalculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          42,
+          168
+        ],
+        [
+          43,
+          169
+        ]
+      ],
+      "resource_id": "android:id/home",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.ImageView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 5,
+      "temp_id": 6,
+      "size": "1*1",
+      "signature": "[class]android.widget.ImageView[resource_id]android:id/home[text]None[enabled,,]",
+      "view_str": "c62e55bf7bb0cb99584b2dda1a9f9c44",
+      "content_free_signature": "[class]android.widget.ImageView[resource_id]android:id/home"
+    },
+    {
+      "package": "com.playsimple.bmrcalculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        8
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          57,
+          130
+        ],
+        [
+          619,
+          206
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.LinearLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 4,
+      "temp_id": 7,
+      "size": "562*76",
+      "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+      "view_str": "13c7646b001407346bde14663cb24859",
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None"
+    },
+    {
+      "package": "com.playsimple.bmrcalculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          57,
+          130
+        ],
+        [
+          591,
+          206
+        ]
+      ],
+      "resource_id": "android:id/action_bar_title",
+      "checked": false,
+      "text": "Basal Metabolic Rate",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 7,
+      "temp_id": 8,
+      "size": "534*76",
+      "signature": "[class]android.widget.TextView[resource_id]android:id/action_bar_title[text]Basal Metabolic Rate[enabled,,]",
+      "view_str": "fca3a2533e031cf918d04ce3ff685623",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]android:id/action_bar_title"
+    },
+    {
+      "package": "com.playsimple.bmrcalculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        10
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          1244,
+          84
+        ],
+        [
+          1440,
+          252
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.LinearLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 3,
+      "temp_id": 9,
+      "size": "196*168",
+      "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+      "view_str": "df590d6b9055887d5367f3e4e68ddbd6",
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None"
+    },
+    {
+      "package": "com.playsimple.bmrcalculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": "Information",
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          1244,
+          84
+        ],
+        [
+          1440,
+          252
+        ]
+      ],
+      "resource_id": "com.playsimple.bmrcalculator:id/rate",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 9,
+      "temp_id": 10,
+      "size": "196*168",
+      "signature": "[class]android.widget.TextView[resource_id]com.playsimple.bmrcalculator:id/rate[text]None[enabled,,]",
+      "view_str": "e90128a22a14350207859f84fdccd2e1",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.playsimple.bmrcalculator:id/rate"
+    },
+    {
+      "package": "com.playsimple.bmrcalculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        12
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          252
+        ],
+        [
+          1440,
+          2678
+        ]
+      ],
+      "resource_id": "android:id/content",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.FrameLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 1,
+      "temp_id": 11,
+      "size": "1440*2426",
+      "signature": "[class]android.widget.FrameLayout[resource_id]android:id/content[text]None[enabled,,]",
+      "view_str": "e45c346ea32920fb98fdbedac1083aca",
+      "content_free_signature": "[class]android.widget.FrameLayout[resource_id]android:id/content"
+    },
+    {
+      "package": "com.playsimple.bmrcalculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 2,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        13,
+        18
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          252
+        ],
+        [
+          1440,
+          2678
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.LinearLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 11,
+      "temp_id": 12,
+      "size": "1440*2426",
+      "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+      "view_str": "9816bde3e5c950f0c8d10b325f67d91b",
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None"
+    },
+    {
+      "package": "com.playsimple.bmrcalculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        14
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          252
+        ],
+        [
+          1440,
+          404
+        ]
+      ],
+      "resource_id": "com.playsimple.bmrcalculator:id/sliding_tabs",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.HorizontalScrollView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 12,
+      "temp_id": 13,
+      "size": "1440*152",
+      "signature": "[class]android.widget.HorizontalScrollView[resource_id]com.playsimple.bmrcalculator:id/sliding_tabs[text]None[enabled,,]",
+      "view_str": "51fbc9b6be8300e8e8fbb80d9e9bfe27",
+      "content_free_signature": "[class]android.widget.HorizontalScrollView[resource_id]com.playsimple.bmrcalculator:id/sliding_tabs"
+    },
+    {
+      "package": "com.playsimple.bmrcalculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 3,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        15,
+        16,
+        17
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          252
+        ],
+        [
+          1440,
+          404
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.LinearLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 13,
+      "temp_id": 14,
+      "size": "1440*152",
+      "signature": "[class]android.widget.LinearLayout[resource_id]None[text]None[enabled,,]",
+      "view_str": "0e217cb6720c7607bcc2706a9464139f",
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]None"
+    },
+    {
+      "package": "com.playsimple.bmrcalculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          252
+        ],
+        [
+          480,
+          404
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "   BMR",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": true,
+      "long_clickable": false,
+      "parent": 14,
+      "temp_id": 15,
+      "size": "480*152",
+      "signature": "[class]android.widget.TextView[resource_id]None[text]   BMR[enabled,,selected]",
+      "view_str": "6c42a93ecb06d4fff3fecb45efd0c516",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]None"
+    },
+    {
+      "package": "com.playsimple.bmrcalculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          480,
+          252
+        ],
+        [
+          960,
+          404
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "   BMI",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 14,
+      "temp_id": 16,
+      "size": "480*152",
+      "signature": "[class]android.widget.TextView[resource_id]None[text]   BMI[enabled,,]",
+      "view_str": "47079eaedc56a47fbb75e30d8b6de439",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]None"
+    },
+    {
+      "package": "com.playsimple.bmrcalculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          960,
+          252
+        ],
+        [
+          1440,
+          404
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": "   PAC",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 14,
+      "temp_id": 17,
+      "size": "480*152",
+      "signature": "[class]android.widget.TextView[resource_id]None[text]   PAC[enabled,,]",
+      "view_str": "8b80180612359b0e139a73dbd49765f2",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]None"
+    },
+    {
+      "package": "com.playsimple.bmrcalculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 2,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        19,
+        68
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          404
+        ],
+        [
+          1440,
+          2678
+        ]
+      ],
+      "resource_id": "com.playsimple.bmrcalculator:id/viewpager",
+      "checked": false,
+      "text": null,
+      "class": "android.support.v4.view.ViewPager",
+      "scrollable": true,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 12,
+      "temp_id": 18,
+      "size": "1440*2274",
+      "signature": "[class]android.support.v4.view.ViewPager[resource_id]com.playsimple.bmrcalculator:id/viewpager[text]None[enabled,,]",
+      "view_str": "3415d96465c8e1715bb2d1b025cdef2d",
+      "content_free_signature": "[class]android.support.v4.view.ViewPager[resource_id]com.playsimple.bmrcalculator:id/viewpager"
+    },
+    {
+      "package": "com.playsimple.bmrcalculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        20
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          404
+        ],
+        [
+          1440,
+          2678
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.ScrollView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 18,
+      "temp_id": 19,
+      "size": "1440*2274",
+      "signature": "[class]android.widget.ScrollView[resource_id]None[text]None[enabled,,]",
+      "view_str": "64dc2e38e4dfa493b93f4db7579f7f5b",
+      "content_free_signature": "[class]android.widget.ScrollView[resource_id]None"
+    },
+    {
+      "package": "com.playsimple.bmrcalculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 3,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        21,
+        41,
+        52
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          0,
+          404
+        ],
+        [
+          1440,
+          2678
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.RelativeLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 19,
+      "temp_id": 20,
+      "size": "1440*2274",
+      "signature": "[class]android.widget.RelativeLayout[resource_id]None[text]None[enabled,,]",
+      "view_str": "c9fb4c75c0723c44082ae7799e5defda",
+      "content_free_signature": "[class]android.widget.RelativeLayout[resource_id]None"
+    },
+    {
+      "package": "com.playsimple.bmrcalculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 2,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        22,
+        32
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          181,
+          404
+        ],
+        [
+          1259,
+          989
+        ]
+      ],
+      "resource_id": "com.playsimple.bmrcalculator:id/rlInput",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.RelativeLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 20,
+      "temp_id": 21,
+      "size": "1078*585",
+      "signature": "[class]android.widget.RelativeLayout[resource_id]com.playsimple.bmrcalculator:id/rlInput[text]None[enabled,,]",
+      "view_str": "398df25fe89dbd708cd6548680b432bb",
+      "content_free_signature": "[class]android.widget.RelativeLayout[resource_id]com.playsimple.bmrcalculator:id/rlInput"
+    },
+    {
+      "package": "com.playsimple.bmrcalculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 3,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        23,
+        26,
+        29
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          181,
+          485
+        ],
+        [
+          726,
+          908
+        ]
+      ],
+      "resource_id": "com.playsimple.bmrcalculator:id/tlInput",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.TableLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 21,
+      "temp_id": 22,
+      "size": "545*423",
+      "signature": "[class]android.widget.TableLayout[resource_id]com.playsimple.bmrcalculator:id/tlInput[text]None[enabled,,]",
+      "view_str": "dcebcff5119f5d1d5a6196cf6c070a35",
+      "content_free_signature": "[class]android.widget.TableLayout[resource_id]com.playsimple.bmrcalculator:id/tlInput"
+    },
+    {
+      "package": "com.playsimple.bmrcalculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 2,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        24,
+        25
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          199,
+          503
+        ],
+        [
+          708,
+          632
+        ]
+      ],
+      "resource_id": "com.playsimple.bmrcalculator:id/trAge",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.TableRow",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 22,
+      "temp_id": 23,
+      "size": "509*129",
+      "signature": "[class]android.widget.TableRow[resource_id]com.playsimple.bmrcalculator:id/trAge[text]None[enabled,,]",
+      "view_str": "39e5bf24386c2ed3752f114b7a0a3367",
+      "content_free_signature": "[class]android.widget.TableRow[resource_id]com.playsimple.bmrcalculator:id/trAge"
+    },
+    {
+      "package": "com.playsimple.bmrcalculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          203,
+          514
+        ],
+        [
+          412,
+          626
+        ]
+      ],
+      "resource_id": "com.playsimple.bmrcalculator:id/textViewAge",
+      "checked": false,
+      "text": "Age",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 23,
+      "temp_id": 24,
+      "size": "209*112",
+      "signature": "[class]android.widget.TextView[resource_id]com.playsimple.bmrcalculator:id/textViewAge[text]Age[enabled,,]",
+      "view_str": "d4ad9d9a976d360741ba25961ab446e3",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.playsimple.bmrcalculator:id/textViewAge"
+    },
+    {
+      "package": "com.playsimple.bmrcalculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": true,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": true,
+      "bounds": [
+        [
+          412,
+          507
+        ],
+        [
+          704,
+          628
+        ]
+      ],
+      "resource_id": "com.playsimple.bmrcalculator:id/editTextAge",
+      "checked": false,
+      "text": "22",
+      "class": "android.widget.EditText",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": true,
+      "parent": 23,
+      "temp_id": 25,
+      "size": "292*121",
+      "signature": "[class]android.widget.EditText[resource_id]com.playsimple.bmrcalculator:id/editTextAge[text]22[enabled,,]",
+      "view_str": "ca07cb0531a877fa0031707adacc2dd4",
+      "content_free_signature": "[class]android.widget.EditText[resource_id]com.playsimple.bmrcalculator:id/editTextAge"
+    },
+    {
+      "package": "com.playsimple.bmrcalculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 2,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        27,
+        28
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          199,
+          632
+        ],
+        [
+          708,
+          761
+        ]
+      ],
+      "resource_id": "com.playsimple.bmrcalculator:id/trHeight",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.TableRow",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 22,
+      "temp_id": 26,
+      "size": "509*129",
+      "signature": "[class]android.widget.TableRow[resource_id]com.playsimple.bmrcalculator:id/trHeight[text]None[enabled,,]",
+      "view_str": "55661486e7904f931604d950bea5fb34",
+      "content_free_signature": "[class]android.widget.TableRow[resource_id]com.playsimple.bmrcalculator:id/trHeight"
+    },
+    {
+      "package": "com.playsimple.bmrcalculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          203,
+          643
+        ],
+        [
+          412,
+          755
+        ]
+      ],
+      "resource_id": "com.playsimple.bmrcalculator:id/textViewHeight",
+      "checked": false,
+      "text": "Height",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 26,
+      "temp_id": 27,
+      "size": "209*112",
+      "signature": "[class]android.widget.TextView[resource_id]com.playsimple.bmrcalculator:id/textViewHeight[text]Height[enabled,,]",
+      "view_str": "0a063263cd58c3858ebdaf825075dc9d",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.playsimple.bmrcalculator:id/textViewHeight"
+    },
+    {
+      "package": "com.playsimple.bmrcalculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": true,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          412,
+          636
+        ],
+        [
+          704,
+          757
+        ]
+      ],
+      "resource_id": "com.playsimple.bmrcalculator:id/editTextHeight",
+      "checked": false,
+      "text": "cm",
+      "class": "android.widget.EditText",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": true,
+      "parent": 26,
+      "temp_id": 28,
+      "size": "292*121",
+      "signature": "[class]android.widget.EditText[resource_id]com.playsimple.bmrcalculator:id/editTextHeight[text]cm[enabled,,]",
+      "view_str": "4d9d3d964bbecfb35e8afd4583292ea5",
+      "content_free_signature": "[class]android.widget.EditText[resource_id]com.playsimple.bmrcalculator:id/editTextHeight"
+    },
+    {
+      "package": "com.playsimple.bmrcalculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 2,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        30,
+        31
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          199,
+          761
+        ],
+        [
+          708,
+          890
+        ]
+      ],
+      "resource_id": "com.playsimple.bmrcalculator:id/trWeight",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.TableRow",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 22,
+      "temp_id": 29,
+      "size": "509*129",
+      "signature": "[class]android.widget.TableRow[resource_id]com.playsimple.bmrcalculator:id/trWeight[text]None[enabled,,]",
+      "view_str": "572e6ea4f564a60f391eda74aa507336",
+      "content_free_signature": "[class]android.widget.TableRow[resource_id]com.playsimple.bmrcalculator:id/trWeight"
+    },
+    {
+      "package": "com.playsimple.bmrcalculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          203,
+          772
+        ],
+        [
+          412,
+          884
+        ]
+      ],
+      "resource_id": "com.playsimple.bmrcalculator:id/textViewWeight",
+      "checked": false,
+      "text": "Weight",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 29,
+      "temp_id": 30,
+      "size": "209*112",
+      "signature": "[class]android.widget.TextView[resource_id]com.playsimple.bmrcalculator:id/textViewWeight[text]Weight[enabled,,]",
+      "view_str": "8f1ed424abdf26cedb56deceba624cdb",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.playsimple.bmrcalculator:id/textViewWeight"
+    },
+    {
+      "package": "com.playsimple.bmrcalculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": true,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          412,
+          765
+        ],
+        [
+          704,
+          886
+        ]
+      ],
+      "resource_id": "com.playsimple.bmrcalculator:id/editTextWeight",
+      "checked": false,
+      "text": "kg",
+      "class": "android.widget.EditText",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": true,
+      "parent": 29,
+      "temp_id": 31,
+      "size": "292*121",
+      "signature": "[class]android.widget.EditText[resource_id]com.playsimple.bmrcalculator:id/editTextWeight[text]kg[enabled,,]",
+      "view_str": "2fa2da10356a7a10a5a9ebf430530db6",
+      "content_free_signature": "[class]android.widget.EditText[resource_id]com.playsimple.bmrcalculator:id/editTextWeight"
+    },
+    {
+      "package": "com.playsimple.bmrcalculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 4,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        33,
+        34,
+        36,
+        37
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          726,
+          404
+        ],
+        [
+          1259,
+          989
+        ]
+      ],
+      "resource_id": "com.playsimple.bmrcalculator:id/llInputType",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.LinearLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 21,
+      "temp_id": 32,
+      "size": "533*585",
+      "signature": "[class]android.widget.LinearLayout[resource_id]com.playsimple.bmrcalculator:id/llInputType[text]None[enabled,,]",
+      "view_str": "d12abcc7a05d4f773068d8dcf6936266",
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]com.playsimple.bmrcalculator:id/llInputType"
+    },
+    {
+      "package": "com.playsimple.bmrcalculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          744,
+          422
+        ],
+        [
+          882,
+          534
+        ]
+      ],
+      "resource_id": "com.playsimple.bmrcalculator:id/textViewUnit",
+      "checked": false,
+      "text": "Unit",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 32,
+      "temp_id": 33,
+      "size": "138*112",
+      "signature": "[class]android.widget.TextView[resource_id]com.playsimple.bmrcalculator:id/textViewUnit[text]Unit[enabled,,]",
+      "view_str": "0c8d84aa82eda790dcbc215f35f4a23e",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.playsimple.bmrcalculator:id/textViewUnit"
+    },
+    {
+      "package": "com.playsimple.bmrcalculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        35
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          744,
+          534
+        ],
+        [
+          1241,
+          663
+        ]
+      ],
+      "resource_id": "com.playsimple.bmrcalculator:id/spinnerUnit",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.Spinner",
+      "scrollable": true,
+      "selected": false,
+      "long_clickable": true,
+      "parent": 32,
+      "temp_id": 34,
+      "size": "497*129",
+      "signature": "[class]android.widget.Spinner[resource_id]com.playsimple.bmrcalculator:id/spinnerUnit[text]None[enabled,,]",
+      "view_str": "7bc2c8a2d8a1d771460237df37b87fe3",
+      "content_free_signature": "[class]android.widget.Spinner[resource_id]com.playsimple.bmrcalculator:id/spinnerUnit"
+    },
+    {
+      "package": "com.playsimple.bmrcalculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          758,
+          559
+        ],
+        [
+          1185,
+          635
+        ]
+      ],
+      "resource_id": "android:id/text1",
+      "checked": false,
+      "text": "Metric (kg/cm)",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 34,
+      "temp_id": 35,
+      "size": "427*76",
+      "signature": "[class]android.widget.TextView[resource_id]android:id/text1[text]Metric (kg/cm)[enabled,,]",
+      "view_str": "fb5b933e26ee9817fbb8b6f775f0428f",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]android:id/text1"
+    },
+    {
+      "package": "com.playsimple.bmrcalculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          744,
+          663
+        ],
+        [
+          961,
+          775
+        ]
+      ],
+      "resource_id": "com.playsimple.bmrcalculator:id/textViewGender",
+      "checked": false,
+      "text": "Gender",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 32,
+      "temp_id": 36,
+      "size": "217*112",
+      "signature": "[class]android.widget.TextView[resource_id]com.playsimple.bmrcalculator:id/textViewGender[text]Gender[enabled,,]",
+      "view_str": "27c3e32cb9a38967e021a02ad5f74086",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.playsimple.bmrcalculator:id/textViewGender"
+    },
+    {
+      "package": "com.playsimple.bmrcalculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 3,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        38,
+        39,
+        40
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          744,
+          775
+        ],
+        [
+          1073,
+          971
+        ]
+      ],
+      "resource_id": "com.playsimple.bmrcalculator:id/llGender",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.LinearLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 32,
+      "temp_id": 37,
+      "size": "329*196",
+      "signature": "[class]android.widget.LinearLayout[resource_id]com.playsimple.bmrcalculator:id/llGender[text]None[enabled,,]",
+      "view_str": "9bad8a84217cb0d3e7b68341f235cebb",
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]com.playsimple.bmrcalculator:id/llGender"
+    },
+    {
+      "package": "com.playsimple.bmrcalculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": "Male",
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          779,
+          810
+        ],
+        [
+          905,
+          936
+        ]
+      ],
+      "resource_id": "com.playsimple.bmrcalculator:id/imageViewGenderMale",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.ImageButton",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 37,
+      "temp_id": 38,
+      "size": "126*126",
+      "signature": "[class]android.widget.ImageButton[resource_id]com.playsimple.bmrcalculator:id/imageViewGenderMale[text]None[enabled,,]",
+      "view_str": "c5d42e0f35f6ecfe4fe6308da97b5bf7",
+      "content_free_signature": "[class]android.widget.ImageButton[resource_id]com.playsimple.bmrcalculator:id/imageViewGenderMale"
+    },
+    {
+      "package": "com.playsimple.bmrcalculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          905,
+          810
+        ],
+        [
+          912,
+          936
+        ]
+      ],
+      "resource_id": "com.playsimple.bmrcalculator:id/lineVertical",
+      "checked": false,
+      "text": null,
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 37,
+      "temp_id": 39,
+      "size": "7*126",
+      "signature": "[class]android.view.View[resource_id]com.playsimple.bmrcalculator:id/lineVertical[text]None[enabled,,]",
+      "view_str": "c27adc2c412a93ea217883f85fee9082",
+      "content_free_signature": "[class]android.view.View[resource_id]com.playsimple.bmrcalculator:id/lineVertical"
+    },
+    {
+      "package": "com.playsimple.bmrcalculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": "Female",
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          912,
+          810
+        ],
+        [
+          1038,
+          936
+        ]
+      ],
+      "resource_id": "com.playsimple.bmrcalculator:id/imageViewGenderFemale",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.ImageButton",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 37,
+      "temp_id": 40,
+      "size": "126*126",
+      "signature": "[class]android.widget.ImageButton[resource_id]com.playsimple.bmrcalculator:id/imageViewGenderFemale[text]None[enabled,,]",
+      "view_str": "9d798ea1acad7a6fa9d08a6b3af04f80",
+      "content_free_signature": "[class]android.widget.ImageButton[resource_id]com.playsimple.bmrcalculator:id/imageViewGenderFemale"
+    },
+    {
+      "package": "com.playsimple.bmrcalculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 3,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        42,
+        45,
+        51
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          35,
+          1024
+        ],
+        [
+          1405,
+          1422
+        ]
+      ],
+      "resource_id": "com.playsimple.bmrcalculator:id/rlWrapBorder",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.RelativeLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 20,
+      "temp_id": 41,
+      "size": "1370*398",
+      "signature": "[class]android.widget.RelativeLayout[resource_id]com.playsimple.bmrcalculator:id/rlWrapBorder[text]None[enabled,,]",
+      "view_str": "3639f60d5f0d3021c97308afe795c1c8",
+      "content_free_signature": "[class]android.widget.RelativeLayout[resource_id]com.playsimple.bmrcalculator:id/rlWrapBorder"
+    },
+    {
+      "package": "com.playsimple.bmrcalculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 2,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        43,
+        44
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          53,
+          1042
+        ],
+        [
+          1387,
+          1118
+        ]
+      ],
+      "resource_id": "com.playsimple.bmrcalculator:id/rlActivity",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.RelativeLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 41,
+      "temp_id": 42,
+      "size": "1334*76",
+      "signature": "[class]android.widget.RelativeLayout[resource_id]com.playsimple.bmrcalculator:id/rlActivity[text]None[enabled,,]",
+      "view_str": "378afb16f8d9a4523a7922c3a21c174d",
+      "content_free_signature": "[class]android.widget.RelativeLayout[resource_id]com.playsimple.bmrcalculator:id/rlActivity"
+    },
+    {
+      "package": "com.playsimple.bmrcalculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          53,
+          1042
+        ],
+        [
+          244,
+          1118
+        ]
+      ],
+      "resource_id": "com.playsimple.bmrcalculator:id/textViewActivity",
+      "checked": false,
+      "text": "Activity",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 42,
+      "temp_id": 43,
+      "size": "191*76",
+      "signature": "[class]android.widget.TextView[resource_id]com.playsimple.bmrcalculator:id/textViewActivity[text]Activity[enabled,,]",
+      "view_str": "9b6a26266a49189698e4f9b6a6466192",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.playsimple.bmrcalculator:id/textViewActivity"
+    },
+    {
+      "package": "com.playsimple.bmrcalculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          1137,
+          1042
+        ],
+        [
+          1387,
+          1118
+        ]
+      ],
+      "resource_id": "com.playsimple.bmrcalculator:id/textViewActivityValue",
+      "checked": false,
+      "text": "Sedentary",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 42,
+      "temp_id": 44,
+      "size": "250*76",
+      "signature": "[class]android.widget.TextView[resource_id]com.playsimple.bmrcalculator:id/textViewActivityValue[text]Sedentary[enabled,,]",
+      "view_str": "15837a773bb3df899ac28ceae4aa7b55",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.playsimple.bmrcalculator:id/textViewActivityValue"
+    },
+    {
+      "package": "com.playsimple.bmrcalculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 5,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        46,
+        47,
+        48,
+        49,
+        50
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          335,
+          1118
+        ],
+        [
+          1105,
+          1328
+        ]
+      ],
+      "resource_id": "com.playsimple.bmrcalculator:id/llActivityLevels",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.LinearLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 41,
+      "temp_id": 45,
+      "size": "770*210",
+      "signature": "[class]android.widget.LinearLayout[resource_id]com.playsimple.bmrcalculator:id/llActivityLevels[text]None[enabled,,]",
+      "view_str": "c694a6e9ff401e64583de51438f7ce1a",
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]com.playsimple.bmrcalculator:id/llActivityLevels"
+    },
+    {
+      "package": "com.playsimple.bmrcalculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": "Male",
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          370,
+          1153
+        ],
+        [
+          510,
+          1293
+        ]
+      ],
+      "resource_id": "com.playsimple.bmrcalculator:id/imageButtonActivityLevel1",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.ImageButton",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 45,
+      "temp_id": 46,
+      "size": "140*140",
+      "signature": "[class]android.widget.ImageButton[resource_id]com.playsimple.bmrcalculator:id/imageButtonActivityLevel1[text]None[enabled,,]",
+      "view_str": "88a269ad52d06bb3220d7ce2810cb2af",
+      "content_free_signature": "[class]android.widget.ImageButton[resource_id]com.playsimple.bmrcalculator:id/imageButtonActivityLevel1"
+    },
+    {
+      "package": "com.playsimple.bmrcalculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": "Female",
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          510,
+          1153
+        ],
+        [
+          650,
+          1293
+        ]
+      ],
+      "resource_id": "com.playsimple.bmrcalculator:id/imageButtonActivityLevel2",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.ImageButton",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 45,
+      "temp_id": 47,
+      "size": "140*140",
+      "signature": "[class]android.widget.ImageButton[resource_id]com.playsimple.bmrcalculator:id/imageButtonActivityLevel2[text]None[enabled,,]",
+      "view_str": "b3d2a627d890f429dca229d7eb5a0fc2",
+      "content_free_signature": "[class]android.widget.ImageButton[resource_id]com.playsimple.bmrcalculator:id/imageButtonActivityLevel2"
+    },
+    {
+      "package": "com.playsimple.bmrcalculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": "Female",
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          650,
+          1153
+        ],
+        [
+          790,
+          1293
+        ]
+      ],
+      "resource_id": "com.playsimple.bmrcalculator:id/imageButtonActivityLevel3",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.ImageButton",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 45,
+      "temp_id": 48,
+      "size": "140*140",
+      "signature": "[class]android.widget.ImageButton[resource_id]com.playsimple.bmrcalculator:id/imageButtonActivityLevel3[text]None[enabled,,]",
+      "view_str": "577d4f6ea8cc9e2b7aed2f54f096b92d",
+      "content_free_signature": "[class]android.widget.ImageButton[resource_id]com.playsimple.bmrcalculator:id/imageButtonActivityLevel3"
+    },
+    {
+      "package": "com.playsimple.bmrcalculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": "Female",
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          790,
+          1153
+        ],
+        [
+          930,
+          1293
+        ]
+      ],
+      "resource_id": "com.playsimple.bmrcalculator:id/imageButtonActivityLevel4",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.ImageButton",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 45,
+      "temp_id": 49,
+      "size": "140*140",
+      "signature": "[class]android.widget.ImageButton[resource_id]com.playsimple.bmrcalculator:id/imageButtonActivityLevel4[text]None[enabled,,]",
+      "view_str": "5ad153e2ff4371794ed0635f8076ae2d",
+      "content_free_signature": "[class]android.widget.ImageButton[resource_id]com.playsimple.bmrcalculator:id/imageButtonActivityLevel4"
+    },
+    {
+      "package": "com.playsimple.bmrcalculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": "Female",
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          930,
+          1153
+        ],
+        [
+          1070,
+          1293
+        ]
+      ],
+      "resource_id": "com.playsimple.bmrcalculator:id/imageButtonActivityLevel5",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.ImageButton",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 45,
+      "temp_id": 50,
+      "size": "140*140",
+      "signature": "[class]android.widget.ImageButton[resource_id]com.playsimple.bmrcalculator:id/imageButtonActivityLevel5[text]None[enabled,,]",
+      "view_str": "63a79f819089dd554614975f3cf23bf0",
+      "content_free_signature": "[class]android.widget.ImageButton[resource_id]com.playsimple.bmrcalculator:id/imageButtonActivityLevel5"
+    },
+    {
+      "package": "com.playsimple.bmrcalculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          476,
+          1328
+        ],
+        [
+          963,
+          1404
+        ]
+      ],
+      "resource_id": "com.playsimple.bmrcalculator:id/textViewActivityLevelInfo",
+      "checked": false,
+      "text": "Little or no exercise",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 41,
+      "temp_id": 51,
+      "size": "487*76",
+      "signature": "[class]android.widget.TextView[resource_id]com.playsimple.bmrcalculator:id/textViewActivityLevelInfo[text]Little or no exercise[enabled,,]",
+      "view_str": "7d48613751cc0b7679ce36296a0ee189",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.playsimple.bmrcalculator:id/textViewActivityLevelInfo"
+    },
+    {
+      "package": "com.playsimple.bmrcalculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 5,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        53,
+        56,
+        59,
+        62,
+        65
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          53,
+          1457
+        ],
+        [
+          1387,
+          1837
+        ]
+      ],
+      "resource_id": "com.playsimple.bmrcalculator:id/llResults",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.LinearLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 20,
+      "temp_id": 52,
+      "size": "1334*380",
+      "signature": "[class]android.widget.LinearLayout[resource_id]com.playsimple.bmrcalculator:id/llResults[text]None[enabled,,]",
+      "view_str": "773a65c63cdaddcb91d884f77daed727",
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]com.playsimple.bmrcalculator:id/llResults"
+    },
+    {
+      "package": "com.playsimple.bmrcalculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 2,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        54,
+        55
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          53,
+          1457
+        ],
+        [
+          1387,
+          1533
+        ]
+      ],
+      "resource_id": "com.playsimple.bmrcalculator:id/rlBMRCategory",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.RelativeLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 52,
+      "temp_id": 53,
+      "size": "1334*76",
+      "signature": "[class]android.widget.RelativeLayout[resource_id]com.playsimple.bmrcalculator:id/rlBMRCategory[text]None[enabled,,]",
+      "view_str": "59472945f4a39d60f5c75e07d600994c",
+      "content_free_signature": "[class]android.widget.RelativeLayout[resource_id]com.playsimple.bmrcalculator:id/rlBMRCategory"
+    },
+    {
+      "package": "com.playsimple.bmrcalculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          53,
+          1457
+        ],
+        [
+          327,
+          1533
+        ]
+      ],
+      "resource_id": "com.playsimple.bmrcalculator:id/textViewCategoryKey",
+      "checked": false,
+      "text": "Categories",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 53,
+      "temp_id": 54,
+      "size": "274*76",
+      "signature": "[class]android.widget.TextView[resource_id]com.playsimple.bmrcalculator:id/textViewCategoryKey[text]Categories[enabled,,]",
+      "view_str": "a448a8927e78f397c2114fbbb79438b3",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.playsimple.bmrcalculator:id/textViewCategoryKey"
+    },
+    {
+      "package": "com.playsimple.bmrcalculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          1068,
+          1457
+        ],
+        [
+          1387,
+          1533
+        ]
+      ],
+      "resource_id": "com.playsimple.bmrcalculator:id/textViewCategoryValue",
+      "checked": false,
+      "text": "Calories/day",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 53,
+      "temp_id": 55,
+      "size": "319*76",
+      "signature": "[class]android.widget.TextView[resource_id]com.playsimple.bmrcalculator:id/textViewCategoryValue[text]Calories/day[enabled,,]",
+      "view_str": "ad7ae31605bd3b70416e008b44275e81",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.playsimple.bmrcalculator:id/textViewCategoryValue"
+    },
+    {
+      "package": "com.playsimple.bmrcalculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 2,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        57,
+        58
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          53,
+          1533
+        ],
+        [
+          1387,
+          1609
+        ]
+      ],
+      "resource_id": "com.playsimple.bmrcalculator:id/rlBMRResults",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.RelativeLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 52,
+      "temp_id": 56,
+      "size": "1334*76",
+      "signature": "[class]android.widget.RelativeLayout[resource_id]com.playsimple.bmrcalculator:id/rlBMRResults[text]None[enabled,,]",
+      "view_str": "5a723816333d9065e81ec3d9c5bccaf6",
+      "content_free_signature": "[class]android.widget.RelativeLayout[resource_id]com.playsimple.bmrcalculator:id/rlBMRResults"
+    },
+    {
+      "package": "com.playsimple.bmrcalculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          53,
+          1533
+        ],
+        [
+          579,
+          1609
+        ]
+      ],
+      "resource_id": "com.playsimple.bmrcalculator:id/textViewBMRKey",
+      "checked": false,
+      "text": "Basal Metabolic Rate",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 56,
+      "temp_id": 57,
+      "size": "526*76",
+      "signature": "[class]android.widget.TextView[resource_id]com.playsimple.bmrcalculator:id/textViewBMRKey[text]Basal Metabolic Rate[enabled,,]",
+      "view_str": "742390f1f0ee03945ab04c93852b7853",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.playsimple.bmrcalculator:id/textViewBMRKey"
+    },
+    {
+      "package": "com.playsimple.bmrcalculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          1372,
+          1533
+        ],
+        [
+          1387,
+          1609
+        ]
+      ],
+      "resource_id": "com.playsimple.bmrcalculator:id/textViewBMRValue",
+      "checked": false,
+      "text": "-",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 56,
+      "temp_id": 58,
+      "size": "15*76",
+      "signature": "[class]android.widget.TextView[resource_id]com.playsimple.bmrcalculator:id/textViewBMRValue[text]-[enabled,,]",
+      "view_str": "276188c2feda95f5889c76620569c3a2",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.playsimple.bmrcalculator:id/textViewBMRValue"
+    },
+    {
+      "package": "com.playsimple.bmrcalculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 2,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        60,
+        61
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          53,
+          1609
+        ],
+        [
+          1387,
+          1685
+        ]
+      ],
+      "resource_id": "com.playsimple.bmrcalculator:id/rlMaintainWeight",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.RelativeLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 52,
+      "temp_id": 59,
+      "size": "1334*76",
+      "signature": "[class]android.widget.RelativeLayout[resource_id]com.playsimple.bmrcalculator:id/rlMaintainWeight[text]None[enabled,,]",
+      "view_str": "2ee49cc5d55b537528345ef65464a3d9",
+      "content_free_signature": "[class]android.widget.RelativeLayout[resource_id]com.playsimple.bmrcalculator:id/rlMaintainWeight"
+    },
+    {
+      "package": "com.playsimple.bmrcalculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          53,
+          1609
+        ],
+        [
+          654,
+          1685
+        ]
+      ],
+      "resource_id": "com.playsimple.bmrcalculator:id/textViewMaintainWeightKey",
+      "checked": false,
+      "text": "Maintain Current Weight",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 59,
+      "temp_id": 60,
+      "size": "601*76",
+      "signature": "[class]android.widget.TextView[resource_id]com.playsimple.bmrcalculator:id/textViewMaintainWeightKey[text]Maintain Current Weight[enabled,,]",
+      "view_str": "62e5b63495c36c5be3f13f18c0251684",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.playsimple.bmrcalculator:id/textViewMaintainWeightKey"
+    },
+    {
+      "package": "com.playsimple.bmrcalculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          1372,
+          1609
+        ],
+        [
+          1387,
+          1685
+        ]
+      ],
+      "resource_id": "com.playsimple.bmrcalculator:id/textViewMaintainWeightValue",
+      "checked": false,
+      "text": "-",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 59,
+      "temp_id": 61,
+      "size": "15*76",
+      "signature": "[class]android.widget.TextView[resource_id]com.playsimple.bmrcalculator:id/textViewMaintainWeightValue[text]-[enabled,,]",
+      "view_str": "8717ebf43af9882093c6871e50dd7422",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.playsimple.bmrcalculator:id/textViewMaintainWeightValue"
+    },
+    {
+      "package": "com.playsimple.bmrcalculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 2,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        63,
+        64
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          53,
+          1685
+        ],
+        [
+          1387,
+          1761
+        ]
+      ],
+      "resource_id": "com.playsimple.bmrcalculator:id/rlLooseWeight",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.RelativeLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 52,
+      "temp_id": 62,
+      "size": "1334*76",
+      "signature": "[class]android.widget.RelativeLayout[resource_id]com.playsimple.bmrcalculator:id/rlLooseWeight[text]None[enabled,,]",
+      "view_str": "996a4bc530a072143dcbe83e7e9228f0",
+      "content_free_signature": "[class]android.widget.RelativeLayout[resource_id]com.playsimple.bmrcalculator:id/rlLooseWeight"
+    },
+    {
+      "package": "com.playsimple.bmrcalculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          53,
+          1685
+        ],
+        [
+          437,
+          1761
+        ]
+      ],
+      "resource_id": "com.playsimple.bmrcalculator:id/textViewLoseWeightKey",
+      "checked": false,
+      "text": "To Lose Weight",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 62,
+      "temp_id": 63,
+      "size": "384*76",
+      "signature": "[class]android.widget.TextView[resource_id]com.playsimple.bmrcalculator:id/textViewLoseWeightKey[text]To Lose Weight[enabled,,]",
+      "view_str": "603a8d98d303023ca47259442bfe8fd0",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.playsimple.bmrcalculator:id/textViewLoseWeightKey"
+    },
+    {
+      "package": "com.playsimple.bmrcalculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          1372,
+          1685
+        ],
+        [
+          1387,
+          1761
+        ]
+      ],
+      "resource_id": "com.playsimple.bmrcalculator:id/textViewLoseWeightValue",
+      "checked": false,
+      "text": "-",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 62,
+      "temp_id": 64,
+      "size": "15*76",
+      "signature": "[class]android.widget.TextView[resource_id]com.playsimple.bmrcalculator:id/textViewLoseWeightValue[text]-[enabled,,]",
+      "view_str": "d86ac3f7f677010c441d29a57fdb98ce",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.playsimple.bmrcalculator:id/textViewLoseWeightValue"
+    },
+    {
+      "package": "com.playsimple.bmrcalculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 2,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        66,
+        67
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          53,
+          1761
+        ],
+        [
+          1387,
+          1837
+        ]
+      ],
+      "resource_id": "com.playsimple.bmrcalculator:id/rlGainWeight",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.RelativeLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 52,
+      "temp_id": 65,
+      "size": "1334*76",
+      "signature": "[class]android.widget.RelativeLayout[resource_id]com.playsimple.bmrcalculator:id/rlGainWeight[text]None[enabled,,]",
+      "view_str": "d3ff01a2bb9879d03d58b35ce66e057c",
+      "content_free_signature": "[class]android.widget.RelativeLayout[resource_id]com.playsimple.bmrcalculator:id/rlGainWeight"
+    },
+    {
+      "package": "com.playsimple.bmrcalculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          53,
+          1761
+        ],
+        [
+          429,
+          1837
+        ]
+      ],
+      "resource_id": "com.playsimple.bmrcalculator:id/textViewGainWeightKey",
+      "checked": false,
+      "text": "To Gain Weight",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 65,
+      "temp_id": 66,
+      "size": "376*76",
+      "signature": "[class]android.widget.TextView[resource_id]com.playsimple.bmrcalculator:id/textViewGainWeightKey[text]To Gain Weight[enabled,,]",
+      "view_str": "7cf7f9955941b9f315a3596d0506fcb9",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.playsimple.bmrcalculator:id/textViewGainWeightKey"
+    },
+    {
+      "package": "com.playsimple.bmrcalculator",
+      "visible": true,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          1372,
+          1761
+        ],
+        [
+          1387,
+          1837
+        ]
+      ],
+      "resource_id": "com.playsimple.bmrcalculator:id/textViewGainWeightValue",
+      "checked": false,
+      "text": "-",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 65,
+      "temp_id": 67,
+      "size": "15*76",
+      "signature": "[class]android.widget.TextView[resource_id]com.playsimple.bmrcalculator:id/textViewGainWeightValue[text]-[enabled,,]",
+      "view_str": "6197a947ca7f51c0e5b175132c6cb8c6",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.playsimple.bmrcalculator:id/textViewGainWeightValue"
+    },
+    {
+      "package": "com.playsimple.bmrcalculator",
+      "visible": false,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        69
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          1440,
+          404
+        ],
+        [
+          1440,
+          2678
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.ScrollView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 18,
+      "temp_id": 68,
+      "size": "0*2274",
+      "signature": "[class]android.widget.ScrollView[resource_id]None[text]None[enabled,,]",
+      "view_str": "64dc2e38e4dfa493b93f4db7579f7f5b",
+      "content_free_signature": "[class]android.widget.ScrollView[resource_id]None"
+    },
+    {
+      "package": "com.playsimple.bmrcalculator",
+      "visible": false,
+      "checkable": false,
+      "child_count": 3,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        70,
+        87,
+        94
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          1440,
+          404
+        ],
+        [
+          1440,
+          2678
+        ]
+      ],
+      "resource_id": null,
+      "checked": false,
+      "text": null,
+      "class": "android.widget.RelativeLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 68,
+      "temp_id": 69,
+      "size": "0*2274",
+      "signature": "[class]android.widget.RelativeLayout[resource_id]None[text]None[enabled,,]",
+      "view_str": "ddaa52f4bbc36272c094c13d51f11666",
+      "content_free_signature": "[class]android.widget.RelativeLayout[resource_id]None"
+    },
+    {
+      "package": "com.playsimple.bmrcalculator",
+      "visible": false,
+      "checkable": false,
+      "child_count": 2,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        71,
+        78
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          1621,
+          404
+        ],
+        [
+          1440,
+          989
+        ]
+      ],
+      "resource_id": "com.playsimple.bmrcalculator:id/rlInput",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.RelativeLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 69,
+      "temp_id": 70,
+      "size": "-181*585",
+      "signature": "[class]android.widget.RelativeLayout[resource_id]com.playsimple.bmrcalculator:id/rlInput[text]None[enabled,,]",
+      "view_str": "398df25fe89dbd708cd6548680b432bb",
+      "content_free_signature": "[class]android.widget.RelativeLayout[resource_id]com.playsimple.bmrcalculator:id/rlInput"
+    },
+    {
+      "package": "com.playsimple.bmrcalculator",
+      "visible": false,
+      "checkable": false,
+      "child_count": 2,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        72,
+        75
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          1621,
+          549
+        ],
+        [
+          1440,
+          843
+        ]
+      ],
+      "resource_id": "com.playsimple.bmrcalculator:id/tlInput",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.TableLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 70,
+      "temp_id": 71,
+      "size": "-181*294",
+      "signature": "[class]android.widget.TableLayout[resource_id]com.playsimple.bmrcalculator:id/tlInput[text]None[enabled,,]",
+      "view_str": "5ed67793fe2ff73fdb805f4511e7df4c",
+      "content_free_signature": "[class]android.widget.TableLayout[resource_id]com.playsimple.bmrcalculator:id/tlInput"
+    },
+    {
+      "package": "com.playsimple.bmrcalculator",
+      "visible": false,
+      "checkable": false,
+      "child_count": 2,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        73,
+        74
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          1639,
+          567
+        ],
+        [
+          1440,
+          696
+        ]
+      ],
+      "resource_id": "com.playsimple.bmrcalculator:id/trHeight",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.TableRow",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 71,
+      "temp_id": 72,
+      "size": "-199*129",
+      "signature": "[class]android.widget.TableRow[resource_id]com.playsimple.bmrcalculator:id/trHeight[text]None[enabled,,]",
+      "view_str": "55661486e7904f931604d950bea5fb34",
+      "content_free_signature": "[class]android.widget.TableRow[resource_id]com.playsimple.bmrcalculator:id/trHeight"
+    },
+    {
+      "package": "com.playsimple.bmrcalculator",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          1643,
+          578
+        ],
+        [
+          1440,
+          690
+        ]
+      ],
+      "resource_id": "com.playsimple.bmrcalculator:id/textViewHeight",
+      "checked": false,
+      "text": "Height",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 72,
+      "temp_id": 73,
+      "size": "-203*112",
+      "signature": "[class]android.widget.TextView[resource_id]com.playsimple.bmrcalculator:id/textViewHeight[text]Height[enabled,,]",
+      "view_str": "0a063263cd58c3858ebdaf825075dc9d",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.playsimple.bmrcalculator:id/textViewHeight"
+    },
+    {
+      "package": "com.playsimple.bmrcalculator",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": true,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          1852,
+          571
+        ],
+        [
+          1440,
+          692
+        ]
+      ],
+      "resource_id": "com.playsimple.bmrcalculator:id/editTextHeight",
+      "checked": false,
+      "text": "cm",
+      "class": "android.widget.EditText",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": true,
+      "parent": 72,
+      "temp_id": 74,
+      "size": "-412*121",
+      "signature": "[class]android.widget.EditText[resource_id]com.playsimple.bmrcalculator:id/editTextHeight[text]cm[enabled,,]",
+      "view_str": "4d9d3d964bbecfb35e8afd4583292ea5",
+      "content_free_signature": "[class]android.widget.EditText[resource_id]com.playsimple.bmrcalculator:id/editTextHeight"
+    },
+    {
+      "package": "com.playsimple.bmrcalculator",
+      "visible": false,
+      "checkable": false,
+      "child_count": 2,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        76,
+        77
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          1639,
+          696
+        ],
+        [
+          1440,
+          825
+        ]
+      ],
+      "resource_id": "com.playsimple.bmrcalculator:id/trWeight",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.TableRow",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 71,
+      "temp_id": 75,
+      "size": "-199*129",
+      "signature": "[class]android.widget.TableRow[resource_id]com.playsimple.bmrcalculator:id/trWeight[text]None[enabled,,]",
+      "view_str": "572e6ea4f564a60f391eda74aa507336",
+      "content_free_signature": "[class]android.widget.TableRow[resource_id]com.playsimple.bmrcalculator:id/trWeight"
+    },
+    {
+      "package": "com.playsimple.bmrcalculator",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          1643,
+          707
+        ],
+        [
+          1440,
+          819
+        ]
+      ],
+      "resource_id": "com.playsimple.bmrcalculator:id/textViewWeight",
+      "checked": false,
+      "text": "Weight",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 75,
+      "temp_id": 76,
+      "size": "-203*112",
+      "signature": "[class]android.widget.TextView[resource_id]com.playsimple.bmrcalculator:id/textViewWeight[text]Weight[enabled,,]",
+      "view_str": "8f1ed424abdf26cedb56deceba624cdb",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.playsimple.bmrcalculator:id/textViewWeight"
+    },
+    {
+      "package": "com.playsimple.bmrcalculator",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": true,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          1852,
+          700
+        ],
+        [
+          1440,
+          821
+        ]
+      ],
+      "resource_id": "com.playsimple.bmrcalculator:id/editTextWeight",
+      "checked": false,
+      "text": "kg",
+      "class": "android.widget.EditText",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": true,
+      "parent": 75,
+      "temp_id": 77,
+      "size": "-412*121",
+      "signature": "[class]android.widget.EditText[resource_id]com.playsimple.bmrcalculator:id/editTextWeight[text]kg[enabled,,]",
+      "view_str": "2fa2da10356a7a10a5a9ebf430530db6",
+      "content_free_signature": "[class]android.widget.EditText[resource_id]com.playsimple.bmrcalculator:id/editTextWeight"
+    },
+    {
+      "package": "com.playsimple.bmrcalculator",
+      "visible": false,
+      "checkable": false,
+      "child_count": 4,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        79,
+        80,
+        82,
+        83
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          2166,
+          404
+        ],
+        [
+          1440,
+          989
+        ]
+      ],
+      "resource_id": "com.playsimple.bmrcalculator:id/llInputType",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.LinearLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 70,
+      "temp_id": 78,
+      "size": "-726*585",
+      "signature": "[class]android.widget.LinearLayout[resource_id]com.playsimple.bmrcalculator:id/llInputType[text]None[enabled,,]",
+      "view_str": "d12abcc7a05d4f773068d8dcf6936266",
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]com.playsimple.bmrcalculator:id/llInputType"
+    },
+    {
+      "package": "com.playsimple.bmrcalculator",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          2184,
+          422
+        ],
+        [
+          1440,
+          534
+        ]
+      ],
+      "resource_id": "com.playsimple.bmrcalculator:id/textViewUnit",
+      "checked": false,
+      "text": "Unit",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 78,
+      "temp_id": 79,
+      "size": "-744*112",
+      "signature": "[class]android.widget.TextView[resource_id]com.playsimple.bmrcalculator:id/textViewUnit[text]Unit[enabled,,]",
+      "view_str": "0c8d84aa82eda790dcbc215f35f4a23e",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.playsimple.bmrcalculator:id/textViewUnit"
+    },
+    {
+      "package": "com.playsimple.bmrcalculator",
+      "visible": false,
+      "checkable": false,
+      "child_count": 1,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        81
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          2184,
+          534
+        ],
+        [
+          1440,
+          663
+        ]
+      ],
+      "resource_id": "com.playsimple.bmrcalculator:id/spinnerUnit",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.Spinner",
+      "scrollable": true,
+      "selected": false,
+      "long_clickable": true,
+      "parent": 78,
+      "temp_id": 80,
+      "size": "-744*129",
+      "signature": "[class]android.widget.Spinner[resource_id]com.playsimple.bmrcalculator:id/spinnerUnit[text]None[enabled,,]",
+      "view_str": "7bc2c8a2d8a1d771460237df37b87fe3",
+      "content_free_signature": "[class]android.widget.Spinner[resource_id]com.playsimple.bmrcalculator:id/spinnerUnit"
+    },
+    {
+      "package": "com.playsimple.bmrcalculator",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          2198,
+          559
+        ],
+        [
+          1440,
+          635
+        ]
+      ],
+      "resource_id": "android:id/text1",
+      "checked": false,
+      "text": "Metric (kg/cm)",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 80,
+      "temp_id": 81,
+      "size": "-758*76",
+      "signature": "[class]android.widget.TextView[resource_id]android:id/text1[text]Metric (kg/cm)[enabled,,]",
+      "view_str": "fb5b933e26ee9817fbb8b6f775f0428f",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]android:id/text1"
+    },
+    {
+      "package": "com.playsimple.bmrcalculator",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          2184,
+          663
+        ],
+        [
+          1440,
+          775
+        ]
+      ],
+      "resource_id": "com.playsimple.bmrcalculator:id/textViewGender",
+      "checked": false,
+      "text": "Gender",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 78,
+      "temp_id": 82,
+      "size": "-744*112",
+      "signature": "[class]android.widget.TextView[resource_id]com.playsimple.bmrcalculator:id/textViewGender[text]Gender[enabled,,]",
+      "view_str": "27c3e32cb9a38967e021a02ad5f74086",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.playsimple.bmrcalculator:id/textViewGender"
+    },
+    {
+      "package": "com.playsimple.bmrcalculator",
+      "visible": false,
+      "checkable": false,
+      "child_count": 3,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        84,
+        85,
+        86
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          2184,
+          775
+        ],
+        [
+          1440,
+          971
+        ]
+      ],
+      "resource_id": "com.playsimple.bmrcalculator:id/llGender",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.LinearLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 78,
+      "temp_id": 83,
+      "size": "-744*196",
+      "signature": "[class]android.widget.LinearLayout[resource_id]com.playsimple.bmrcalculator:id/llGender[text]None[enabled,,]",
+      "view_str": "9bad8a84217cb0d3e7b68341f235cebb",
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]com.playsimple.bmrcalculator:id/llGender"
+    },
+    {
+      "package": "com.playsimple.bmrcalculator",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": "Male",
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          2219,
+          810
+        ],
+        [
+          1440,
+          936
+        ]
+      ],
+      "resource_id": "com.playsimple.bmrcalculator:id/imageViewGenderMale",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.ImageButton",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 83,
+      "temp_id": 84,
+      "size": "-779*126",
+      "signature": "[class]android.widget.ImageButton[resource_id]com.playsimple.bmrcalculator:id/imageViewGenderMale[text]None[enabled,,]",
+      "view_str": "c5d42e0f35f6ecfe4fe6308da97b5bf7",
+      "content_free_signature": "[class]android.widget.ImageButton[resource_id]com.playsimple.bmrcalculator:id/imageViewGenderMale"
+    },
+    {
+      "package": "com.playsimple.bmrcalculator",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          2345,
+          810
+        ],
+        [
+          1440,
+          936
+        ]
+      ],
+      "resource_id": "com.playsimple.bmrcalculator:id/lineVertical",
+      "checked": false,
+      "text": null,
+      "class": "android.view.View",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 83,
+      "temp_id": 85,
+      "size": "-905*126",
+      "signature": "[class]android.view.View[resource_id]com.playsimple.bmrcalculator:id/lineVertical[text]None[enabled,,]",
+      "view_str": "c27adc2c412a93ea217883f85fee9082",
+      "content_free_signature": "[class]android.view.View[resource_id]com.playsimple.bmrcalculator:id/lineVertical"
+    },
+    {
+      "package": "com.playsimple.bmrcalculator",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": true,
+      "is_password": false,
+      "focusable": true,
+      "enabled": true,
+      "content_description": "Female",
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          2352,
+          810
+        ],
+        [
+          1440,
+          936
+        ]
+      ],
+      "resource_id": "com.playsimple.bmrcalculator:id/imageViewGenderFemale",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.ImageButton",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 83,
+      "temp_id": 86,
+      "size": "-912*126",
+      "signature": "[class]android.widget.ImageButton[resource_id]com.playsimple.bmrcalculator:id/imageViewGenderFemale[text]None[enabled,,]",
+      "view_str": "9d798ea1acad7a6fa9d08a6b3af04f80",
+      "content_free_signature": "[class]android.widget.ImageButton[resource_id]com.playsimple.bmrcalculator:id/imageViewGenderFemale"
+    },
+    {
+      "package": "com.playsimple.bmrcalculator",
+      "visible": false,
+      "checkable": false,
+      "child_count": 2,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        88,
+        91
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          1475,
+          1024
+        ],
+        [
+          1440,
+          1212
+        ]
+      ],
+      "resource_id": "com.playsimple.bmrcalculator:id/rlResults",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.RelativeLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 69,
+      "temp_id": 87,
+      "size": "-35*188",
+      "signature": "[class]android.widget.RelativeLayout[resource_id]com.playsimple.bmrcalculator:id/rlResults[text]None[enabled,,]",
+      "view_str": "b075fcd362bea6f7df4fb0a57f8cda75",
+      "content_free_signature": "[class]android.widget.RelativeLayout[resource_id]com.playsimple.bmrcalculator:id/rlResults"
+    },
+    {
+      "package": "com.playsimple.bmrcalculator",
+      "visible": false,
+      "checkable": false,
+      "child_count": 2,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        89,
+        90
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          1493,
+          1042
+        ],
+        [
+          1440,
+          1118
+        ]
+      ],
+      "resource_id": "com.playsimple.bmrcalculator:id/rlBMIResults",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.RelativeLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 87,
+      "temp_id": 88,
+      "size": "-53*76",
+      "signature": "[class]android.widget.RelativeLayout[resource_id]com.playsimple.bmrcalculator:id/rlBMIResults[text]None[enabled,,]",
+      "view_str": "eba434247c50437d4b319c20338c3928",
+      "content_free_signature": "[class]android.widget.RelativeLayout[resource_id]com.playsimple.bmrcalculator:id/rlBMIResults"
+    },
+    {
+      "package": "com.playsimple.bmrcalculator",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          1493,
+          1042
+        ],
+        [
+          1440,
+          1118
+        ]
+      ],
+      "resource_id": "com.playsimple.bmrcalculator:id/textViewBMIKey",
+      "checked": false,
+      "text": "Body Mass Index",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 88,
+      "temp_id": 89,
+      "size": "-53*76",
+      "signature": "[class]android.widget.TextView[resource_id]com.playsimple.bmrcalculator:id/textViewBMIKey[text]Body Mass Index[enabled,,]",
+      "view_str": "14d76b01653af9411f5b9a6b06be0b1a",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.playsimple.bmrcalculator:id/textViewBMIKey"
+    },
+    {
+      "package": "com.playsimple.bmrcalculator",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          2812,
+          1042
+        ],
+        [
+          1440,
+          1118
+        ]
+      ],
+      "resource_id": "com.playsimple.bmrcalculator:id/textViewBMIValue",
+      "checked": false,
+      "text": "-",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 88,
+      "temp_id": 90,
+      "size": "-1372*76",
+      "signature": "[class]android.widget.TextView[resource_id]com.playsimple.bmrcalculator:id/textViewBMIValue[text]-[enabled,,]",
+      "view_str": "46dad5fd7c48fa2f0e60c1095c6dfac2",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.playsimple.bmrcalculator:id/textViewBMIValue"
+    },
+    {
+      "package": "com.playsimple.bmrcalculator",
+      "visible": false,
+      "checkable": false,
+      "child_count": 2,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        92,
+        93
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          1493,
+          1118
+        ],
+        [
+          1440,
+          1194
+        ]
+      ],
+      "resource_id": "com.playsimple.bmrcalculator:id/rlIBWResults",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.RelativeLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 87,
+      "temp_id": 91,
+      "size": "-53*76",
+      "signature": "[class]android.widget.RelativeLayout[resource_id]com.playsimple.bmrcalculator:id/rlIBWResults[text]None[enabled,,]",
+      "view_str": "c30f38ba5f93f9e0c67952593b5adb64",
+      "content_free_signature": "[class]android.widget.RelativeLayout[resource_id]com.playsimple.bmrcalculator:id/rlIBWResults"
+    },
+    {
+      "package": "com.playsimple.bmrcalculator",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          1493,
+          1118
+        ],
+        [
+          1440,
+          1194
+        ]
+      ],
+      "resource_id": "com.playsimple.bmrcalculator:id/textViewIBWKey",
+      "checked": false,
+      "text": "Ideal Body Weight",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 91,
+      "temp_id": 92,
+      "size": "-53*76",
+      "signature": "[class]android.widget.TextView[resource_id]com.playsimple.bmrcalculator:id/textViewIBWKey[text]Ideal Body Weight[enabled,,]",
+      "view_str": "b43688d551924aa7e5916298f3adce00",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.playsimple.bmrcalculator:id/textViewIBWKey"
+    },
+    {
+      "package": "com.playsimple.bmrcalculator",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          2812,
+          1118
+        ],
+        [
+          1440,
+          1194
+        ]
+      ],
+      "resource_id": "com.playsimple.bmrcalculator:id/textViewIBWValue",
+      "checked": false,
+      "text": "-",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 91,
+      "temp_id": 93,
+      "size": "-1372*76",
+      "signature": "[class]android.widget.TextView[resource_id]com.playsimple.bmrcalculator:id/textViewIBWValue[text]-[enabled,,]",
+      "view_str": "29d1e43d68fbbf18ab76aff08dfddc70",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.playsimple.bmrcalculator:id/textViewIBWValue"
+    },
+    {
+      "package": "com.playsimple.bmrcalculator",
+      "visible": false,
+      "checkable": false,
+      "child_count": 6,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        95,
+        98,
+        101,
+        104,
+        107,
+        110
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          1493,
+          1247
+        ],
+        [
+          1440,
+          1703
+        ]
+      ],
+      "resource_id": "com.playsimple.bmrcalculator:id/llBMIData",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.LinearLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 69,
+      "temp_id": 94,
+      "size": "-53*456",
+      "signature": "[class]android.widget.LinearLayout[resource_id]com.playsimple.bmrcalculator:id/llBMIData[text]None[enabled,,]",
+      "view_str": "df48a07c6c8a0e911145dd1d0373d997",
+      "content_free_signature": "[class]android.widget.LinearLayout[resource_id]com.playsimple.bmrcalculator:id/llBMIData"
+    },
+    {
+      "package": "com.playsimple.bmrcalculator",
+      "visible": false,
+      "checkable": false,
+      "child_count": 2,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        96,
+        97
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          1493,
+          1247
+        ],
+        [
+          1440,
+          1323
+        ]
+      ],
+      "resource_id": "com.playsimple.bmrcalculator:id/rlBMICategory",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.RelativeLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 94,
+      "temp_id": 95,
+      "size": "-53*76",
+      "signature": "[class]android.widget.RelativeLayout[resource_id]com.playsimple.bmrcalculator:id/rlBMICategory[text]None[enabled,,]",
+      "view_str": "99935264cb12544e99dbd84bb37a0662",
+      "content_free_signature": "[class]android.widget.RelativeLayout[resource_id]com.playsimple.bmrcalculator:id/rlBMICategory"
+    },
+    {
+      "package": "com.playsimple.bmrcalculator",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          1493,
+          1247
+        ],
+        [
+          1440,
+          1323
+        ]
+      ],
+      "resource_id": "com.playsimple.bmrcalculator:id/textViewCategoryKey",
+      "checked": false,
+      "text": "Categories",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 95,
+      "temp_id": 96,
+      "size": "-53*76",
+      "signature": "[class]android.widget.TextView[resource_id]com.playsimple.bmrcalculator:id/textViewCategoryKey[text]Categories[enabled,,]",
+      "view_str": "764380fae513fc3b8b1409ef1a207268",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.playsimple.bmrcalculator:id/textViewCategoryKey"
+    },
+    {
+      "package": "com.playsimple.bmrcalculator",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          2521,
+          1247
+        ],
+        [
+          1440,
+          1323
+        ]
+      ],
+      "resource_id": "com.playsimple.bmrcalculator:id/textViewCategoryValue",
+      "checked": false,
+      "text": "BMI (kg/m\u00b2)",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 95,
+      "temp_id": 97,
+      "size": "-1081*76",
+      "signature": "[class]android.widget.TextView[resource_id]com.playsimple.bmrcalculator:id/textViewCategoryValue[text]BMI (kg/m\u00b2)[enabled,,]",
+      "view_str": "e1274e6958a37c2c5ab43677355fdf87",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.playsimple.bmrcalculator:id/textViewCategoryValue"
+    },
+    {
+      "package": "com.playsimple.bmrcalculator",
+      "visible": false,
+      "checkable": false,
+      "child_count": 2,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        99,
+        100
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          1493,
+          1323
+        ],
+        [
+          1440,
+          1399
+        ]
+      ],
+      "resource_id": "com.playsimple.bmrcalculator:id/rlUnderWeight",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.RelativeLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 94,
+      "temp_id": 98,
+      "size": "-53*76",
+      "signature": "[class]android.widget.RelativeLayout[resource_id]com.playsimple.bmrcalculator:id/rlUnderWeight[text]None[enabled,,]",
+      "view_str": "3cee3ef1d99c11f53209ffa1f4dcea19",
+      "content_free_signature": "[class]android.widget.RelativeLayout[resource_id]com.playsimple.bmrcalculator:id/rlUnderWeight"
+    },
+    {
+      "package": "com.playsimple.bmrcalculator",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          1493,
+          1323
+        ],
+        [
+          1440,
+          1399
+        ]
+      ],
+      "resource_id": "com.playsimple.bmrcalculator:id/textViewUnderWeightKey",
+      "checked": false,
+      "text": "Under Weight",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 98,
+      "temp_id": 99,
+      "size": "-53*76",
+      "signature": "[class]android.widget.TextView[resource_id]com.playsimple.bmrcalculator:id/textViewUnderWeightKey[text]Under Weight[enabled,,]",
+      "view_str": "3d12315f093fb155402ad0a7167cfaa1",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.playsimple.bmrcalculator:id/textViewUnderWeightKey"
+    },
+    {
+      "package": "com.playsimple.bmrcalculator",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          2676,
+          1323
+        ],
+        [
+          1440,
+          1399
+        ]
+      ],
+      "resource_id": "com.playsimple.bmrcalculator:id/textViewUnderWeightValue",
+      "checked": false,
+      "text": "< 18.5",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 98,
+      "temp_id": 100,
+      "size": "-1236*76",
+      "signature": "[class]android.widget.TextView[resource_id]com.playsimple.bmrcalculator:id/textViewUnderWeightValue[text]< 18.5[enabled,,]",
+      "view_str": "189ba4bc2d27e8673df5492d1cb49f6c",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.playsimple.bmrcalculator:id/textViewUnderWeightValue"
+    },
+    {
+      "package": "com.playsimple.bmrcalculator",
+      "visible": false,
+      "checkable": false,
+      "child_count": 2,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        102,
+        103
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          1493,
+          1399
+        ],
+        [
+          1440,
+          1475
+        ]
+      ],
+      "resource_id": "com.playsimple.bmrcalculator:id/rlNormalWeight",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.RelativeLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 94,
+      "temp_id": 101,
+      "size": "-53*76",
+      "signature": "[class]android.widget.RelativeLayout[resource_id]com.playsimple.bmrcalculator:id/rlNormalWeight[text]None[enabled,,]",
+      "view_str": "0ffc5c9aa9241eb61322b35c2a15f6bb",
+      "content_free_signature": "[class]android.widget.RelativeLayout[resource_id]com.playsimple.bmrcalculator:id/rlNormalWeight"
+    },
+    {
+      "package": "com.playsimple.bmrcalculator",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          1493,
+          1399
+        ],
+        [
+          1440,
+          1475
+        ]
+      ],
+      "resource_id": "com.playsimple.bmrcalculator:id/textViewNormalWeightKey",
+      "checked": false,
+      "text": "Normal Weight",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 101,
+      "temp_id": 102,
+      "size": "-53*76",
+      "signature": "[class]android.widget.TextView[resource_id]com.playsimple.bmrcalculator:id/textViewNormalWeightKey[text]Normal Weight[enabled,,]",
+      "view_str": "b5ee400d5a0735f694b407376547ceb4",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.playsimple.bmrcalculator:id/textViewNormalWeightKey"
+    },
+    {
+      "package": "com.playsimple.bmrcalculator",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          2545,
+          1399
+        ],
+        [
+          1440,
+          1475
+        ]
+      ],
+      "resource_id": "com.playsimple.bmrcalculator:id/textViewNormalWeightValue",
+      "checked": false,
+      "text": "18.5 \u2013 25.0",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 101,
+      "temp_id": 103,
+      "size": "-1105*76",
+      "signature": "[class]android.widget.TextView[resource_id]com.playsimple.bmrcalculator:id/textViewNormalWeightValue[text]18.5 \u2013 25.0[enabled,,]",
+      "view_str": "2f42487e899cbb10f354a8e88e843a99",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.playsimple.bmrcalculator:id/textViewNormalWeightValue"
+    },
+    {
+      "package": "com.playsimple.bmrcalculator",
+      "visible": false,
+      "checkable": false,
+      "child_count": 2,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        105,
+        106
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          1493,
+          1475
+        ],
+        [
+          1440,
+          1551
+        ]
+      ],
+      "resource_id": "com.playsimple.bmrcalculator:id/rlOverWeight",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.RelativeLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 94,
+      "temp_id": 104,
+      "size": "-53*76",
+      "signature": "[class]android.widget.RelativeLayout[resource_id]com.playsimple.bmrcalculator:id/rlOverWeight[text]None[enabled,,]",
+      "view_str": "4a53a7da31bc94aa04e36107e94be34f",
+      "content_free_signature": "[class]android.widget.RelativeLayout[resource_id]com.playsimple.bmrcalculator:id/rlOverWeight"
+    },
+    {
+      "package": "com.playsimple.bmrcalculator",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          1493,
+          1475
+        ],
+        [
+          1440,
+          1551
+        ]
+      ],
+      "resource_id": "com.playsimple.bmrcalculator:id/textViewOverWeightKey",
+      "checked": false,
+      "text": "Over Weight",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 104,
+      "temp_id": 105,
+      "size": "-53*76",
+      "signature": "[class]android.widget.TextView[resource_id]com.playsimple.bmrcalculator:id/textViewOverWeightKey[text]Over Weight[enabled,,]",
+      "view_str": "bf878992a13855605d9333f104ea2b3b",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.playsimple.bmrcalculator:id/textViewOverWeightKey"
+    },
+    {
+      "package": "com.playsimple.bmrcalculator",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          2546,
+          1475
+        ],
+        [
+          1440,
+          1551
+        ]
+      ],
+      "resource_id": "com.playsimple.bmrcalculator:id/textViewOverWeightValue",
+      "checked": false,
+      "text": "25.0 \u2013 30.0",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 104,
+      "temp_id": 106,
+      "size": "-1106*76",
+      "signature": "[class]android.widget.TextView[resource_id]com.playsimple.bmrcalculator:id/textViewOverWeightValue[text]25.0 \u2013 30.0[enabled,,]",
+      "view_str": "de5e996d0d3ae692ee6756a22b2a9051",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.playsimple.bmrcalculator:id/textViewOverWeightValue"
+    },
+    {
+      "package": "com.playsimple.bmrcalculator",
+      "visible": false,
+      "checkable": false,
+      "child_count": 2,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        108,
+        109
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          1493,
+          1551
+        ],
+        [
+          1440,
+          1627
+        ]
+      ],
+      "resource_id": "com.playsimple.bmrcalculator:id/rlObese",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.RelativeLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 94,
+      "temp_id": 107,
+      "size": "-53*76",
+      "signature": "[class]android.widget.RelativeLayout[resource_id]com.playsimple.bmrcalculator:id/rlObese[text]None[enabled,,]",
+      "view_str": "8a6f0410c971565c174b90012f5d92d7",
+      "content_free_signature": "[class]android.widget.RelativeLayout[resource_id]com.playsimple.bmrcalculator:id/rlObese"
+    },
+    {
+      "package": "com.playsimple.bmrcalculator",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          1493,
+          1551
+        ],
+        [
+          1440,
+          1627
+        ]
+      ],
+      "resource_id": "com.playsimple.bmrcalculator:id/textViewObeseWeightKey",
+      "checked": false,
+      "text": "Obese",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 107,
+      "temp_id": 108,
+      "size": "-53*76",
+      "signature": "[class]android.widget.TextView[resource_id]com.playsimple.bmrcalculator:id/textViewObeseWeightKey[text]Obese[enabled,,]",
+      "view_str": "45562a321ec3cf325b2fd4edb157d96b",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.playsimple.bmrcalculator:id/textViewObeseWeightKey"
+    },
+    {
+      "package": "com.playsimple.bmrcalculator",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          2546,
+          1551
+        ],
+        [
+          1440,
+          1627
+        ]
+      ],
+      "resource_id": "com.playsimple.bmrcalculator:id/textViewObeseWeightValue",
+      "checked": false,
+      "text": "30.0 \u2013 40.0",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 107,
+      "temp_id": 109,
+      "size": "-1106*76",
+      "signature": "[class]android.widget.TextView[resource_id]com.playsimple.bmrcalculator:id/textViewObeseWeightValue[text]30.0 \u2013 40.0[enabled,,]",
+      "view_str": "034dea4340c52086e29eee6a01e3358c",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.playsimple.bmrcalculator:id/textViewObeseWeightValue"
+    },
+    {
+      "package": "com.playsimple.bmrcalculator",
+      "visible": false,
+      "checkable": false,
+      "child_count": 2,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [
+        111,
+        112
+      ],
+      "focused": false,
+      "bounds": [
+        [
+          1493,
+          1627
+        ],
+        [
+          1440,
+          1703
+        ]
+      ],
+      "resource_id": "com.playsimple.bmrcalculator:id/rlObese2Weight",
+      "checked": false,
+      "text": null,
+      "class": "android.widget.RelativeLayout",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 94,
+      "temp_id": 110,
+      "size": "-53*76",
+      "signature": "[class]android.widget.RelativeLayout[resource_id]com.playsimple.bmrcalculator:id/rlObese2Weight[text]None[enabled,,]",
+      "view_str": "641921276cca0dad30e7acac956360ec",
+      "content_free_signature": "[class]android.widget.RelativeLayout[resource_id]com.playsimple.bmrcalculator:id/rlObese2Weight"
+    },
+    {
+      "package": "com.playsimple.bmrcalculator",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          1493,
+          1627
+        ],
+        [
+          1440,
+          1703
+        ]
+      ],
+      "resource_id": "com.playsimple.bmrcalculator:id/textViewObese2WeightKey",
+      "checked": false,
+      "text": "Obese II",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 110,
+      "temp_id": 111,
+      "size": "-53*76",
+      "signature": "[class]android.widget.TextView[resource_id]com.playsimple.bmrcalculator:id/textViewObese2WeightKey[text]Obese II[enabled,,]",
+      "view_str": "7514910831a32552f205241c69e924f1",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.playsimple.bmrcalculator:id/textViewObese2WeightKey"
+    },
+    {
+      "package": "com.playsimple.bmrcalculator",
+      "visible": false,
+      "checkable": false,
+      "child_count": 0,
+      "editable": false,
+      "clickable": false,
+      "is_password": false,
+      "focusable": false,
+      "enabled": true,
+      "content_description": null,
+      "children": [],
+      "focused": false,
+      "bounds": [
+        [
+          2676,
+          1627
+        ],
+        [
+          1440,
+          1703
+        ]
+      ],
+      "resource_id": "com.playsimple.bmrcalculator:id/textViewObese2WeightValue",
+      "checked": false,
+      "text": "> 40.0",
+      "class": "android.widget.TextView",
+      "scrollable": false,
+      "selected": false,
+      "long_clickable": false,
+      "parent": 110,
+      "temp_id": 112,
+      "size": "-1236*76",
+      "signature": "[class]android.widget.TextView[resource_id]com.playsimple.bmrcalculator:id/textViewObese2WeightValue[text]> 40.0[enabled,,]",
+      "view_str": "66b26ce0b66f7b5317cb80d5103f0d7f",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.playsimple.bmrcalculator:id/textViewObese2WeightValue"
+    }
+  ]
+}
